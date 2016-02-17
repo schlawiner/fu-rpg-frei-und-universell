@@ -1,5 +1,7 @@
 # Les bases
 
+FU ist mit einigen Vorannahmen geschrieben, .. [ihr solltet wissen, was ein Rollenspiel ist, und wie man es spielt?]
+
 FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment il fonctionne. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît.
 
 ## Vous aurez besoin de...
