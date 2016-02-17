@@ -1,17 +1,17 @@
 # Einleitung
 
-FU ist ein Spiel voller Action, Abenteuer und Spaß! Es ist ein Rollenspiel mit großen Ambitionen und verblüffender Einfachheit.
+FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel der großen Ambitionen und von verblüffender Einfachheit.
 Mit FU kannst du aufregende Geschichten in jedem nur vorstellbaren Setting/(in jeder Kulisse??) erschaffen, und das mit dem geringstmöglichen Aufwand oder Vorbereitung.
 
 FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee "Das Setting könnten wir doch als Rollenspiel spielen!" zum eigentlichen Spiel zu bringen.
 
-Die Figurenerstellung geht schnell und ist so intuitiv, so daß du jede Figur, die du magst, spielen kannst, und das Spielsystem ist leicht zu erlernen und sehr einfach in der Anwendung/Einsatz.
+Die Figurenerstellung geht schnell und ist so intuitiv, so daß du jede Figur, die du magst, spielen kannst, und das Spielsystem ist leicht zu erlernen und sehr einfach zu verwenden.
 
 FU ist universell, oder auch generisch. Egal, wie man es nennen will, das heißt, daß sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern stattdessen bemüht ist, nichts vorwegzunehmen oder vorauszusetzen.
 
-Es ist ein grundlegendes System, um das herum du dein eigenes Setting und deine eigenen Geschichten entwicklen kannst.
+Es ist ein Grundsystem, um das herum du dein eigenes Setting und deine eigenen Geschichten entwicklen kannst.
 
-Dennoch ist FU auf eine bestimmte Art und Weise des Spielens ausgelegt: es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählern, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielern, die keine Lust mehr darauf haben, daß man ihnen sagt, was sie nicht tun dürfen, statt was sie tun können.
+Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählern, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielern, die keine Lust mehr darauf haben, daß man ihnen sagt, was sie nicht tun dürfen, statt was sie tun können.
 
 
 ## Wie man dieses Buch verwendet
@@ -25,4 +25,4 @@ Die Seitenleisten erkennt man leicht an einer Linie, die sie vom Haupttext trenn
 
 ----
 
-[^1] Anmerkung der Übersetzering: Dies gilt für das Originalbuch. (Man müsste prüfen, ob Gitbook solche dreispaltigen Layouts erlaubt) Il va de soi que ce "Gitbook" n'intègre pas la mise en page en trois colonnes.
+[^1] Anmerkung der Übersetzering: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts).
