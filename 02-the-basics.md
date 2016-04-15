@@ -7,13 +7,13 @@ Der Text von FU geht davon aus, dass wenigsten eine/r der Spieler/innen Rollensp
 FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment il fonctionne. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît. -->
 
 ## Was ihr braucht
-Zum Spielen von FU solltet ihr einige Sachen zusammensuchen. Hier die Einkaufsliste;
+Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier die Einkaufsliste.
 
 **Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede/r Spieler/in etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend mit W6 bezeichnet. Wenn davor eine Zahl erscheint (wie 2W6 oder 4W6), bedeutet das, dass ihr so viele Würfel werfen sollt.
 
-**Stifte und Papier**: Die Spieler/innen müssen sich ein paar Notizen machen zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei andere Dinge. Der/die Erzähler/in braucht Papier, um die Übersicht über die verschiedenen Elemente der Geschichte zu behalten.
+**Stifte und Papier**: Die Spieler/innen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Der/die Erzähler/in braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
-**Schmierpapier** : Für Erzähler/innen kann es nützlich sein, einen Papiervorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch gut ein kleines Whiteboard.
+**Schmierpapier**: Für Erzähler/innen kann es nützlich sein, einen kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch gut ein kleines Whiteboard.
 
 <!-- ## What you need
 To play FU you will need to gather a few things.
@@ -37,26 +37,32 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
 ---
 ## Was ihr macht
+Du und deine Freunde werdet zusammen arbeiten, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle anderen haben Gelegenheit, diese Welt zu beeinflussen. Die meisten Spieler/innen werden wahrscheinlich eine Figur erschaffen, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e Spieler/in ist Erzähler/in, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen, und über Regelfragen zu entscheiden, wenn das nötig sein sollte.  
+Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammen arbeiten, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes pasiert. Manchmal arbeitet ihr alle zusammen, werft Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
+<!--
 ## What you do
-You and your friends are going to work together to
+ You and your friends are going to work together to
 tell a dramatic, exciting story. You will establish parts of the setting, and everyone will have a chance to in-  uence that world. most of the players will create a character who is going to be a major protagonist, one of the cool guys that gets things done. each character has their own strengths, weaknesses and goals that will help you roleplay them. one player will be the Nar- rator, who helps everyone along, presents challenges
 for the characters to overcome and adjudicate the rules when needed.
-play is a kind of conversation, where everyone works together to put the characters in cool and/or entertaining situations.  en you will use the dice to help work out what happens next. Sometimes you will all be working together, throwing ideas around, sug- gesting things and talking over the top of each other. It is chaos, but hopefully productive, fun chaos. At other times you are going to take it in turns to describe what your character is doing, and seeing how that turns out.
+play is a kind of conversation, where everyone works together to put the characters in cool and/or entertaining situations.  en you will use the dice to help work out what happens next. Sometimes you will all be working together, throwing ideas around, suggesting things and talking over the top of each other. It is chaos, but hopefully productive, fun chaos. At other times you are going to take it in turns to describe what your character is doing, and seeing how that turns out.
 
 ## Ce que vous ferez
 
-Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire à péripéties. Vous devrez concevoir des éléments de l'univers initial, et tout le monde aura sa chance pour poser son empreinte sur ce monde. La plupart des joueurs créeront un personnage qui fera partie des principaux protagonistes, ceux qui doivent "faire le taf". Chaque personnage a ses forces, ses faiblesses ou ses motivations qui vous aideront à incarner ce rôle. Un joueur sera le Narrateur, qui gère l'ensemble, présente les défis à surmonter pour les personnages, et applique les règles si nécessaire. Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour mettre les personnages dans des situations sympathiques ou amusantes. Ensuite, il faudra utiliser les dés pour savoir ce qui les attend. Parfois vous devrez travailler ensemble, lançant des idées à la ronde, suggérant et surenchérissant à qui mieux-mieux. C'est le chaos, mais avec de la chance, un chaos productif, et amusant. À d'autres moments vous devrez vous exprimer chacun votre tour pour décrire ce que fait votre personnage et constater le résultat de ses actes.
+Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire à péripéties. Vous devrez concevoir des éléments de l'univers initial, et tout le monde aura sa chance pour poser son empreinte sur ce monde. La plupart des joueurs créeront un personnage qui fera partie des principaux protagonistes, ceux qui doivent "faire le taf". Chaque personnage a ses forces, ses faiblesses ou ses motivations qui vous aideront à incarner ce rôle. Un joueur sera le Narrateur, qui gère l'ensemble, présente les défis à surmonter pour les personnages, et applique les règles si nécessaire. Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour mettre les personnages dans des situations sympathiques ou amusantes. Ensuite, il faudra utiliser les dés pour savoir ce qui les attend. Parfois vous devrez travailler ensemble, lançant des idées à la ronde, suggérant et surenchérissant à qui mieux-mieux. C'est le chaos, mais avec de la chance, un chaos productif, et amusant. À d'autres moments vous devrez vous exprimer chacun votre tour pour décrire ce que fait votre personnage et constater le résultat de ses actes.-->
 
 ---
 ## Wie ihr's macht
-## How you do it
+Wenn bei einer Handlung das Ergebnis nicht klar zu entscheiden ist, werft ihr einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis. 
+
+<!--## How you do it
 To resolve any action where the outcome is not
 clear, roll a d6. Your objective is to ‘beat the odds’ by rolling an even number.  e higher the even number, the better the result. If you roll an odd number, the action either failed, or wasn’t quite as good as needed or expected.  e lower the odd number, the worse the result. When the environment, skills, equipment or abilities make an action easier or harder you will get to roll multiple dice and keep the best or worst result.
 
 ## Comment le ferez-vous ?
 
 Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but est de "ne pas faire d'impair"[^1] en réussissant un résultat pair. Plus le chiffre pair sera haut, meilleur sera le résultat. Si vous avez un score impair, l'action échouera, ou ne sera pas aussi positive que voulue ou attendue. Plus le nombre impair sera faible, plus le résultat sera mauvais. En fonction de l'environnement, de vos talents, de votre équipement ou de vos habilités, une action pourra être plus facile ou plus difficile, et vous devrez lancer plusieurs dés pour ne conserver que le meilleur ou le pire résultat.
+-->
 
 ----
 ## Vor dem Losspielen

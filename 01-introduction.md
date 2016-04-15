@@ -25,4 +25,4 @@ Die Seitenleisten erkennt man leicht an einer Linie, die sie vom Haupttext trenn
 
 ----
 
-[^1] Anmerkung der Übersetzering: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts).
+[^1] Anmerkung der Übersetzerin: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts).
