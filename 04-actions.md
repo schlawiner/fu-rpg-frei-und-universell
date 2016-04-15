@@ -1,4 +1,5 @@
-# Action
+# Handeln/Action?/Aktionen
+Action
 
 Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une histoire divertissante impliquant vos personnages. Il n'est pas question de gagner ou de compétition avec quelqu'un, mais l'essentiel est que tout le monde s'amuse pendant la création collective de l'histoire.
 
