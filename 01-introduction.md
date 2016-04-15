@@ -1,23 +1,28 @@
-# Introduction
+# Einleitung
 
-FU est un jeu d'action et d'aventure amusant ! C'est un jeu de rôle avec de grandes ambitions, tout en restant d'une simplicité stupéfiante. FU vous laisse créer des histoires enthousiasmantes dans n'importe quel décor imaginable, avec un minimum de stress, et aussi peu de préparation.
+FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel der großen Ambitionen und von verblüffender Einfachheit.
+Mit FU kannst du aufregende Geschichten in jedem nur vorstellbaren Setting/(in jeder Kulisse??) erschaffen, und das mit dem geringstmöglichen Aufwand oder Vorbereitung.
 
-FU est avant tout un jeu simple. Ce livre vous aidera à passer d'une idée du style : *"Et si on faisait un jeu de rôle dans cet univers..."* à la concrétisation du jeu en quelques minutes. La création des personnages est rapide et intuitive, permettant de jouer n'importe quel type de personnage, et le jeu en lui-même est rapide à apprendre et simple d'utilisation.
+FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee "Das Setting könnten wir doch als Rollenspiel spielen!" zum eigentlichen Spiel zu bringen.
 
-FU est universel. Ou générique. Peu importe l'adjectif que vous employez. Ces règles de base ne sont pas liées à un univers spécifique, et s'attachent à ne surtout rien présupposer de celui-ci. C'est un système basique autour duquel vous pourrez créer vos propres univers de jeu et vos histoires. Cela dit, FU a quelques préférences concernant la manière de jouer.
+Die Figurenerstellung geht schnell und ist so intuitiv, so daß du jede Figur, die du magst, spielen kannst, und das Spielsystem ist leicht zu erlernen und sehr einfach zu verwenden.
 
-FU est normalement adapté à votre convenance, avec un minimum de préparation.
+FU ist universell, oder auch generisch. Egal, wie man es nennen will, das heißt, daß sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern stattdessen bemüht ist, nichts vorwegzunehmen oder vorauszusetzen.
 
-Les Narrateurs qui aiment vivre des aventures "au fil de l'eau" apprécieront certainement FU, tout autant que les joueurs qui en ont assez qu'on leur dise ce qu'ils ne peuvent pas faire, au lieu de leur laisser le champ libre.
+Es ist ein Grundsystem, um das herum du dein eigenes Setting und deine eigenen Geschichten entwicklen kannst.
 
-## Comment utiliser ce livre
+Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählern, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielern, die keine Lust mehr darauf haben, daß man ihnen sagt, was sie nicht tun dürfen, statt was sie tun können.
 
-Ce livre renferme plusieurs types d'informations. Premièrement, les règles à proprement parler - celles qui expliquent comment jouer. Ces règles sont présentées de façon informative sur cette page, avec des titres et des sous-titres clairs. FU est assez limpide et vous n'aurez probablement pas besoin de vous référer au livre des règles après votre première partie. Tout ce que vous avez besoin de savoir est présenté comme ceci.
 
-> Les exemples d'utilisation des règles sont formatés comme ceci. Ils sont répartis au milieu du texte principal et vous aident à voir comment utiliser les règles. Vous n'aurez probablement pas besoin de les relire après votre première partie.
+## Wie man dieses Buch verwendet
+Dieses Buch enthält zwei Arten von Informationen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Informationen auf dieser Seite, mit klaren Überschriften und Untertiteln.
+FU ist relativ unkompliziert, daher brauchst du wahrscheinlich nach deinem ersten Spiel nicht mehr oft in diese Regeln schauen. Trotzdem ist alles was du brauchst klar und eindeutig formatiert.
 
-Il y a également des encarts au fil des pages. Vous y trouverez des explications des règles, des exemples détaillés, des guides sur l'utilisation des règles en jeu, et des règles optionnelles que vous pourrez incorporer dans vos parties. Ces encarts sont facilement repérables puisqu'ils sont séparés du texte principal par une ligne, et présentés sous trois colonnes[^1]. Référez-vous à ces informations si vous avez besoin de comprendre le "comment" ou le "pourquoi" de certaines règles.
+> Regelbeispiele sind so formatiert. Überall im Haupttext wirst du solche Blöcke finden, die dir die Regeln in Aktion zeigen. Nach deinem ersten Spiel musst du sie wahrscheinlich auch nicht noch einmal lesen.
+
+Außerdem gibt auf vielen Seiten ganz unten "Seitenleisten". Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst.
+Die Seitenleisten erkennt man leicht an einer Linie, die sie vom Haupttext trennt, und an ihrer dreispaltigen [^1] Formatierung. Dort kannst du immer dann nachschauen, wenn du Klärung brauchst zum "Wie" und "Wann" einer bestimmten Regel.
 
 ----
 
-[^1] Note du Traducteur: Cette précision concerne le livre originel. Il va de soi que ce "Gitbook" n'intègre pas la mise en page en trois colonnes.
+[^1] Anmerkung der Übersetzering: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts).
