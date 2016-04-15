@@ -1,21 +1,8 @@
-# FU : Libre et Universel
+# FU : Frei und universell
 
-Ceci est une traduction du jeu de rôle [FU: The Freeform Universal RPG](http://freeformuniversal.com) en français.
+Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 
-Le jeu originel est publié sous [Contrat Creative Commons (CC-BY)](http://creativecommons.org/licenses/by/3.0/). Aussi, cette traduction est publiée sous ce même contrat.
-
-## Participer
-
-Pour toute remarque, suggestion, correction, (ou juste pour me faire plaisir)...
-plusieurs canaux :
-
-* si tu es *assez* geek, tu peux adresser une
-  [issue sur le projet Github](https://github.com/brunobord/fu-rpg-libre-et-universel)
-  qui est un clone du livre.
-* si tu es **très** geek, tu peux adresser une `pull-request` qui propose des
-  modifications ou des corrections.
-* si tu n'es *pas vraiment* geek, tu peux envoyer un e-mail à l'adresse suivante:
-  `bruno+fu@jehaisleprintemps.net`.
+Das Originalspiel wurde unter der [Creative Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht dementsprechend ebenso unter der Creative-Commons-Lizenz.
 
 ## Copyright notice
 
@@ -25,8 +12,8 @@ plusieurs canaux :
 
 ----
 
-FU RPG est (c) 2010 Nathan Russel.
+FU RPG ist (c) 2010 Nathan Russel.
 
-Ce document est la v1.1 de la traduction en français (c) 2015 Bruno Bord
+Dieses Dokument ist die Version 0.1 der deutschen Übersetzung (c) 2015 Tina Trillitzsch und ?
 
-Relecture par Ackinty Strappa, Feuille de personnage par Nolendur.
+Weitere Bearbeiter und Korrekturleser: ...

@@ -69,6 +69,11 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.
 
 -----
+### Talk before play!
+Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
+ row around ideas on setting, im- agery, set-pieces, cool clichés and funky
+scenes.  is way everyone gets a clear picture of what the game is going to be about.
+ is discussion will also clue the Narrator in on what players want (or need) out of the game. It establishes whether players want to feel like epic heroes, down-trodden underdogs, or tragic anti-heroes.
 
 ### Discutez avant de jouer !
 
@@ -76,10 +81,14 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
 
+-----
+### The Insta-Genre-Generator
+For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
+
+
 ### Le Générateur Insta-Genre
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
 
 ----
-
-[^1] NdT: l'auteur joue ici sur le jeu de mot "beating the odds" (vaincre les probabilités), le mot "odd" voulant dire "impair" (le contraire de "pair").
+[^1] Anmerkung der Übersetzerin: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
