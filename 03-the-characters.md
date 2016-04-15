@@ -1,8 +1,8 @@
-# Les personnages
+# Die Figuren
 
 Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou comme il interagit avec les autres personnages.
 
-## Concept
+## Konzept
 
 Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou en une phrase.
 
@@ -12,7 +12,7 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 > À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".
 
-## Descripteurs
+## Deskriptoren
 
 Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 
@@ -34,7 +34,7 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 > **Atout** : Lit dans les pensées
 > **Faille** : Le point de vue Alien
 
-### Exemples de Descripteurs
+### Beispiele für Deskriptoren
 
 Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
@@ -49,7 +49,7 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 ----
 
 
-### Les clichés sont vos amis !
+### Klischees sind deine Freunde!
 
 Il est tout à fait acceptable d'user de clichés quand on propose son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
 
@@ -93,7 +93,7 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 ----
 
-## Matériel
+## Ausrüstung
 
 Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures est compté comme du Matériel. Tous les personnages ont leurs vêtements usuels et les objets qui sont en accord avec leur concept. Le Matériel, ce sont les choses importantes, voire déterminantes pour le personnage.
 
@@ -105,7 +105,7 @@ Votre personnage possède deux éléments de Matériel. Choisissez donc deux él
 >
 > Nina a réfléchi, et elle a opté pour des **Documents Officiels** indiquant le statut politique de son Émissaire Alien, ainsi que des **Robes Exotiques** conçues pour impressionner et imposer le respect.
 
-## Exemples de Matériel
+## Beispiel-Ausrüstung
 
 Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
@@ -119,17 +119,18 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhausti
 
 ----
 
-### Choisir son Matériel
+### Wählen der Ausrüstung
 
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
 Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personnage, et ce qu'il fait.
 
-### Le Matériel, c'est du Matériel
+### Ausrüstung ist Ausrüstung
+Le Matériel, c'est du Matériel
 
 Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas du Matériel, alors qu'un Gant de Puissance Blindé l'est.
 
-### Décrire son Matériel
+### Ausrüstung beschreiben
 
 L'utilisation du qualificatif doit nous donner une vraie indication utile concernant l'élément. Une Épée Longue, soit, mais une Épée Brisée, c'est bien mieux !
 
