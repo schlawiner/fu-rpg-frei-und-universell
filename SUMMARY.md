@@ -7,5 +7,5 @@
 * [Action](04-actions.md)
 * [Erzähler/in](05-narrator.md)
 * [Auf der Suche nach dem Tempel von Toth](06-race-to-the-temple-of-tot.md)
-* [Appendices](07-appendix.md)
+* [Anhang](07-appendix.md)
 
