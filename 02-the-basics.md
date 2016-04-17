@@ -1,15 +1,15 @@
 # Die Grundlagen
 
-Der Text von FU geht davon aus, dass wenigsten eine/r der Spieler/innen Rollenspiele kennt und eine vage Vorstellung davon hat, wie sie funktionieren. Wenn du keinen Plan hast, was ein Rollenspiel ist, suche dir zuerst jemanden, der einen hat!
+Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine vage Vorstellung davon hat, wie sie funktionieren. Wenn du keinen Plan hast, was ein Rollenspiel ist, suche dir zuerst jemanden, der einen hat!
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
 
 FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment il fonctionne. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît. -->
 
 ## Was ihr braucht
-Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier die Einkaufsliste.
+Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
-**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede/r Spieler/in etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend mit W6 bezeichnet. Wenn davor eine Zahl erscheint (wie 2W6 oder 4W6), bedeutet das, dass ihr so viele Würfel werfen sollt.
+**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede/r Spieler/in etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen sollt.
 
 **Stifte und Papier**: Die Spieler/innen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Der/die Erzähler/in braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
@@ -37,8 +37,11 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
 ---
 ## Was ihr macht
-Du und deine Freunde werdet zusammen arbeiten, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle anderen haben Gelegenheit, diese Welt zu beeinflussen. Die meisten Spieler/innen werden wahrscheinlich eine Figur erschaffen, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e Spieler/in ist Erzähler/in, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen, und über Regelfragen zu entscheiden, wenn das nötig sein sollte.  
-Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammen arbeiten, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes pasiert. Manchmal arbeitet ihr alle zusammen, werft Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
+Du und deine Freunde werdet zusammenarbeiten, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle anderen haben Gelegenheit, diese Welt zu beeinflussen.
+
+Die meisten Spieler/innen werden wahrscheinlich eine Figur erschaffen, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e Spieler/in ist Erzähler/in, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen, und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
+
+Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenarbeiten, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes pasiert. Manchmal arbeitet ihr alle zusammen, werft Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
 <!--
 ## What you do
@@ -67,7 +70,8 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 ----
 ## Vor dem Losspielen
 Bevor es richtig losgehen kann, musst du mit deinen Freunden entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielern, coole Figuren zu gestalten und zeigt dem/der Erzähler/in, welche Rolle er/sie übernimmt.
-Vielleicht sind diese Dinge ja schon entschieden, sei es durch den/die Erzähler/in oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, dass alle spannend finden und spielen wollen.
+Vielleicht sind diese Dinge ja schon entschieden, sei es durch den/die Erzähler/in oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
+
 <!--## Before play
 Before anything else, you and your friends must
 decide what type of game you want to play, who the characters are going to be, and where your story takes place. Knowing this will help players create cool char- acters, and direct the Narrator in the role they will take.
