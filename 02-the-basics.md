@@ -81,10 +81,10 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
-### Sprecht vor dem Spielen miteinander!
+### Sprecht vor dem Spielen miteinander! [Rohübersetzung, 17.04.2016 - 20:42]
 Unterhaltet euch über die Art des Spieles, die ihr spielen wollt, so dass alle eine gemeinsame Vorstellung davon haben. Einigt euch über den Umgangston, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertriebenes Schauspielern oder blutige Gewalthandlungen Lob oder Schelte bekommt.
 
-
+Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie lefgt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
 
 
 ### Talk before play!
