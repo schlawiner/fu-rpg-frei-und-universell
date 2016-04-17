@@ -37,7 +37,7 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
 ---
 ## Was ihr macht
-Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle haben Gelegenheit, diese Welt zu beeinflussen.
+Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
 Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
 
