@@ -81,8 +81,9 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
+
 ### Talk before play!
-Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
+<!--Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
  row around ideas on setting, im- agery, set-pieces, cool clichés and funky
 scenes.  is way everyone gets a clear picture of what the game is going to be about.
  is discussion will also clue the Narrator in on what players want (or need) out of the game. It establishes whether players want to feel like epic heroes, down-trodden underdogs, or tragic anti-heroes.
@@ -91,7 +92,7 @@ scenes.  is way everyone gets a clear picture of what the game is going to be ab
 
 Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde parte sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
 
-Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
+Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
 -----
 ### The Insta-Genre-Generator
