@@ -90,10 +90,10 @@ Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abg
 ### Redet vor dem Spielen miteinander!
 Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
 Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird. 
-Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, in Unterdrückung lebende Aussenseiter, oder tragische Anthelden fühlen wollen.
+Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, unterdrückte Aussenseiter oder tragische Antihelden fühlen wollen.
+
 <!--### Talk before play!
-### Talk before play!
-<!--Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
+Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
 Throw around ideas on setting, im- agery, set-pieces, cool clichés and funky
 scenes.  This way everyone gets a clear picture of what the game is going to be about.
  is discussion will also clue the Narrator in on what players want (or need) out of the game. It establishes whether players want to feel like epic heroes, down-trodden underdogs, or tragic anti-heroes.
