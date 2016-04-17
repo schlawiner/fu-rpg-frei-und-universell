@@ -1,6 +1,6 @@
 # Die Grundlagen
 
-Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine vage Vorstellung davon hat, wie sie funktionieren. Wenn du keinen Plan hast, was ein Rollenspiel ist, suche dir zuerst jemanden, der einen hat!
+Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine vage Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
 
@@ -84,9 +84,14 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 ### Sprecht vor dem Spielen miteinander! [Rohübersetzung, 17.04.2016 - 20:42]
 Unterhaltet euch über die Art des Spieles, die ihr spielen wollt, so dass alle eine gemeinsame Vorstellung davon haben. Einigt euch über den Umgangston, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertriebenes Schauspielern oder blutige Gewalthandlungen Lob oder Schelte bekommt.
 
-Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie lefgt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
+Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie leggt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
 
-
+[Tinas Version vom 17.04.16]
+### Redet vor dem Spielen miteinander!
+Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird. 
+Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, in Unterdrückung lebende Aussenseiter, oder tragische Anthelden fühlen wollen.
+<!--### Talk before play!
 ### Talk before play!
 <!--Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
 Throw around ideas on setting, im- agery, set-pieces, cool clichés and funky
@@ -107,6 +112,6 @@ For quick pick-up games, get every- one to write two genres or settings on bits 
 ### Le Générateur Insta-Genre
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
-
+-->
 ----
 [^1] Anmerkung der Übersetzerin: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
