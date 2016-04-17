@@ -106,7 +106,7 @@ Cette discussion peut amener des éléments au Narrateur sur ce que veulent les 
 
 -----
 ### Der Sofort-Genre-Generator
-Für ein schnelles Spiel zum sofortigen Loslegen soll jeder zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über den Ton, Themen, mögliche Geschichten und Figuren und spielt dann los!
+Für schnelle Spiele zum sofortigen Loslegen soll jeder zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über den Ton, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 <!--
 ### The Insta-Genre-Generator
