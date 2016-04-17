@@ -1,4 +1,4 @@
-# Die Grundlagen
+### Die Grundlagen
 
 Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
 
@@ -105,6 +105,10 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
 -----
+### Der Sofort-Genre-Generator
+Für ein schnelles Spiel zum sofortigen Loslegen soll jeder zwei Genres oder Spielweltideen auf kleine Zettel schreiben. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden",  "Kampfsport-Gymnasium", und anderes. Diskutiert über den Ton, Themen, mögliche Geschichten und Figuren und spielt dann los!
+
+<!--
 ### The Insta-Genre-Generator
 For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
 
