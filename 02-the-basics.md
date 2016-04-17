@@ -13,7 +13,7 @@ Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier die Eink
 
 **Stifte und Papier**: Die Spieler/innen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Der/die Erzähler/in braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
-**Schmierpapier**: Für Erzähler/innen kann es nützlich sein, einen kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch gut ein kleines Whiteboard.
+**Schmierpapier**: Für Erzähler/innen kann es nützlich sein, einen kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch ein kleines Whiteboard.
 
 <!-- ## What you need
 To play FU you will need to gather a few things.
@@ -66,13 +66,15 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 
 ----
 ## Vor dem Losspielen
-## Before play
+Bevor es richtig losgehen kann, musst du mit deinen Freunden entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielern, coole Figuren zu gestalten und zeigt dem/der Erzähler/in, welche Rolle er/sie übernimmt.
+Vielleicht sind diese Dinge ja schon entschieden, sei es durch den/die Erzähler/in oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, dass alle spannend finden und spielen wollen.
+<!--## Before play
 Before anything else, you and your friends must
 decide what type of game you want to play, who the characters are going to be, and where your story takes place. Knowing this will help players create cool char- acters, and direct the Narrator in the role they will take.
  ese decisions might already be made, either by the Narrator, or a pre-made setting module. If not, work together to come up with something everyone is excited to play.
 ## Avant de jouer
 
-Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.
+Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
 ### Talk before play!
