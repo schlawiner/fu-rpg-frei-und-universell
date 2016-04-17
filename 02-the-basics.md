@@ -1,6 +1,6 @@
 # Die Grundlagen
 
-Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine vage Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
+Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
 
@@ -37,11 +37,11 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
 ---
 ## Was ihr macht
-Du und deine Freunde werdet zusammenarbeiten, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle anderen haben Gelegenheit, diese Welt zu beeinflussen.
+Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du wirst Teile der Spielwelt festlegen, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-Die meisten Spieler/innen werden wahrscheinlich eine Figur erschaffen, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e Spieler/in ist Erzähler/in, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen, und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
+Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
 
-Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenarbeiten, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes pasiert. Manchmal arbeitet ihr alle zusammen, werft Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
+Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
 <!--
 ## What you do
