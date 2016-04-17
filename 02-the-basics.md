@@ -39,7 +39,7 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 ## Was ihr macht
 Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptperson darstellt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
+Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
 
 Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
@@ -84,13 +84,13 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 ### Sprecht vor dem Spielen miteinander! [Rohübersetzung, 17.04.2016 - 20:42]
 Unterhaltet euch über die Art des Spieles, die ihr spielen wollt, so dass alle eine gemeinsame Vorstellung davon haben. Einigt euch über den Umgangston, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertriebenes Schauspielern oder blutige Gewalthandlungen Lob oder Schelte bekommt.
 
-Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie leggt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
+Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie legt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
 
 [Tinas Version vom 17.04.16]
 ### Redet vor dem Spielen miteinander!
 Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
 Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird. 
-Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, unterdrückte Aussenseiter oder tragische Antihelden fühlen wollen.
+Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
 <!--### Talk before play!
 Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
