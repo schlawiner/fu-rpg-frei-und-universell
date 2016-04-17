@@ -77,7 +77,11 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
-### Talk before play!
+### Redet vor dem Spielen miteinander!
+Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird. 
+Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, in Unterdrückung lebende Aussenseiter, oder tragische Anthelden fühlen wollen.
+<!--### Talk before play!
 Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
  row around ideas on setting, im- agery, set-pieces, cool clichés and funky
 scenes.  is way everyone gets a clear picture of what the game is going to be about.
@@ -87,9 +91,12 @@ scenes.  is way everyone gets a clear picture of what the game is going to be ab
 
 Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde parte sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
 
-Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.
+Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
 -----
+### Der Sofort-Genre-Generator
+Für schnelle Spiele zum sofortigen Losspielen soll jeder zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei und es ergeben sich "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kung-Fu-Gymnasium" und anderes. Diskutiert den Ton, das Thema, mögliche Geschichten und Figuren, und dann spielt los!
+<!--
 ### The Insta-Genre-Generator
 For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
 
@@ -97,6 +104,6 @@ For quick pick-up games, get every- one to write two genres or settings on bits 
 ### Le Générateur Insta-Genre
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
-
+-->
 ----
 [^1] Anmerkung der Übersetzerin: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
