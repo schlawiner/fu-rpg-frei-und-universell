@@ -1,18 +1,45 @@
 # Die Figuren
+(Characters)  
 
-Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou comme il interagit avec les autres personnages.
+In FU a character is your alter-ego. During a story you describe what the character does, how they re- spond to situations, and react to others.
+
+<!-- Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou comme il interagit avec les autres personnages. -->
+
+
 
 ## Konzept
+(Concept)
 
-Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou en une phrase.
+When you know the kind of setting or premise of the adventures you will be playing you can begin thinking about your character. This is is the kernel of who or what the character is, and should be summed up in just a few words or a phrase.  
+The concept might define the character’s background or occupation, such as ‘paranormal detective’ or ‘child prodigy’. Or it might give insight into their personality, such as ‘noble savage’ or ‘nutty professor’.  
+Of course, the character’s concept should  fit into the setting, background or types of adventures that you will be playing. A ‘streetwise cop’ may be out of place in medieval england, though a ‘worldly sheriff’ might be just right. Use the setting to inspire your character.  
+> Throughout this chapter we will follow Dave and Nina as they create their own characters. With Tim, the Narrator, they have decided to play a game based on the pulp serials of the 1930’s, and that it will be fairly whimsical and action-packed. Dave thinks of a couple of his favourite movies and decides that the concept for his character will be ‘Daredevil Explorer’. Nina wants to play some- thing a little unusual, and a er discussing her ideas with Tim and Dave decides her character will be an ‘Alien Emissary’.
+
+<!-- Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou en une phrase.
 
 Le concept doit définir le type de personnage, ou son activité principale, comme "enquêteur du paranormal" ou "enfant prodige". Ou ce concept peut donner des indications sur sa personnalité, comme "noble sauvage" ou "professeur foldingue".
 
 Bien évidemment, le concept du personnage doit correspondre à l'univers choisi et au type d'aventures. Un "flic des rues" n'aura pas sa place dans l'Angleterre médiévale, alors qu'un "Shérif du comté" sonnera plus juste. Inspirez-vous de l'environnement choisi pour votre personnage.
 
-> À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".
+> À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".-->
 
 ## Deskriptoren
+(Descriptors)
+
+Descriptors are adjectives or very short phrases that identify a character’s skills and flaws, the things that make their life easier and harder, and ultimately make them who they are. They indicate the kinds of things that a character is good at, their physical and mental traits, and any abilities or drawbacks they might have. They are both guides for your roleplaying and modifiers to ‘beat the odds’ rolls.
+
+Characters have four Descriptors; Body, Mind, Edge and Flaw. Choose an adjective or phrase to de- scribe the most distinctive features of your character.
+
+>  Thinking about his Daredevil Explorer and the kinds of things he might have gotten up to during his life, Dave decides on the following Descriptors:
+
+>
+>
+> **Body** : Nimble
+> **Mind**: Level Headed
+> **Edge**: Use bull whip
+> **Flaw** : Afraid of heights
+
+
 
 Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 

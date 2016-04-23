@@ -1,19 +1,44 @@
-# Le Narrateur
+# Narrator
 
-Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.
+Following is some simple, straightforward advice for Narrators. It is all fairly generic because all the specific stuff is going to relate to the genre, tone and style of game that you and your players choose to play.
 
-## Parler, c'est bien
+<!--Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.-->
 
+## Talking is good
+
+Start your game with a conversation. Talk about
+what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the genre and tone of your shared story. Talk about this stuff too, so that everyone is clear of the speci cs (there is a world of di erence between Gothic horror and splatter films, for example).  
+Talk during the game too. Encourage players to share ideas and give input into scenes, objectives and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
+
+<!--(Parler, c'est bien)
 Démarrez votre jeu par le dialogue. Parlez de ce que les joueurs aimeraient retirer du jeu, ce que vous voulez, et où ces idées se rejoignent. Ces points communs ont de fortes chances d'être les moments où tout le monde s'amusera. *A minima*, vous devrez oeuvrer ensemble pour déterminer le genre et le ton de votre histoire. Dialoguez sur tout, pour que tout le monde soit en accord avec les spécificités (il y a un monde entre les styles "horreur gothique" et "gore", par exemple).
 
 Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées et fournir leurs idées dans les scènes, pour établir leurs buts et découvrir les défis auxquels leurs personnages feront face. Si vous avez besoin de clarifier vos idées, le thème ou lever des problèmes, faites-le.
+-->
 
-## Écouter, c'est bien
+## Listening is good
 
-S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".
+If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool.
 
-## En jeu
+<!--(Écouter, c'est bien)
+S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
 
+## When playing
+
+When running games don’t plan too much ahead
+of time. The dice rolls are going to direct a lot of the action, and you and the players will fill in the gaps by applying Conditions and Details. Here are some tips to keep things moving and help you enjoy the game as much as the players do.
+
+**Keep things simple:** Do not complicate your job
+by introducing lots of sub-plots or convoluted twists. Things will get all messed about by themselves and the story will run off on tangents that you never dreamed of.  
+
+**You are not the enemy:** this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to kill everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adver- saries, and are expected to do so vigorously but fairly. other times you will get to be an ally, companion, or peer, and once again you should be true to the spirit of the game.
+
+**Say "yes":** if players make suggestions or ask ques- tions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. encourage this and condently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players in- troduce elements into the story when the time is right.
+
+**Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story.
+
+<!--
+(En jeu)
 Pendant le jeu, inutile de planifier trop de choses à l'avance. Les lancers de dés guideront l'action et vous et vos joueurs aurez à remplir les blancs en y introduisant des Conditions ou des Détails. Voici quelques astuces pour garder l'élan et continuer à vous amuser autant que les joueurs.
 
 **Restez simple** : Ne vous compliquez pas le travail en ajoutant des sous-intrigues et trop de retournements de situation alambiqués. Les choses se compliquent aisément toutes seules et l'histoire atteindra des sommets au-delà de votre imagination par elle-même.
@@ -22,69 +47,118 @@ Pendant le jeu, inutile de planifier trop de choses à l'avance. Les lancers de 
 
 **Dites "oui"** : Si les joueurs font des suggestions ou posent des questions, c'est probablement qu'ils sont intéressés par ce qui se passe. Ils ont peut-être une bonne idée à intégrer à l'histoire. Encouragez-les et dites "oui" en toute confiance à leurs demandes. Cela ne signifie pas qu'il faille laisser les joueurs faire ce qu'ils veulent - mais que vous devez laisser les joueurs introduire des éléments à l'histoire quand c'est le bon moment.
 
-**Les lancers doivent avoir un sens** : Chaque fois que vous réclamez un lancer de dés il doit se passer quelque chose d'intéressant, QUEL QUE SOIT LE RÉSULTAT. Ne faites pas faire de jets de dés si le résultat n'a pas d'importance pour l'histoire, ou si l'échec de l'action met un coup d'arrêt au déroulement de l'histoire.
+**Les lancers doivent avoir un sens** : Chaque fois que vous réclamez un lancer de dés il doit se passer quelque chose d'intéressant, QUEL QUE SOIT LE RÉSULTAT. Ne faites pas faire de jets de dés si le résultat n'a pas d'importance pour l'histoire, ou si l'échec de l'action met un coup d'arrêt au déroulement de l'histoire.-->
 
 ----
 
-## 3 Questions pour cadrer votre jeu
+## 3 Questions to guide your game
 
-Quand vous commencez une partie, parlez avec les joueurs de leurs attentes. Essayez de répondre aux trois questions suivantes :
+When you begin a game talk with the players about their expectations. Try to answer the following three questions:
 
-### Qu'est-ce que les personnages vont faire ?
+<!-- (3 Questions pour cadrer votre jeu)
+Quand vous commencez une partie, parlez avec les joueurs de leurs attentes. Essayez de répondre aux trois questions suivantes : -->
 
-Est-ce que les joueurs voudront défoncer les portes, tuer les monstres et rapporter des montagnes de trésor chez eux ? Veulent-ils être des héros de légende ? Ou des outsiders, sur qui personne ne mise ?
+### What will characters do?
 
-### Comment les joueurs veulent-ils se sentir ?
+Do players want to kick in doors, kill monsters and take home piles of treasure? Do they want to feel like epic heroes? Or the underdogs, struggling against ridiculous odds?
 
-Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ?
+<!-- (Qu'est-ce que les personnages vont faire ?)
+Est-ce que les joueurs voudront défoncer les portes, tuer les monstres et rapporter des montagnes de trésor chez eux ? Veulent-ils être des héros de légende ? Ou des outsiders, sur qui personne ne mise ? -->
 
-### Quel est le rôle du Narrateur ?
+### How do players want to feel?
 
+Do the players want to feel like they are changing the world? Like their char- acter is gaining in wealth, prestige or power? Or do they want to feel like their backs are against the wall and their lives constantly at risk?
+
+<!-- (Comment les joueurs veulent-ils se sentir ?)
+Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ? -->
+
+### What is the Narrator's role?
+
+What kinds of challenges, encounters and situations are you going to present the characters in order to achieve the above? Do you need to ensure every challenge is accompanied by a generous reward? Are you going to make every fight hard but fair? Will you be relentless in the pursuit of the antagonist’s goals?  
+
+Answer these questions and everyone at the table will be clear on their role in the coming adventure.
+
+<!-- (Quel est le rôle du Narrateur ?)
 Quels défis, quelles rencontres ou situations vous allez présenter aux personnages pour qu'ils fassent ce qu'ils attendent ? Avez-vous besoin de faire miroiter une belle récompense pour chaque défi ? Ferez-vous en sorte que chaque combat soit dur mais équitable ? Serez-vous impitoyable concernant les desseins des antagonistes ?
 
-Répondez à ces questions et tout le monde à la table y verra clair quant à son rôle dans l'aventure qui suivra.
+Répondez à ces questions et tout le monde à la table y verra clair quant à son rôle dans l'aventure qui suivra. -->
 
 ----
 
-## Récupération
+## Recovery
 
-Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes.
+During games characters can suffer injuries, be-
+come physically or mentally stressed, and be afflicted by a range of other Conditions. Conditions are always recovered at a time and/or rate appropriate to the story.  This is usually with the passing of time, but does not have to be. A good rule of thumb is that one or more Conditions can be removed/recovered between scenes, though this will depend on the timing of such encounters.
 
-## Récompenses
+<!-- (Récupération)
+Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes. -->
 
+## Rewards
+
+Reward players for good roleplaying and achieving
+goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point.
+
+**How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster.
+
+<!-- (Récompenses)
 Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de leur but en leur attribuant des points de FU. Vous pouvez aussi les récompenser pour d'autres raisons, comme le groupe le décidera (voir le chapitre sur les points de FU). Ces points peuvent être utilisés pour améliorer les chances de succès d'un personnage, ce qui est une récompense immédiate, tangible. Vous pouvez ne pas être le seul autour de la table à attribuer des récompenses. Tous les joueurs peuvent s'exprimer s'ils pensent que l'un d'entre eux a fait quelque chose d'amusant ou de formidable et lui donner un point de FU.
 
 
-**Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite.
+**Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite. -->
 
-## Personnages et obstacles
+## Characters & Obstacles
 
-Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueurs ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants.
+All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
+
+<!-- (Personnages et obstacles)
+Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueurs ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants. -->
 
 ----
 
-### Le bol
+### The Bowl
 
-Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?"
+One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?”
 
-### Progression
+<!-- (Le bol)
+Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
 
+### Advancement
+
+FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
+
+If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
+
+Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
+
+<!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
 
 Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sessions. Cette altération doit être en lien avec les expériences et l'histoire vécues. Le Matériel peut être modifié entre les sessions à la discrétion du Narrateur.
 
-Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire.
+Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire. -->
 
-### Garder la trace des obstacles
+### Tracking Obstacles
 
+Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
+
+Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
+
+<!-- (Garder la trace des obstacles)
 Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, le Matériel et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur ces fiches.
 
-Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action.
+Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action. -->
 
-### Que dois-je partager avec les joueurs ?
+### What do I share with players?
 
+Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.  
+
+Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.  
+
+Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors.
+
+<!-- (Que dois-je partager avec les joueurs ?)
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des monstres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options implique des styles de jeu différents.
 
 Jouer sur une table ouverte signifie que tout le monde y voit clair sur ce qui se passe, quelles opportunités existent pour vivre des scènes et des actions vivantes. Les joueurs peuvent voir quels éléments de Matériel, Conditions et Descripteurs sont "en jeu" et s'incorporeront dans les scènes.
 
-En cachant aux joueurs les détails sur les adversaires, les pièges et les obstacles, vous les pousserez à aller à la rencontre de leurs ennemis, d'explorer l'environnement, et d'essayer de nouvelles choses. Ils peuvent se diriger vers des situations qu'ils pensent être à leur avantage. Il est toujours satisfaisant d'être récompensé d'un dé de bonus pour avoir deviné correctement le Descripteur d'un ennemi.
+En cachant aux joueurs les détails sur les adversaires, les pièges et les obstacles, vous les pousserez à aller à la rencontre de leurs ennemis, d'explorer l'environnement, et d'essayer de nouvelles choses. Ils peuvent se diriger vers des situations qu'ils pensent être à leur avantage. Il est toujours satisfaisant d'être récompensé d'un dé de bonus pour avoir deviné correctement le Descripteur d'un ennemi. -->

@@ -39,7 +39,7 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 ## Was ihr macht
 Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte. 
+Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte.
 
 Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
@@ -56,7 +56,7 @@ Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire
 
 ---
 ## Wie ihr's macht
-Wenn bei einer Handlung das Ergebnis nicht klar zu entscheiden ist, werft ihr einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis. 
+Wenn bei einer Handlung das Ergebnis nicht klar zu entscheiden ist, werft ihr einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 <!--## How you do it
 To resolve any action where the outcome is not
@@ -89,7 +89,7 @@ Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abg
 [Tinas Version vom 17.04.16]
 ### Redet vor dem Spielen miteinander!
 Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
-Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird. 
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird.
 Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
 <!--### Talk before play!

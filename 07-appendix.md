@@ -1,8 +1,41 @@
-# Appendice - Descripteurs
+# Appendix - Descriptors
 
-Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque élément de la liste est un Descripteur, pour lequel on indique en quoi il peut être un avantage ou un handicap, ce qui peut aider à la fois les joueurs et le Narrateur.
+This list is by no means exhaustive, but it’s a good place to start. each entry lists the kinds of things a Descriptor might be an advantage or hindrance for, which makes it a handy reference for both players and Narrators.
 
-## Descripteurs du Corps
+<!-- Appendice - Descripteurs
+
+Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque élément de la liste est un Descripteur, pour lequel on indique en quoi il peut être un avantage ou un handicap, ce qui peut aider à la fois les joueurs et le Narrateur. -->
+
+## Body Descriptors
+
+* **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
+* Ambidextrous: great when shooting two guns at
+the same time, or doing slight-of-hand magic tricks.
+* Blonde: good for getting people to underestimate
+you, not good if you spend too much time in the sun.
+* Fake Orange Tan: great for passing as an aging
+celebrity, and for drawing attention to yourself.
+* Furry: useful for resisting cold weather, and living in the woods.
+* Handsome: useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
+* Huge: good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
+* Overweight: a problem when exercising and
+borrowing clothes.
+* Poor Constitution: a hindrance when long dis-
+tance running, resisting damage, performing feats of endurance, and healing.
+* Quick: handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
+* Razor-sharp Claws: great for slicing up en- emies, cutting vegetables and maybe climbing trees.
+* Short: a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
+* Slow: a problem when running, dodging, and reacting to things.
+* Strong: useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
+* Tall: good for reaching the top shelf, climbing, and seeing over other people’s heads.
+* Thin: handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
+* Ugly: a problem when trying to seduce someone, or get a role on T.V.
+* Vigour: great for resisting poison, long distance running, and other feats of endurance.
+* Weak: a pain when lifting, carrying, smashing and throwing stuff.
+* Webbed Feet: great for swimming, but terrible when buying shoes.
+
+
+<!-- Descripteurs du Corps
 
 * **Agile**: utile pour danser, sauter, faire des acrobaties, ramper dans des espaces réduits, l'équilibre.
 * **Ambidextre**: sert à utiliser une arme à feu dans chaque main, pour les tours de passe-passe.
@@ -23,9 +56,29 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Laid(e)**: problématique pour séduire, ou obtenir un rôle à l'écran.
 * **Vigoureu(x)(se)**: résister aux poisons, courir sur de grandes distances et avoir de l'endurance.
 * **Faible**: difficile de soulever, transporter, détruire ou lancer des objets.
-* **Pieds palmés**: remarquable pour nager, mais une plaie pour trouver chaussure à son pied.
+* **Pieds palmés**: remarquable pour nager, mais une plaie pour trouver chaussure à son pied. -->
 
-## Descripteurs d'Esprit
+## Mind Descriptors
+
+Absent-Minded: good for being distracted, but a
+problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
+Book-Smart: great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
+Computer-Wiz: good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
+Dim-Witted: a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
+Empathetic: good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
+Focused: good for staying on task, not getting dis- tracted, and looking serious.
+Lateral Thinker: handy for problem solving, and approaching issues in new or unusual ways.
+Mathematician: great for doing sums, solving equations and doing your tax.
+Observant: great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
+Orator: good for public speaking, debating and getting people to see your point of view.
+Slow: a pain when trying to understand plans, or learn new things.
+Tactician: great for planning battles, remember- ing military history and quoting Tsun Tsu.
+Uneducated: a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
+Wise: handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
+Witty: good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
+
+
+<!-- Descripteurs d'Esprit
 
 * **Distrait(e)**: idéal pour être déconcentré, mais problématique quand il faut se souvenir d'où on a laissé ses clés, ou qu'on vient juste de dégoupiller une grenade.
 * **Rat de bibliothèque**: utile pour passer des examens, connaître des formules mathématiques, se souvenir des dates historiques et faire du droit à Harvard.
@@ -41,9 +94,28 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Tacticien(ne)**: faire des plans de bataille, se souvenir des hauts faits militaires de l'Histoire et citer Sun-Tsu.
 * **Illettré(e)**: difficultés pour lire, calculer, se souvenir des dates importantes de l'Histoire et passer des examens scolaires.
 * **Sage**: capable de citer des proverbes, donner des conseils, associer deux indices apparemment sans relation, interpréter les réactions des gens, et dire "Je te l'avais bien dit".
-* **Spirituel(le)**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot.
+* **Spirituel(le)**: savoir faire des commentaires légers, charmer ou amuser, et toujours avoir le dernier mot. -->
 
-## Descripteurs d'Atout
+## Edge Descriptors
+
+Acrobatics: great for joining the circus, leaping
+through narrow gaps, and doing impressive  ips. Arcane Knowledge: good for identifying mys- tic artefacts, recognizing the presence of evil magic,
+and reading ancient scrolls.
+Courage: handy when seeing something scary,
+telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
+Driving: great for car racing, car chases, and pass- ing your driving exam.
+Fencing: good for sword  ghting and other civi- lized forms of melee.
+Good Memory: handy for remembering names and faces, vital clues, and mathematical formulas.
+Hunting: good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
+Keen Sight: great for seeing a long way or even doing stu  by moonlight.
+Linguistics: good for speaking one (or more) foreign languages and generally communicating with others.
+Magic: great for knowing the mystic arts, casting spells, or acting like a stage magician.
+Medicine: good for performing operations, diag- nosing illness, and administering  rst aid.
+Nasty Bite: great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
+Rich: handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
+Wrestling: good for  ghting unarmed combat, and pinning opponents to the ground.
+
+<!-- Descripteurs d'Atout
 
 * **Acrobate**: pour intégrer un cirque, sauter par-dessus une fosse ou faire des saltos impressionnants.
 * **Connaissance occultes**: savoir identifier des artefacts mystiques, reconnaître la présence d'une magie maléfique, lire des parchemins antiques.
@@ -58,9 +130,26 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Médecine**: faire des opérations chirurgicales, diagnostiquer une maladie ou administrer les premiers soins.
 * **Morsure féroce**: arriver à blesser salement quelqu'un au combat, se mordre le bras ou gagner à un concours de gobage de flamby.
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
-* **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol.
+* **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol. -->
 
-## Descripteurs de Faille
+## Flaw Descriptors
+
+Blind: a pain when doing anything that requires
+sight, such as shooting, navigating an unfamiliar space, or painting.
+Brave: good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
+Clumsy: a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
+Greedy: a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
+in-Human Appearance: a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
+Missing Leg: a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
+Old: a pain when trying to look cool, climb stairs, use a computer, or be positive about your health.
+Poor: a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
+Poor Sight: a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
+Primitive: a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
+Smelly: a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
+Wanted: a pain when trying to keep out of trou- ble, or needing something from your apartment.
+Young: a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+
+<!-- Descripteurs de Faille
 
 * **Aveugle**: très gênant pour toutes les tâches qui requièrent d'y voir, comme tirer au fusil, se déplacer dans un endroit inconnu, ou peindre.
 * **Téméraire**: courir au devant d'un danger mortel, agir inconsidérément, et plonger plus encore dans le pétrin.
@@ -74,12 +163,22 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 * **Primiti(f)(ve)**: une gêne pour utiliser un téléphone mobile, conduire une voiture, sonner à une porte ou interagir de manière civilisée en société.
 * **Puant(e)**: difficile d'impressionner les gens, ou passer inaperçu auprès de traqueurs ou d'animaux féroces à votre poursuite.
 * **Recherché(e)**: on n'arrête pas d'être embêté à tout bout de champ, et c'est plus difficile de rentrer chez soi sans ennui.
-* **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sécher l'école ou voir au-dessus du volant quand on conduit.
+* **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sécher l'école ou voir au-dessus du volant quand on conduit. -->
 
-## Feuille de personnage
+## Charakterbogen ??
+
+Ein Charakterbogen ist online unter folgender Adresse zum Herunterladen erhältlich:
+
+(Dies ist der Link zum franz. Bogen, wir sollten den deutschen ins Git einpflegen und dann hier verlinken)
+
+[https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf](https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf)
+
+
+<!-- Feuille de personnage
 
 Grâce aux bons soins de la communauté, une feuille de personnage est disponible en téléchargement à l'adresse suivante :
 
 [https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf](https://raw.githubusercontent.com/brunobord/fu-rpg-libre-et-universel/master/feuille-de-personnage.pdf)
 
 Note : les termes employés diffèrent très légèrement de ceux choisis dans cette traduction, mais ils ne devraient pas entraver le cours du jeu.
+-->
