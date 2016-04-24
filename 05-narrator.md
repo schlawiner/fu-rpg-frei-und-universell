@@ -204,10 +204,15 @@ Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sess
 Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire. -->
 
 ### Tracking Obstacles
+### Hindernisse notieren
 
 Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
 
+Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Charaktere, Monster und Hindernisse festzuhalten. Schreibe auch [Deskriptoren], Ausrüstung und andere Informationen auf.
+
 Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
+
+Benutze auch Karteikarten, um wichtige Geländeeigenschaften festzuhalten. Halte zugehörige [Deskriptoren] fest, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
 
 <!-- (Garder la trace des obstacles)
 Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, le Matériel et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur ces fiches.
@@ -215,12 +220,19 @@ Utilisez des post-its ou des fiches bristol pour garder trace des détails sur l
 Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action. -->
 
 ### What do I share with players?
+### Welche Informationen teilst du mit deinen Spielerinnen?
 
 Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.  
 
+Einige Gruppen und Erzählerinnen spielen ganz offen und machen um die [Deskriptoren] und Details von Kreaturen und Monstern kein Geheimnis. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
+
 Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.  
 
+An einem „offenen Tisch" zu spielen bedeutet, dass alle Bescheid wissen, was passiert, welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen können sehen, welche Ausrüstung, Zustände und [Deskriptoren] gerade im Spiel sind und sie in Szenen einbeziehen.
+
 Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors.
+
+Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer befriedigend, wenn man für das Einschätzen der [Deskriptoren] eines Gegners mit Bonuswürfeln belohnt wird.
 
 <!-- (Que dois-je partager avec les joueurs ?)
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des monstres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options implique des styles de jeu différents.
