@@ -1,6 +1,8 @@
-# Narrator
+# Die Erzählerin
 
 Following is some simple, straightforward advice for Narrators. It is all fairly generic because all the specific stuff is going to relate to the genre, tone and style of game that you and your players choose to play.
+
+Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlich allgemein gehalten, weil die spezifischeren Sachen sich auf das gewählte Settng beziehen
 
 <!--Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.-->
 
