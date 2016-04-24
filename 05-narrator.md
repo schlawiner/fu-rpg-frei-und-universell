@@ -2,15 +2,19 @@
 
 Following is some simple, straightforward advice for Narrators. It is all fairly generic because all the specific stuff is going to relate to the genre, tone and style of game that you and your players choose to play.
 
-Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlich allgemein gehalten, weil die spezifischeren Sachen sich auf das gewählte Settng beziehen
+Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlich allgemein gehalten, weil die spezifischeren Sachen sich auf das gewählte Genre, die Stimmung und den Spielstil beziehen, für den ihr euch als Gruppe entschieden habt.
 
 <!--Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.-->
 
-## Talking is good
+## Kommunizieren ist gut
 
 Start your game with a conversation. Talk about
-what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the genre and tone of your shared story. Talk about this stuff too, so that everyone is clear of the speci cs (there is a world of di erence between Gothic horror and splatter films, for example).  
+what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the genre and tone of your shared story. Talk about this stuff too, so that everyone is clear of the specfics (there is a world of difference between Gothic horror and splatter films, for example).  
 Talk during the game too. Encourage players to share ideas and give input into scenes, objectives and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
+
+Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spieler erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens zusammen das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
+
+Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spieler ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern.Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
 
 <!--(Parler, c'est bien)
 Démarrez votre jeu par le dialogue. Parlez de ce que les joueurs aimeraient retirer du jeu, ce que vous voulez, et où ces idées se rejoignent. Ces points communs ont de fortes chances d'être les moments où tout le monde s'amusera. *A minima*, vous devrez oeuvrer ensemble pour déterminer le genre et le ton de votre histoire. Dialoguez sur tout, pour que tout le monde soit en accord avec les spécificités (il y a un monde entre les styles "horreur gothique" et "gore", par exemple).
