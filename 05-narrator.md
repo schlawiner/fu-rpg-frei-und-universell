@@ -37,15 +37,26 @@ S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous
 
 ## When playing
 
+## Im Spiel selbst
+
 When running games don’t plan too much ahead
 of time. The dice rolls are going to direct a lot of the action, and you and the players will fill in the gaps by applying Conditions and Details. Here are some tips to keep things moving and help you enjoy the game as much as the players do.
+
+Plane vor dem Leiten eines Spiels nicht zu weit voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und du sowie deine Spielerinnen werden die auftretenden Lücken durch [Conditions] und [Details] füllen. Hier sind einige Tipps, um das Spiel am Laufen zu halten und dir dabei zu helfen, das Spiel genau so zu genießen wie die Spielerinnen.
 
 **Keep things simple:** Do not complicate your job
 by introducing lots of sub-plots or convoluted twists. Things will get all messed about by themselves and the story will run off on tangents that you never dreamed of.  
 
-**You are not the enemy:** this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to kill everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adver- saries, and are expected to do so vigorously but fairly. other times you will get to be an ally, companion, or peer, and once again you should be true to the spirit of the game.
+**Halte Dinge einfach:** Verkompliziere deine Aufgabe nicht durch viele [unwichtigere] Handlungsstränge oder komplexe Wendungen in der Geschichte.
+
+**You are not the enemy:** this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to kill everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adver- saries, and are expected to do so vigorously but fairly. other times you will get to be an ally, companion, or peer, and once azain you should be true to the spirit of the game.
+
+**Du bist nicht der Feind:** Das erscheint vielleicht offensichtlich, soll hier aber erwähnt werden. Deine Aufgabe besteht darin, die Geschichte in interesannte Richtungen zu lenken. Nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben, wenn du glaubst, dass das die Geschichte interessanter macht.
 
 **Say "yes":** if players make suggestions or ask ques- tions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. encourage this and condently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players in- troduce elements into the story when the time is right.
+
+**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich,
+weil sie an der laufenden Geschichte [Interesse] haben.
 
 **Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story.
 
