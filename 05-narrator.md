@@ -129,9 +129,13 @@ Répondez à ces questions et tout le monde à la table y verra clair quant à s
 ----
 
 ## Recovery
+## Erhohlung/Heilung
+
 
 During games characters can suffer injuries, be-
 come physically or mentally stressed, and be afflicted by a range of other Conditions. Conditions are always recovered at a time and/or rate appropriate to the story.  This is usually with the passing of time, but does not have to be. A good rule of thumb is that one or more Conditions can be removed/recovered between scenes, though this will depend on the timing of such encounters.
+
+Während des Spiels können Charaktere Verletzungen erleiden, körperlichem oder geistigem Stress ausgesetzt sein oder von einer ganzen Reihe anderer Zustände betroffen sein. Von Zuständen erholen Charaktere sich immer innerhalb einer Zeitspanne oder Rate, die der Geschichte angemessen ist. Normalerweise geschiet das einfach durch das Verstreichen von Zeit, das muss aber nicht so sein. Eine gute Grundregel ist, dass Charaktere sich von ein oder mehreren Zustände zwischen Szenen erholen können. Das hängt aber vom Zeitablauf der Begenung ab.
 
 <!-- (Récupération)
 Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes. -->
