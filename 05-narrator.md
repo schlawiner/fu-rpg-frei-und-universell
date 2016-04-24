@@ -141,11 +141,16 @@ Während des Spiels können Charaktere Verletzungen erleiden, körperlichem oder
 Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes. -->
 
 ## Rewards
+## Belohnugnen
 
 Reward players for good roleplaying and achieving
 goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point.
 
+Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Gründe belohnen, die die Gruppe untereinander abspricht. [Siehe dazu die Seitenleiste auf Seite 12]
+
 **How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster.
+
+**Wie viel und wie oft?** Sei mit Belohnungen großzügig. Die positive Verstärkung durch das Verdienen von FU-Punkten wird die Spielerinnen zu noch weiteren Taten des Heldentums, Spektakels oder der Schlechtigkeit inspirieren.
 
 <!-- (Récompenses)
 Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de leur but en leur attribuant des points de FU. Vous pouvez aussi les récompenser pour d'autres raisons, comme le groupe le décidera (voir le chapitre sur les points de FU). Ces points peuvent être utilisés pour améliorer les chances de succès d'un personnage, ce qui est une récompense immédiate, tangible. Vous pouvez ne pas être le seul autour de la table à attribuer des récompenses. Tous les joueurs peuvent s'exprimer s'ils pensent que l'un d'entre eux a fait quelque chose d'amusant ou de formidable et lui donner un point de FU.
