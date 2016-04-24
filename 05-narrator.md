@@ -78,14 +78,22 @@ Pendant le jeu, inutile de planifier trop de choses à l'avance. Les lancers de 
 
 ## 3 Questions to guide your game
 
+## Drei Fragen
+
 When you begin a game talk with the players about their expectations. Try to answer the following three questions:
+
+Wenn ihr ein Spiel beginnt, sprich mit den Spielerinnen über ihre Erwartungen. Versuche die folgenden Fragen zu beantworten
 
 <!-- (3 Questions pour cadrer votre jeu)
 Quand vous commencez une partie, parlez avec les joueurs de leurs attentes. Essayez de répondre aux trois questions suivantes : -->
 
 ### What will characters do?
 
+### Was würden die Charaktere tun?
+
 Do players want to kick in doors, kill monsters and take home piles of treasure? Do they want to feel like epic heroes? Or the underdogs, struggling against ridiculous odds?
+
+Wollen die Spielerinnen Türen eintreten, Monster umbringen und Haufen an Schätzen nach Hause schleppen? Wollen sie sich wie große Heldinnen fühlen? Oder wie Außenseiterinnen, die gegen große Widerstände ankämpfen?
 
 <!-- (Qu'est-ce que les personnages vont faire ?)
 Est-ce que les joueurs voudront défoncer les portes, tuer les monstres et rapporter des montagnes de trésor chez eux ? Veulent-ils être des héros de légende ? Ou des outsiders, sur qui personne ne mise ? -->
