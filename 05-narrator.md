@@ -6,15 +6,17 @@ Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlic
 
 <!--Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.-->
 
+## Talk is good
+
 ## Kommunizieren ist gut
 
 Start your game with a conversation. Talk about
 what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the genre and tone of your shared story. Talk about this stuff too, so that everyone is clear of the specfics (there is a world of difference between Gothic horror and splatter films, for example).  
 Talk during the game too. Encourage players to share ideas and give input into scenes, objectives and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
 
-Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spieler erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens zusammen das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
+Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spielerinnen erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens zusammen das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
 
-Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spieler ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern.Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
+Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spielerinnen ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern.Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
 
 <!--(Parler, c'est bien)
 Démarrez votre jeu par le dialogue. Parlez de ce que les joueurs aimeraient retirer du jeu, ce que vous voulez, et où ces idées se rejoignent. Ces points communs ont de fortes chances d'être les moments où tout le monde s'amusera. *A minima*, vous devrez oeuvrer ensemble pour déterminer le genre et le ton de votre histoire. Dialoguez sur tout, pour que tout le monde soit en accord avec les spécificités (il y a un monde entre les styles "horreur gothique" et "gore", par exemple).
@@ -24,7 +26,11 @@ Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées e
 
 ## Listening is good
 
+## Zuhören ist gut
+
 If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool.
+
+Wo es ein Gespräch gibt, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir im Gespräch etwas sagen oder im Spiel mit ihren Charakteren etwas tun. Benutze im Spiel Dinge, die mit den [Deskrtiptoren] auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
 
 <!--(Écouter, c'est bien)
 S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
