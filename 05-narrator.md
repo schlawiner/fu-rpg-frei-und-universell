@@ -60,6 +60,8 @@ weil sie an der laufenden Geschichte [Interesse] haben.
 
 **Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story.
 
+**Gib Würfelwürfen Bedeutung:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis nicht für die Geschichte wichtig ist oder eine Niederlage den Schwung der Handlung stoppen würde.
+
 <!--
 (En jeu)
 Pendant le jeu, inutile de planifier trop de choses à l'avance. Les lancers de dés guideront l'action et vous et vos joueurs aurez à remplir les blancs en y introduisant des Conditions ou des Détails. Voici quelques astuces pour garder l'élan et continuer à vous amuser autant que les joueurs.
