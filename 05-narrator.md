@@ -110,10 +110,16 @@ Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Charaktere an Ge
 Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ? -->
 
 ### What is the Narrator's role?
+### Was ist die Rolle der Erzählerin?
+
 
 What kinds of challenges, encounters and situations are you going to present the characters in order to achieve the above? Do you need to ensure every challenge is accompanied by a generous reward? Are you going to make every fight hard but fair? Will you be relentless in the pursuit of the antagonist’s goals?  
 
+Welche Herausforderungen, Begegnungen und Situationen wirst du den Charakteren präsentieren. um das oben Angesprochene zu erreichen? Wirst du jede Herausforderung mit einer großzügigen Belohnung begleitet? Wirst du jeden Kampf hart führen, aber fair? Wirst du in der Verfolgung der Ziele des Gegenspielers unermüdlich sein?
+
 Answer these questions and everyone at the table will be clear on their role in the coming adventure.
+
+Beantworte diese Fragen und jede am Tisch wird sich ihrere Rolle im kommenden Abenteuer bewusst sein.
 
 <!-- (Quel est le rôle du Narrateur ?)
 Quels défis, quelles rencontres ou situations vous allez présenter aux personnages pour qu'ils fassent ce qu'ils attendent ? Avez-vous besoin de faire miroiter une belle récompense pour chaque défi ? Ferez-vous en sorte que chaque combat soit dur mais équitable ? Serez-vous impitoyable concernant les desseins des antagonistes ?
