@@ -182,12 +182,19 @@ Eine Möglichkeit der Belohnung durch FU-Punkte ist es, ein Behältnis mit Perle
 Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
 
 ### Advancement
+### Erfahrung gewinnen
 
 FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
 
+In FU geht es nicht um das "Aufleveln" eines Charakters, sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Charaktere im Spiel auch Dinge lernen.
+
 If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
 
+Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen [Deskriptor] ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen Sitzungen geändert werden.
+
 Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
+
+Ziele können sich von Sitzung zu Sitzung auch verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung die Zeit, ihre Ziele anzupassen.
 
 <!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
