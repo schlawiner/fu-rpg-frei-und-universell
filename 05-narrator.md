@@ -100,7 +100,11 @@ Est-ce que les joueurs voudront défoncer les portes, tuer les monstres et rappo
 
 ### How do players want to feel?
 
+### Wie wollen die Spielerinnen sich fühlen?
+
 Do the players want to feel like they are changing the world? Like their char- acter is gaining in wealth, prestige or power? Or do they want to feel like their backs are against the wall and their lives constantly at risk?
+
+Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Charaktere an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie das Gefühl haben, mit den Rücken gegen die Wand zu stehen, ihr Leben immer in Gefahr?
 
 <!-- (Comment les joueurs veulent-ils se sentir ?)
 Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ? -->
