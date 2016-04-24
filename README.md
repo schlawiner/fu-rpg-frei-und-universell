@@ -14,6 +14,6 @@ Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creat
 
 FU RPG ist (c) 2010 Nathan Russel.
 
-Dieses Dokument ist die Version 0.1 der deutschen Übersetzung (c) 2015 Tina Trillitzsch und ?
+Dieses Dokument ist die Version 0.1 der deutschen Übersetzung (c) 2016 Tina Trillitzsch und Thorsten Panknin
 
 Weitere Bearbeiter und Korrekturleser: ...

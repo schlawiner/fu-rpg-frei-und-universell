@@ -24,6 +24,8 @@ FU ist relativ unkompliziert, daher brauchst du wahrscheinlich nach deinem erste
 
 Außerdem gibt auf vielen Seiten ganz unten "Seitenleisten". Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Die Seitenleisten erkennt man leicht an einer Linie, die sie vom Haupttext trennt, und an ihrer dreispaltigen [^1] Formatierung. Dort kannst du immer dann nachschauen, wenn du zum "Wie" und "Wann" einer bestimmten Regel Klärung brauchst.
 
+Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfacheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.
+
 ----
 
-[^1] Anmerkung der Übersetzerin: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts.
+[^1] Anmerkung der Übersetzer: Dies gilt für das Originalbuch - Gitbook unterstützt leider momentan keine dreispaltigen Layouts.

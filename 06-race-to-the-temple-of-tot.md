@@ -262,7 +262,7 @@ page. They are each examples of classic pulp charac- ter archetypes. players may
 Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste demander que chacun décrive comment il a rencontré le personnage à sa gauche. -->
 
 
-### Tennessee Smith, Daredevil Explorer
+### Tennessee Smith, Daredevil Explorer (Tollkühner Forscher/Forschungsreisender)
 
 |        Character | Tennessee Smith                                                                         |
 |-----------------:|:----------------------------------------------------------------------------------------|
