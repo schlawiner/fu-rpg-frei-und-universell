@@ -30,7 +30,7 @@ Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées e
 
 If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool.
 
-Wo es ein Gespräch gibt, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir im Gespräch etwas sagen oder im Spiel mit ihren Charakteren etwas tun. Benutze im Spiel Dinge, die mit den [Deskrtiptoren] auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
+Wo es ein Gespräch gibt, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir im Gespräch etwas sagen oder im Spiel mit ihren Figuren etwas tun. Benutze im Spiel Dinge, die mit den [Deskrtiptoren] auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
 
 <!--(Écouter, c'est bien)
 S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
@@ -89,7 +89,7 @@ Quand vous commencez une partie, parlez avec les joueurs de leurs attentes. Essa
 
 ### What will characters do?
 
-### Was würden die Charaktere tun?
+### Was würden die Figuren tun?
 
 Do players want to kick in doors, kill monsters and take home piles of treasure? Do they want to feel like epic heroes? Or the underdogs, struggling against ridiculous odds?
 
@@ -104,7 +104,7 @@ Est-ce que les joueurs voudront défoncer les portes, tuer les monstres et rappo
 
 Do the players want to feel like they are changing the world? Like their char- acter is gaining in wealth, prestige or power? Or do they want to feel like their backs are against the wall and their lives constantly at risk?
 
-Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Charaktere an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie das Gefühl haben, mit den Rücken gegen die Wand zu stehen, ihr Leben immer in Gefahr?
+Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie das Gefühl haben, mit den Rücken gegen die Wand zu stehen, ihr Leben immer in Gefahr?
 
 <!-- (Comment les joueurs veulent-ils se sentir ?)
 Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ? -->
@@ -115,7 +115,7 @@ Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortu
 
 What kinds of challenges, encounters and situations are you going to present the characters in order to achieve the above? Do you need to ensure every challenge is accompanied by a generous reward? Are you going to make every fight hard but fair? Will you be relentless in the pursuit of the antagonist’s goals?  
 
-Welche Herausforderungen, Begegnungen und Situationen wirst du den Charakteren präsentieren. um das oben Angesprochene zu erreichen? Wirst du jede Herausforderung mit einer großzügigen Belohnung begleitet? Wirst du jeden Kampf hart führen, aber fair? Wirst du in der Verfolgung der Ziele des Gegenspielers unermüdlich sein?
+Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren. um das oben Angesprochene zu erreichen? Wirst du jede Herausforderung mit einer großzügigen Belohnung begleitet? Wirst du jeden Kampf hart führen, aber fair? Wirst du in der Verfolgung der Ziele des Gegenspielers unermüdlich sein?
 
 Answer these questions and everyone at the table will be clear on their role in the coming adventure.
 
@@ -135,7 +135,7 @@ Répondez à ces questions et tout le monde à la table y verra clair quant à s
 During games characters can suffer injuries, be-
 come physically or mentally stressed, and be afflicted by a range of other Conditions. Conditions are always recovered at a time and/or rate appropriate to the story.  This is usually with the passing of time, but does not have to be. A good rule of thumb is that one or more Conditions can be removed/recovered between scenes, though this will depend on the timing of such encounters.
 
-Während des Spiels können Charaktere Verletzungen erleiden, körperlichem oder geistigem Stress ausgesetzt sein oder von einer ganzen Reihe anderer Zustände betroffen sein. Von Zuständen erholen Charaktere sich immer innerhalb einer Zeitspanne oder Rate, die der Geschichte angemessen ist. Normalerweise geschiet das einfach durch das Verstreichen von Zeit, das muss aber nicht so sein. Eine gute Grundregel ist, dass Charaktere sich von ein oder mehreren Zustände zwischen Szenen erholen können. Das hängt aber vom Zeitablauf der Begenung ab.
+Während des Spiels können Figuren Verletzungen erleiden, körperlichem oder geistigem Stress ausgesetzt sein oder von einer ganzen Reihe anderer Zustände betroffen sein. Von Zuständen erholen Figuren sich immer innerhalb einer Zeitspanne oder Rate, die der Geschichte angemessen ist. Normalerweise geschiet das einfach durch das Verstreichen von Zeit, das muss aber nicht so sein. Eine gute Grundregel ist, dass Figuren sich von ein oder mehreren Zustände zwischen Szenen erholen können. Das hängt aber vom Zeitablauf der Begenung ab.
 
 <!-- (Récupération)
 Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes. -->
@@ -159,11 +159,11 @@ Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de 
 **Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite. -->
 
 ## Characters & Obstacles
-## Charaktere und Hindernisse
+## Figuren und Hindernisse
 
 All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
 
-Alle Nichtspielercharaktere, Monster, Fallen, Bösewichte, Geländeeigenschaften, Kreaturen und Hindernisse im Spiel werden im Großen und Ganzen genau wie Charaktere definiert. Dir stehen bei der Erschaffung keine Regeln oder Begrenzungen im Weg. Die einzige Voraussetzung ist, dass es unterhaltsam und interessant wird.
+Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, Kreaturen und Hindernisse im Spiel werden im Großen und Ganzen genau wie Figuren definiert. Dir stehen bei der Erschaffung keine Regeln oder Begrenzungen im Weg. Die einzige Voraussetzung ist, dass es unterhaltsam und interessant wird.
 
 <!-- (Personnages et obstacles)
 Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueurs ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants. -->
@@ -186,7 +186,7 @@ Une technique existe pour l'attribution des points de FU : placez un bol au cent
 
 FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
 
-In FU geht es nicht um das "Aufleveln" eines Charakters, sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Charaktere im Spiel auch Dinge lernen.
+In FU geht es nicht um das "Aufleveln" einer Figur, sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Figuren im Spiel auch Dinge lernen.
 
 If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
 
@@ -208,7 +208,7 @@ Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux j
 
 Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
 
-Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Charaktere, Monster und Hindernisse festzuhalten. Schreibe auch [Deskriptoren], Ausrüstung und andere Informationen auf.
+Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Schreibe auch [Deskriptoren], Ausrüstung und andere Informationen auf.
 
 Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
 
