@@ -159,8 +159,11 @@ Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de 
 **Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite. -->
 
 ## Characters & Obstacles
+## Charaktere und Hindernisse
 
 All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
+
+Alle Nichtspielercharaktere, Monster, Fallen, Bösewichte, Geländeeigenschaften, Kreaturen und Hindernisse im Spiel werden im Großen und Ganzen genau wie Charaktere definiert. Dir stehen bei der Erschaffung keine Regeln oder Begrenzungen im Weg. Die einzige Voraussetzung ist, dass es unterhaltsam und interessant wird.
 
 <!-- (Personnages et obstacles)
 Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueurs ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants. -->
