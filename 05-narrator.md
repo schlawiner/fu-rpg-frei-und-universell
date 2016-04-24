@@ -171,8 +171,12 @@ Tous les personnages, monstres, pièges, adversaires, éléments du décor, cré
 ----
 
 ### The Bowl
+### Die Schüssel [Behältnis]
+
 
 One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?”
+
+Eine Möglichkeit der Belohnung durch FU-Punkte ist es, ein Behältnis mit Perlen, Spielchips oder Spielsteinen in die Mitte des Tisches zu stellen. Jeder Gegenstand darin entspricht einem FU-Punkt. Die Erzählerin kann Spielerinnen bitten, einen aus dem Behältnis zu nehmen, und andere Spielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten.
 
 <!-- (Le bol)
 Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
