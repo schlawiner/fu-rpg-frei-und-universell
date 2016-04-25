@@ -1,19 +1,30 @@
 # Die Figuren
-(Characters)  
 
-In FU a character is your alter-ego. During a story you describe what the character does, how they re- spond to situations, and react to others.
+Bei FU ist deine Figur dein "Alter Ego", dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen oder auf andere Personen reagiert.
+
+<!-- (Characters)  
+
+In FU a character is your alter-ego. During a story you describe what the character does, how they re- spond to situations, and react to others. -->
 
 <!-- Dans FU, votre personnage est votre alter-ego. Pendant une histoire, vous décrivez ce que le personnage fait, comment il réagit aux situations, ou comme il interagit avec les autres personnages. -->
 
 
 
 ## Konzept
-(Concept)
+
+Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr "Konzept". Dies ist der Kern deiner Figur; es beschreibt was sie ausmacht und wer sie ist und lässt sich in wenigen Wörtern oder einem kurzen Satz zusammenfassen.  
+Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie "Paranormaler Ermittler" oder "Wunderkind". Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie "Edler Wilder" oder "Verrückter Professor".  
+Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein "Gewiefter Bulle" passt vielleicht nicht ganz ins mittalterliche England, aber ein "Weltgewandter Sheriff" könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
+
+> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen "Pulp"-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur "Tollkühner Forschungsreisender". Nina möchte jemand ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine "Außerirdische Botschafterin".
+
+<!-- (Concept)
 
 When you know the kind of setting or premise of the adventures you will be playing you can begin thinking about your character. This is is the kernel of who or what the character is, and should be summed up in just a few words or a phrase.  
 The concept might define the character’s background or occupation, such as ‘paranormal detective’ or ‘child prodigy’. Or it might give insight into their personality, such as ‘noble savage’ or ‘nutty professor’.  
-Of course, the character’s concept should  fit into the setting, background or types of adventures that you will be playing. A ‘streetwise cop’ may be out of place in medieval england, though a ‘worldly sheriff’ might be just right. Use the setting to inspire your character.  
-> Throughout this chapter we will follow Dave and Nina as they create their own characters. With Tim, the Narrator, they have decided to play a game based on the pulp serials of the 1930’s, and that it will be fairly whimsical and action-packed. Dave thinks of a couple of his favourite movies and decides that the concept for his character will be ‘Daredevil Explorer’. Nina wants to play some- thing a little unusual, and a er discussing her ideas with Tim and Dave decides her character will be an ‘Alien Emissary’.
+Of course, the character’s concept should  fit into the setting, background or types of adventures that you will be playing. A ‘streetwise cop’ may be out of place in medieval england, though a ‘worldly sheriff’ might be just right. Use the setting to inspire your character.
+
+> Throughout this chapter we will follow Dave and Nina as they create their own characters. With Tim, the Narrator, they have decided to play a game based on the pulp serials of the 1930’s, and that it will be fairly whimsical and action-packed. Dave thinks of a couple of his favourite movies and decides that the concept for his character will be ‘Daredevil Explorer’. Nina wants to play some- thing a little unusual, and a er discussing her ideas with Tim and Dave decides her character will be an ‘Alien Emissary’.-->
 
 <!-- Quand vous savez dans quel type d'univers ou quel genre d'aventures vous allez jouer, vous pouvez commencer à réfléchir à votre personnage. C'est le coeur de ce que sera votre personnage, et il doit être résumé en quelques mots ou en une phrase.
 
@@ -24,7 +35,26 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 > À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".-->
 
 ## Deskriptoren
-(Descriptors)
+
+Deskriptoren sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwachstellen einer Figur kennzeichnen; Dinge, die ihnen das Leben erleichtern oder schwer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
+
+Figuren haben vier Deskriptoren: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
+
+> David überlegt sich, was für Sachen sein Tollkühner Forschungsreisender schon so erlebt haben könnte und entscheidet sich für die folgenden Deskriptoren:
+
+> **Körper** : Agil  
+> **Geist**: Besonnen  
+> **Stärke**: Geschickt mit der Bullenpeitsche  
+> **Schwäche** : Höhenangst
+
+> Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Deskriptoren für ihre Figur, die Außerirdische Botschafterin:
+
+> **Körper**: Zerbrechlich  
+> **Geist**: Aufmerksam  
+> **Stärke**: Gedankenlesen  
+> **Schwäche**: Außerirdische Sichtweise
+
+<!-- (Descriptors)
 
 Descriptors are adjectives or very short phrases that identify a character’s skills and flaws, the things that make their life easier and harder, and ultimately make them who they are. They indicate the kinds of things that a character is good at, their physical and mental traits, and any abilities or drawbacks they might have. They are both guides for your roleplaying and modifiers to ‘beat the odds’ rolls.
 
@@ -39,9 +69,13 @@ Characters have four Descriptors; Body, Mind, Edge and Flaw. Choose an adjective
 > **Edge**: Use bull whip
 > **Flaw** : Afraid of heights
 
+Nina, inspired by classic pulp science  ction stories, has decided on the following Descriptors for her character, the Alien Emissary;
+Body: Fragile
+Mind: Observant Edge: Read Minds Flaw: Alien Perspective -->
 
 
-Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
+
+<!-- Les Descripteurs sont des qualificatifs ou de très courtes expressions qui identifient les talents et les failles du personnage, les choses qui lui rendent la vie plus facile ou plus difficile et qui fait d'eux ce qu'ils sont. Ils indiquent les domaines dans lesquels les personnages sont bons, à travers leurs traits physiques et mentaux, et leurs capacités ou désavantages. Ce sont à la fois des guides concernant l'interprétation du personnage et des modificateurs pour les jets de dés.
 
 Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisissez un qualificatif ou une phrase pour décrire les caractéristiques les plus pertinentes de votre personnage.
 
@@ -59,9 +93,33 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 > **Corps** : Fragile
 > **Esprit** : Observatrice
 > **Atout** : Lit dans les pensées
-> **Faille** : Le point de vue Alien
+> **Faille** : Le point de vue Alien -->
 
 ### Beispiele für Deskriptoren
+
+Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Deskriptoren sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Deskriptor ist im Anhang noch einmal genauer beschrieben.
+
+> **Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Riesig/Koloss, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
+>
+> **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
+>
+> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
+>
+> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
+
+<!--
+ is is by no means an exhaustive list, just some
+ideas to get you started. each of these is described in more detail in the Appendix (page 20).
+
+Body: Agile, Ambidextrous, Blonde, Furry, Fake Orange Tan, Handsome, Huge, Overweight, Poor Constitution, Quick, Razor-sharp Claws, Short, Slow, Strong, Tall,  in, Ugly, Vigour, Weak.
+
+Mind: Absent Minded, Book Smart, Comput- er-Wiz, Dim-Witted, Empathetic, Focused, Lat- eral  inker, Mathematician, Observant, Slow, Uneducated, Wise, Witty.
+
+Edge: Acrobatics, Arcane Knowledge, Cour- age, Driving, Fencing, Good Memory, Hunting, Keen Sight, Linguistics, Magic, Medicine, Nasty Bite, Rich, Wrestling.
+
+Flaw: Blind, Brave, Clumsy, Greedy, In-hu- man Appearance, Missing Leg, Old, Poor, Poor Sight, Primitive, Smelly, Wanted, Young.
+
+
 
 Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vous aider. Chacun de ces Descripteurs est détaillé dans les Appendices.
 
@@ -71,7 +129,7 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 >
 > **Atout**: Acrobate, Connaissances occultes, Courage, Conduite, Escrime, Bonne mémoire, Chasse, Vue perçante, Linguistique, Magie, Médecine, Morsure féroce, Riche, Bagarre.
 >
-> **Faille**: Aveugle, Couard(e), Maladroit(e), Cupide, Apparence inhumaine, Unijambiste, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune.
+> **Faille**: Aveugle, Couard(e), Maladroit(e), Cupide, Apparence inhumaine, Unijambiste, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune. -->
 
 ----
 
