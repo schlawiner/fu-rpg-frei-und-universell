@@ -34,20 +34,20 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 > À travers ce chapitre nous suivrons David et Nina lors de la création de leurs personnages. Avec Thomas, le Narrateur, ils ont décidé de jouer dans un univers inspiré des "pulps" des années 1930, et dans un ton mystérieux et plein d'action. David pense à ses films préférés et décide que le concept de son personnage sera "Explorateur intrépide". Nina a envie de jouer quelque chose de plus inhabituel, et après avoir discuté avec Thomas et David, elle décide que son personnage sera un "Ambassadeur Alien".-->
 
-## Deskriptoren
+## Beschreiber
 
-Deskriptoren sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwachstellen einer Figur kennzeichnen; Dinge, die ihnen das Leben erleichtern oder schwer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
+Beschreiber sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwachstellen einer Figur kennzeichnen; Dinge, die ihnen das Leben erleichtern oder schwer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
 
-Figuren haben vier Deskriptoren: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
+Figuren haben vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
-> David überlegt sich, was für Sachen sein Tollkühner Forschungsreisender schon so erlebt haben könnte und entscheidet sich für die folgenden Deskriptoren:
+> David überlegt sich, was für Sachen sein Tollkühner Forschungsreisender schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 
 > **Körper** : Agil  
 > **Geist**: Besonnen  
 > **Stärke**: Geschickt mit der Bullenpeitsche  
 > **Schwäche** : Höhenangst
 
-> Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Deskriptoren für ihre Figur, die Außerirdische Botschafterin:
+> Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
 
 > **Körper**: Zerbrechlich  
 > **Geist**: Aufmerksam  
@@ -95,9 +95,9 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 > **Atout** : Lit dans les pensées
 > **Faille** : Le point de vue Alien -->
 
-### Beispiele für Deskriptoren
+### Beispiele für Beschreiber
 
-Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Deskriptoren sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Deskriptor ist im Anhang noch einmal genauer beschrieben.
+Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer beschrieben.
 
 > **Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Riesig/Koloss, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
 >
@@ -136,43 +136,106 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 
 ### Klischees sind deine Freunde!
 
-Il est tout à fait acceptable d'user de clichés quand on propose son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage.
+Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir unmittelbar vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch das Bild einer muskelbepackten unzivilisierten Person vor Augen. Der Einsatz von Klischees ist eine Art Abkürzung zur Beschreibung deiner Figur.
 
-#### Choisir ses Descripteurs
+<!-- It is totally okay to use clichés when coming up with your concept. Clichés contain a host of ideas and concepts that we are immediately familiar with. When somebody says their character is a barbarian, we automatically picture them as heavily muscled, and uncivi- lised. Using clichés is a kind of a short- hand way to describe your character.
+
+
+Il est tout à fait acceptable d'user de clichés quand on propose son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage. -->
+
+#### Beschreiber wählen
+
+Du solltest dich bemühen, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche **"kann nicht schwimmen"** zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
+Lass deine Fantasie spielen, behalte dein Konzept im Kopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
+
+<!-- Choosing Descriptors
+You should strive to be imaginative and honest. Consider both your concept and the setting. Giving a character the Flaw ‘can’t swim’ when you know all the stories will take place in the desert is hardly sporting.
+Be imaginative, keep your concept in mind, and discuss your ideas with the Narrator.  e possibilities are endless.
+
+
+Choisir ses Descripteurs
 
 Il faut se forcer à être imaginatif et honnête. En considérant à la fois votre concept et l'univers du jeu. Donner comme Faille à un personnage **ne sait pas nager** alors que vous savez que l'histoire se tiendra dans un désert n'est pas vraiment "fair-play".
 
-Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur. Les possibilités sont infinies.
+Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur. Les possibilités sont infinies. -->
 
-#### Les Descripteurs sont clairs
+#### Beschreiber sind klar
 
-Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que, le moment venu, tous lui donnent la même signification.
+Einen guten Beschreiber kann jeder am Tisch verstehen. Wenn du oder eine Mitspielerin einen Beschreiber für nicht eindeutig haltet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Es sollten sich nur alle über seine Bedeutung einig sein, wenn er schlussendlich verwendet wird.  
 
-#### Les Descripteurs sont innés
+<!-- Descriptors are clear
+A good Descriptor is understood by everyone at the table. If you or another player think a Descriptor is ambiguous, talk about it. It might need to be re- written, but it might not either. You just want everyone to be on the same page when it comes time to using it.
 
-Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel.
 
-#### La portée des Descripteurs
+Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que, le moment venu, tous lui donnent la même signification. -->
 
-Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*)
+#### Beschreiber wohnen einer Figur inne
 
-#### De quelle sorte de Descripteur s'agit-il ?
+Jeder Beschreiber ist ein wesentlicher, ihr innewohnender Teil der Figur. Normalerweise können sie ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber nicht zu Gegenständen oder Geräten.
 
-Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, à charge pour le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter.
+<!-- Descriptors are innate
+Each Descriptor is an integral and innate part of the character.  ey can- not normally be taken away, lost or removed (though they might be forgot- ten or restricted under the right circum- stances). Do not make your Descriptors items of equipment.
 
-#### Qu'est-ce qui fait un bon Atout ou une bonne Faille ?
+Les Descripteurs sont innés
+
+Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel. -->
+
+#### Die Reichweite von Beschreibern ist endlich
+
+Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das erfahrt ihr erst während des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn letzteres kann auch in verschiedenen nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend..."*).
+
+<!-- Descriptors are finite
+Each Descriptor should have one or two obvious uses or a speci c purpose. It might also be applicable in a range of other unforeseen circumstances, but you will  nd that out in play. Medicine is better than Doctor, for example, as the latter could be used in a variety of non-medical situations (“As a Doctor, I am well educated and quite wealthy...”).
+
+La portée des Descripteurs
+Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*) -->
+
+#### Was für eine Art Beschreiber ist das?
+
+Einige Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Es kommt auf dich, die Erzählerin und deine Mitspielerinnen an - ihr entscheidet, ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht.
+
+<!-- What type of Descriptor is this?
+Some Descriptors could easily fall into more than one category—Good Memory might, for example, be a Mind Descriptor or an Edge; Ugly could be a Flaw or a Body Descriptor.  at’s  ne. It is up to you, the Narrator and the other players to make a decision on whether a speci c Descriptor is appropriate or not for the stories you are telling.
+
+De quelle sorte de Descripteur s'agit-il ?
+
+Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, à charge pour le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter. -->
+
+#### Was sind gute Stärken und Schwächen?
+
+Dinge, die in anderen Spielen "Fertigkeiten" oder "Talente" heissen, eignen sich super als Stärken. Gute Beispiele sind **"Schwertkampf"**, **"unter Wasser atmen"** und **"gewinnendes Lächeln"**.
+Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie "riecht immer schlecht" oder "taub" sind bessere Schwächen als **"kann nicht Fahren"** oder **"kann kein Französisch"**. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche **"kann nicht schwimmen"** in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur vor Herausforderungen zu stellen, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.
+
+
+<!-- What makes a good Edge & Flaw?
+ ings that might be called “skills” or “feats” or “stunts” in other games make great Edges - stu  like ‘sword  ghting’, ‘breath underwater’, and ‘winning smile’ are all good examples.
+ e best Flaws are personality traits or physical shortcomings.  ings like ‘always smells bad’, or ‘deaf’ are better  aws than ‘can’t drive’ or ‘can’t speak French’. Of course, there are always exceptions. If the characters are British spies during the Napoleonic wars, not speaking French would be a real draw- back. Likewise, the Flaw ‘can’t swim’ becomes a great feature in a game of pirates and sea battles. Look for ways to challenge your character, add spice to games, and present obstacles to over- come.
+
+Qu'est-ce qui fait un bon Atout ou une bonne Faille ?
 
 Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les autres jeux font de très bon Atouts ; comme "**combattre à l'épée**", "**respirer sous l'eau**" ou "**un sourire ravageur**".
 
-Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique au temps des guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surmonter.
+Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique au temps des guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surmonter. -->
 
-#### Dois-je me spécialiser ?
+#### Soll ich mich spezialisieren?
+
+You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
+Describe your character’s Body as Huge and their Edge as Strong, if you
+want a wrestler, body builder or angry green super hero! Give your brilliant scientist Mind: Book-Smart and Edge: Rocket Science. Just be aware the more you specialise, the harder you will have to work in scenes unrelated to your forte. Some players like this challenge.
+
+Dois-je me spécialiser ?
+
+
 
 Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, Atout : **Combat en mêlée** et Faille : **Imprudent**. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, Atout : **Combat en mêlée** et Faille : **Imprudent**.
 
 Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **Science des fusées**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
 
-#### Descripteurs alternatifs
+#### Alternative Descriptors
+ e four default Descriptors (Body, Mind, Edge & Flaw) are not the only way to de ne your characters. Change or replace them to suit your game, set- ting and stories. In a game about giant mecha you might replace Body and Mind with Chassis and Pilot, for ex- ample. In a game where everyone plays di erent types of were-creatures one Descriptor might become Animal Form. In these cases some of the advice in this sidebar might also need to be adjusted; Animal Form: Jaguar is broader than the Descriptors discussed here, but is to- tally appropriate to capture the ideas of your game. Use your imagination and modify things as needed!
+
+
+Descripteurs alternatifs
 
 Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise !
 
