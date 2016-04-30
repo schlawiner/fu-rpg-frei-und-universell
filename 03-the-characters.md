@@ -99,7 +99,7 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer beschrieben.
 
-> **Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Riesig/Koloss, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
+> **Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
@@ -219,7 +219,10 @@ Les meilleures Failles sont des traits de personnalité ou des incapacités phys
 
 #### Soll ich mich spezialisieren?
 
-You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
+Du kannst deine Beschreiber auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER es gibt kaum Tiefe - in Situationen ohne Kampf wirst du schlecht dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
+Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als eine willkommene Herausforderung.
+
+<!-- You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
 Describe your character’s Body as Huge and their Edge as Strong, if you
 want a wrestler, body builder or angry green super hero! Give your brilliant scientist Mind: Book-Smart and Edge: Rocket Science. Just be aware the more you specialise, the harder you will have to work in scenes unrelated to your forte. Some players like this challenge.
 
@@ -229,15 +232,19 @@ Dois-je me spécialiser ?
 
 Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialiser". Pour obtenir un grand guerrier, proposez un Corps : **Fort**, Esprit : **Tacticien**, Atout : **Combat en mêlée** et Faille : **Imprudent**. Il serait facile de faire intervenir chacun de ses Descripteurs en jeu pendant un combat. MAIS ils ont peu de profondeur et vous seriez bloqué pendant les phases hors-combat. À la place, choisissez des options plus polyvalentes : Corps : **Résistant**, Esprit : **Concentré**, Atout : **Combat en mêlée** et Faille : **Imprudent**.
 
-Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **Science des fusées**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi.
+Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **Science des fusées**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi. -->
 
-#### Alternative Descriptors
+#### Beschreiber-Alternativen
+
+Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an euere Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen einige der hier genannten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.
+
+<!-- Alternative Descriptors
  e four default Descriptors (Body, Mind, Edge & Flaw) are not the only way to de ne your characters. Change or replace them to suit your game, set- ting and stories. In a game about giant mecha you might replace Body and Mind with Chassis and Pilot, for ex- ample. In a game where everyone plays di erent types of were-creatures one Descriptor might become Animal Form. In these cases some of the advice in this sidebar might also need to be adjusted; Animal Form: Jaguar is broader than the Descriptors discussed here, but is to- tally appropriate to capture the ideas of your game. Use your imagination and modify things as needed!
 
 
 Descripteurs alternatifs
 
-Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise !
+Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise ! -->
 
 ----
 
