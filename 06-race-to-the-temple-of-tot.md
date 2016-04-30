@@ -67,7 +67,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 > The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
 
-> Die Charaktere haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazihandlanger gerade aufgetaucht und wollen die Karte. Es sind eine Menge Handlanger und obwohl die Charaktere gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können die Charaktere entkommen?
+> Die Charaktere haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazischläger gerade aufgetaucht und wollen die Karte. Es sind eine Menge Schäger und obwohl die Charaktere gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können die Charaktere entkommen?
 
 <!--
 (S'échapper du Marché de Bulak)
