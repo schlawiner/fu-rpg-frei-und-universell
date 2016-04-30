@@ -1,6 +1,9 @@
 # Race to the Temple of Tot
+# Das Rennen zum Tempel von Tot 
 
 > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
+
+> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur alten Reliquie von Tot führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
 
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
 
