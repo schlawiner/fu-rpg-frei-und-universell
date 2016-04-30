@@ -1,11 +1,13 @@
 # Race to the Temple of Tot
-# Das Rennen zum Tempel von Tot 
+# Das Rennen um den Tempel von Tot 
 
 > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
 
 > Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur alten Reliquie von Tot führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
 
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
+
+Dieses kurze Abenteuer bringt euch direkt ins Geschehen und zeigt eine Art auf, in der ihr eure eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten könnt. Nutze die vorgefertigten Charaktere am Ende des Abenteuers. *Das Rennen um den Tempel von Tot* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Charaktere unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
 
@@ -14,10 +16,15 @@
 Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront tout un tas de rebondissements et qu'une fois les aventuriers lancés, tout est envisageable ! -->
 
 ## Before you begin
+## Vor dem Spiel
 
-Before starting play have a quick discussion about
-the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.  
-Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stu  they would like to see happen during the adventure. Note it all down - when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix!
+Before starting play have a quick discussion about the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.
+
+Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix! 
+
+Sprecht vor dem Spiel kurz über die Stimmung und den Stil. Das Szenario gehört mit der krassen Action, den ungeheurlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stellt sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
+
+Lies den kursiven Stimmungstext oben vor und lasse alle Mitspielerinnen sich ein paar coole Ideen einfallen, die sie während des Abenteuers gern erleben möchten. Schreibe dir die Info auf und falls das Spiel mal zäh werden sollte oder du nicht weißt, was du als nächstes tun willst, hole einer der Ideen heraus!
 
 <!-- (Avant de commencer)
 
