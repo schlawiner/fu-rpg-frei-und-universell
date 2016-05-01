@@ -35,7 +35,7 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Crayons et papier** : Les joueurs devront noter les informations sur leurs personnages, prendre des notes à propos de leur mission, et toutes ces sortes de choses. Le Narrateur aura également besoin de prendre en note les différents éléments de son histoire.
 
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
----
+
 ## Was ihr macht
 Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
@@ -54,9 +54,8 @@ play is a kind of conversation, where everyone works together to put the charact
 
 Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire à péripéties. Vous devrez concevoir des éléments de l'univers initial, et tout le monde aura sa chance pour poser son empreinte sur ce monde. La plupart des joueurs créeront un personnage qui fera partie des principaux protagonistes, ceux qui doivent "faire le taf". Chaque personnage a ses forces, ses faiblesses ou ses motivations qui vous aideront à incarner ce rôle. Un joueur sera le Narrateur, qui gère l'ensemble, présente les défis à surmonter pour les personnages, et applique les règles si nécessaire. Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour mettre les personnages dans des situations sympathiques ou amusantes. Ensuite, il faudra utiliser les dés pour savoir ce qui les attend. Parfois vous devrez travailler ensemble, lançant des idées à la ronde, suggérant et surenchérissant à qui mieux-mieux. C'est le chaos, mais avec de la chance, un chaos productif, et amusant. À d'autres moments vous devrez vous exprimer chacun votre tour pour décrire ce que fait votre personnage et constater le résultat de ses actes.-->
 
----
 ## Wie ihr's macht
-Wenn eine Spielerin etwas tut und das Ergebnis nicht eindeutig ist, wirft sie einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
+Wenn du etwas tust und das Ergebnis nicht eindeutig ist, wirf einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden<!--[^1]-->, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 <!--## How you do it
 To resolve any action where the outcome is not
@@ -79,9 +78,8 @@ decide what type of game you want to play, who the characters are going to be, a
 
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
------
 <div class="sidebar">
-### Sprecht vor dem Spielen miteinander!
+<h3>Sprecht vor dem Spielen miteinander!</h3>
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
@@ -104,9 +102,11 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
-### Der Sofort-Genre-Generator
+<h3> Der Sofort-Genre-Generator</h3>
 
 Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
+
+</div>
 
 <!--
 ### The Insta-Genre-Generator
@@ -117,6 +117,7 @@ For quick pick-up games, get every- one to write two genres or settings on bits 
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
 -->
-</div>
+<!--
 ----
 [^1] Anmerkung der Übersetzer: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
+-->

@@ -1,4 +1,5 @@
 /* CSS for website */
-.section {
+.sidebar {
   background-color: red;
+  column-count: 3;
 }
