@@ -67,16 +67,16 @@ tance running, resisting damage, performing feats of endurance, and healing.
 * **Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
 
 * **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
-* **Overweight:**
+* **Hässlich:** Probleme beim Verführen von Leuten, beim Bekommen einer Fernsehrolle
 
 * **Vigour:** great for resisting poison, long distance running, and other feats of endurance.
-* **Overweight:**
+* **Vitalität:** Giften widerstehen, Langstreckenläufe, Ausdauertätigkeiten
 
 * **Weak:** a pain when lifting, carrying, smashing and throwing stuff.
-* **Overweight:**
+* **Schwächlich:** Probleme beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
 
 * **Webbed Feet:** great for swimming, but terrible when buying shoes.
-* **Overweight:**
+* **Schwimmfüße:** Schwimmen, Probleme beim Kauf von Schuhen
 
 
 <!-- Descripteurs du Corps
