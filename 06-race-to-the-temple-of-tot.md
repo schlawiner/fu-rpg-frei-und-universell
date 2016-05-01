@@ -375,12 +375,21 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 ### Tennessee Smith, Daredevil Explorer
 
+### Tennessee Smith, Tollkühner Entdecker
+
 |        Character | Tennessee Smith                                                                         |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Deskriptoren** | Nimble, level Headed, Use Bull Whip, Afraid of Heights                                  |
 |         **Gear** | Bull Whip, Worn leather Jacket                                                          |
 |        **Drive** | Find the Idol of Tot                                                                    |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
+
+|        Charakter | Tennessee Smith                                                                         |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Behände, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
+|         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
+|        **Motiv** | Den Götzen von Tot finden                                                                    |
+|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
 
