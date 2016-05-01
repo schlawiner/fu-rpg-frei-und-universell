@@ -1,12 +1,12 @@
 # Race to the Temple of Tot
-# Das Rennen zum Tempel von Tot 
+# Das Rennen zum Tempel von Toth 
 
 > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
 
-> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Tot führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
+> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
 
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
-mit der ihr eure eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten könnt. Nutze die vorgefertigten Charaktere am Ende des Abenteuers. *Das Rennen um den Tempel von Tot* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Charaktere unterwegs sind, ist alles möglich!
+mit der ihr eure eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten könnt. Nutze die vorgefertigten Charaktere am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Charaktere unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
 
@@ -318,7 +318,7 @@ to the number of characters.
 **Scene**: A large stone chamber ingeniously lit by
 mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
 
-**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln erhellt wird. Der Götze von Tot, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
+**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln erhellt wird. Der Götze von Toth, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
 **Deskriptoren**: large bronze mirrors.
 
@@ -390,7 +390,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
 |         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
-|        **Motiv** | Den Götzen von Tot finden                                                                    |
+|        **Motiv** | Den Götzen von Toth finden                                                                    |
 |   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
