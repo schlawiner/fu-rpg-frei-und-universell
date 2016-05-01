@@ -259,11 +259,19 @@ Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie 
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
+**Notizen:** Fordere die Charaktere mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
+
 |      Adversaries | Stone Statue Guardian                               |
 |-----------------:|:----------------------------------------------------|
 | **Deskriptoren** | Big, Heavy, Slow, Relentless                        |
 |         **Gear** | Heavy Stone Weapons                                 |
 |   **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Slowed, ☐ Out of Action |
+
+|        Gegenspieler | Steinwächter                   |
+|-----------------:|:----------------------------------|
+| **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                   |
+|         **Ausrüstung** | Schwere Steinwaffen      |
+|   **Zustände** | Beschädigt, Aus dem Gleichgewicht, Verlangsamt, Außer Gefecht  |
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
