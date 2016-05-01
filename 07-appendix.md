@@ -9,6 +9,15 @@ Diese Liste an Dingen, für die Ein Beschreiber vor- oder nachteilig sein könnt
 
 Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque élément de la liste est un Descripteur, pour lequel on indique en quoi il peut être un avantage ou un handicap, ce qui peut aider à la fois les joueurs et le Narrateur. -->
 
+<!--
+**Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
+>
+> **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
+>
+> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
+>
+> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.-->
+
 ## Body Descriptors
 
 ## Körperliche Beschreiber
