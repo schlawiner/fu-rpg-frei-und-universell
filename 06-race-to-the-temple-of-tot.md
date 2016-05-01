@@ -192,14 +192,18 @@ to the number of characters.
 | **Deskriptoren** | Wide but narrow                |
 |   **Conditions** | ☐ Rickety, ☐ Blown all to hell |
 
-|        Challenge | Gou Zou Bridge                 |
+|        Herausforderung | Gou-Zou-Brücke                 |
 |-----------------:|:-------------------------------|
-| **Deskriptoren** | Wide but narrow                |
-|   **Conditions** | ☐ Rickety, ☐ Blown all to hell |
+| **Beschreiber** | Wide but narrow  [?]              |
+|   **Zustände** | Wacklig, In die Luft gejagt |
 
 **Notes:** You know you must introduce an approach- ing train, right?
 
+**Notizen:** Dir ist klar, dass du einen heranrasenden Zug in die Situation einbauen musst, oder?
+
 **What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured.
+
+**Was kann schiefgehen?** Die Brücke wird zerstört; Die Karte ist verloren; die Charaktere werden gefangengenommen
 
 <!-- (Les Gorges du Gou Zou)
 
