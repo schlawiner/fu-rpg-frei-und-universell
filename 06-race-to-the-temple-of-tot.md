@@ -438,7 +438,11 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Jimmy Sweet ist ein unbekümmerter Gassenjunge, der sich nie auf jemand anderen als sich selbst verlassen musste. Er ist drahtig, zäh und aufgeweckt und trägt eine freche haltung zur Schau, die ihn regelmäßig in Schwierigkeiten bringt. Jimmy versteckte sich als blinder Passagier auf einem Trampdampfer, um die Wunder der Welt zu sehen und sein Glück zu suchen.
 
+**Relationships**:  
+
 **Beziehungen:**  
+
+**Notes**:
 
 **Notizen:**
 
@@ -456,6 +460,8 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 ### Harvey Reed, Retired Boxer
 
+### Harvey Reed, ehemaliger Boxer
+
 |        Character | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Deskriptoren** | Strong, Thinks-on-his-Feet, Boxer, Ugly as Sin                                          |
@@ -463,11 +469,24 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Look out for Tennessee Smith                                                            |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
+|        Charakter | Harvey Reed                                                                             |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Sünde                                          |
+|         **Ausrüstung** | Roll of quarters [schwierig: einserseits tatsächlich eine Geldrolle, andererseits als Totschlägerersatz benutzt], Schlecht sitzender Anzug                                                     |
+|        **Motiv** | Auf Tennessee Smith aufpassen                                                            |
+|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+
 > Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure.
+
+> Harvey Reed ist ein kürzlich zurückgetretener Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
 **Relationships**:  
 
+**Beziehungen:**  
+
 **Notes**:
+
+**Notizen:**
 
 
 <!-- Harvey Reed, Boxeur à la retraite
