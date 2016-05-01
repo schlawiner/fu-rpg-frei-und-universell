@@ -120,7 +120,7 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 **Beschreiber:** Privat.
 
 > Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
-Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Können sie die Karte entschlüsseln?
+Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Werden sie die Karte entschlüsseln?
 
 
 |        Challenge | Translating the Map                             |
@@ -154,14 +154,21 @@ Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun ab
 **Qu'est-ce qui peut mal tourner ?** La carte est endommagée ; Les personnages se trompent dans leur traduction ; Ils n'arrivent pas à lire la carte et doivent faire appel à un expert en langues anciennes.
 -->
 
-### The Gou Zou Gorge (Die Gou-Zou-Schlucht)
+### The Gou Zou Gorge 
+### Die Gou-Zou-Schlucht
 
 **Scene**: The majestic Gou Zou Gorge, half a mile
 deep and crossed by a single iron girder railway bridge. Wide open plains lie on either side of the gorge and the Kow mountains lie in the distance.
 
+**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer Eisenträger-Bahnbrücke durchzogen. Weites, offenes Flachland lieg an beiden Seiten der Schlucht, die Kow-Berge befinden sich in der Ferne.
+
 **Descriptors**: open plains, Impassible Gorge.
 
+**Beschreiber:** offenes Flachland, unpassierbare Schlucht.
+
 > The characters follow the map to Gou Zou Gorge, by car or horse back. Giles Fishburne is ap- proaching fast, aboard the German dirigible Der Vogel. Do the characters cross the bridge safely? Do they keep their lead on the Germans?
+
+Die Charaktere folgen den Hinweisen auf der Karte per Automobil oder auf dem Pferd bis zur Gou-Zou-Schlucht. Giles Fishburn naht auch schnell heran, er befindet sich an Bord des deutschen Luftschiffs Der Vogel. Werden die Charaktere die Brücke sicher überqueren und ihren Vorsprung gegenüber den Deutschen halten?
 
 |     Adversaries | Nazi Bird Truppen                                 |
 |----------------:|:--------------------------------------------------|
