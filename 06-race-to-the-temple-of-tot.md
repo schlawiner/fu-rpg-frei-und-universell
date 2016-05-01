@@ -88,8 +88,8 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |      Gegenspieler | Nazischläger                                                           |
 |-----------------:|:-------------------------------------------------------------------------------|
 | **Beschreiber** | Ein Haufen Schläger, muskulöse Arier, nicht sehr schlau                                    |
-|         **Ausrüstung** | Laute Maschinengewehre                                                         |
-|   **Zustände** |  Verwirrt, Eingekreist, ausgebremst, [Out of Action/Ausser Gefecht] |
+| **Ausrüstung** | Laute Maschinengewehre                                                         |
+|   **Zustände** |  Verwirrt, Eingekreist, Ausgebremst, Außer Gefecht |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -176,8 +176,21 @@ Die Charaktere folgen den Hinweisen auf der Karte per Automobil oder auf dem Pfe
 |        **Gear** | Delicate Flying Harness, Deadly Stick Grenade     |
 |  **Conditions** | ☐ Confused, ☐ Grounded, ☐ Slowed, ☐ Out of Action |
 
+|     Gegenspieler | Nazi-Flugtruppen                                 |
+|----------------:|:--------------------------------------------------|
+| **Beschreiber** | Sie fliegen!, Beweglich                                  |
+| **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate     |
+|  **Zustände** | Verwirrt, Gestrandet, Verlangsamt, Außer Gefecht |
+
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
+
+**Notizen:** Die Anzahl der Flugtruppen entspricht der Zahl an Charakteren.
+
+|        Challenge | Gou Zou Bridge                 |
+|-----------------:|:-------------------------------|
+| **Deskriptoren** | Wide but narrow                |
+|   **Conditions** | ☐ Rickety, ☐ Blown all to hell |
 
 |        Challenge | Gou Zou Bridge                 |
 |-----------------:|:-------------------------------|
