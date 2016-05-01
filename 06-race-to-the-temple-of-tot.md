@@ -460,7 +460,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 ### Harvey Reed, Retired Boxer
 
-### Harvey Reed, ehemaliger Boxer
+### Harvey Reed, Ehemaliger Boxer
 
 |        Character | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
@@ -500,22 +500,27 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Harvey Reed a récemment raccroché les gants de boxe. Sa nouvelle vie de sédentaire lui a paru peu trop ennuyeuse, aussi il a rejoint son vieil ami Tennessee dans ses aventures. -->
 
-
+### October Jones, Girl Reporter
 ### October Jones, Junge Reporterin
-(Girl Reporter)
 
-|        Character | October Jones                                                                           |
+|        Charakter | October Jones                                                                           |
 |-----------------:|:----------------------------------------------------------------------------------------|
-| **Deskriptoren** | Beautiful, Witty, Good memory, Curious                                                  |
-|         **Gear** | Trusty Camera, Thick Notebook                                                           |
-|        **Drive** | Get the scoop on the real Tennessee Smith                                               |
-|   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
+| **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
+|         **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                           |
+|        **Motiv** | Bekomme einen Exklusivbericht über Tennessee Smith                                               |
+|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
 
 > October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants.
 
+> October Jones ist eine Reporterin und Abenteuerin, die durch den großen Reichtum ihres Vaters viele Freiheiten besitzt. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie möchte.
+
 **Relationships**:  
 
+**Beziehungen:**  
+
 **Notes**:
+
+**Notizen:**
 
 
 
