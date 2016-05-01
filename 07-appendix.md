@@ -24,30 +24,30 @@ the same time, or doing slight-of-hand magic tricks.
 you, not good if you spend too much time in the sun.
 * **Blondine:** gut, damit Leute einen unterschätzen, schlecht, falls man sich zu lange in der Sonne aufhält
 
-* Fake Orange Tan: great for passing as an aging
+* **Fake Orange Tan:** great for passing as an aging
 celebrity, and for drawing attention to yourself.
 * **Falsche Bräune:** damit geht man gut als alternde Berühmtheit durch und zieht generell Aufmerksamkeit auf sich
 
-* Furry: useful for resisting cold weather, and living in the woods.
+* **Furry:** useful for resisting cold weather, and living in the woods.
 * **Pezig:** nützlich, um kaltem Wetter zu widerstehen und in der Wildnis zu überleben
 
-* Handsome: useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
-* Huge: good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* Overweight: a problem when exercising and
+* **Handsome:** useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
+* **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
+* **Overweight:** a problem when exercising and
 borrowing clothes.
-* Poor Constitution: a hindrance when long dis-
+* **Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
-* Quick: handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-* Razor-sharp Claws: great for slicing up en- emies, cutting vegetables and maybe climbing trees.
-* Short: a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
-* Slow: a problem when running, dodging, and reacting to things.
-* Strong: useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
-* Tall: good for reaching the top shelf, climbing, and seeing over other people’s heads.
-* Thin: handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
-* Ugly: a problem when trying to seduce someone, or get a role on T.V.
-* Vigour: great for resisting poison, long distance running, and other feats of endurance.
-* Weak: a pain when lifting, carrying, smashing and throwing stuff.
-* Webbed Feet: great for swimming, but terrible when buying shoes.
+* **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
+* **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
+* **Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
+* **Slow:** a problem when running, dodging, and reacting to things.
+* **Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
+* **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
+* **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
+* **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
+* **Vigour:** great for resisting poison, long distance running, and other feats of endurance.
+* **Weak:** a pain when lifting, carrying, smashing and throwing stuff.
+* **Webbed Feet:** great for swimming, but terrible when buying shoes.
 
 
 <!-- Descripteurs du Corps
