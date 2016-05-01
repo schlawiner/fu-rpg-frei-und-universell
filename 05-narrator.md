@@ -2,7 +2,7 @@
 
 Following is some simple, straightforward advice for Narrators. It is all fairly generic because all the specific stuff is going to relate to the genre, tone and style of game that you and your players choose to play.
 
-Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlich allgemein gehalten, weil die spezifischeren Sachen sich auf das gewählte Genre, die Stimmung und den Spielstil beziehen, für den ihr euch als Gruppe entschieden habt.
+Hier findest du einfache Ratschläge für dich als Erzählerin. Sie sind ziemlich allgemein gehalten, weil die spezifischeren Details sich auf das gewählte Genre, die Stimmung und den Spielstil beziehen, für die ihr euch als Gruppe entscheiden werdet.
 
 <!--Ce qui suit est un ensemble de conseils simples à l'intention du Narrateur. Ils sont d'ordre général, parce que tout ce qui est spécifique sera lié au genre, au ton et au style de jeu que vous et vos joueurs aurez choisi.-->
 
@@ -14,9 +14,9 @@ Start your game with a conversation. Talk about
 what players want out of the game, what you want, and where those ideas overlap. Those overlaps are likely where everyone is going to have the most fun. At the very least you should work together to establish the genre and tone of your shared story. Talk about this stuff too, so that everyone is clear of the specfics (there is a world of difference between Gothic horror and splatter films, for example).  
 Talk during the game too. Encourage players to share ideas and give input into scenes, objectives and the challenges characters face. If you need to clarify ideas, themes or issues then do that.
 
-Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spielerinnen erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens zusammen das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
+Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spielerinnen erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte zusammen besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
 
-Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spielerinnen ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern.Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
+Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spielerinnen ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
 
 <!--(Parler, c'est bien)
 Démarrez votre jeu par le dialogue. Parlez de ce que les joueurs aimeraient retirer du jeu, ce que vous voulez, et où ces idées se rejoignent. Ces points communs ont de fortes chances d'être les moments où tout le monde s'amusera. *A minima*, vous devrez oeuvrer ensemble pour déterminer le genre et le ton de votre histoire. Dialoguez sur tout, pour que tout le monde soit en accord avec les spécificités (il y a un monde entre les styles "horreur gothique" et "gore", par exemple).
@@ -30,7 +30,7 @@ Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées e
 
 If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool.
 
-Wo es ein Gespräch gibt, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir im Gespräch etwas sagen oder im Spiel mit ihren Figuren etwas tun. Benutze im Spiel Dinge, die mit den [Deskrtiptoren] auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
+Wo miteinander gesprochen wird, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir etwas sagen oder im Spiel mit ihren Figuren etwas tun. Benutze im Spiel Dinge, die mit den Beschreibern auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
 
 <!--(Écouter, c'est bien)
 S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
@@ -42,7 +42,7 @@ S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous
 When running games don’t plan too much ahead
 of time. The dice rolls are going to direct a lot of the action, and you and the players will fill in the gaps by applying Conditions and Details. Here are some tips to keep things moving and help you enjoy the game as much as the players do.
 
-Plane vor dem Leiten eines Spiels nicht zu weit voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und du sowie deine Spielerinnen werden die auftretenden Lücken durch [Conditions] und [Details] füllen. Hier sind einige Tipps, um das Spiel am Laufen zu halten und dir dabei zu helfen, das Spiel genau so zu genießen wie die Spielerinnen.
+Plane vor dem Leiten eines Spiels nicht zu weit voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und du sowie deine Spielerinnen werden die auftretenden Lücken durch Zustände und Umgebungsdetails füllen. Hier sind einige Tipps, um das Spiel am Laufen zu halten und dir dabei zu helfen, das Spiel genau so zu genießen wie die Spielerinnen.
 
 **Keep things simple:** Do not complicate your job
 by introducing lots of sub-plots or convoluted twists. Things will get all messed about by themselves and the story will run off on tangents that you never dreamed of.  
@@ -55,8 +55,7 @@ by introducing lots of sub-plots or convoluted twists. Things will get all messe
 
 **Say "yes":** if players make suggestions or ask ques- tions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. encourage this and condently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players in- troduce elements into the story when the time is right.
 
-**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich,
-weil sie an der laufenden Geschichte [Interesse] haben.
+**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich, weil sie an der laufenden Geschichte Interesse haben. Sie haben wahrscheinlich eine coole Idee für die Geschichte. Ermuntere sie und sag "ja" zu solchen Eingaben. Das soll nicht heißen, dass die Spielerinnen alles bekommen sollten, was sie möchten – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
 **Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story.
 
