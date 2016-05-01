@@ -393,6 +393,8 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
 
+> Tennessee Smith ist ein freundlicher Geschichtsprofessor, in seiner Freizeit reist er allerdings in die Wildnis, um nach verschollenen Artefakten und Schätzen zu suchen. Auf eine raue Art gutaussehend, scheint er immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und er gerät oft in Teufels Küche.
+
 **Relationships**:  
 
 **Notes**:
