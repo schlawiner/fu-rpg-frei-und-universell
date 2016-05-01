@@ -1,6 +1,6 @@
 ### Die Grundlagen
 
-Der Text von FU geht davon aus, dass wenigstens eine/r der Spieler/innen Rollenspiele kennt und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
+Der Text von FU geht davon aus, dass wenigstens eine der Spielerinnen schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
 
@@ -9,11 +9,11 @@ FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de
 ## Was ihr braucht
 Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
-**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede/r Spieler/in etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen sollt.
+**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede Spielerin etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen sollt.
 
-**Stifte und Papier**: Die Spieler/innen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Der/die Erzähler/in braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
+**Stifte und Papier**: Die Spielerinnen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Die Erzählerin braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
-**Schmierpapier**: Für Erzähler/innen kann es nützlich sein, einen kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch ein kleines Whiteboard.
+**Schmierpapier**: Für Erzählerinnen kann es nützlich sein, einen kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich auch ein kleines Whiteboard.
 
 <!-- ## What you need
 To play FU you will need to gather a few things.
@@ -39,7 +39,7 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 ## Was ihr macht
 Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Geschichte zu erzählen. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-Die meisten Spieler/innen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Ein/e der Spieler/innen ist Erzähler/in, dessen/deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und über Regelfragen zu entscheiden, wenn das nötig sein sollte.
+Die meisten Spielerinnen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist Erzählerin, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen das letzte Wort zu haben, wenn das nötig sein sollte.
 
 Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
 
@@ -56,7 +56,7 @@ Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire
 
 ---
 ## Wie ihr's macht
-Wenn bei einer Handlung das Ergebnis nicht klar zu entscheiden ist, werft ihr einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
+Wenn eine Spielerin etwas tut und das Ergebnis nicht eindeutig ist, wirft sie einen W6. Das Ziel ist es, die "Wahrscheinlichkeit zu überwinden"/"nicht krumm zu sein" [^1], indem du eine gerade Zahl wirfst. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 <!--## How you do it
 To resolve any action where the outcome is not
@@ -69,8 +69,8 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 
 ----
 ## Vor dem Losspielen
-Bevor es richtig losgehen kann, musst du mit deinen Freunden entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielern, coole Figuren zu gestalten und zeigt dem/der Erzähler/in, welche Rolle er/sie übernimmt.
-Vielleicht sind diese Dinge ja schon entschieden, sei es durch den/die Erzähler/in oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
+Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu gestalten und zeigt der Erzählerin, welche Rolle sie übernimmt.
+Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
 
 <!--## Before play
 Before anything else, you and your friends must
@@ -81,16 +81,16 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
-### Sprecht vor dem Spielen miteinander! [Rohübersetzung, 17.04.2016 - 20:42]
-Unterhaltet euch über die Art des Spieles, die ihr spielen wollt, so dass alle eine gemeinsame Vorstellung davon haben. Einigt euch über den Umgangston, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertriebenes Schauspielern oder blutige Gewalthandlungen Lob oder Schelte bekommt.
+<div>
+### Sprecht vor dem Spielen miteinander!
 
-Lasst euch Ideen zur Spielwelt, [imagery], [set-pieces], coole Klischees und abgefahrene Szenen einfallen. Dadurch bekommt jeder eine klare Vorstellung davon, worum es im Spiel gehen wird. Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spieler vom Spiel wollen (oder brauchen). Sie legt fest, ob die Spieler sich wie epische Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen möchten.
+Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
-[Tinas Version vom 17.04.16]
-### Redet vor dem Spielen miteinander!
-Unterhaltet euch darüber, welche Art Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist. Steckt den Ton, das Thema und eventuelle Erwartungen ab. Es ist zum Beispiel nicht unwichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder doch eher Spott ernten wird.
-Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder unkonventionelle Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder ein klares Bild im Kopf, worum es im Spiel gehen wird.
-Diese Diskussion gibt auch dem/der Erzähler/in nützliche Hinweise dafür, was die Spieler sich vom Spiel wünschen oder erwarten. Sie legt fest, ob die Spieler sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
+Einigt euch über die Grundstimmung, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder eher Buhrufe ernten wird.  
+
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel gehen wird.  
+
+Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob die Spielerinnen sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
 <!--### Talk before play!
 Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
@@ -106,7 +106,8 @@ Cette discussion peut amener des éléments au Narrateur sur ce que veulent les 
 
 -----
 ### Der Sofort-Genre-Generator
-Für schnelle Spiele zum sofortigen Loslegen soll jeder zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über den Ton, Themen, mögliche Geschichten und Figuren und spielt dann los!
+
+Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 <!--
 ### The Insta-Genre-Generator
@@ -117,5 +118,6 @@ For quick pick-up games, get every- one to write two genres or settings on bits 
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
 -->
+</div>
 ----
 [^1] Anmerkung der Übersetzer: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
