@@ -14,25 +14,29 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 ## Körperliche Beschreiber
 
 * **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
-* **Beweglich:** nützlich beim Tanzen, Springen, Balancieren, der Gymnastik und dem Kriechen durch enge Umgebungen
+* **Beweglich:** Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
 
 * **Ambidextrous:** great when shooting two guns at
 the same time, or doing slight-of-hand magic tricks.
-* **Beidhändig:** toll für das gleichzeitige Schießen mit zwei Waffen, oder Taschenspielertricks
+* **Beidhändig:** gleichzeitiges Schießen mit zwei Waffen, Taschenspielertricks
 
 * **Blonde:** good for getting people to underestimate
 you, not good if you spend too much time in the sun.
-* **Blondine:** gut, damit Leute einen unterschätzen, schlecht, falls man sich zu lange in der Sonne aufhält
+* **Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneintrahlung
 
 * **Fake Orange Tan:** great for passing as an aging
 celebrity, and for drawing attention to yourself.
-* **Falsche Bräune:** damit geht man gut als alternde Berühmtheit durch und zieht generell Aufmerksamkeit auf sich
+* **Falsche Bräune:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
 
 * **Furry:** useful for resisting cold weather, and living in the woods.
-* **Pezig:** nützlich, um kaltem Wetter zu widerstehen und in der Wildnis zu überleben
+* **Pelzig:** kaltem Wetter widerstehen, in der Wildnis überleben
 
-* **Handsome:** useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
+* **Handsome:** useful for  flirting, selling stuff , getting roles on T.V., modelling, and being popular.
+* * **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
+
 * **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
+* * **Groß:** bedrohlich aussehen, an hohe Dinge heranzukommen, eine Bodybuilderin spielen, in kleinen
+
 * **Overweight:** a problem when exercising and
 borrowing clothes.
 * **Poor Constitution:** a hindrance when long dis-
