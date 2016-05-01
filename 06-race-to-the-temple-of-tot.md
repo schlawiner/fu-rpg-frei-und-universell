@@ -275,7 +275,11 @@ Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie 
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
+**Notizen:** Für je zwei Charaktere gibt es einen Steinwächter. Die großen, schweren Waffen können mehrere Charaktere gleichzeitg treffen.
+
 **What can go wrong?** Characters cannot get past traps; characters are injured by traps.
+
+**Was kann schiefgehen?** Die Charaktere können die Fallen nicht überwinden; die Charaktere werden durch die Fallen verletzt.
 
 <!-- Le Temple
 
