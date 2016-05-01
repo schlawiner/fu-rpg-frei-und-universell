@@ -340,6 +340,8 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
+**Notizen:** giles ist ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er zu fliehen versuchen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
+
 <!-- La Chambre de l'Idole
 
 **Scène**: Une grande chambre de pierre illuminée de manière ingénieuse par des miroirs reflétant la lumière du soleil. L'Idole de Tot - une statue dorée d'un singe à sept têtes - sise sur un piédestal de pierre au centre de la pièce.
@@ -359,8 +361,12 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 ## Characters
 
+## Charaktere
+
 Four pre-made characters can be found on the next
-page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should de ne one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
+page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should define one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
+
+Auf der nächsten Seite befinden sie vier vorgefertigte Charaktere. Sie sind alle Beispiele klassischer Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin verändern, zum Beispiel durch Abwabdlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Die Spieler sollten die Beziehungen ihrer Charaktere untereinander klären und festlegen, woher sie sich kennen. Ein schneller und einfacher Weg ist es, die Charaktere beschreiben zu lassen, woher sie die Person links von ihnen kennen.
 
 <!-- Personnages
 
