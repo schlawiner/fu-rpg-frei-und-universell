@@ -43,6 +43,7 @@ Die hier vorgestellten Szenen beinhalten eine Beschreibung, wo ihre Handlung sta
 Les scènes proposées ici comportent une description du lieu de l'action et suggèrent des Deskriptoren que vous ou les joueurs pourrez incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs. -->
 
 ### Challenges
+
 ### Herausforderungen
 
 The challenges and adversaries in this adventure
@@ -54,6 +55,7 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind mit ihren relevant
 Les défis et les adversaires de cette aventure sont notés dans des tableaux avec leurs Descripteurs, Conditions et Notes. Ce sont des guides et vous pouvez vous en passer. Vos propres idées géniales seront toujours meilleures que ce qui est écrit ici. -->
 
 ### Escape the Bulak Market
+
 ### Flucht vom Bulak-Markt
 
 **Scene**: Central Asia - a bustling market in the city of Bulak - midday. Tall stone and mud-brick buildings with narrow arched windows surround the central market; stalls and cafes, bars and emporiums run off in all directions along winding, narrow streets.
@@ -66,7 +68,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 > The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
 
-> Die Charaktere haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazihandlanger aufgetaucht und wollen gleichermaßen die Karte. Es sind eine Menge Schläger und obwohl die Charaktere gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können die Charaktere entkommen?
+> Die Figuren haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazihandlanger aufgetaucht und wollen gleichermaßen die Karte. Es sind eine Menge Schläger und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können ie entkommen?
 
 <!--
 (S'échapper du Marché de Bulak)
