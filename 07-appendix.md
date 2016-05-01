@@ -61,10 +61,10 @@ tance running, resisting damage, performing feats of endurance, and healing.
 * **Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
 
 * **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
-* **Overweight:**
+* **Groß:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
 
 * **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
-* **Overweight:**
+* **Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
 
 * **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
 * **Overweight:**
