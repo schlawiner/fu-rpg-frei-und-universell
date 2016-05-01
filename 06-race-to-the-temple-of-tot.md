@@ -67,7 +67,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 > The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
 
-> Die Charaktere haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazischläger gerade aufgetaucht und wollen die Karte. Es sind eine Menge Schäger und obwohl die Charaktere gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können die Charaktere entkommen?
+> Die Charaktere haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazischläger aufgetaucht und wollen gleichermaßen die Karte. Es sind eine Menge Schläger und obwohl die Charaktere gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können die Charaktere entkommen?
 
 <!--
 (S'échapper du Marché de Bulak)
@@ -85,6 +85,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |         **Gear** | Noisy Sub-machine guns                                                         |
 |   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht |
 
+|      Gegenspieler | Nazischläger                                                           |
+|-----------------:|:-------------------------------------------------------------------------------|
+| **Beschreiber** | Ein Haufen Schläger, muskulöse Arier, nicht sehr schlau                                    |
+|         **Ausrüstung** | Laute Maschinengewehre                                                         |
+|   **Zustände** |  Verwirrt, Eingekreist, ausgebremst, [Out of Action/Ausser Gefecht] |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -95,28 +100,42 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 -->
 
  **Notes**: There are a number of goon squads equal to the number of characters.
+**Notizen:** Die Anzahl der Schlägerkader entspricht der Zahl an Charakteren.
 
  **What can go wrong?** The characters are cap- tured; The map is lost.
+**Was könnte schiefgehen?** Die Charaktere werden gefangen, die Karte wäre dann verloren
 
 <!-- **Notes**: Le nombre d'ennemis est égal au nombre de personnages.
 
 **Qu'est-ce qui peut mal tourner ?** Les personnages sont capturés ; La carte est perdue. -->
 
 ### Translating the Map
+### Die Übersetzung der Karte
 
 **Scene**: A dark coffee lounge, cafe or back room,
 somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room.
+**Szene:** Ein dunkler Cafésalon oder ein Hinterzimmer
 
 **Descriptors**: Private.
+**Beschreiber:** Privat.
 
 > Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
+Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Können sie die Karte entschlüsseln?
+
 
 |        Challenge | Translating the Map                             |
 |-----------------:|:------------------------------------------------|
 | **Deskriptoren** | Ancient glyphs, Brittle paper                   |
 |   **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp |
 
+|        Herausforderung | Die Übersetzung der Karte                             |
+|-----------------:|:------------------------------------------------|
+| **Beschreiber** | URalte Schriftzeichen, brüchiges Papier                   |
+|   **Zustände** Zerfleddert, Ruiniert, Verschmiert, Verbrannt [zu Asche verbrannt passt mir hier nicht] |
+
 **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
+**Was kann schiefgehen?** Die Karte ist beschädigt; die Charaktere missverstehen die Karte; Sie können die Karte nicht entziffern und müssen als Helfer einen Sprachexperten verdingen.
+
 
 <!-- Déchiffrer la carte
 
