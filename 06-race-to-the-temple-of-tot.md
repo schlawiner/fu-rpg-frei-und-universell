@@ -232,10 +232,14 @@ to the number of characters.
 **Qu'est-ce qui peut mal tourner ?** Le pont est démoli ; La carte est perdue ; Les personnages sont capturés. -->
 
 ### The Temple
-
+### Der Tempel
 **Scene**: An ancient temple fashioned into the side of a mountain. Grand statues of sinister looking gods and daemons line the walls. Dust covers everything. The tunnel leads deeper into the mountain.
 
+**Szene:** Ein uralter Tempel, der in die Seite eines Berges eingelassen ist. Gewaltige Statuen düster aussehender Götter und Dämonen bedecken die Wände. Staub überdeckt alles. Tunnel führen tiefer in den Berg hinein.
+
 **Descriptors**: Dark, Silent.
+
+**Beschreiber:** Dunkel, Still
 
 > The characters must penetrate the heart of the temple, but the map warned of nefarious traps and terrible guardians. Do they get past the traps and guardians?
 
