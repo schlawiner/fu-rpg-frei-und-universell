@@ -67,7 +67,6 @@ clear, roll a d6. Your objective is to ‘beat the odds’ by rolling an even nu
 Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but est de "ne pas faire d'impair"[^1] en réussissant un résultat pair. Plus le chiffre pair sera haut, meilleur sera le résultat. Si vous avez un score impair, l'action échouera, ou ne sera pas aussi positive que voulue ou attendue. Plus le nombre impair sera faible, plus le résultat sera mauvais. En fonction de l'environnement, de vos talents, de votre équipement ou de vos habilités, une action pourra être plus facile ou plus difficile, et vous devrez lancer plusieurs dés pour ne conserver que le meilleur ou le pire résultat.
 -->
 
-----
 ## Vor dem Losspielen
 Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu gestalten und zeigt der Erzählerin, welche Rolle sie übernimmt.
 Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
@@ -81,7 +80,7 @@ decide what type of game you want to play, who the characters are going to be, a
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
 -----
-<div>
+<div class="sidebar">
 ### Sprecht vor dem Spielen miteinander!
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
