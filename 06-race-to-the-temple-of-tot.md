@@ -120,7 +120,8 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 **Beschreiber:** Privat.
 
 > Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
-Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Werden sie die Karte entschlüsseln?
+
+> Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Werden sie die Karte entschlüsseln?
 
 
 |        Challenge | Translating the Map                             |
@@ -130,7 +131,7 @@ Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun ab
 
 |        Herausforderung | Die Übersetzung der Karte                             |
 |-----------------:|:------------------------------------------------|
-| **Beschreiber** | URalte Schriftzeichen, brüchiges Papier                   |
+| **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                   |
 |   **Zustände** Zerfleddert, Ruiniert, Verschmiert, Verbrannt [zu Asche verbrannt passt mir hier nicht] |
 
 **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
@@ -168,7 +169,7 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 
 > The characters follow the map to Gou Zou Gorge, by car or horse back. Giles Fishburne is ap- proaching fast, aboard the German dirigible Der Vogel. Do the characters cross the bridge safely? Do they keep their lead on the Germans?
 
-Die Charaktere folgen den Hinweisen auf der Karte per Automobil oder auf dem Pferd bis zur Gou-Zou-Schlucht. Giles Fishburn naht auch schnell heran, er befindet sich an Bord des deutschen Luftschiffs Der Vogel. Werden die Charaktere die Brücke sicher überqueren und ihren Vorsprung gegenüber den Deutschen halten?
+> Die Charaktere folgen den Hinweisen auf der Karte per Automobil oder auf dem Pferd bis zur Gou-Zou-Schlucht. Giles Fishburn naht auch schnell heran, er befindet sich an Bord des deutschen Luftschiffs Der Vogel. Werden die Charaktere die Brücke sicher überqueren und ihren Vorsprung gegenüber den Deutschen halten?
 
 |     Adversaries | Nazi Bird Truppen                                 |
 |----------------:|:--------------------------------------------------|
@@ -243,7 +244,7 @@ to the number of characters.
 
 > The characters must penetrate the heart of the temple, but the map warned of nefarious traps and terrible guardians. Do they get past the traps and guardians?
 
-Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Werden sie die Hindernisse überwinden?
+> Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Werden sie die Hindernisse überwinden?
 
 |        Challenge | Nefarious Traps                   |
 |-----------------:|:----------------------------------|
@@ -310,10 +311,16 @@ Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie 
 
 ### The Idol Chamber
 
+### Die Götzen-Kammer
+
 **Scene**: A large stone chamber ingeniously lit by
 mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
 
+**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln erhellt wird. Der Götze von Tot, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
+
 **Deskriptoren**: large bronze mirrors.
+
+**Beschreiber:** Große Bronzespiegel.
 
 > The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and es- cape with the Idol?
 
