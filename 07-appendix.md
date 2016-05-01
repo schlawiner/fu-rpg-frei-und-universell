@@ -35,23 +35,48 @@ celebrity, and for drawing attention to yourself.
 * * **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
 
 * **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* * **Groß:** bedrohlich aussehen, an hohe Dinge heranzukommen, eine Bodybuilderin spielen, in kleinen
+* * **Riesig:** bedrohlich aussehen, an hohe Dinge heranzukommen, eine Bodybuilderin spielen, in kleinen
 
 * **Overweight:** a problem when exercising and
 borrowing clothes.
+* **Übergewichtig:** Probleme beim Sport und beim Ausleihen von Kleidung
+
 * **Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
+* **Schlechte Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
+
 * **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
+* **Overweight:**
+
 * **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
+* **Overweight:**
+
 * **Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
+* **Overweight:**
+
 * **Slow:** a problem when running, dodging, and reacting to things.
+* * **Overweight:**
+
 * **Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
+* **Overweight:**
+
 * **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
+* **Overweight:**
+
 * **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
+* **Overweight:**
+
 * **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
+* **Overweight:**
+
 * **Vigour:** great for resisting poison, long distance running, and other feats of endurance.
+* **Overweight:**
+
 * **Weak:** a pain when lifting, carrying, smashing and throwing stuff.
+* **Overweight:**
+
 * **Webbed Feet:** great for swimming, but terrible when buying shoes.
+* **Overweight:**
 
 
 <!-- Descripteurs du Corps
