@@ -1,9 +1,9 @@
 # Appendix - Descriptors
-# Anhang – [Deskriptoren]
+# Anhang – Beschreiber
 
 This list is by no means exhaustive, but it’s a good place to start. each entry lists the kinds of things a Descriptor might be an advantage or hindrance for, which makes it a handy reference for both players and Narrators.
 
-Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag listet die Dinge auf, für die ein Deskriptor vor- oder nachteilig sein könnte. Dadurch wird die Auflistung zu einer nützlichen Referenz für sowohl Spielerinnen als auch Erzählerinnen.
+Diese Liste an Dingen, für die Ein Beschreiber vor- oder nachteilig sein könnte, ist bei weitem nicht vollständig, aber ein guter Startpunkt. Sie ist als nützliche Referenz für sowohl Erzählerinnen als auch Spielerinnen gedacht.
 
 <!-- Appendice - Descripteurs
 
@@ -11,14 +11,26 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 
 ## Body Descriptors
 
+## Körperliche Beschreiber
+
 * **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
-* Ambidextrous: great when shooting two guns at
+* **Beweglich:** nützlich beim Tanzen, Springen, Balancieren, der Gymnastik und dem Kriechen durch enge Umgebungen
+
+* **Ambidextrous:** great when shooting two guns at
 the same time, or doing slight-of-hand magic tricks.
-* Blonde: good for getting people to underestimate
+* **Beidhändig:** toll für das gleichzeitige Schießen mit zwei Waffen, oder Taschenspielertricks
+
+* **Blonde:** good for getting people to underestimate
 you, not good if you spend too much time in the sun.
+* **Blondine:** gut, damit Leute einen unterschätzen, schlecht, falls man sich zu lange in der Sonne aufhält
+
 * Fake Orange Tan: great for passing as an aging
 celebrity, and for drawing attention to yourself.
+* **Falsche Bräune:** damit geht man gut als alternde Berühmtheit durch und zieht generell Aufmerksamkeit auf sich
+
 * Furry: useful for resisting cold weather, and living in the woods.
+* **Pezig:** nützlich, um kaltem Wetter zu widerstehen und in der Wildnis zu überleben
+
 * Handsome: useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
 * Huge: good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
 * Overweight: a problem when exercising and
