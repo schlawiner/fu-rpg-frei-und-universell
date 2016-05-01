@@ -85,9 +85,9 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |         **Gear** | Noisy Sub-machine guns                                                         |
 |   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht |
 
-|      Gegenspieler | Nazischläger                                                           |
+|      Gegenspieler | Nazi-Handlanger                                                           |
 |-----------------:|:-------------------------------------------------------------------------------|
-| **Beschreiber** | Ein Haufen Schläger, muskulöse Arier, nicht sehr schlau                                    |
+| **Beschreiber** | Ein Haufen Handlanger, muskulöse Arier, nicht sehr schlau                                    |
 | **Ausrüstung** | Laute Maschinengewehre                                                         |
 |   **Zustände** |  Verwirrt, Eingekreist, Ausgebremst, Außer Gefecht |
 
@@ -311,7 +311,7 @@ to the number of characters.
 
 ### The Idol Chamber
 
-### Die Götzen-Kammer
+### Die Kammer des Götzen
 
 **Scene**: A large stone chamber ingeniously lit by
 mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
@@ -324,11 +324,19 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 > The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and es- cape with the Idol?
 
+> Die Charaktere betreten die Kammer des Götzen, um herauszufinden, dass Giles Fishburn und seine Nazihandlanger auch vor Ort sind! Werden sie Giles besiegen und mit dem Götzen entkommen?
+
 |        Adversary | Giles Fishburne                                  |
 |-----------------:|:-------------------------------------------------|
 | **Descripteurs** | Smart, Arrogant, Sword Fighter                   |
 |         **Gear** | Polished Sabre                                   |
 |   **Conditions** | ☐ Confused, ☐ Injured, ☐ Slowed, ☐ Out of Action |
+
+|        Gegenspieler | Giles Fishburne                                  |
+|-----------------:|:-------------------------------------------------|
+| **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                   |
+|         **Ausrüstung** | Polierter Säbel                                   |
+|   **Zustände** | Verwirrt, Verletzt, Verlangsamt, Außer Gefecht |
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
