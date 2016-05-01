@@ -243,11 +243,19 @@ to the number of characters.
 
 > The characters must penetrate the heart of the temple, but the map warned of nefarious traps and terrible guardians. Do they get past the traps and guardians?
 
+Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnte sie die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Werden sie die Hindernisse überwinden?
+
 |        Challenge | Nefarious Traps                   |
 |-----------------:|:----------------------------------|
 | **Deskriptoren** | Hidden, Deadly                    |
 |         **Gear** | Poison Darts, Rusting Spears      |
 |   **Conditions** | ☐ Disarmed, ☐ Set-off, ☐ Revealed |
+
+|        Herausforderung | Hinterhältige Fallen                   |
+|-----------------:|:----------------------------------|
+| **Beschreiber** | Verborgen, Tödlich                    |
+|         **Ausrüstung** | Giftpfeile, Rostige Speere      |
+|   **Zustände** | Entwaffnet, Ausgelöst, Entdeckt |
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
