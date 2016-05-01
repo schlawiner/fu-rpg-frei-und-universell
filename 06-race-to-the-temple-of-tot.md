@@ -199,7 +199,7 @@ to the number of characters.
 
 |        Herausforderung | Gou-Zou-Brücke                 |
 |-----------------:|:-------------------------------|
-| **Beschreiber** | Wide but narrow  [?]              |
+| **Beschreiber** | Ohne Zug drauf breit genug, mit Zug ziemlich schmal              |
 |   **Zustände** | Wacklig, In die Luft gejagt |
 
 **Notes:** You know you must introduce an approach- ing train, right?
