@@ -46,19 +46,19 @@ tance running, resisting damage, performing feats of endurance, and healing.
 * **Schlechte Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
 
 * **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-* **Overweight:**
+* **Schnell:** Wegducken, Taschenspielertricks, Ausweichen
 
 * **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
-* **Overweight:**
+* **Rasiermesserscharfe Klauen:** Gegner aufschlitzen, Obst und Gemüse schneiden, vielleicht beim Bäumehochklettern
 
 * **Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
-* **Overweight:**
+* **Klein:** nicht an hohe Sachen herankommen, unter Objekte kriechen, in der Menge verlorengehen
 
 * **Slow:** a problem when running, dodging, and reacting to things.
-* * **Overweight:**
+* **Langsam:** Probleme beim Laufen, Ausweichen und Reagieren
 
 * **Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
-* **Overweight:**
+* **Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
 
 * **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
 * **Overweight:**
