@@ -474,7 +474,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        Charakter | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                          |
-|         **Ausrüstung** | Roll of quarters [schwierig: einserseits tatsächlich eine Geldrolle, andererseits als Totschlägerersatz benutzt], Schlecht sitzender Anzug                                                     |
+|         **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                     |
 |        **Motiv** | Auf Tennessee Smith aufpassen                                                            |
 |   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
 
