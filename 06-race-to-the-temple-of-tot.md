@@ -393,12 +393,15 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
 
-> Tennessee Smith ist ein freundlicher Geschichtsprofessor, in seiner Freizeit reist er allerdings in die Wildnis, um nach verschollenen Artefakten und Schätzen zu suchen. Auf eine raue Art gutaussehend, scheint er immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und er gerät oft in Teufels Küche.
+> Tennessee Smith ist ein freundlicher Geschichtsprofessor, in seiner Freizeit reist er allerdings oft in die Wildnis, um nach verschollenen Artefakten und Schätzen zu suchen. Auf eine raue Art gutaussehend, scheint er immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und er gerät oft in Teufels Küche.
 
 **Relationships**:  
 
+**Beziehungen:**
+
 **Notes**:
 
+**Notizen:**
 
 
 <!-- Tennessee Smith, Explorateur Intrépide
@@ -412,8 +415,10 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Tennessee Smith est un professeur d'histoire, bien éduqué, mais dans ses temps libres il voyage dans les contrées sauvages pour retrouver des artefacts perdus et des trésors. Au charme rugueux, il allie une sorte de calme permanent, quel que soit le danger face à lui - et il a tendance à souvent se présenter. -->
 
-### Jimmy Sweet, Beherzter/Unerschrockener Gassenjunge
-(Jimmy Sweet, Plucky Kid)
+### Jimmy Sweet, Plucky Kid
+
+### Jimmy Sweet, Beherzter Gassenjunge
+
 
 |        Character | Jimmy Sweet                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
@@ -422,11 +427,20 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | See the 7 wonders of the world                                                          |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
+|        Charakter | Jimmy Sweet                                                                             |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                              |
+|         **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Basballmütze                                                  |
+|        **Motiv** | Die Sieben Weltwunder sehen                                                          |
+|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+
 > Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune.
 
-**Relationships**:  
+> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der sich nie auf jemand anderen als sich selbst verlassen musste. Er ist drahtig, zäh und aufgeweckt und trägt eine freche haltung zur Schau, die ihn regelmäßig in Schwierigkeiten bringt. Jimmy versteckte sich als blinder Passagier auf einem Trampdampfer, um die Wunder der Welt zu sehen und sein Glück zu suchen.
 
-**Notes**:
+**Beziehungen:**  
+
+**Notizen:**
 
 
 <!-- Jimmy Sweet, Gamin courageux
