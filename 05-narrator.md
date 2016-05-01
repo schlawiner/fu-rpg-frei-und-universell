@@ -88,7 +88,7 @@ Quand vous commencez une partie, parlez avec les joueurs de leurs attentes. Essa
 
 ### What will characters do?
 
-### Was würden die Figuren tun?
+### Was sollen die Figuren tun?
 
 Do players want to kick in doors, kill monsters and take home piles of treasure? Do they want to feel like epic heroes? Or the underdogs, struggling against ridiculous odds?
 
@@ -109,16 +109,16 @@ Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld,
 Les joueurs veulent-ils changer le monde ? Que leur personnage augmente sa fortune, son prestige, son pouvoir ? Ou veulent-ils se sentir dos au mur, que leur vie soit constamment menacée ? -->
 
 ### What is the Narrator's role?
-### Was ist die Rolle der Erzählerin?
 
+### Was ist die Rolle der Erzählerin?
 
 What kinds of challenges, encounters and situations are you going to present the characters in order to achieve the above? Do you need to ensure every challenge is accompanied by a generous reward? Are you going to make every fight hard but fair? Will you be relentless in the pursuit of the antagonist’s goals?  
 
-Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren. um das oben Angesprochene zu erreichen? Wirst du jede Herausforderung mit einer großzügigen Belohnung begleitet? Wirst du jeden Kampf hart führen, aber fair? Wirst du in der Verfolgung der Ziele des Gegenspielers unermüdlich sein?
+Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren. um das oben Angesprochene zu erreichen? Wirst du jede Herausforderung mit einer großzügigen Belohnung begleiten? Wirst du jeden Kampf hart führen, aber fair? Wirst du in der Verfolgung der Ziele des Gegenspielers unermüdlich sein?
 
 Answer these questions and everyone at the table will be clear on their role in the coming adventure.
 
-Beantworte diese Fragen und jede am Tisch wird sich ihrere Rolle im kommenden Abenteuer bewusst sein.
+Beantworte diese Fragen und jede Person am Tisch wird sich ihrer Rolle im kommenden Abenteuer bewusst sein.
 
 <!-- (Quel est le rôle du Narrateur ?)
 Quels défis, quelles rencontres ou situations vous allez présenter aux personnages pour qu'ils fassent ce qu'ils attendent ? Avez-vous besoin de faire miroiter une belle récompense pour chaque défi ? Ferez-vous en sorte que chaque combat soit dur mais équitable ? Serez-vous impitoyable concernant les desseins des antagonistes ?
@@ -128,19 +128,20 @@ Répondez à ces questions et tout le monde à la table y verra clair quant à s
 ----
 
 ## Recovery
-## Erhohlung/Heilung
 
+## Erholung und Heilung
 
 During games characters can suffer injuries, be-
 come physically or mentally stressed, and be afflicted by a range of other Conditions. Conditions are always recovered at a time and/or rate appropriate to the story.  This is usually with the passing of time, but does not have to be. A good rule of thumb is that one or more Conditions can be removed/recovered between scenes, though this will depend on the timing of such encounters.
 
-Während des Spiels können Figuren Verletzungen erleiden, körperlichem oder geistigem Stress ausgesetzt sein oder von einer ganzen Reihe anderer Zustände betroffen sein. Von Zuständen erholen Figuren sich immer innerhalb einer Zeitspanne oder Rate, die der Geschichte angemessen ist. Normalerweise geschiet das einfach durch das Verstreichen von Zeit, das muss aber nicht so sein. Eine gute Grundregel ist, dass Figuren sich von ein oder mehreren Zustände zwischen Szenen erholen können. Das hängt aber vom Zeitablauf der Begenung ab.
+Während des Spiels können Figuren Verletzungen erleiden, körperlichem oder geistigem Stress ausgesetzt oder von einer ganzen Reihe anderer Zustände betroffen sein. Von Zuständen erholen Figuren sich immer innerhalb einer Zeitspanne oder Rate, die der Geschichte angemessen ist. Normalerweise geschieht das einfach durch das Verstreichen von Zeit, das muss aber nicht so sein. Eine gute Grundregel ist, dass Figuren sich von ein oder mehreren Zustände zwischen Szenen erholen können. Das hängt aber vom Zeitablauf der Begegnung ab.
 
 <!-- (Récupération)
 Pendant les parties les personnages peuvent subir des blessures, être poussés à bout physiquement ou mentalement, ou être affectés par des Conditions. Ces Conditions nécessiteront toujours un certain temps, relatif à l'histoire, pour être levées. C'est généralement une question de temps, mais ce n'est pas obligatoire. La règle classique, c'est qu'une ou plusieurs Conditions peuvent être levées entre deux scènes, bien que cela dépende de l'intervalle de temps entre les scènes. -->
 
 ## Rewards
-## Belohnugnen
+
+## Belohnungen
 
 Reward players for good roleplaying and achieving
 goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point.
@@ -149,7 +150,7 @@ Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von
 
 **How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster.
 
-**Wie viel und wie oft?** Sei mit Belohnungen großzügig. Die positive Verstärkung durch das Verdienen von FU-Punkten wird die Spielerinnen zu noch weiteren Taten des Heldentums, Spektakels oder der Schlechtigkeit inspirieren.
+**Wie viel und wie oft?** Sei mit Belohnungen großzügig. Die positive Verstärkung durch das Verdienen von FU-Punkten wird die Spielerinnen zu weiteren Taten des Heldentums, Spektakels oder der Schlechtigkeit inspirieren.
 
 <!-- (Récompenses)
 Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de leur but en leur attribuant des points de FU. Vous pouvez aussi les récompenser pour d'autres raisons, comme le groupe le décidera (voir le chapitre sur les points de FU). Ces points peuvent être utilisés pour améliorer les chances de succès d'un personnage, ce qui est une récompense immédiate, tangible. Vous pouvez ne pas être le seul autour de la table à attribuer des récompenses. Tous les joueurs peuvent s'exprimer s'ils pensent que l'un d'entre eux a fait quelque chose d'amusant ou de formidable et lui donner un point de FU.
@@ -158,6 +159,7 @@ Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de 
 **Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite. -->
 
 ## Characters & Obstacles
+
 ## Figuren und Hindernisse
 
 All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
@@ -170,8 +172,8 @@ Tous les personnages, monstres, pièges, adversaires, éléments du décor, cré
 ----
 
 ### The Bowl
-### Die Schüssel [Behältnis]
 
+### Die Schüssel [Behältnis]
 
 One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?”
 
@@ -181,6 +183,7 @@ Eine Möglichkeit der Belohnung durch FU-Punkte ist es, ein Behältnis mit Perle
 Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
 
 ### Advancement
+
 ### Erfahrung gewinnen
 
 FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
@@ -189,7 +192,7 @@ In FU geht es nicht um das "Aufleveln" einer Figur, sondern hauptsächlich um di
 
 If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
 
-Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen [Deskriptor] ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen Sitzungen geändert werden.
+Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen Beschreiber ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen Sitzungen geändert werden.
 
 Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
 
@@ -203,15 +206,16 @@ Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sess
 Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire. -->
 
 ### Tracking Obstacles
+
 ### Hindernisse notieren
 
 Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
 
-Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Schreibe auch [Deskriptoren], Ausrüstung und andere Informationen auf.
+Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Schreibe auch Beschreiber, Ausrüstung und andere Informationen auf.
 
 Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
 
-Benutze auch Karteikarten, um wichtige Geländeeigenschaften festzuhalten. Halte zugehörige [Deskriptoren] fest, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
+Benutze auch Karteikarten, um wichtige Geländeeigenschaften festzuhalten. Halte zugehörige Beschreiber fest, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
 
 <!-- (Garder la trace des obstacles)
 Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, le Matériel et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur ces fiches.
@@ -219,19 +223,20 @@ Utilisez des post-its ou des fiches bristol pour garder trace des détails sur l
 Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action. -->
 
 ### What do I share with players?
+
 ### Welche Informationen teilst du mit deinen Spielerinnen?
 
 Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.  
 
-Einige Gruppen und Erzählerinnen spielen ganz offen und machen um die [Deskriptoren] und Details von Kreaturen und Monstern kein Geheimnis. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
+Einige Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern kein Geheimnis. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
 
 Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.  
 
-An einem „offenen Tisch" zu spielen bedeutet, dass alle Bescheid wissen, was passiert, welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen können sehen, welche Ausrüstung, Zustände und [Deskriptoren] gerade im Spiel sind und sie in Szenen einbeziehen.
+An einem „offenen Tisch" zu spielen bedeutet, dass alle Bescheid wissen, was passiert, welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen können sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und sie in Szenen einbeziehen.
 
 Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors.
 
-Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer befriedigend, wenn man für das Einschätzen der [Deskriptoren] eines Gegners mit Bonuswürfeln belohnt wird.
+Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer befriedigend, wenn man für das Einschätzen der Beschreiber eines Gegners mit Bonuswürfeln belohnt wird.
 
 <!-- (Que dois-je partager avec les joueurs ?)
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des monstres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options implique des styles de jeu différents.
