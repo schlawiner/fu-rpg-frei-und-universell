@@ -1,6 +1,4 @@
 /* CSS for epub */
-div.sidebar {
-    -webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
+.sidebar {
     column-count: 3;
 }

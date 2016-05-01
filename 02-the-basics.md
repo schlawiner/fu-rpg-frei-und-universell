@@ -91,6 +91,7 @@ Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahren
 
 Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob die Spielerinnen sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
+
 <!--### Talk before play!
 Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
 Throw around ideas on setting, im- agery, set-pieces, cool clichés and funky
@@ -103,7 +104,6 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
------
 ### Der Sofort-Genre-Generator
 
 Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
