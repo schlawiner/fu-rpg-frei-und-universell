@@ -165,7 +165,7 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 **Scene**: The majestic Gou Zou Gorge, half a mile
 deep and crossed by a single iron girder railway bridge. Wide open plains lie on either side of the gorge and the Kow mountains lie in the distance.
 
-**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer Eisenträger-Bahnbrücke durchzogen. Weites, offenes Flachland liegt an beiden Seiten der Schlucht, die Kow-Berge befinden sich in der Ferne.
+**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer Eisenträger-Bahnbrücke überquert. Weites, offenes Flachland liegt an beiden Seiten der Schlucht, die Kow-Berge befinden sich in der Ferne.
 
 **Descriptors**: open plains, Impassible Gorge.
 
@@ -204,7 +204,7 @@ to the number of characters.
 
 **Notes:** You know you must introduce an approach- ing train, right?
 
-**Notizen:** Dir ist klar, dass du einen heranrasenden Zug in die Situation einbauen musst, oder?
+**Notizen:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
 
 **What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured.
 
