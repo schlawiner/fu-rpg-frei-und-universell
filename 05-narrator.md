@@ -16,7 +16,7 @@ Talk during the game too. Encourage players to share ideas and give input into s
 
 Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Spielerinnen erwarten und wo sich diese Erwartungen überlappen. Mit diesen Überschneidungen werdet ihr wahrscheinlich den größten Spaß haben. Ihr solltet mindestens das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte zusammen besprechen. Es gibt zum Beispiel einen großen Unterschied zwischen Gothic-Horror- und Splatterfilmen.
 
-Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spielerinnen ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls ihr Ideen, Themen oder Probleme diskutieren müsst, macht das.
+Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Spielerinnen ihre Ideen zu teilen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls ihr Ideen, Themen oder Probleme diskutieren müsst, tut das.
 
 <!--(Parler, c'est bien)
 Démarrez votre jeu par le dialogue. Parlez de ce que les joueurs aimeraient retirer du jeu, ce que vous voulez, et où ces idées se rejoignent. Ces points communs ont de fortes chances d'être les moments où tout le monde s'amusera. *A minima*, vous devrez oeuvrer ensemble pour déterminer le genre et le ton de votre histoire. Dialoguez sur tout, pour que tout le monde soit en accord avec les spécificités (il y a un monde entre les styles "horreur gothique" et "gore", par exemple).
@@ -30,7 +30,7 @@ Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées e
 
 If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool.
 
-Wo miteinander gesprochen wird, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir etwas sagen oder im Spiel mit ihren Figuren etwas tun. Benutze im Spiel Dinge, die mit den Beschreibern auf den Charakterbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
+Wo miteinander gesprochen wird, sollte zugehört werden. Lausche deinen Spielerinnen, wenn sie dir etwas sagen oder im Spiel mit ihren Figuren etwas tun. Benutze im Spiel Dinge, die mit den Beschreibern auf den Figurenbögen zusammenhängen, denn das sind die Dinge, die die Spielerinnen cool finden.
 
 <!--(Écouter, c'est bien)
 S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
@@ -146,7 +146,7 @@ Pendant les parties les personnages peuvent subir des blessures, être poussés 
 Reward players for good roleplaying and achieving
 goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point.
 
-Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Gründe belohnen, die die Gruppe untereinander abspricht. [Siehe dazu die Seitenleiste auf Seite 12]
+Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Gründe belohnen, die die Gruppe untereinander abspricht. [Siehe dazu die Seitenleiste auf Seite XX]
 
 **How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster.
 
@@ -173,7 +173,7 @@ Tous les personnages, monstres, pièges, adversaires, éléments du décor, cré
 
 ### The Bowl
 
-### Die Schüssel [Behältnis]
+### Das Behältnis für die FU-Punkte
 
 One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?”
 
@@ -196,7 +196,7 @@ Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen B
 
 Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
 
-Ziele können sich von Sitzung zu Sitzung auch verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung die Zeit, ihre Ziele anzupassen.
+Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung die Zeit, ihre Ziele anzupassen.
 
 <!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
@@ -211,7 +211,7 @@ Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux j
 
 Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
 
-Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Schreibe auch Beschreiber, Ausrüstung und andere Informationen auf.
+Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Notiere auch Beschreiber, Ausrüstung und andere Informationen.
 
 Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
 
