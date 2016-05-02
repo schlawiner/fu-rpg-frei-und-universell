@@ -16,7 +16,7 @@ Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Ab
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie "Paranormaler Ermittler" oder "Wunderkind". Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie "Edler Wilder" oder "Verrückter Professor".  
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein "Gewiefter Bulle" passt vielleicht nicht ganz ins mittalterliche England, aber ein "Weltgewandter Sheriff" könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
-> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen "Pulp"-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur "Tollkühner Forschungsreisender". Nina möchte jemand ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine "Außerirdische Botschafterin".
+> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen "Pulp"-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur "Tollkühner Entdecker". Nina möchte jemand ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine "Außerirdische Botschafterin".
 
 <!-- (Concept)
 
@@ -40,7 +40,7 @@ Beschreiber sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwac
 
 Figuren haben vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
-> David überlegt sich, was für Sachen sein Tollkühner Forschungsreisender schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
+> David überlegt sich, was für Sachen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 
 > **Körper** : Agil  
 > **Geist**: Besonnen  
@@ -99,11 +99,11 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer beschrieben.
 
-> **Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
+> **Körper** Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwach, Schwimmhäute an den Füßen.
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
-> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
+> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagen, Scharfe Augen, Sprachwissenschaft, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
 >
 > **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
 
@@ -132,9 +132,7 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 > **Faille**: Aveugle, Couard(e), Maladroit(e), Cupide, Apparence inhumaine, Unijambiste, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune. -->
 
 ----
-
-
-### Klischees sind deine Freunde!
+#### Klischees sind deine Freunde!
 
 Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir unmittelbar vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch das Bild einer muskelbepackten unzivilisierten Person vor Augen. Der Einsatz von Klischees ist eine Art Abkürzung zur Beschreibung deiner Figur.
 
@@ -250,17 +248,44 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 ## Ausrüstung
 
-Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures est compté comme du Matériel. Tous les personnages ont leurs vêtements usuels et les objets qui sont en accord avec leur concept. Le Matériel, ce sont les choses importantes, voire déterminantes pour le personnage.
+Ausrüstung ist das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wichtigen und coolen Sachen, die sie bei sich tragen.  
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* setzt sich ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv zusammen: Rostiges Schwert, Langes Seil, Schnelles Pferd, Weitschuss-Gewehr, Papas Camaro, Schwere Rüstung.
+
+Deine Figur hat genau zwei Ausrüstungsgegenstände. Such' dir zwei Teile für deine Figur aus.
+
+<!-- Gear is the equipment, gadgets, and weapons that
+a character will use on their adventures. All characters have the basic clothes or items that are appropriate to their concept. Gear is the important and cool stu  that a character carries.  
+
+like Descriptors, a character’s Gear will modify ‘beat the odds’ rolls. Gear can be anything - guns and knives to fancy clothes, credit cards, a horse, mobile phone, or even a star ship. like Descriptors, your char- acter’s Gear depends on character concept, game set- ting, and the stories you want to tell. Unlike Descrip- tors, Gear is always made up of an adjective and noun; Rusting Sword, long Rope, Fast Horse, long-ranged Ri e, Dad’s Camero, Heavy Armour.  
+
+Your character has two items of Gear. Choose two items for your character. -->
+
+<!-- Tous les objets, gadgets, armes que le personnage utilisera dans ses aventures est compté comme du Matériel. Tous les personnages ont leurs vêtements usuels et les objets qui sont en accord avec leur concept. Le Matériel, ce sont les choses importantes, voire déterminantes pour le personnage.
 
 Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'un jet de dés. Ça peut être n'importe quoi : un pistolet ou un couteau, des vêtements à la mode, des cartes de crédit, un cheval, un téléphone mobile ou même un vaisseau spatial. Comme les Descripteurs, le Matériel dépend du concept du personnage, de l'univers du jeu et des histoires que vous voulez raconter. *A contrario*, l'élément du Matériel est composé d'un nom et d'un qualificatif : Épée Rouillée, Longue Corde, Cheval Rapide, Fusil à Longue-Portée, Armure Lourde.
 
-Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage.
+Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage. -->
+
+> David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgenutzte Lederjacke**, mit der er sich vor der Kälte und auch ein wenig vor eventuellen Kratzern und Stürzen schützen kann.  
+Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **Offizielle Dokumente** die ihren politischen Status belegen, und für **Exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
+
+<!-- Dave decides his Daredevil Explorer to have a Sturdy Bull Whip, since he is quite skilled with it, and a Worn Leather Jacket to keep out the cold and o er a little protection from scrapes and falls.
+Nina thinks about her Alien Emissary before deciding on some O cial Documents that indi- cating her political status, and some Exotic Robes, designed to impress and inspire awe.
 
 > David a décidé que son explorateur avait un **Fouet Robuste**, puisqu'il avait déjà le talent de le manier. Il a également pris un **Blouson de cuir Élimé** pour le couvrir du froid et le protéger contre les égratignures et les chutes.
 >
-> Nina a réfléchi, et elle a opté pour des **Documents Officiels** indiquant le statut politique de son Émissaire Alien, ainsi que des **Robes Exotiques** conçues pour impressionner et imposer le respect.
+> Nina a réfléchi, et elle a opté pour des **Documents Officiels** indiquant le statut politique de son Émissaire Alien, ainsi que des **Robes Exotiques** conçues pour impressionner et imposer le respect. -->
 
 ## Beispiel-Ausrüstung
+
+
+
+like the example Descriptors, this list is not in any
+way exhaustive. It barely scratches the surface of what your character might possess.
+Clothes: Designer Jeans, Slinky Black Dress (let’s count “black dress” as the noun), Filthy Un- derpants, Worn Jacket, State-of-the-art Space Suit, Silk Smoking Jacket, Beat-up Fedora, Tall Powdered Wig.
+Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet.
+Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about.
+Other Stuff: Huge Backpack, Miniature Flag, Heavy RPG Books, Faithful Hound, Dented Frying Pan, Water-damaged Notebook, Ancient Spell Book, My Favourite Pet Rock.
 
 Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
@@ -276,40 +301,72 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhausti
 
 ### Wählen der Ausrüstung
 
+Choosing Gear
+Items should be “iconic” to your character.  ink Batman’s Sinister Batsuit, the Ghostbuster’s Unstable Proton-packs, James Bond’s Reliable Berretta, or Zorro’s Flashing Blade.
+Each piece of Gear should add some- thing to your character’s background, personality or goals. It should make a statement about who the character is or what they do.
+
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
 Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personnage, et ce qu'il fait.
 
 ### Ausrüstung ist Ausrüstung
+
+Gear is equipment
+Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
+
 Le Matériel, c'est du Matériel
 
 Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas du Matériel, alors qu'un Gant de Puissance Blindé l'est.
 
 ### Ausrüstung beschreiben
 
+Describing Gear
+When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!  
+
+Like Descriptors, the description of your Gear should be clear - you don’t want to be guessing at the purpose or main feature of an item.
+
 L'utilisation du qualificatif doit nous donner une vraie indication utile concernant l'élément. Une Épée Longue, soit, mais une Épée Brisée, c'est bien mieux !
 
 Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
 
-### Un seul qualificatif
+### One adjective only
+ e description of your gear should have a single adjective - no less and no more. A Sharp Sabre is okay, as is a Magic Sword, but a Sharp Magic Sabre is not allowed.
+
+
+Un seul qualificatif
 
 La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c'est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n'est pas autorisée.
 
-### Un nom spécifique
+### Specific nouns
+Choose speci c, descriptive nouns; Sabre is better than Sword, Baseball Cap is better than Hat. You can use more than one noun, but keep the de- scription to as few words as possible.
+
+Un nom spécifique
 
 Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible.
 
-### Parlez de votre Matériel
+### Talk about your Gear
+Discuss your Gear. Everyone needs to be clear on what you are describing; what the Gear will be useful for, and when it might be a hindrance.  
+
+Gear is not innately “good” or “bad”. What you do with it and the situations you  nd yourself in will dictate whether having an item is useful or not.
+
+Parlez de votre Matériel
 
 Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
 Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en fonction des situations, qui vous montrera son (in)utilité.
 
-### Bon Matériel / Mauvais Matériel
+### Good Gear / Bad Gear
+You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card.
+
+
+Bon Matériel / Mauvais Matériel
 
 Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aurait un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Épuisée.
 
-### Les choses qui ne sont pas du Matériel
+### Stuff that isn’t Gear
+Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that!
+
+Les choses qui ne sont pas du Matériel
 
 Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions.
 
@@ -317,7 +374,16 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. L
 
 ## Description
 
+By now, you should have a good idea of who your
+character is. Now it is time to  ll in all the other details.  is is the bit where you describe the character’s appearance and personality, their past, goals, friends, enemies, and any other detail you think important or
+interesting.
+
 À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et le caractère de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs.
+
+> Dave takes a moment to note a few things about the Daredevil Explorer;
+Tennessee Smith is a mild-mannered professor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it!
+Nina’s description of the Alien Emissary is;
+Lumina is an important diplomat from the planet Jupiter, which is ruled by the Dread Lord Kang. Like all her kind, she has purple skin, a bald head, and delicate features. Lumina works for the Jupiter Underground, attempting to overthrow Dread Lord Kang.
 
 > David prend un moment pour prendre des notes sur son Explorateur Intrépide :
 >
@@ -327,7 +393,21 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. L
 >
 > Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de renverser le Seigneur Kang.
 
-## Motivations
+## Drives
+every character has a purpose - a goal they are striv-
+ing to achieve. It may not be world changing (though it can be) but it should be important to that character. Ask the following questions of your character;
+**What do you want?** What is it that you desire, the thing that drives you to action?
+
+**What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?  
+
+**What will you do?** What is the next step to get what you want? What are you willing to do to succeed?
+
+> Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it.
+
+> Lumina seeks freedom for all the people of Jupi- ter. Dread Lord Kang rules the planet with an iron  st, and his agents are always on the look out for renegades. Lumina is willing to put her own life on the line to achieve her vision.
+
+
+Motivations
 
 Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'est pas forcément un but trop ambitieux, comme changer le monde, même si ça peut être le cas. Il doit au moins être important pour le personnage. Posez-vous les questions suivantes à propos du personnage :
 
@@ -342,7 +422,13 @@ Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'e
 > Lumina veut la liberté pour le peuple de Jupiter. Le Terrible Seigneur Kang tient la planète dans sa main de fer, et ses agents sont sans arrêt aux trousses des rebelles. Lumina est prête à donner sa vie pour accomplir sa tâche.
 
 
-## Relations
+## Relationships
+Choose at least one other character that will take
+part in the story and write a short statement about your relationship with them.  is should be clear and add some interesting depth to both characters back- grounds. For example; old drinking buddies; Dated the same woman; Fought in the war together; Were trained by the same master.
+
+> Dave writes; Tennessee Smith and Lumina met at Harvard where Lumina was giving a presen- tation on the ancient cultures of Jupiter. Nina is happy with this, adding only that both characters were attracted to each other but Lumina is too fo- cussed on her mission to have any romantic dal- liance.
+
+Relations
 
 Choisissez au moins un personnage qui prend part à l'histoire et écrivez une courte phrase pour décrire votre relation avec lui/elle/eux. Ce doit être clair et doit ajouter une profondeur supplémentaire aux historiques des deux personnages. Par exemple : Copains de Bistrot, Ont eu la même femme, Frères d'arme, Ont été entraînés par le même maître.
 
@@ -350,41 +436,72 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 ----
 
-### Maintenant, c'est du jeu de rôle !
+### It’s all about roleplaying now
+Your Description, Drives and Re- lationships all help develop your char- acter and put them into the “world” of your stories and adventures.  e Narra- tor might occasionally give you a bonus to dice rolls because of the information you reveal here, but that is by no means required.  
+
+Use your Drives and Relationships to inform the way you roleplay your character, the way they interact with the other player’s characters and the world around them.
+
+
+Maintenant, c'est du jeu de rôle !
 
 Votre Description, vos Motivations et Relations vous aideront à développer votre personnage et l'intégrer au "monde" de vos aventures. Le Narrateur peut occasionnellement vous donner un dé de bonus à vos jets grâce aux informations contenues ici, mais ce n'est pas obligatoire.
 
 Utilisez vos Motivations et vos Relations pour donner des indications concernant votre façon d'incarner le personnage et comme il interagit avec le monde autour de lui et les autres personnages.
 
-### Objectifs à court ou long terme ?
+### Long or short term goals?
+When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character.
+
+
+Objectifs à court ou long terme ?
 
 Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du court-terme ou du long-terme. Si vous jouez pour une aventure sans suite (one-shot), il est plus facile de prendre un élément qui aura un impact immédiat sur l'histoire. Si vous avez en tête une série de parties (une campagne), il vaut mieux partir sur du long-terme.
 
-### Combien de Relations ?
+### How many Relationships?
+Two is a good number of Relation- ships to begin with. Pick two di erent characters and decide how they know each other. You and another player can
+work together to decide on a relation- ship, or you can have separate, unre- lated or “opposed” relationships (for example; “In love with”/“Repulsed by”).
+
+Combien de Relations ?
 
 Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages différents et trouvez comment ils peuvent se connaître. Vous et l'autre joueur pouvez travailler ensemble pour construire la Relation, ou pouvez oeuvrer chacun de votre côté pour produire une Relation séparée, sans lien direct ou "opposée" (par exemple : "est amoureu(x)(se) de" / "est repoussé(e) par").
 
-### Ne soyez pas ennemis
+### Don’t be antagonistic  
+Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission!
+
+Ne soyez pas ennemis
 
 Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission !
 
 ----
 
-## Résumé de la Création des Personnages
+## Character Creation Summary
+Résumé de la Création des Personnages
 
 ### 1 Concept
+Who is your character? What is the “High Concept”? Clichés and archetypes are okay!
+
+1 Concept
 
 Qui est votre personnage ? Quel est son "Concept de Base" ?
 
 Les clichés et les archétypes sont ok !
 
-### 2 Descripteurs
+### 2 Beschreiber
+Identify the four most important or interesting features of your character,
+one each for Body, mind, edge and Flaw.
+each Descriptor should be short, punchy, clear, innate and finite.
+
+2 Descripteurs
 
 Identifiez les quatre qualificatifs les plus importants ou intéressants à propos de votre personnage : un pour le Corps, l'Esprit, l'Atout et la Faille.
 
 Chaque Descripteur doit être court, percutant, clair, inné et défini.
 
-### 3 Matériel
+### 3 Gear
+What cool, iconic stu  does your character carry?
+Choose two items of gear, describing each with an adjective and noun (e.g. Sharp Sabre; Fast motorcycle).
+
+
+3 Matériel
 
 Qu'est ce que votre personnage transporte de cool et "iconique" ?
 
@@ -392,12 +509,22 @@ Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre 
 
 ### 4 Description
 
+What does your character look like? What is their name? Where are they from? What makes them interesting and unique?
+
+4 Description
 À quoi ressemble votre personnage ? Quel est son nom ? D'où vient-il ? Qu'est-ce qui fait de lui quelqu'un d'unique ?
 
-### 5 Motivations
+### 5 Drives
+What does your character want? What is stopping them? What will they do
+to get it?
+
+5 Motivations
 
 Que veut votre personnage ? Qu'est-ce qui l'en empêche ? Jusqu'où irait-il pour y arriver ?
 
-### 6 Relations
+### 6 Relationships
+How do the characters know each other? What connections do they have?
+
+6 Relations
 
 Comment les personnages se connaissent ? Quelles relations ont-ils ?

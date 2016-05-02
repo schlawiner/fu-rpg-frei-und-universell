@@ -1,7 +1,7 @@
 /* CSS for website */
 .sidebar {
-  background-color: red;
+  /*background-color: red;*/
   -webkit-column-count: 3; /* Chrome, Safari, Opera */
--moz-column-count: 3; /* Firefox */
-column-count: 3;
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
 }
