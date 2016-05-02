@@ -250,7 +250,7 @@ sight, such as shooting, navigating an unfamiliar space, or painting.
 **Ungeschickt:** Nachteile beim Tragen einer wertvollen Vase, Besuch eines Antiquitätenladens oder beim  Durchqueren eines verminten Raumes
 
 **Greedy:** a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
-**Gierig:**
+**Gierig:** Schwierigkeiten beim Widerstehen des Impluses, etwas zu stehlen, zu lügen, beim Anhäufen und Behalten von  Reichtum
 
 **in-Human Appearance:** a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
 **Unmenschliches Aussehen:**
