@@ -188,13 +188,13 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Fahren:** Vorteile beim Autorennen, bei Verfolgungsjagden, beim Bestehen deiner Fahrprüfung
 
 **Fencing:** good for sword  ghting and other civi- lized forms of melee.
-**Fechten:**
+**Fechten:**Vorteile beim Schwertkampf und anderen zivilisierten Formen des Nahkampfes
 
 **Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas.
-**Gutes Gedächtnis:**
+**Gutes Gedächtnis:** Vorteile beim Merken von Namen und Gesichtern, wichtigen Hinweisen und mathematischen Formeln
 
 **Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
-**Jagen:**
+**Jagen:** Vorteile beim Spurenlesen und Sichheranpirschen, Gut aussehen in Tarnkleidung, Wissen, wie sich ein Nashorn anhört
 
 **Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
 **Scharfe Augen:**
