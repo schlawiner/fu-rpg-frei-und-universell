@@ -175,20 +175,17 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 ## Beschreiber für Vorteile
 
-**Acrobatics:** great for joining the circus, leaping
-through narrow gaps, and doing impressive  ips.
-**Akrobatik:**
+**Acrobatics:** great for joining the circus, leaping through narrow gaps, and doing impressive  ips.
+**Akrobatik:** Vorteile beim Bewerben beim Zirkus, XXX
 
-**Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic,
-and reading ancient scrolls.
-**Okkultes Geheimwissen:**
+**Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic, and reading ancient scrolls.
+**Okkultes Geheimwissen:** Vorteile beim Identifizieren mystischer Artefakte, Erkennen von Schwarzer Magie, Lesen uralter Pergamentrollen
 
-**Courage:** handy when seeing something scary,
-telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
-**Mut:**
+**Courage:** handy when seeing something scary, telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
+**Mut:** Vorteile beim Verdauen eines grauenvollen Anblicks, Informieren deiner Frau, dass du den Jahrestag vergessen hast, Versuchen anderer gefährlicher Aktionen
 
 **Driving:** great for car racing, car chases, and pass- ing your driving exam.
-**Fahren:**
+**Fahren:** Vorteile beim Autorennen, bei Verfolgungsjagden, beim Bestehen deiner Fahrprüfung
 
 **Fencing:** good for sword  ghting and other civi- lized forms of melee.
 **Fechten:**
