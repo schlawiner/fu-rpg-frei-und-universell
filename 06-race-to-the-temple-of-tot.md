@@ -6,7 +6,8 @@
 > Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
 
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
-mit der ihr eure eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten könnt. Nutze die vorgefertigten Charaktere am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Charaktere unterwegs sind, ist alles möglich!
+ 
+Diese kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt dir eine Möglichkeit, mit der du deine eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten kannst. Nutze gern die vorgefertigten Figuren am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Figuren unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
 
@@ -21,7 +22,7 @@ Before starting play have a quick discussion about the tone and style of the gam
 
 Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix! 
 
-Sprecht vor dem Spiel kurz über die Stimmung und den Stil den ihr spielen wollt. Das Szenario gehört mit der krassen Action, den ungeheuerlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stellt sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
+Sprecht vor dem Spiel kurz über die Stimmung und den Stil den ihr spielen wollt. Das Szenario gehört mit seiner krassen Action, den ungeheuerlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stelle sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
 
 Lies den kursiven Stimmungstext oben vor und lasse alle Mitspielerinnen sich ein paar coole Ideen einfallen, die sie während des Abenteuers gern erleben möchten. Schreibe dir die Info auf und falls das Spiel mal zäh werden sollte oder du nicht weißt, was du als nächstes tun willst, hole einer der Ideen hervor!
 
@@ -90,7 +91,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |-----------------:|:-------------------------------------------------------------------------------|
 | **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau                                    |
 | **Ausrüstung** | Laute Maschinengewehre                                                         |
-|   **Zustände** |  Verwirrt, Eingekreist, Ausgebremst, Außer Gefecht |
+|   **Zustände** |  Verwirrt, Eingekreist, Aufgehalten, Außer Gefecht |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -116,7 +117,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 **Scene**: A dark coffee lounge, cafe or back room,
 somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room.
 
-**Szene:** Ein dunkler Cafésalon oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Geruch starken Kaffees und exotischen Lebensmitteln durchdringt den Raum.
+**Szene:** Ein dunkler Cafésalon oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Geruch starken Kaffees und exotischer Lebensmittel durchdringt den Raum.
 
 **Descriptors**: Private.
 
@@ -185,7 +186,7 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 |----------------:|:--------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
 | **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate     |
-|  **Zustände** | Verwirrt, Gestrandet, Verlangsamt, Außer Gefecht |
+|  **Zustände** | Verwirrt, Gestrandet, Aufgehalten, Außer Gefecht |
 
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
@@ -264,7 +265,7 @@ to the number of characters.
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
-**Notizen:** Fordere die Charaktere mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
+**Notizen:** Fordere die Figuren mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
 
 |      Adversaries | Stone Statue Guardian                               |
 |-----------------:|:----------------------------------------------------|
@@ -280,11 +281,11 @@ to the number of characters.
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
-**Notizen:** Für je zwei Charaktere gibt es einen Steinwächter. Die großen, schweren Waffen können mehrere Charaktere gleichzeitg treffen.
+**Notizen:** Für je zwei Figuren gibt es einen Steinwächter. Die großen, schweren Waffen können mehrere Charaktere gleichzeitg treffen.
 
 **What can go wrong?** Characters cannot get past traps; characters are injured by traps.
 
-**Was kann schiefgehen?** Die Charaktere können die Fallen nicht überwinden; die Charaktere werden durch die Fallen verletzt.
+**Was kann schiefgehen?** Die Figuren können die Fallen nicht überwinden; die Figuren werden durch die Fallen verletzt.
 
 <!-- Le Temple
 
@@ -328,7 +329,7 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 > The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and es- cape with the Idol?
 
-> Die Charaktere betreten die Kammer des Götzen, um herauszufinden, dass Giles Fishburn und seine Nazihandlanger auch vor Ort sind! Werden sie Giles besiegen und mit dem Götzen entkommen?
+> Die Figuren betreten die Kammer des Götzen, um herauszufinden, dass Giles Fishburn und seine Nazihandlanger auch vor Ort sind! Werden sie Giles besiegen und mit dem Götzen entkommen?
 
 |        Adversary | Giles Fishburne                                  |
 |-----------------:|:-------------------------------------------------|
@@ -340,11 +341,11 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 |-----------------:|:-------------------------------------------------|
 | **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                   |
 |         **Ausrüstung** | Polierter Säbel                                   |
-|   **Zustände** | Verwirrt, Verletzt, Verlangsamt, Außer Gefecht |
+|   **Zustände** | Verwirrt, Verletzt, Aufgehalten, Außer Gefecht |
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
-**Notizen:** Giles ist ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er zu fliehen versuchen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
+**Notizen:** Giles ist zwar ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er zu fliehen versuchen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
 <!-- La Chambre de l'Idole
 
@@ -365,12 +366,12 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 ## Characters
 
-## Charaktere
+## Figuren
 
 Four pre-made characters can be found on the next
 page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should define one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
 
-Auf der nächsten Seite befinden sich vier vorgefertigte Charaktere. Sie sind alle Beispiele klassischer Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin verändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Die Spielerinnen sollten die Beziehungen ihrer Charaktere untereinander klären und festlegen, woher sie sich kennen. Ein schneller und einfacher Weg ist es, die Charaktere beschreiben zu lassen, woher sie die Person links von ihnen kennen.
+Auf der nächsten Seite befinden sich vier vorgefertigte Figuren. Sie sind alle Beispiele klassischer Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin verändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Die Spielerinnen sollten die Beziehungen ihrer Figuren untereinander klären und festlegen, woher sie sich kennen. Ein schneller und einfacher Weg ist es, die Figuren beschreiben zu lassen, woher sie die Person links von ihnen kennen.
 
 <!-- Personnages
 
@@ -388,7 +389,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Find the Idol of Tot                                                                    |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Charakter | Tennessee Smith                                                                         |
+|        Figur | Tennessee Smith                                                                         |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
 |         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
@@ -431,7 +432,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | See the 7 wonders of the world                                                          |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Charakter | Jimmy Sweet                                                                             |
+|        Figur | Jimmy Sweet                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                              |
 |         **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                  |
@@ -473,7 +474,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Look out for Tennessee Smith                                                            |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Charakter | Harvey Reed                                                                             |
+|        Figur | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                          |
 |         **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                     |
@@ -507,7 +508,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 ### October Jones, Girl Reporter
 ### October Jones, Junge Reporterin
 
-|        Charakter | October Jones                                                                           |
+|        Figur | October Jones                                                                           |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
 |         **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                           |
