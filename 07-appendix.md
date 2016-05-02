@@ -12,7 +12,7 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 <!--
 
 >
-> **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
+
 >
 > **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
 >
@@ -23,70 +23,70 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 
 ## Körperliche Beschreiber
 
-* **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
-* **Beweglich:** Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
+**Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
+**Beweglich:** Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
 
-* **Ambidextrous:** great when shooting two guns at
+**Ambidextrous:** great when shooting two guns at
 the same time, or doing slight-of-hand magic tricks.
-* **Beidhändig:** gleichzeitiges Schießen mit zwei Waffen, Taschenspielertricks
+**Beidhändig:** gleichzeitiges Schießen mit zwei Waffen, Taschenspielertricks
 
-* **Blonde:** good for getting people to underestimate
+**Blonde:** good for getting people to underestimate
 you, not good if you spend too much time in the sun.
-* **Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneintrahlung
+**Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneintrahlung
 
-* **Fake Orange Tan:** great for passing as an aging
+**Fake Orange Tan:** great for passing as an aging
 celebrity, and for drawing attention to yourself.
-* **Selbstbräuner-Orange:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
+**Selbstbräuner-Orange:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
 
-* **Furry:** useful for resisting cold weather, and living in the woods.
-* **Pelzig:** kaltem Wetter widerstehen, in der Wildnis überleben
+**Furry:** useful for resisting cold weather, and living in the woods.
+**Pelzig:** kaltem Wetter widerstehen, in der Wildnis überleben
 
-* **Handsome:** useful for  flirting, selling stuff , getting roles on T.V., modelling, and being popular.
-* * **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
+**Handsome:** useful for  flirting, selling stuff , getting roles on T.V., modelling, and being popular.
+* **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
 
-* **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* * **Gewaltig:** bedrohlich aussehen, an hohe Dinge herankommen, eine Bodybuilderin spielen, in kleinen Umgebungen steckenbleiben
+**Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
+* **Gewaltig:** bedrohlich aussehen, an hohe Dinge herankommen, eine Bodybuilderin spielen, in kleinen Umgebungen steckenbleiben
 
-* **Overweight:** a problem when exercising and
+**Overweight:** a problem when exercising and
 borrowing clothes.
-* **Übergewichtig:** Probleme beim Sport und beim Ausleihen von Kleidung
+**Übergewichtig:** Probleme beim Sport und beim Ausleihen von Kleidung
 
-* **Poor Constitution:** a hindrance when long dis-
+**Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
-* **Schwache Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
+**Schwache Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
 
-* **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-* **Flink:** Wegducken, Taschenspielertricks, Ausweichen
+**Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
+**Flink:** Wegducken, Taschenspielertricks, Ausweichen
 
-* **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
-* **Rasiermesserscharfe Klauen:** Gegner aufschlitzen, Obst und Gemüse schneiden, vielleicht beim Bäumehochklettern
+**Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
+**Rasiermesserscharfe Klauen:** Gegner aufschlitzen, Obst und Gemüse schneiden, vielleicht beim Bäumehochklettern
 
-* **Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
-* **Klein:** nicht an hohe Sachen herankommen, unter Objekte kriechen, in der Menge verlorengehen
+**Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
+**Klein:** nicht an hohe Sachen herankommen, unter Objekte kriechen, in der Menge verlorengehen
 
-* **Slow:** a problem when running, dodging, and reacting to things.
-* **Langsam:** Probleme beim Laufen, Ausweichen und Reagieren
+**Slow:** a problem when running, dodging, and reacting to things.
+**Langsam:** Probleme beim Laufen, Ausweichen und Reagieren
 
-* **Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
-* **Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
+**Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
+**Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
 
-* **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
-* **Hochgewachsen:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
+**Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
+**Hochgewachsen:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
 
-* **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
-* **Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
+**Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
+**Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
 
-* **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
-* **Hässlich:** Probleme beim Verführen von Leuten, beim Bekommen einer Fernsehrolle
+**Ugly:** a problem when trying to seduce someone, or get a role on T.V.
+**Hässlich:** Probleme beim Verführen von Leuten, beim Bekommen einer Fernsehrolle
 
-* **Vigour:** great for resisting poison, long distance running, and other feats of endurance.
-* **Vitalität:** Giften widerstehen, Langstreckenläufe, Ausdauertätigkeiten
+**Vigour:** great for resisting poison, long distance running, and other feats of endurance.
+**Vitalität:** Giften widerstehen, Langstreckenläufe, Ausdauertätigkeiten
 
-* **Weak:** a pain when lifting, carrying, smashing and throwing stuff.
-* **Schwächlich:** Probleme beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
+**Weak:** a pain when lifting, carrying, smashing and throwing stuff.
+**Schwächlich:** Probleme beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
 
-* **Webbed Feet:** great for swimming, but terrible when buying shoes.
-* **Schwimmfüße:** Schwimmen, Probleme beim Kauf von Schuhen
+**Webbed Feet:** great for swimming, but terrible when buying shoes.
+**Schwimmfüße:** Schwimmen, Probleme beim Kauf von Schuhen
 
 
 <!-- Descripteurs du Corps
@@ -113,6 +113,10 @@ tance running, resisting damage, performing feats of endurance, and healing.
 * **Pieds palmés**: remarquable pour nager, mais une plaie pour trouver chaussure à son pied. -->
 
 ## Mind Descriptors
+
+### Geistige Beschreiber
+
+<!-- > **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.-->
 
 Absent-Minded: good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
