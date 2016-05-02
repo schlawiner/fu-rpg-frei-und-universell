@@ -91,7 +91,7 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |-----------------:|:-------------------------------------------------------------------------------|
 | **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau                                    |
 | **Ausrüstung** | Laute Maschinengewehre                                                         |
-|   **Zustände** |  Verwirrt, Eingekreist, Aufgehalten, Außer Gefecht |
+|   **Zustände** |  □ Verwirrt, □ Eingekreist, □ Aufgehalten, □ Außer Gefecht |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -136,7 +136,7 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 |        Herausforderung | Die Übersetzung der Karte                             |
 |-----------------:|:------------------------------------------------|
 | **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                   |
-|   **Zustände** Zerfleddert, Ruiniert, Verschmiert, Zu Asche verbrannt |
+|   **Zustände** □ Zerfleddert, □ Ruiniert, □ Verschmiert, □ Zu Asche verbrannt |
 
 **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
 
@@ -186,7 +186,7 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 |----------------:|:--------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
 | **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate     |
-|  **Zustände** | Verwirrt, Gestrandet, Aufgehalten, Außer Gefecht |
+|  **Zustände** | □ Verwirrt, □ Gestrandet, □ Aufgehalten, □ Außer Gefecht |
 
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
@@ -201,7 +201,7 @@ to the number of characters.
 |        Herausforderung | Gou-Zou-Brücke                 |
 |-----------------:|:-------------------------------|
 | **Beschreiber** | Ohne Zug drauf breit genug, mit Zug ziemlich schmal              |
-|   **Zustände** | Wacklig, In die Luft gejagt |
+|   **Zustände** | □ Wacklig, □ In die Luft gejagt |
 
 **Notes:** You know you must introduce an approach- ing train, right?
 
@@ -261,7 +261,7 @@ to the number of characters.
 |-----------------:|:----------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |         **Ausrüstung** | Giftpfeile, Rostige Speere      |
-|   **Zustände** | Entwaffnet, Ausgelöst, Entdeckt |
+|   **Zustände** | □ Entwaffnet, □ Ausgelöst, □ Entdeckt |
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
@@ -277,7 +277,7 @@ to the number of characters.
 |-----------------:|:----------------------------------|
 | **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                   |
 |         **Ausrüstung** | Schwere Steinwaffen      |
-|   **Zustände** | Beschädigt, Aus dem Gleichgewicht, Verlangsamt, Außer Gefecht  |
+|   **Zustände** | □ Beschädigt, □ Aus dem Gleichgewicht, □ Verlangsamt, □ Außer Gefecht  |
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
@@ -341,7 +341,7 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 |-----------------:|:-------------------------------------------------|
 | **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                   |
 |         **Ausrüstung** | Polierter Säbel                                   |
-|   **Zustände** | Verwirrt, Verletzt, Aufgehalten, Außer Gefecht |
+|   **Zustände** | □ Verwirrt, □ Verletzt, □ Aufgehalten, □ Außer Gefecht |
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
@@ -394,7 +394,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 | **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
 |         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
 |        **Motiv** | Den Götzen von Toth finden                                                                    |
-|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
 
@@ -437,7 +437,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 | **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                              |
 |         **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                  |
 |        **Motiv** | Die Sieben Weltwunder sehen                                                          |
-|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune.
 
@@ -479,7 +479,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 | **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                          |
 |         **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                     |
 |        **Motiv** | Auf Tennessee Smith aufpassen                                                            |
-|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure.
 
@@ -513,7 +513,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
 |         **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                           |
 |        **Motiv** | Bekomme den Exklusivbericht über Tennessee Smith                                               |
-|   **Zustände** | Wütend, Verängstigt, Müde, Gefangen, Geblendet, Hungrig, Benommen, Verletzt, Sterbend |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, Benommen, □ Verletzt, □ Sterbend |
 
 > October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants.
 
