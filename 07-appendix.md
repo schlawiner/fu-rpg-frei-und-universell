@@ -10,13 +10,14 @@ Diese Liste an Dingen, für die Ein Beschreiber vor- oder nachteilig sein könnt
 Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque élément de la liste est un Descripteur, pour lequel on indique en quoi il peut être un avantage ou un handicap, ce qui peut aider à la fois les joueurs et le Narrateur. -->
 
 <!--
-**Körper** Agil, Beidhändig, Blond, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen oder Krallen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität (Vigour), Schwach.
+
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
 > **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
 >
-> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.-->
+> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
+-->
 
 ## Body Descriptors
 
@@ -35,7 +36,7 @@ you, not good if you spend too much time in the sun.
 
 * **Fake Orange Tan:** great for passing as an aging
 celebrity, and for drawing attention to yourself.
-* **Falsche Bräune:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
+* **Selbstbräuner-Orange:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
 
 * **Furry:** useful for resisting cold weather, and living in the woods.
 * **Pelzig:** kaltem Wetter widerstehen, in der Wildnis überleben
@@ -44,7 +45,7 @@ celebrity, and for drawing attention to yourself.
 * * **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
 
 * **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* * **Riesig:** bedrohlich aussehen, an hohe Dinge heranzukommen, eine Bodybuilderin spielen, in kleinen
+* * **Gewaltig:** bedrohlich aussehen, an hohe Dinge herankommen, eine Bodybuilderin spielen, in kleinen Umgebungen steckenbleiben
 
 * **Overweight:** a problem when exercising and
 borrowing clothes.
@@ -52,10 +53,10 @@ borrowing clothes.
 
 * **Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
-* **Schlechte Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
+* **Schwache Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
 
 * **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-* **Schnell:** Wegducken, Taschenspielertricks, Ausweichen
+* **Flink:** Wegducken, Taschenspielertricks, Ausweichen
 
 * **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
 * **Rasiermesserscharfe Klauen:** Gegner aufschlitzen, Obst und Gemüse schneiden, vielleicht beim Bäumehochklettern
@@ -70,7 +71,7 @@ tance running, resisting damage, performing feats of endurance, and healing.
 * **Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
 
 * **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
-* **Groß:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
+* **Hochgewachsen:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
 
 * **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
 * **Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
