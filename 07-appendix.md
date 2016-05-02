@@ -197,10 +197,10 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Jagen:** Vorteile beim Spurenlesen und Sichheranpirschen, Gut aussehen in Tarnkleidung, Wissen, wie sich ein Nashorn anhört
 
 **Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
-**Scharfe Augen:**
+**Scharfe Augen:** Vorteile beim Sehen weitentfernter Dinge oder bei Mondlicht
 
 **Linguistics:** good for speaking one (or more) foreign languages and generally communicating with others.
-**Sprachwissenschaften:**
+**Sprachwissenschaften:** Vorteile beim Sprechen einer oder mehrere fremder Sprachen und der generellen Kommunikation mit anderen Leuten
 
 **Magic:** great for knowing the mystic arts, casting spells, or acting like a stage magician.
 **Magie:**
