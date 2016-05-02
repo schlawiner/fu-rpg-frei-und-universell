@@ -9,16 +9,6 @@ Diese Liste an Dingen, für die Ein Beschreiber vor- oder nachteilig sein könnt
 
 Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque élément de la liste est un Descripteur, pour lequel on indique en quoi il peut être un avantage ou un handicap, ce qui peut aider à la fois les joueurs et le Narrateur. -->
 
-<!--
-
->
-
->
-> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
->
-> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
--->
-
 ## Body Descriptors
 
 ## Körperliche Beschreiber
@@ -116,24 +106,50 @@ tance running, resisting damage, performing feats of endurance, and healing.
 
 ### Geistige Beschreiber
 
-<!-- > **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.-->
-
-Absent-Minded: good for being distracted, but a
+**Absent-Minded:** good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
-Book-Smart: great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
-Computer-Wiz: good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
-Dim-Witted: a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
-Empathetic: good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
-Focused: good for staying on task, not getting dis- tracted, and looking serious.
-Lateral Thinker: handy for problem solving, and approaching issues in new or unusual ways.
-Mathematician: great for doing sums, solving equations and doing your tax.
-Observant: great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
-Orator: good for public speaking, debating and getting people to see your point of view.
-Slow: a pain when trying to understand plans, or learn new things.
-Tactician: great for planning battles, remember- ing military history and quoting Tsun Tsu.
-Uneducated: a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
-Wise: handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
-Witty: good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
+**Zerstreut:**
+
+**Book-Smart:** great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
+**Belesen:**
+
+**Computer-Wiz:** good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
+**Computerfreak:**
+
+**Dim-Witted:** a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
+**Dämlich:**
+
+**Empathetic:** good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
+**Einfühlsam:**
+
+**Focused:** good for staying on task, not getting dis- tracted, and looking serious.
+**Konzentriert:**
+
+**Lateral Thinker:** handy for problem solving, and approaching issues in new or unusual ways.
+**Querdenkerin:**
+
+**Mathematician:** great for doing sums, solving equations and doing your tax.
+**Mathematikerin:**
+
+**Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
+**Aufmerksam:**
+
+**Orator:** good for public speaking, debating and getting people to see your point of view.
+**Rednerin:**
+
+**Slow:** a pain when trying to understand plans, or learn new things.
+**Langsam im Kopf:**
+
+**Tactician:** great for planning battles, remember- ing military history and quoting Tsun Tsu.
+**Taktikerin:**
+
+**Uneducated:** a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
+**Ungebildet:**
+
+**Wise:** handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
+
+**Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
+**Weise:**
 
 
 <!-- Descripteurs d'Esprit
