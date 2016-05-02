@@ -172,6 +172,12 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 ## Edge Descriptors
 
+<!--
+> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
+>
+> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
+-->
+
 Acrobatics: great for joining the circus, leaping
 through narrow gaps, and doing impressive  ips. Arcane Knowledge: good for identifying mys- tic artefacts, recognizing the presence of evil magic,
 and reading ancient scrolls.
