@@ -126,10 +126,10 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Konzentriert:** Vorteile beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
 
 **Lateral Thinker:** handy for problem solving, and approaching issues in new or unusual ways.
-**Querdenkerin:**
+**Querdenkerin:** Vorteile beim Problemlösen, Kreativen Angehen von Problemstellungen
 
 **Mathematician:** great for doing sums, solving equations and doing your tax.
-**Mathematikerin:**
+**Mathematikerin:** Vorteile beim Addieren, Gleichungen lösen, Steuern machen
 
 **Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
 **Aufmerksam:**
