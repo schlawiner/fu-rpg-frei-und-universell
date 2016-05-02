@@ -241,13 +241,13 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 **Blind:** a pain when doing anything that requires
 sight, such as shooting, navigating an unfamiliar space, or painting.
-**Blind:**
+**Blind:** Nachteile bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, Navigieren oder Malen
 
 **Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
-**Mutig:**
+**Mutig:** Vorteile beim Heranstürmen in eine tödliche Gefahr, Tollkühnen Verhalten und Probleme bekommen
 
 **Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
-**Ungeschickt:**
+**Ungeschickt:** Nachteile beim Tragen einer wertvollen Vase, Besuch eines Antiquitätenladens oder beim  Durchqueren eines verminten Raumes
 
 **Greedy:** a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
 **Gierig:**
