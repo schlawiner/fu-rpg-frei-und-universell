@@ -179,22 +179,50 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 > **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
 -->
 
-Acrobatics: great for joining the circus, leaping
-through narrow gaps, and doing impressive  ips. Arcane Knowledge: good for identifying mys- tic artefacts, recognizing the presence of evil magic,
+**Acrobatics:** great for joining the circus, leaping
+through narrow gaps, and doing impressive  ips.
+**Acrobatics:**
+
+**Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic,
 and reading ancient scrolls.
-Courage: handy when seeing something scary,
+**Acrobatics:**
+
+**Courage:** handy when seeing something scary,
 telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
-Driving: great for car racing, car chases, and pass- ing your driving exam.
-Fencing: good for sword  ghting and other civi- lized forms of melee.
-Good Memory: handy for remembering names and faces, vital clues, and mathematical formulas.
-Hunting: good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
-Keen Sight: great for seeing a long way or even doing stu  by moonlight.
-Linguistics: good for speaking one (or more) foreign languages and generally communicating with others.
-Magic: great for knowing the mystic arts, casting spells, or acting like a stage magician.
-Medicine: good for performing operations, diag- nosing illness, and administering  rst aid.
-Nasty Bite: great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
-Rich: handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
-Wrestling: good for  ghting unarmed combat, and pinning opponents to the ground.
+**Acrobatics:**
+
+**Driving:** great for car racing, car chases, and pass- ing your driving exam.
+**Acrobatics:**
+
+**Fencing:** good for sword  ghting and other civi- lized forms of melee.
+**Acrobatics:**
+
+**Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas.
+**Acrobatics:**
+
+**Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
+**Acrobatics:**
+
+**Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
+**Acrobatics:**
+
+**Linguistics:** good for speaking one (or more) foreign languages and generally communicating with others.
+**Acrobatics:**
+
+**Magic:** great for knowing the mystic arts, casting spells, or acting like a stage magician.
+**Acrobatics:**
+
+**Medicine:** good for performing operations, diag- nosing illness, and administering  rst aid.
+**Acrobatics:**
+
+**Nasty Bite:** great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
+**Acrobatics:**
+
+**Rich:** handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
+**Acrobatics:**
+
+**Wrestling:** good for  ghting unarmed combat, and pinning opponents to the ground.
+**Acrobatics:**
 
 <!-- Descripteurs d'Atout
 
