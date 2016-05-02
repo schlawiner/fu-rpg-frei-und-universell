@@ -138,7 +138,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Rednerin:** Vorteile beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
 
 **Slow:** a pain when trying to understand plans, or learn new things.
-**Langsam im Kopf:** Nachteile beim Verstehen von Plänen, Lernen neuer Dinge
+**Langsam:** Nachteile beim Verstehen von Plänen, Lernen neuer Dinge
 
 **Tactician:** great for planning battles, remember- ing military history and quoting Tsun Tsu.
 **Taktikerin:** Vorteile beim Planen von Kämpfen, Erinnern von militärischer Geschichte, Zitieren von Sun-Tsu
