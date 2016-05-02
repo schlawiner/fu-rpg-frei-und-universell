@@ -203,19 +203,19 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Sprachwissenschaften:** Vorteile beim Sprechen einer oder mehrere fremder Sprachen und der generellen Kommunikation mit anderen Leuten
 
 **Magic:** great for knowing the mystic arts, casting spells, or acting like a stage magician.
-**Magie:**
+**Magie:** Vorteile beim Wissen mystischer Künste, Sprüche wirken oder Auftreten als Bühnenmagier
 
 **Medicine:** good for performing operations, diag- nosing illness, and administering  rst aid.
-**Medizin:**
+**Medizin:** Vorteile beim Durchführen von Operationen, Krankheiten diagnostizieren, Erste-Hilfe-Leisten
 
 **Nasty Bite:** great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
-**Fieser Biss:**
+**Fieser Biss:** Vorteile beim schweren Verletzen des Gegners im Kampf, Abkauen des eigenen Armes oder beim Gewinnen eines Kuchenesswettbewerbs
 
 **Rich:** handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
-**Reich:**
+**Reich:** Vorteile beim Kauf von Luxusautos, bei Einladungen zu exklusiven Partys und beim Bestechen von städtischen Beamten
 
 **Wrestling:** good for  ghting unarmed combat, and pinning opponents to the ground.
-**Ringkampf:**
+**Ringkampf:** Vorteile beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden
 
 <!-- Descripteurs d'Atout
 
