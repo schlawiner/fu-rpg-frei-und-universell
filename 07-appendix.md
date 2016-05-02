@@ -132,24 +132,25 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Mathematikerin:** Vorteile beim Addieren, Gleichungen lösen, Steuern machen
 
 **Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
-**Aufmerksam:**
+**Aufmerksam:** Vorteile beim Bemerken versteckter Hinweise, Bemerken von Details, Lesen von Körpersprache
 
 **Orator:** good for public speaking, debating and getting people to see your point of view.
-**Rednerin:**
+**Rednerin:** Vorteile beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
 
 **Slow:** a pain when trying to understand plans, or learn new things.
-**Langsam im Kopf:**
+**Langsam im Kopf:** Nachteile beim Verstehen von Plänen, Lernen neuer Dinge
 
 **Tactician:** great for planning battles, remember- ing military history and quoting Tsun Tsu.
-**Taktikerin:**
+**Taktikerin:** Vorteile beim Planen von Kämpfen, Erinnern von militärischer Geschichte, Zitieren von Sun-Tsu
 
 **Uneducated:** a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
-**Ungebildet:**
+**Ungebildet:** Nachteile beim Lesen, Matheaufgaben lösen, Wichtige geschichtliche Daten erinnern, Bestehen von Schultests
 
 **Wise:** handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
+**Weise:** Vorteile beim Zitieren von Sprichwörtern, Ratgeben, Hinweise in Verbindung bringen, Interpretieren von Reaktionen anderer Menschen, Bemerken von "Ich hab's euch gesagt,"
 
 **Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
-**Weise:**
+**Geistreich:** Vorteile beim Reißen witziger Kommentare, Charmant/Unterhaltsam sein, das Richtige zum rechten Zeitpunkt sagen
 
 
 <!-- Descripteurs d'Esprit
