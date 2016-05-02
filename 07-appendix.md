@@ -173,56 +173,52 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 ## Edge Descriptors
 
-<!--
-> **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagd/Jagen?, Scharfe Augen, Linguistik, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
->
-> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
--->
+## Beschreiber für Vorteile
 
 **Acrobatics:** great for joining the circus, leaping
 through narrow gaps, and doing impressive  ips.
-**Acrobatics:**
+**Akrobatik:**
 
 **Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic,
 and reading ancient scrolls.
-**Acrobatics:**
+**Okkultes Geheimwissen:**
 
 **Courage:** handy when seeing something scary,
 telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
-**Acrobatics:**
+**Mut:**
 
 **Driving:** great for car racing, car chases, and pass- ing your driving exam.
-**Acrobatics:**
+**Fahren:**
 
 **Fencing:** good for sword  ghting and other civi- lized forms of melee.
-**Acrobatics:**
+**Fechten:**
 
 **Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas.
-**Acrobatics:**
+**Gutes Gedächtnis:**
 
 **Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
-**Acrobatics:**
+**Jagen:**
 
 **Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
-**Acrobatics:**
+**Scharfe Augen:**
 
 **Linguistics:** good for speaking one (or more) foreign languages and generally communicating with others.
-**Acrobatics:**
+**Sprachwissenschaften:**
 
 **Magic:** great for knowing the mystic arts, casting spells, or acting like a stage magician.
-**Acrobatics:**
+**Magie:**
 
 **Medicine:** good for performing operations, diag- nosing illness, and administering  rst aid.
-**Acrobatics:**
+**Medizin:**
 
 **Nasty Bite:** great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
-**Acrobatics:**
+**Fieser Biss:**
 
 **Rich:** handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
-**Acrobatics:**
+**Reich:**
 
 **Wrestling:** good for  ghting unarmed combat, and pinning opponents to the ground.
-**Acrobatics:**
+**Ringkampf:**
 
 <!-- Descripteurs d'Atout
 
@@ -241,22 +237,50 @@ telling your wife you forgot your anniversary, and at- tempting other dangerous 
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
 * **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol. -->
 
+
 ## Flaw Descriptors
 
-Blind: a pain when doing anything that requires
+## Beschreiber für Nachteile
+
+**Blind:** a pain when doing anything that requires
 sight, such as shooting, navigating an unfamiliar space, or painting.
-Brave: good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
-Clumsy: a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
-Greedy: a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
-in-Human Appearance: a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
-Missing Leg: a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
+**Blind:**
+
+**Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
+**Mutig:**
+
+**Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
+**Ungeschickt:**
+
+**Greedy:** a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
+**Gierig:**
+
+**in-Human Appearance:** a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
+**Unmenschliches Aussehen:**
+
+**Missing Leg:** a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
+**Fehlendes Bein:**
+
 Old: a pain when trying to look cool, climb stairs, use a computer, or be positive about your health.
-Poor: a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
-Poor Sight: a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
-Primitive: a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
-Smelly: a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
-Wanted: a pain when trying to keep out of trou- ble, or needing something from your apartment.
-Young: a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+**Alt:**
+
+**Poor:** a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
+**Arm:**
+
+**Poor Sight:** a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
+**Sieht schlecht:**
+
+**Primitive:** a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
+**Primitiv:**
+
+**Smelly:** a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
+**Intensiver Geruch:**
+
+**Wanted:** a pain when trying to keep out of trou- ble, or needing something from your apartment.
+**Gesucht:**
+
+**Young:** a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+**Jung:**
 
 <!-- Descripteurs de Faille
 
