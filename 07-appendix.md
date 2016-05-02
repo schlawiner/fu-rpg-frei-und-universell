@@ -108,22 +108,22 @@ tance running, resisting damage, performing feats of endurance, and healing.
 
 **Absent-Minded:** good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
-**Zerstreut:**
+**Zerstreut:** Abgelenkt, Vergesslich, Sicherungsstift aus Handgranate gezogen
 
 **Book-Smart:** great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
-**Belesen:**
+**Belesen:** Vorteile beim Ablegen von Prüfungen, Wissen von Matheformeln, Erinnern von historischen Daten und Zugang zum Jurastudium
 
 **Computer-Wiz:** good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
-**Computerfreak:**
+**Computerfreak:** Vorteile beim Programmieren, Laptopreparieren, XXX
 
 **Dim-Witted:** a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
-**Dämlich:**
+**Dämlich:**Probleme beim Verstehen von Witzen, Tricks verstehen, XXX
 
 **Empathetic:** good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
-**Einfühlsam:**
+**Einfühlsam:** Vorteile beim Lesen von Emotionen, psychologische Diagnosen durchführen, Beruhigen von notleidenden Menschen
 
 **Focused:** good for staying on task, not getting dis- tracted, and looking serious.
-**Konzentriert:**
+**Konzentriert:** Vorteile beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
 
 **Lateral Thinker:** handy for problem solving, and approaching issues in new or unusual ways.
 **Querdenkerin:**
