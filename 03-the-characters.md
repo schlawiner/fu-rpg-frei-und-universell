@@ -97,7 +97,7 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 ### Beispiele für Beschreiber
 
-Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer beschrieben.
+Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
 > **Körper** Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwach, Schwimmhäute an den Füßen.
 >
@@ -143,7 +143,7 @@ Il est tout à fait acceptable d'user de clichés quand on propose son concept. 
 
 #### Beschreiber wählen
 
-Du solltest dich bemühen, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche **"kann nicht schwimmen"** zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
+Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche **"kann nicht schwimmen"** zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
 Lass deine Fantasie spielen, behalte dein Konzept im Kopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
 
 <!-- Choosing Descriptors
@@ -157,7 +157,7 @@ Il faut se forcer à être imaginatif et honnête. En considérant à la fois vo
 
 Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur. Les possibilités sont infinies. -->
 
-#### Beschreiber sind klar
+#### Beschreiber sind klar und eindeutig
 
 Einen guten Beschreiber kann jeder am Tisch verstehen. Wenn du oder eine Mitspielerin einen Beschreiber für nicht eindeutig haltet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Es sollten sich nur alle über seine Bedeutung einig sein, wenn er schlussendlich verwendet wird.  
 
@@ -178,7 +178,7 @@ Les Descripteurs sont innés
 
 Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel. -->
 
-#### Die Reichweite von Beschreibern ist endlich
+#### Die Reichweite von Beschreibern ist begrenzt
 
 Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das erfahrt ihr erst während des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn letzteres kann auch in verschiedenen nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend..."*).
 
@@ -188,7 +188,7 @@ Each Descriptor should have one or two obvious uses or a speci c purpose. It mig
 La portée des Descripteurs
 Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*) -->
 
-#### Was für eine Art Beschreiber ist das?
+#### Was für ein Beschreiber ist das?
 
 Einige Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Es kommt auf dich, die Erzählerin und deine Mitspielerinnen an - ihr entscheidet, ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht.
 
@@ -248,7 +248,8 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 ## Ausrüstung
 
-Ausrüstung ist das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wichtigen und coolen Sachen, die sie bei sich tragen.  
+Ausrüstung ist das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
+
 Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* setzt sich ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv zusammen: Rostiges Schwert, Langes Seil, Schnelles Pferd, Weitschuss-Gewehr, Papas Camaro, Schwere Rüstung.
 
 Deine Figur hat genau zwei Ausrüstungsgegenstände. Such' dir zwei Teile für deine Figur aus.
@@ -266,7 +267,7 @@ Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'
 
 Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage. -->
 
-> David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgenutzte Lederjacke**, mit der er sich vor der Kälte und auch ein wenig vor eventuellen Kratzern und Stürzen schützen kann.  
+> David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgenutzte Lederjacke**, mit der er sich vor der Kälte und auch ein wenig vor Kratzern und Stürzen schützen kann.  
 Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **Offizielle Dokumente** die ihren politischen Status belegen, und für **Exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
 
 <!-- Dave decides his Daredevil Explorer to have a Sturdy Bull Whip, since he is quite skilled with it, and a Worn Leather Jacket to keep out the cold and o er a little protection from scrapes and falls.
@@ -278,16 +279,33 @@ Nina thinks about her Alien Emissary before deciding on some O cial Documents th
 
 ## Beispiel-Ausrüstung
 
+Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.
 
 
-like the example Descriptors, this list is not in any
-way exhaustive. It barely scratches the surface of what your character might possess.
-Clothes: Designer Jeans, Slinky Black Dress (let’s count “black dress” as the noun), Filthy Un- derpants, Worn Jacket, State-of-the-art Space Suit, Silk Smoking Jacket, Beat-up Fedora, Tall Powdered Wig.
-Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet.
-Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about.
-Other Stuff: Huge Backpack, Miniature Flag, Heavy RPG Books, Faithful Hound, Dented Frying Pan, Water-damaged Notebook, Ancient Spell Book, My Favourite Pet Rock.
+<!--like the example Descriptors, this list is not in any
+way exhaustive. It barely scratches the surface of what your character might possess.-->
 
-Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhaustive. Elle effleure à peine ce que votre personnage peut posséder.
+**Kleider**:
+Designer-Jeans, Hautenges schwarzes Kleid (lassen wir "schwarzes Kleid" mal als Substantiv gelten), Dreckige Unterhosen, Abgetragene Jacke, Supermoderner Raumanzug, Seidener Herrenmorgenmantel, Verbeulter Filzhut, Hohe Puderperücke.
+
+<!-- Clothes: Designer Jeans, Slinky Black Dress (let’s count “black dress” as the noun), Filthy Un- derpants, Worn Jacket, State-of-the-art Space Suit, Silk Smoking Jacket, Beat-up Fedora, Tall Powdered Wig. -->
+
+**Waffen**:
+Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.
+
+<!-- Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet. -->
+
+**Fortbewegung**:
+Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownschuhe, Getunter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
+
+<!-- Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about. -->
+
+**Sonstiges**:
+Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Notizbuch mit Wasserschaden, Uraltes Zauberbuch, Mein Lieblingskieselstein.
+
+<!-- Other Stuff: Huge Backpack, Miniature Flag, Heavy RPG Books, Faithful Hound, Dented Frying Pan, Water-damaged Notebook, Ancient Spell Book, My Favourite Pet Rock. -->
+
+<!-- Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhaustive. Elle effleure à peine ce que votre personnage peut posséder.
 
 **Vêtements** : Jeans de Couturier, Petite Robe Noire (la "robe noire" est comptée comme un nom), Sous-vêtements Sales, Blouson Usé, Costume Spatial Dernier Cri, Costume de Soirée en Soie, Fedora Abimé, Haute Perruque Poudrée.
 
@@ -295,119 +313,177 @@ Comme pour les exemples de Descripteurs, cette liste n'est en aucun cas exhausti
 
 **Transport** : Cheval Fidèle, Buick en Bout de Course, Limousine Pare-Balles, Chaussures de Clown Couinantes, Voiture de Course Surgonflée, Bicyclette de Fille, Coupé Déglingué, Chariot Bancal, Moto Rapide, Déambulateur de Grand-Mère.
 
-**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poêle à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé.
+**Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poêle à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé. -->
 
 ----
 
-### Wählen der Ausrüstung
+### Ausrüstung auswählen
 
-Choosing Gear
+Die Gegenstände, die du als Ausrüstung wählst, sollten ein Markenzeichen für deine Figur sein. Denk zum Beispiel an Batmans Düsteren Fledermausanzug, die Instabilen Protonen-Packs der Ghostbusters, James Bonds Zuverlässige Berretta oder Zorros blitzende Klinge.
+
+Jedes Ausrüstungsteil sollte etwas zur Charakterisierung deiner Figur beitragen, entweder zu ihrem Hintergrund, ihrer Persönlichkeit oder ihren Zielen. Es sollte etwas über deine Figur oder ihre Taten aussagen.
+
+<!-- Choosing Gear
 Items should be “iconic” to your character.  ink Batman’s Sinister Batsuit, the Ghostbuster’s Unstable Proton-packs, James Bond’s Reliable Berretta, or Zorro’s Flashing Blade.
 Each piece of Gear should add some- thing to your character’s background, personality or goals. It should make a statement about who the character is or what they do.
 
 Les objets doivent être à l'image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
 
-Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personnage, et ce qu'il fait.
+Chaque élément du Matériel doit ajouter un détail à l'histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l'affirmation de ce qu'est le personnage, et ce qu'il fait. -->
 
-### Ausrüstung ist Ausrüstung
+### Ausrüstung ist Zubehör
 
-Gear is equipment
+Ausrüstung ist nie einer Figur innewohnend - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein Gepanzerter Roboterhandschuh dagegen schon.
+
+<!-- Gear is equipment
 Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
 
 Le Matériel, c'est du Matériel
 
-Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas du Matériel, alors qu'un Gant de Puissance Blindé l'est.
+Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n'est pas du Matériel, alors qu'un Gant de Puissance Blindé l'est. -->
 
 ### Ausrüstung beschreiben
 
-Describing Gear
-When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!  
+Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas nützliches und/oder interessantes über den Gegenstand aussagen. Ein Langer Dolch ist ganz gut, aber ein Zerbrochener Dolch ist besser!
 
-Like Descriptors, the description of your Gear should be clear - you don’t want to be guessing at the purpose or main feature of an item.
+<!-- Describing Gear
+When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!   -->
+
+Die Beschreibung deiner Ausrüstung sollte, wie  Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, was ihr Zweck oder ihre Haupteigenschaft ist.
+
+<!-- Like Descriptors, the description of your Gear should be clear - you don’t want to be guessing at the purpose or main feature of an item.
 
 L'utilisation du qualificatif doit nous donner une vraie indication utile concernant l'élément. Une Épée Longue, soit, mais une Épée Brisée, c'est bien mieux !
 
-Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet.
+Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l'objet. -->
 
-### One adjective only
+### Nur ein einziges Adjektiv
+
+Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein Scharfer Säbel ist gut, ein Magisches Schwert auch, aber ein Scharfer Magischer Säbel ist nicht erlaubt.
+
+<!-- One adjective only
  e description of your gear should have a single adjective - no less and no more. A Sharp Sabre is okay, as is a Magic Sword, but a Sharp Magic Sabre is not allowed.
 
 
 Un seul qualificatif
 
-La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c'est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n'est pas autorisée.
+La description de votre objet ne doit avoir qu'un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c'est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n'est pas autorisée. -->
 
-### Specific nouns
+### Konkrete Substantive
+
+Wähle konkrete, aussagekräftige Substantive. Säbel ist besser als Schwert und Baseballkappe ist besser als Mütze. Du darfst auch mehr als ein Substantiv benutzen, aber beschränke dich auf so wenige Wörter wie möglich.
+
+<!-- Specific nouns
 Choose speci c, descriptive nouns; Sabre is better than Sword, Baseball Cap is better than Hat. You can use more than one noun, but keep the de- scription to as few words as possible.
 
 Un nom spécifique
 
-Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible.
+Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible. -->
 
-### Talk about your Gear
+### Sprich über deine Ausrüstung
+Diskutiere mit der Gruppe über deine Ausrüstung. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist, und wobei sie eher hinderlich sein kann.
+
+Ausrüstung ist nie von Haus aus "gut" oder "schlecht". Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du dich befindest.
+
+<!-- Talk about your Gear
 Discuss your Gear. Everyone needs to be clear on what you are describing; what the Gear will be useful for, and when it might be a hindrance.  
 
-Gear is not innately “good” or “bad”. What you do with it and the situations you  nd yourself in will dictate whether having an item is useful or not.
+Gear is not innately “good” or “bad”. What you do with it and the situations you  nd yourself in will dictate whether having an item is useful or not. -->
 
-Parlez de votre Matériel
+<!-- Parlez de votre Matériel
 
 Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l'outil devient un obstacle.
 
-Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en fonction des situations, qui vous montrera son (in)utilité.
+Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en fonction des situations, qui vous montrera son (in)utilité. -->
 
-### Good Gear / Bad Gear
-You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card.
+### Gute Ausrüstung und schlechte Ausrüstung
+
+Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein "gutes" Adjektiv, und der andere ein "schlechtes" haben muss. Vielleicht hast du eine "Warme Jacke" und eine "Alte Kanone", oder ein "Schnelles Motorrad" und eine "Überzogene Kreditkarte".
+
+<!-- Good Gear / Bad Gear
+You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card. -->
 
 
-Bon Matériel / Mauvais Matériel
+<!-- Bon Matériel / Mauvais Matériel
 
-Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aurait un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Épuisée.
+Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualificatif, tandis que l'autre en aurait un "mauvais". Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Épuisée. -->
 
-### Stuff that isn’t Gear
-Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that!
+### Kram, der keine Ausrüstung ist
 
-Les choses qui ne sont pas du Matériel
+Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur - Schaufensterdekoration. Du kannst aber die Ausrüstung anderer Figuren tauschen, stehlen oder aufheben und diese benutzen.
 
-Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions.
+<!-- Stuff that isn’t Gear
+Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that! -->
+
+<!-- Les choses qui ne sont pas du Matériel
+
+Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions. -->
 
 -----
 
-## Description
+## Beschreibung
+
+Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. Jetzt ist es soweit, die restlichen Einzelheiten zu erfinden. Hier beschreibst du Aussehen und Persönlichkeit deiner Figur, ihre Vergangenheit, ihre Ziele, Freunde und Feinde und alle anderen Einzelheiten, die du wichtig oder interessant findest.
+
+<!-- Description
 
 By now, you should have a good idea of who your
 character is. Now it is time to  ll in all the other details.  is is the bit where you describe the character’s appearance and personality, their past, goals, friends, enemies, and any other detail you think important or
-interesting.
+interesting. -->
 
-À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et le caractère de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs.
+<!-- À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et le caractère de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs. -->
 
-> Dave takes a moment to note a few things about the Daredevil Explorer;
+> David macht sich ein paar Notizen zu seinem  Tollkühnen Entdecker:
+>
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
+
+> Ninas Beschreibung ihrer der Ausserirdischen Botschafterin ist folgendermaßen:  
+>
+> Lumina ist eine wichtige Diplomatin vom Planeten Jupiter, welcher vom Schreckensfürst Kang regiert wird. Wie alle ihrer Art hat sie lila Haut, einen haarlosen Kopf und feine Gesichtszüge. Lumina arbeitet für die Jupiter-Untergrundbewegung und versucht, Schreckensfürst Kang zu stürzen.
+
+<!-- > Dave takes a moment to note a few things about the Daredevil Explorer;
 Tennessee Smith is a mild-mannered professor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it!
-Nina’s description of the Alien Emissary is;
-Lumina is an important diplomat from the planet Jupiter, which is ruled by the Dread Lord Kang. Like all her kind, she has purple skin, a bald head, and delicate features. Lumina works for the Jupiter Underground, attempting to overthrow Dread Lord Kang.
 
-> David prend un moment pour prendre des notes sur son Explorateur Intrépide :
+Nina’s description of the Alien Emissary is;
+Lumina is an important diplomat from the planet Jupiter, which is ruled by the Dread Lord Kang. Like all her kind, she has purple skin, a bald head, and delicate features. Lumina works for the Jupiter Underground, attempting to overthrow Dread Lord Kang. -->
+
+<!-- > David prend un moment pour prendre des notes sur son Explorateur Intrépide :
 >
 > Tennessee Smith est un professeur d'histoire bien comme il faut, mais dans ses temps libres, il voyage dans les contrées sauvages à la recherche de trésors et d'objets anciens. Il est beau et sauvage à la fois, semble ne jamais perdre son calme, malgré les dangers qu'il court, et il a tendance à souvent courir vers le danger.
 >
 > La description de Nina pour son Ambassadeur Alien est la suivante :
 >
-> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de renverser le Seigneur Kang.
+> Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de renverser le Seigneur Kang. -->
 
-## Drives
+## Antriebe
+
+Jede Figur hat eine Bestimmung - ein Ziel das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
+
+<!-- Drives
 every character has a purpose - a goal they are striv-
-ing to achieve. It may not be world changing (though it can be) but it should be important to that character. Ask the following questions of your character;
-**What do you want?** What is it that you desire, the thing that drives you to action?
+ing to achieve. It may not be world changing (though it can be) but it should be important to that character. Ask the following questions of your character; -->
 
-**What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?  
+**Was willst du?** Was wünschst du dir, was treibt dich an?
+<!-- **What do you want?** What is it that you desire, the thing that drives you to action? -->
 
-**What will you do?** What is the next step to get what you want? What are you willing to do to succeed?
+**Was hält dich davon ab?** Welches Hindernis, welcher Gegner steht zwischen dir und dem was du willst?
 
-> Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it.
+<!-- **What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?   -->
 
-> Lumina seeks freedom for all the people of Jupi- ter. Dread Lord Kang rules the planet with an iron  st, and his agents are always on the look out for renegades. Lumina is willing to put her own life on the line to achieve her vision.
+**Was wirst du tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
+
+<!-- **What will you do?** What is the next step to get what you want? What are you willing to do to succeed? -->
 
 
-Motivations
+> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiss begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith unbedingt erfolgreich sein und ist bereit, fast alles zu tun, um an den Götzen zu gelangen - doch töten würde er dafür nie.
+<!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
+
+> Lumina strebt nach Freiheit für alle Jupiter-Völker. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum wahrzumachen.
+
+<!-- > Lumina seeks freedom for all the people of Jupi- ter. Dread Lord Kang rules the planet with an iron  st, and his agents are always on the look out for renegades. Lumina is willing to put her own life on the line to achieve her vision. -->
+
+
+<!-- Motivations
 
 Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'est pas forcément un but trop ambitieux, comme changer le monde, même si ça peut être le cas. Il doit au moins être important pour le personnage. Posez-vous les questions suivantes à propos du personnage :
 
@@ -419,112 +495,162 @@ Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'e
 
 > Tennessee Smith est à la recherche de l'Idole de Tot, un artefact qu'il convoite depuis des années. Son rival, Giles Fishburne est également à la recherche de cette idole et semble toujours avoir une étape d'avance. Tenessee a vraiment envie de récupérer cette idole - cependant il ne tuerait jamais pour elle.
 >
-> Lumina veut la liberté pour le peuple de Jupiter. Le Terrible Seigneur Kang tient la planète dans sa main de fer, et ses agents sont sans arrêt aux trousses des rebelles. Lumina est prête à donner sa vie pour accomplir sa tâche.
+> Lumina veut la liberté pour le peuple de Jupiter. Le Terrible Seigneur Kang tient la planète dans sa main de fer, et ses agents sont sans arrêt aux trousses des rebelles. Lumina est prête à donner sa vie pour accomplir sa tâche. -->
 
 
-## Relationships
+## Beziehungen
+
+Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und der Vergangenheit beider Figuren etwas mehr Tiefe verleihen. Zum Beispiel: Alte Saufkumpanen, Mit derselben Frau liiert, Zusammen im Krieg gekämpft, Vom selben Meister ausgebildet.
+
+<!-- Relationships
 Choose at least one other character that will take
-part in the story and write a short statement about your relationship with them.  is should be clear and add some interesting depth to both characters back- grounds. For example; old drinking buddies; Dated the same woman; Fought in the war together; Were trained by the same master.
+part in the story and write a short statement about your relationship with them.  is should be clear and add some interesting depth to both characters back- grounds. For example; old drinking buddies; Dated the same woman; Fought in the war together; Were trained by the same master. -->
 
-> Dave writes; Tennessee Smith and Lumina met at Harvard where Lumina was giving a presen- tation on the ancient cultures of Jupiter. Nina is happy with this, adding only that both characters were attracted to each other but Lumina is too fo- cussed on her mission to have any romantic dal- liance.
 
-Relations
+> David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die alten Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich voneinander angezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.
+
+<!-- > Dave writes; Tennessee Smith and Lumina met at Harvard where Lumina was giving a presen- tation on the ancient cultures of Jupiter. Nina is happy with this, adding only that both characters were attracted to each other but Lumina is too fo- cussed on her mission to have any romantic dal- liance. -->
+
+<!-- Relations
 
 Choisissez au moins un personnage qui prend part à l'histoire et écrivez une courte phrase pour décrire votre relation avec lui/elle/eux. Ce doit être clair et doit ajouter une profondeur supplémentaire aux historiques des deux personnages. Par exemple : Copains de Bistrot, Ont eu la même femme, Frères d'arme, Ont été entraînés par le même maître.
 
-> David écrit : Tennessee Smith et Lumina se sont rencontrés à Harvard alors que Lumina donnait une conférence sur les anciennes cultures de Jupiter. Nina est d'accord avec cette phrase, mais ajoute que, même si les deux personnes ont été attirées l'une et l'autre, Lumina est trop concentrée sur sa mission pour s'engager dans une relation amoureuse.
+> David écrit : Tennessee Smith et Lumina se sont rencontrés à Harvard alors que Lumina donnait une conférence sur les anciennes cultures de Jupiter. Nina est d'accord avec cette phrase, mais ajoute que, même si les deux personnes ont été attirées l'une et l'autre, Lumina est trop concentrée sur sa mission pour s'engager dans une relation amoureuse. -->
 
 ----
 
-### It’s all about roleplaying now
+### Jetzt dreht sich alles ums Rollenspiel
+
+Deine Beschreibung, Antriebe und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und wie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+
+Nutze deine Antriebe und Beziehungen als Leitlinie, wie du deine Rolle spielst, und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
+
+<!-- It’s all about roleplaying now
 Your Description, Drives and Re- lationships all help develop your char- acter and put them into the “world” of your stories and adventures.  e Narra- tor might occasionally give you a bonus to dice rolls because of the information you reveal here, but that is by no means required.  
 
-Use your Drives and Relationships to inform the way you roleplay your character, the way they interact with the other player’s characters and the world around them.
+Use your Drives and Relationships to inform the way you roleplay your character, the way they interact with the other player’s characters and the world around them. -->
 
 
-Maintenant, c'est du jeu de rôle !
+<!-- Maintenant, c'est du jeu de rôle !
 
 Votre Description, vos Motivations et Relations vous aideront à développer votre personnage et l'intégrer au "monde" de vos aventures. Le Narrateur peut occasionnellement vous donner un dé de bonus à vos jets grâce aux informations contenues ici, mais ce n'est pas obligatoire.
 
-Utilisez vos Motivations et vos Relations pour donner des indications concernant votre façon d'incarner le personnage et comme il interagit avec le monde autour de lui et les autres personnages.
+Utilisez vos Motivations et vos Relations pour donner des indications concernant votre façon d'incarner le personnage et comme il interagit avec le monde autour de lui et les autres personnages. -->
 
-### Long or short term goals?
-When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character.
+### Langfristige oder kurzfristige Ziele?
+
+Wenn du deinen Antrieb wählst, kannst du frei zwischen lang- und kurzfristigen Zielen entscheiden. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, das länger braucht.
+
+<!-- Long or short term goals?
+When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character. -->
 
 
-Objectifs à court ou long terme ?
+<!-- Objectifs à court ou long terme ?
 
-Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du court-terme ou du long-terme. Si vous jouez pour une aventure sans suite (one-shot), il est plus facile de prendre un élément qui aura un impact immédiat sur l'histoire. Si vous avez en tête une série de parties (une campagne), il vaut mieux partir sur du long-terme.
+Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du court-terme ou du long-terme. Si vous jouez pour une aventure sans suite (one-shot), il est plus facile de prendre un élément qui aura un impact immédiat sur l'histoire. Si vous avez en tête une série de parties (une campagne), il vaut mieux partir sur du long-terme. -->
 
-### How many Relationships?
+### Wie viele Beziehungen?
+
+Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst mit einer Mitspielerin zusammen arbeiten, um die Beziehung zwischen euren Figuren festzulegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben, oder "gegenläufige" Beziehungen (zum Beispiel: "Verliebt in"/"Angewidert von").
+
+<!-- How many Relationships?
 Two is a good number of Relation- ships to begin with. Pick two di erent characters and decide how they know each other. You and another player can
-work together to decide on a relation- ship, or you can have separate, unre- lated or “opposed” relationships (for example; “In love with”/“Repulsed by”).
+work together to decide on a relation- ship, or you can have separate, unre- lated or “opposed” relationships (for example; “In love with”/“Repulsed by”). -->
 
-Combien de Relations ?
+<!-- Combien de Relations ?
 
-Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages différents et trouvez comment ils peuvent se connaître. Vous et l'autre joueur pouvez travailler ensemble pour construire la Relation, ou pouvez oeuvrer chacun de votre côté pour produire une Relation séparée, sans lien direct ou "opposée" (par exemple : "est amoureu(x)(se) de" / "est repoussé(e) par").
+Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages différents et trouvez comment ils peuvent se connaître. Vous et l'autre joueur pouvez travailler ensemble pour construire la Relation, ou pouvez oeuvrer chacun de votre côté pour produire une Relation séparée, sans lien direct ou "opposée" (par exemple : "est amoureu(x)(se) de" / "est repoussé(e) par"). -->
 
-### Don’t be antagonistic  
-Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission!
+### Seid nicht eure eigenen Feinde
 
-Ne soyez pas ennemis
+Entwerft keine Antriebe oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber lasst sie sich nicht hassen. Die Figuren müssen zusammen funktionieren, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
 
-Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission !
+<!-- Don’t be antagonistic  
+Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission! -->
+
+<!-- Ne soyez pas ennemis
+
+Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission ! -->
 
 ----
 
-## Character Creation Summary
-Résumé de la Création des Personnages
+## Figurenerstellung kurzgefasst
 
-### 1 Concept
-Who is your character? What is the “High Concept”? Clichés and archetypes are okay!
+<!-- Character Creation Summary
+Résumé de la Création des Personnages -->
 
-1 Concept
+### 1. Konzept
+
+Wer ist deine Figur? Was ist ihr Grundkonzept? Klischees und Archetypen sind ausdrücklich erlaubt!
+
+<!-- Concept
+Who is your character? What is the “High Concept”? Clichés and archetypes are okay! -->
+
+<!-- 1 Concept
 
 Qui est votre personnage ? Quel est son "Concept de Base" ?
 
-Les clichés et les archétypes sont ok !
+Les clichés et les archétypes sont ok ! -->
 
-### 2 Beschreiber
-Identify the four most important or interesting features of your character,
+### 2. Beschreiber
+
+Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eins für Körper, Geist, Stärke und Schwäche. Jeder Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.
+
+<!-- Identify the four most important or interesting features of your character,
 one each for Body, mind, edge and Flaw.
-each Descriptor should be short, punchy, clear, innate and finite.
+each Descriptor should be short, punchy, clear, innate and finite. -->
 
-2 Descripteurs
+<!-- 2 Descripteurs
 
 Identifiez les quatre qualificatifs les plus importants ou intéressants à propos de votre personnage : un pour le Corps, l'Esprit, l'Atout et la Faille.
 
-Chaque Descripteur doit être court, percutant, clair, inné et défini.
+Chaque Descripteur doit être court, percutant, clair, inné et défini. -->
 
-### 3 Gear
+### 3. Ausrüstung
+
+Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
+Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad)
+
+ <!-- Gear
 What cool, iconic stu  does your character carry?
-Choose two items of gear, describing each with an adjective and noun (e.g. Sharp Sabre; Fast motorcycle).
+Choose two items of gear, describing each with an adjective and noun (e.g. Sharp Sabre; Fast motorcycle). -->
 
 
-3 Matériel
+<!-- 3 Matériel
 
 Qu'est ce que votre personnage transporte de cool et "iconique" ?
 
-Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre Acéré, Moto Rapide)
+Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre Acéré, Moto Rapide) -->
 
-### 4 Description
+### 4. Beschreibung
 
-What does your character look like? What is their name? Where are they from? What makes them interesting and unique?
+Wie sieht deine Figur aus? Wie heisst sie? Wo kommt sie her? Was ist an ihr interessant und besonders?
 
-4 Description
-À quoi ressemble votre personnage ? Quel est son nom ? D'où vient-il ? Qu'est-ce qui fait de lui quelqu'un d'unique ?
+<!-- 4 Description
 
-### 5 Drives
+What does your character look like? What is their name? Where are they from? What makes them interesting and unique? -->
+
+<!-- 4 Description
+À quoi ressemble votre personnage ? Quel est son nom ? D'où vient-il ? Qu'est-ce qui fait de lui quelqu'un d'unique ? -->
+
+### 5. Antriebe
+
+Was will deine Figur? Was hält sie auf? Was würde sie tun, um es zu bekommen?
+
+ <!-- Drives
 What does your character want? What is stopping them? What will they do
-to get it?
+to get it? -->
 
-5 Motivations
+<!-- 5 Motivations
 
-Que veut votre personnage ? Qu'est-ce qui l'en empêche ? Jusqu'où irait-il pour y arriver ?
+Que veut votre personnage ? Qu'est-ce qui l'en empêche ? Jusqu'où irait-il pour y arriver ? -->
 
-### 6 Relationships
-How do the characters know each other? What connections do they have?
+### 6. Beziehungen
+Woher kennen sich die Figuren? Welche Verbindungen gibt es zwischen ihnen?
 
-6 Relations
+<!-- Relationships
+How do the characters know each other? What connections do they have? -->
 
-Comment les personnages se connaissent ? Quelles relations ont-ils ?
+<!-- 6 Relations
+
+Comment les personnages se connaissent ? Quelles relations ont-ils ? -->
