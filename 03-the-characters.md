@@ -135,7 +135,7 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 
 <div markdown="1" class="sidebar">
 
-#### Klischees sind deine Freunde!
+#### Klischees sind deine Freunde! {.unnumbered}
 
 Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir direkt vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch eine muskelbepackte unzivilisierte Person vor Augen. Klischees sind eine Art Abkürzung zur Beschreibung deiner Figur.
 
@@ -144,7 +144,7 @@ Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klisc
 
 Il est tout à fait acceptable d'user de clichés quand on propose son concept. Les clichés sont porteurs d'idées et des concepts avec lesquels on se sent immédiatement à l'aise. Quand quelqu'un dit que son personnage est un barbare, on se l'imagine automatiquement très musclé, et sans éducation. Utiliser les clichés est une sorte de raccourci pour décrire votre personnage. -->
 
-#### Beschreiber wählen
+#### Beschreiber wählen {.unnumbered}
 
 Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche **"kann nicht schwimmen"** zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
 Lass deine Fantasie spielen, behalte dein Konzept im Kopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
@@ -160,7 +160,7 @@ Il faut se forcer à être imaginatif et honnête. En considérant à la fois vo
 
 Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur. Les possibilités sont infinies. -->
 
-#### Beschreiber sind klar und eindeutig
+#### Beschreiber sind klar und eindeutig {.unnumbered}
 
 Einen guten Beschreiber kann jeder am Tisch verstehen. Wenn du oder eine Mitspielerin einen Beschreiber für nicht eindeutig haltet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Es sollten sich nur alle über seine Bedeutung einig sein, wenn er schlussendlich verwendet wird.  
 
@@ -170,7 +170,7 @@ A good Descriptor is understood by everyone at the table. If you or another play
 
 Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que, le moment venu, tous lui donnent la même signification. -->
 
-#### Beschreiber wohnen einer Figur inne
+#### Beschreiber wohnen einer Figur inne {.unnumbered}
 
 Jeder Beschreiber ist ein wesentlicher, ihr innewohnender Teil der Figur. Normalerweise können sie ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber nicht zu Gegenständen oder Geräten.
 
@@ -181,7 +181,7 @@ Les Descripteurs sont innés
 
 Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne peuvent pas être volés, perdus ou supprimés (cependant, dans certaines circonstances, on peut les oublier). Ne faites pas de vos Descripteurs des éléments de votre Matériel. -->
 
-#### Die Reichweite von Beschreibern ist begrenzt
+#### Die Reichweite von Beschreibern ist begrenzt {.unnumbered}
 
 Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das erfahrt ihr erst während des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn letzteres kann auch in verschiedenen nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend..."*).
 
@@ -191,7 +191,7 @@ Each Descriptor should have one or two obvious uses or a speci c purpose. It mig
 La portée des Descripteurs
 Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut aussi être utilisable dans des circonstances imprévues, mais vous découvrirez ces usages pendant le jeu. **Médecine** est un meilleur Descripteur que **Docteur**, par exemple, parce que le second peut avoir un grand nombre d'utilisations dans un domaine non-médical (*"En tant que Docteur, je suis bien éduqué et fortuné..."*) -->
 
-#### Was für ein Beschreiber ist das?
+#### Was für ein Beschreiber ist das? {.unnumbered}
 
 Einige Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Es kommt auf dich, die Erzählerin und deine Mitspielerinnen an - ihr entscheidet, ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht.
 
@@ -202,7 +202,7 @@ De quelle sorte de Descripteur s'agit-il ?
 
 Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **Bonne mémoire** peut être un Descripteur d'Esprit ou d'Atout ; **Laid(e)** peut être une Faille ou un Descripteur de Corps. Pas de problème. C'est à vous de choisir, à charge pour le Narrateur et les autres joueurs de dire si un Descripteur est adapté ou pas aux histoires que vous allez raconter. -->
 
-#### Was sind gute Stärken und Schwächen?
+#### Was sind gute Stärken und Schwächen? {.unnumbered}
 
 Dinge, die in anderen Spielen "Fertigkeiten" oder "Talente" heissen, eignen sich super als Stärken. Gute Beispiele sind **"Schwertkampf"**, **"unter Wasser atmen"** und **"gewinnendes Lächeln"**.
 Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie "riecht immer schlecht" oder "taub" sind bessere Schwächen als **"kann nicht Fahren"** oder **"kann kein Französisch"**. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche **"kann nicht schwimmen"** in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur vor Herausforderungen zu stellen, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.
@@ -218,7 +218,7 @@ Les choses qu'on appelle "talents", ou "spécialités" ou "avantages" dans les a
 
 Les meilleures Failles sont des traits de personnalité ou des incapacités physiques. Par exemple, **sent toujours mauvais** ou **sourd(e)** est un meilleur choix que **ne sait pas conduire** ou **ne parle pas français**. Évidemment, il y a des exceptions. Si le personnage est un espion Britannique au temps des guerres Napoléoniennes, ne pas connaître le français peut être un vrai handicap. De même, la Faille **ne sait pas nager** est tout à fait appropriée dans un univers de pirates et de combats navals. Essayez de trouver des situations où il faudra mettre votre personnage au défi, ajoutez du piment au jeu, et proposez-lui des obstacles à surmonter. -->
 
-#### Soll ich mich spezialisieren?
+#### Soll ich mich spezialisieren? {.unnumbered}
 
 Du kannst deine Beschreiber auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER es gibt kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
 Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
@@ -235,7 +235,7 @@ Vous pouvez concentrer vos Descripteurs sur un unique concept et le "spécialise
 
 Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme **Fort** si vous voulez un combattant body-buildé ou un super-héros vert et en colère ! Pour un scientifique, offrez-vous un Esprit : **Rat de bibliothèque** et un Atout : **Science des fusées**. Soyez juste conscient qu'en vous spécialisant, toutes les scènes sans lien avec votre point fort vous seront plus difficiles. Certains joueurs aiment ce type de défi. -->
 
-#### Beschreiber-Alternativen
+#### Beschreiber-Alternativen {.unnumbered}
 
 Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an euere Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen einige der hier genannten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.
 
@@ -483,7 +483,7 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 
 > Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiss begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith unbedingt erfolgreich sein und ist bereit, fast alles zu tun, um an den Götzen zu gelangen - doch töten würde er dafür nie.
 <!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
-
+>
 > Lumina strebt nach Freiheit für alle Jupiter-Völker. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum wahrzumachen.
 
 <!-- > Lumina seeks freedom for all the people of Jupi- ter. Dread Lord Kang rules the planet with an iron  st, and his agents are always on the look out for renegades. Lumina is willing to put her own life on the line to achieve her vision. -->
@@ -590,7 +590,7 @@ Ne créez pas de Motivations ou de Relations qui obligeront les personnages à s
 <!-- Character Creation Summary
 Résumé de la Création des Personnages -->
 
-### 1. Konzept
+### 1. Konzept {.unnumbered}
 
 Wer ist deine Figur? Was ist ihr Grundkonzept? Klischees und Archetypen sind ausdrücklich erlaubt!
 
@@ -603,7 +603,7 @@ Qui est votre personnage ? Quel est son "Concept de Base" ?
 
 Les clichés et les archétypes sont ok ! -->
 
-### 2. Beschreiber
+### 2. Beschreiber {.unnumbered}
 
 Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eins für Körper, Geist, Stärke und Schwäche. Jeder Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.
 
@@ -617,7 +617,7 @@ Identifiez les quatre qualificatifs les plus importants ou intéressants à prop
 
 Chaque Descripteur doit être court, percutant, clair, inné et défini. -->
 
-### 3. Ausrüstung
+### 3. Ausrüstung {.unnumbered}
 
 Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
 Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad)
@@ -635,7 +635,7 @@ Qu'est ce que votre personnage transporte de cool et "iconique" ?
 
 Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre Acéré, Moto Rapide) -->
 
-### 4. Beschreibung
+### 4. Beschreibung {.unnumbered}
 
 Wie sieht deine Figur aus? Wie heisst sie? Wo kommt sie her? Was ist an ihr interessant und besonders?
 
@@ -646,7 +646,7 @@ What does your character look like? What is their name? Where are they from? Wha
 <!-- 4 Description
 À quoi ressemble votre personnage ? Quel est son nom ? D'où vient-il ? Qu'est-ce qui fait de lui quelqu'un d'unique ? -->
 
-### 5. Antriebe
+### 5. Antriebe {.unnumbered}
 
 Was will deine Figur? Was hält sie auf? Was würde sie tun, um es zu bekommen?
 
@@ -658,7 +658,7 @@ to get it? -->
 
 Que veut votre personnage ? Qu'est-ce qui l'en empêche ? Jusqu'où irait-il pour y arriver ? -->
 
-### 6. Beziehungen
+### 6. Beziehungen {.unnumbered}
 Woher kennen sich die Figuren? Welche Verbindungen gibt es zwischen ihnen?
 
 <!-- Relationships
