@@ -41,14 +41,14 @@ Beschreiber sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwac
 Figuren haben vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
 > David überlegt sich, was für Sachen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
-
+>
 > **Körper** : Agil  
 > **Geist**: Besonnen  
 > **Stärke**: Geschickt mit der Bullenpeitsche  
 > **Schwäche** : Höhenangst
 
 > Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
-
+>
 > **Körper**: Zerbrechlich  
 > **Geist**: Aufmerksam  
 > **Stärke**: Gedankenlesen  
@@ -131,10 +131,13 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 >
 > **Faille**: Aveugle, Couard(e), Maladroit(e), Cupide, Apparence inhumaine, Unijambiste, Âgé(e), Pauvre, Myope, Primiti(f)(ve), Puant(e), Recherché(e), Jeune. -->
 
-----
+---
+
+<div markdown="1" class="sidebar">
+
 #### Klischees sind deine Freunde!
 
-Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir unmittelbar vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch das Bild einer muskelbepackten unzivilisierten Person vor Augen. Der Einsatz von Klischees ist eine Art Abkürzung zur Beschreibung deiner Figur.
+Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir direkt vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch eine muskelbepackte unzivilisierte Person vor Augen. Klischees sind eine Art Abkürzung zur Beschreibung deiner Figur.
 
 <!-- It is totally okay to use clichés when coming up with your concept. Clichés contain a host of ideas and concepts that we are immediately familiar with. When somebody says their character is a barbarian, we automatically picture them as heavily muscled, and uncivi- lised. Using clichés is a kind of a short- hand way to describe your character.
 
@@ -217,8 +220,8 @@ Les meilleures Failles sont des traits de personnalité ou des incapacités phys
 
 #### Soll ich mich spezialisieren?
 
-Du kannst deine Beschreiber auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER es gibt kaum Tiefe - in Situationen ohne Kampf wirst du schlecht dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
-Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als eine willkommene Herausforderung.
+Du kannst deine Beschreiber auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER es gibt kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
+Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 <!-- You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
 Describe your character’s Body as Huge and their Edge as Strong, if you
@@ -244,7 +247,9 @@ Descripteurs alternatifs
 
 Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas les seules manières de définir votre personnage. Changez-les ou remplacez-les pour qu'ils correspondent à votre jeu, son univers et ses histoires. Dans un jeu avec des robots géants vous voudrez probablement remplacer Corps et Esprit par Châssis et Pilotage, par exemple. Dans un jeu ou on jouera des créatures métamorphes, un descripteur pourrait devenir "Forme Animale". Dans ce cas-là, les conseils donnés dans cet encart peuvent être ajustés ; une Forme Animale: **Jaguar** est plus vaste que les Descripteurs dont on parlait ici, mais c'est totalement dans l'esprit du jeu. Utilisez votre imagination et modifiez les à votre guise ! -->
 
-----
+</div>
+
+---
 
 ## Ausrüstung
 
@@ -301,7 +306,7 @@ Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownschuh
 <!-- Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about. -->
 
 **Sonstiges**:
-Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Notizbuch mit Wasserschaden, Uraltes Zauberbuch, Mein Lieblingskieselstein.
+Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenens Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.
 
 <!-- Other Stuff: Huge Backpack, Miniature Flag, Heavy RPG Books, Faithful Hound, Dented Frying Pan, Water-damaged Notebook, Ancient Spell Book, My Favourite Pet Rock. -->
 
@@ -316,7 +321,7 @@ Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbe
 **Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poêle à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé. -->
 
 ----
-
+<div markdown="1" class="sidebar">
 ### Ausrüstung auswählen
 
 Die Gegenstände, die du als Ausrüstung wählst, sollten ein Markenzeichen für deine Figur sein. Denk zum Beispiel an Batmans Düsteren Fledermausanzug, die Instabilen Protonen-Packs der Ghostbusters, James Bonds Zuverlässige Berretta oder Zorros blitzende Klinge.
@@ -418,8 +423,9 @@ Any objects, items or equipment that are not listed as Gear are props. Props hav
 <!-- Les choses qui ne sont pas du Matériel
 
 Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions. -->
+</div>
 
------
+---
 
 ## Beschreibung
 
@@ -437,7 +443,7 @@ interesting. -->
 >
 > Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
 
-> Ninas Beschreibung ihrer der Ausserirdischen Botschafterin ist folgendermaßen:  
+> Ninas Beschreibung ihrer Ausserirdischen Botschafterin ist folgendermaßen:  
 >
 > Lumina ist eine wichtige Diplomatin vom Planeten Jupiter, welcher vom Schreckensfürst Kang regiert wird. Wie alle ihrer Art hat sie lila Haut, einen haarlosen Kopf und feine Gesichtszüge. Lumina arbeitet für die Jupiter-Untergrundbewegung und versucht, Schreckensfürst Kang zu stürzen.
 
@@ -519,9 +525,10 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 ----
 
+<div markdown="1" class="sidebar">
 ### Jetzt dreht sich alles ums Rollenspiel
 
-Deine Beschreibung, Antriebe und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und wie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+Deine Beschreibung, Antriebe und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
 Nutze deine Antriebe und Beziehungen als Leitlinie, wie du deine Rolle spielst, und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
 
@@ -571,8 +578,12 @@ Don’t create Drives or Relationships that will have characters constantly at e
 <!-- Ne soyez pas ennemis
 
 Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission ! -->
+</div>
 
 ----
+
+<!--make a new page for the pdf that is genrated by latex - latex command -->
+\newpage
 
 ## Figurenerstellung kurzgefasst
 
@@ -611,9 +622,11 @@ Chaque Descripteur doit être court, percutant, clair, inné et défini. -->
 Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
 Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad)
 
- <!-- Gear
+<!--
+Gear
 What cool, iconic stu  does your character carry?
-Choose two items of gear, describing each with an adjective and noun (e.g. Sharp Sabre; Fast motorcycle). -->
+Choose two items of gear, describing each with an adjective and noun (e.g. Sharp Sabre; Fast motorcycle).
+-->
 
 
 <!-- 3 Matériel
@@ -637,7 +650,7 @@ What does your character look like? What is their name? Where are they from? Wha
 
 Was will deine Figur? Was hält sie auf? Was würde sie tun, um es zu bekommen?
 
- <!-- Drives
+<!-- Drives
 What does your character want? What is stopping them? What will they do
 to get it? -->
 

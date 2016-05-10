@@ -1,4 +1,6 @@
-# Handeln/Action?/Aktionen
+# Handeln
+
+
 Action
 
 Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une histoire divertissante impliquant vos personnages. Il n'est pas question de gagner ou de compétition avec quelqu'un, mais l'essentiel est que tout le monde s'amuse pendant la création collective de l'histoire.
@@ -64,7 +66,7 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 | 4   | **Oui...** Vous obtenez ce que vous voulez.                                               |
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                     |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total. |
-| 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                        |
+| 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                         |
 | 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              |
 
 ----

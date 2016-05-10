@@ -1,4 +1,4 @@
-### Die Grundlagen
+# Die Grundlagen
 
 Der Text von FU geht davon aus, dass wenigstens eine der Spielerinnen schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
 
@@ -78,8 +78,10 @@ decide what type of game you want to play, who the characters are going to be, a
 
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
-<div class="sidebar">
-<h3>Sprecht vor dem Spielen miteinander!</h3>
+---
+
+<div markdown="1" class="sidebar">
+### Sprecht vor dem Spielen miteinander!
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
@@ -101,11 +103,12 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
-<h3> Der Sofort-Genre-Generator</h3>
+### Der Sofort-Genre-Generator
 
 Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 </div>
 
+---
 
 <!--
 ### The Insta-Genre-Generator
@@ -115,6 +118,7 @@ For quick pick-up games, get every- one to write two genres or settings on bits 
 ### Le Générateur Insta-Genre
 
 Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
-----
+
+
 [^1] Anmerkung der Übersetzer: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
 -->
