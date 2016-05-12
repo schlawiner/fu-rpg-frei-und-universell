@@ -461,22 +461,22 @@ Lumina is an important diplomat from the planet Jupiter, which is ruled by the D
 >
 > Lumina est une diplomate importante en provenance de Jupiter, qui est dirigée par le Terrible Seigneur Kang. Comme ses semblables, elle a la peau violette, le crâne chauve et les traits délicats. Lumina travaille pour le mouvement Jupiter Clandestin, qui tente de renverser le Seigneur Kang. -->
 
-## Antriebe
+## Motive
 
-Jede Figur hat eine Bestimmung - ein Ziel das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
+Jede Figur hat einen Antrieb - ein Ziel das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
 
 <!-- Drives
 every character has a purpose - a goal they are striv-
 ing to achieve. It may not be world changing (though it can be) but it should be important to that character. Ask the following questions of your character; -->
 
-**Was willst du?** Was wünschst du dir, was treibt dich an?
+**Was willst du erreichen?** Was wünschst du dir, was treibt dich an?
 <!-- **What do you want?** What is it that you desire, the thing that drives you to action? -->
 
-**Was hält dich davon ab?** Welches Hindernis, welcher Gegner steht zwischen dir und dem was du willst?
+**Was hindert dich daran?** Welches Hindernis, welcher Gegner steht zwischen dir und dem was du willst?
 
 <!-- **What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?   -->
 
-**Was wirst du tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
+**Was bist du bereit du tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
 
 <!-- **What will you do?** What is the next step to get what you want? What are you willing to do to succeed? -->
 
@@ -528,9 +528,9 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 <div markdown="1" class="sidebar">
 ### Jetzt dreht sich alles ums Rollenspiel
 
-Deine Beschreibung, Antriebe und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
-Nutze deine Antriebe und Beziehungen als Leitlinie, wie du deine Rolle spielst, und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
+Nutze deine Motive und Beziehungen als Leitlinie, wie du deine Rolle spielst, und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
 
 <!-- It’s all about roleplaying now
 Your Description, Drives and Re- lationships all help develop your char- acter and put them into the “world” of your stories and adventures.  e Narra- tor might occasionally give you a bonus to dice rolls because of the information you reveal here, but that is by no means required.  
@@ -546,7 +546,7 @@ Utilisez vos Motivations et vos Relations pour donner des indications concernant
 
 ### Langfristige oder kurzfristige Ziele?
 
-Wenn du deinen Antrieb wählst, kannst du frei zwischen lang- und kurzfristigen Zielen entscheiden. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, das länger braucht.
+Wenn du dein Motiv wählst, kannst du frei zwischen lang- und kurzfristigen Zielen entscheiden. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, das länger braucht.
 
 <!-- Long or short term goals?
 When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character. -->
@@ -570,7 +570,7 @@ Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages 
 
 ### Seid nicht eure eigenen Feinde
 
-Entwerft keine Antriebe oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber lasst sie sich nicht hassen. Die Figuren müssen zusammen funktionieren, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
+Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber lasst sie sich nicht hassen. Die Figuren müssen zusammen funktionieren, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
 
 <!-- Don’t be antagonistic  
 Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission! -->
@@ -646,9 +646,9 @@ What does your character look like? What is their name? Where are they from? Wha
 <!-- 4 Description
 À quoi ressemble votre personnage ? Quel est son nom ? D'où vient-il ? Qu'est-ce qui fait de lui quelqu'un d'unique ? -->
 
-### 5. Antriebe {.unnumbered}
+### 5. Motive {.unnumbered}
 
-Was will deine Figur? Was hält sie auf? Was würde sie tun, um es zu bekommen?
+Was will deine Figur? Was hindert sie daran? Was würde sie tun, um es zu bekommen?
 
 <!-- Drives
 What does your character want? What is stopping them? What will they do

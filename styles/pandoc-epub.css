@@ -43,8 +43,10 @@ div#TOC, nav#TOC
     }
 
   @font-face {
-    font-family: Verdana, sans-serif;
+    font-family: sans-serif;
   }
+
+  body {font-family: sans-serif;}
 /*
 @font-face {
 font-family: Alegreya;

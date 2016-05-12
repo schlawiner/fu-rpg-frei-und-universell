@@ -1,11 +1,27 @@
 # Handeln
 
+Bei FU arbeitest du mit deinen Mitspielerinnen zusammen, um aufregende Geschichten über eure Figuren zu erzählen. Es geht nicht ums Gewinnen oder um den Wettbewerb mit irgendwem, sondern darum, dass alle Spaß daran haben, diese kollaborative Geschichte zu gestalten.
+
+<!-- In FU you and the other players work together to tell exciting stories about your characters. It is not about winning or even competing with anyone, but it is about everyone having fun while you create this col- laborative story.
 
 Action
 
-Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une histoire divertissante impliquant vos personnages. Il n'est pas question de gagner ou de compétition avec quelqu'un, mais l'essentiel est que tout le monde s'amuse pendant la création collective de l'histoire.
+Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une histoire divertissante impliquant vos personnages. Il n'est pas question de gagner ou de compétition avec quelqu'un, mais l'essentiel est que tout le monde s'amuse pendant la création collective de l'histoire. -->
 
-## Scènes & Tours
+## Szenen und Züge
+
+Das Spiel unterteilt sich in Szenen und Züge. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in der es um eine bestimmte Situation, einen Ort oder Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebige Zeiträume zwischen wenigen Sekunden und vielen Stunden darstellen. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet worden ist. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschrieben Ereignisse farbig ausschmücken. Viele Szenen tun dies alles sogar gleichzeitig.
+
+Scenes and Turns
+play is broken into scenes and turns. A scene is a
+period of story involving a speci c situation, location or group of characters. Scenes are the primary building blocks of the story and can represent anything from a few seconds to many hours of time. each scene should have a speci c objective and the scene ends when that objective has been addressed. A scene should advance the plot of the story, reveal information about a char- acter, or add background colour to the events being described. o en a scene will do all of these things at the same time.*I'm HERE*
+During a scene players and Narrator describe what the characters are doing. players “act out” their char- acters, speaking for them and declaring what actions they take, while the Narrator does the same for all the other characters, creatures and monsters in the scene.
+Scenes might be resolved through dice rolls, but they don’t have to be. It is entirely possible that a scene’s objective is met through roleplaying and character in- teraction.
+When it is important to know the speci c actions of each character and the order in which they occur, a scene is broken into turns. A turn is a period long enough for each character to take a single action, whether that be to make an attack, deliver a rousing speech, throw an object to a companion, look up some information on their iphone, or perform some other task.
+players declare what action their characters are taking, while the Narrator decides what the other characters and creatures are going to do. everyone then works together to decide what order everything occurs. When all the characters involved have had a chance to act the turn ends. A new turn will begin, if necessary.
+It is worth pointing out at this point that only play- ers roll dice.  is leaves the Narrator’s hands and mind free to scheme and plot and prepare for the next excit- ing encounter.
+
+Scènes & Tours
 
 Le jeu est divisé en scènes et tours. Une scène est une moment de l'histoire évoquant une situation donnée, un lieu ou un groupe de personnages. Les scènes sont la première brique de construction de l'histoire et peuvent s'étaler sur plusieurs heures ou quelques secondes. Chaque scène doit avoir un objectif spécifique et elle se terminera si l'objectif arrive à son terme. Une scène doit faire progresser l'intrigue de l'histoire, révéler des informations à propos d'un personnage, ou introduire un élément d'arrière-plan aux événements décrits. Souvent, une scène fait tout cela à la fois.
 
