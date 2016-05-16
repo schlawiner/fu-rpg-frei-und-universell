@@ -133,6 +133,8 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 
 ---
 
+\columnsbegin
+
 <div markdown="1" class="sidebar">
 
 #### Klischees sind deine Freunde! {.unnumbered}
@@ -249,6 +251,7 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 </div>
 
+\columnsend
 ---
 
 ## Ausrüstung
@@ -321,6 +324,9 @@ Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbe
 **Autres** : Énorme Sac à Dos, Drapeau Miniature, Ouvrages de JDR Pesants, Chien Fidèle, Poêle à Frire Rouillée, Carnet de Notes Rongé par l'Humidité, Antique Livre de Sorts, Caillou Apprivoisé. -->
 
 ----
+
+\columnsbegin
+
 <div markdown="1" class="sidebar">
 ### Ausrüstung auswählen
 
@@ -425,6 +431,8 @@ Any objects, items or equipment that are not listed as Gear are props. Props hav
 Tous les objets qui ne sont pas listés comme Matériel sont de l'équipement. Les équipements n'ont aucun effet sur les chances de succès ou d'échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d'emprunter, de voler ou d'échanger votre Matériel avec celui d'un autre pour vos actions. -->
 </div>
 
+\columnsend
+
 ---
 
 ## Beschreibung
@@ -525,6 +533,8 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 ----
 
+\columnsbegin
+
 <div markdown="1" class="sidebar">
 ### Jetzt dreht sich alles ums Rollenspiel
 
@@ -579,6 +589,8 @@ Don’t create Drives or Relationships that will have characters constantly at e
 
 Ne créez pas de Motivations ou de Relations qui obligeront les personnages à se faire la guerre. Il peut être bien d'avoir des personnages qui ne peuvent pas se supporter (voire même, ça peut être amusant !), mais ne les faites pas se haïr. Ce que vous voulez, c'est que les personnages travaillent ensemble pour se débarrasser de leurs ennemis, résoudre le mystère ou accomplir leur mission ! -->
 </div>
+
+\columnsend
 
 ----
 

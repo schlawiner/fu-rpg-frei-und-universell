@@ -3,17 +3,21 @@
 \def\tightlist{}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{titlesec}
+
+\newcommand{\columnsbegin}{\begin{multicols}{3}}
+\newcommand{\columnsend}{\end{multicols}}
 
 % Fonts and typography
 
 %% Typography
-\usepackage[no-math]{fontspec}
-\defaultfontfeatures{Scale = MatchLowercase}
+%%\usepackage[no-math]{fontspec}
+%%\defaultfontfeatures{Scale = MatchLowercase}
 
 %% Fonts
-\setmainfont[Ligatures=TeX]{Verdana}
-\setsansfont[Ligatures=TeX]{Verdana}
-\setmonofont{AndaleMono}
+%%\setmainfont[Ligatures=TeX]{Verdana}
+%%\setsansfont[Ligatures=TeX]{Verdana}
+%%\setmonofont{AndaleMono}
 
 %% Set Sans font in headings
 \usepackage{sectsty}
@@ -21,7 +25,7 @@
 
 %% Set polyglossia language
 \usepackage{polyglossia}
-\setdefaultlanguage{english}
+\setdefaultlanguage{german}
 
 
 % Page
@@ -29,17 +33,27 @@
 %% Use full page in book style
 \usepackage{fullpage}
 
+\usepackage[document]{ragged2e}
+
 %% Set line spacing
-\usepackage{setspace}
-\setstretch{1.2}
+%%\usepackage{setspace}
+%%\setstretch{1.2}
+
+%% Set space between paragraphs
+\setlength{\parskip}{0.5em}
+
+\setlength{\parindent}{4em}
 
 %% Disable paragraph indentation
-\usepackage{parskip}
+%%\usepackage{parskip}
 
 %% Start sections from new page
-\let\stdsection\section
-\renewcommand\section{\newpage\stdsection}
+%%\let\stdsection\section
+%%\renewcommand\section{\newpage\stdsection}
 
+\titlespacing{\section}{0pt}{15pt}{<after-sep>}
+
+\usepackage{multicol}
 
 % Colors
 
@@ -63,33 +77,6 @@
 \usepackage{upquote}
 
 \usepackage{listings}
-
-\lstdefinelanguage{JavaScript}{
-  keywords = {typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
-  keywordstyle = \color{SkyBlue}\bfseries,
-  ndkeywords = {class, export, boolean, throw, implements, import, this},
-  ndkeywordstyle = \color{Aluminium6}\bfseries,
-  identifierstyle = \color{Black},
-  sensitive = false,
-  comment = [l]{//},
-  morecomment = [s]{/*}{*/},
-  commentstyle = \color{Plum}\ttfamily,
-  stringstyle = \color{ScarletRed}\ttfamily,
-  morestring = [b]',
-  morestring = [b]"
-}
-
-\lstset{
-  language = JavaScript,
-  backgroundcolor = \color{Aluminium1},
-  extendedchars = true,
-  basicstyle = \normalsize\ttfamily,
-  showstringspaces = false,
-  showspaces = false,
-  tabsize = 1,
-  breaklines = true,
-  showtabs = false
-}
 
 
 % Links
@@ -119,7 +106,7 @@
 \usepackage{enumerate}
 
 %% Disable section numbers
-\setcounter{secnumdepth}{0}
+%%\setcounter{secnumdepth}{0}
 
 
 \begin{document}

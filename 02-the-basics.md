@@ -80,8 +80,11 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 
 ---
 
+\columnsbegin
+
 <div markdown="1" class="sidebar">
-### Sprecht vor dem Spielen miteinander!
+
+### Sprecht vor dem Spielen miteinander! {.unnumbered}
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
@@ -103,10 +106,13 @@ Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde pa
 
 Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
 
-### Der Sofort-Genre-Generator
+### Der Sofort-Genre-Generator {.unnumbered}
 
 Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
+
 </div>
+
+\columnsend
 
 ---
 
