@@ -3,7 +3,7 @@
 
 This list is by no means exhaustive, but it’s a good place to start. each entry lists the kinds of things a Descriptor might be an advantage or hindrance for, which makes it a handy reference for both players and Narrators.
 
-Diese Liste an Dingen, für die Ein Beschreiber vor- oder nachteilig sein könnte, ist bei weitem nicht vollständig, aber ein guter Startpunkt. Sie ist als nützliche Referenz für sowohl Erzählerinnen als auch Spielerinnen gedacht.
+Diese Liste an Dingen, für die ein Beschreiber vor- oder nachteilig sein könnte, ist bei weitem nicht vollständig, aber ein guter Startpunkt. Sie ist als nützliche Referenz für sowohl Erzählerinnen als auch Spielerinnen gedacht.
 
 <!-- Appendice - Descripteurs
 
