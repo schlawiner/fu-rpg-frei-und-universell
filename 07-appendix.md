@@ -237,19 +237,19 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 **Blind:** a pain when doing anything that requires
 sight, such as shooting, navigating an unfamiliar space, or painting.
-**Blind:** Nachteile bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, Navigieren oder Malen
+**Blind:** nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, Navigieren oder Malen
 
 **Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
-**Mutig:** Vorteile beim Heranstürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und Probleme bekommen
+**Mutig:** nützlich beim Heranstürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und darin, in Schwierigkeiten zu geraten
 
 **Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
-**Ungeschickt:** Nachteile beim Tragen einer wertvollen Vase, Besuch eines Antiquitätenladens oder beim  Durchqueren eines verminten Raumes
+**Ungeschickt:** problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes
 
 **Greedy:** a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
-**Gierig:** Schwierigkeiten beim Widerstehen des Impluses, etwas zu stehlen, zu lügen, beim Anhäufen und Behalten von Reichtum
+**Gierig:** ungünstig beim Widerstehen des Impulses, etwas zu stehlen, zu lügen oder beim Anhäufen und Behalten von Reichtum
 
 **in-Human Appearance:** a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
-**Unmenschliches Aussehen:** Probleme beim Unauffällig sein und Aufmerksamkeit vermeiden, beim Finden von Hosen, die perfekt passen
+**Unmenschliches Aussehen:** hinderlich, wenn man nicht bemerkt werden und Aufmerksamkeit vermeiden will, oder beim Finden von Hosen, die perfekt passen
 
 **Missing Leg:** a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
 **Fehlendes Bein:** Probleme beim Laufen, Klettern oder jeder anderen Aktivität, die Bewegung ohne Prothesen oder Rollstuhl umfasst
@@ -258,22 +258,22 @@ Old: a pain when trying to look cool, climb stairs, use a computer, or be positi
 **Alt:** Probleme beim Coolaussehen, Treppensteigen, Nutzen eines Computers oder damit, dass [XXX]
 
 **Poor:** a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
-**Arm:** Probleme, wenn man Essen oder Kleidung kaufen oder an einer exklusiven party teilnehmen will
+**Arm:** hinderlich, wenn man Essen oder Kleidung kaufen oder an einer exklusiven Party teilnehmen will
 
 **Poor Sight:** a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
-**Sieht schlecht:** Probleme, wenn man jemanden oder etwas erkennen will, beim Fahren während Dunkelheit oder beim Ausmachen visueller Hinweise
+**Sieht schlecht:** nervig, wenn man jemanden oder etwas erkennen will, beim Fahren während Dunkelheit oder beim Ausmachen visueller Hinweise
 
 **Primitive:** a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
-**Primitiv:**Probleme beim Nutzen von Handys, Autos oder Türklingeln und während zivilisierter sozialer Begegnungen
+**Primitiv:**Probleme beim Nutzen von Handys, Autos oder Türklingeln und während kultivierter sozialer Begegnungen
 
 **Smelly:** a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
-**Intensiver Geruch:** Hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Jägern verstecken will
+**Intensiver Geruch:** hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Jägern verstecken will
 
 **Wanted:** a pain when trying to keep out of trou- ble, or needing something from your apartment.
-**Gesucht:** Nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnugn braucht
+**Gesucht:** nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnugn braucht
 
 **Young:** a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
-**Jung:** Problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden möchte, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte
+**Jung:** problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden möchte, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte
 
 <!-- Descripteurs de Faille
 
