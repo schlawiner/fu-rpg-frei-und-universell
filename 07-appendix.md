@@ -256,25 +256,25 @@ sight, such as shooting, navigating an unfamiliar space, or painting.
 **Unmenschliches Aussehen:** Probleme beim Unauffällig sein und Aufmerksamkeit vermeiden, beim Finden von Hosen, die perfekt passen
 
 **Missing Leg:** a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
-**Fehlendes Bein:**
+**Fehlendes Bein:** Probleme beim Laufen, Klettern oder jeder anderen Aktivität, die Bewegung ohne Prothesen oder Rollstuhl umfasst
 
 Old: a pain when trying to look cool, climb stairs, use a computer, or be positive about your health.
-**Alt:**
+**Alt:** Probleme beim Coolaussehen, Treppensteigen, Nutzen eines Computers oder damit, dass [XXX]
 
 **Poor:** a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
-**Arm:**
+**Arm:** Probleme, wenn man Essen oder Kleidung kaufen oder an einer exklusiven party teilnehmen will
 
 **Poor Sight:** a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
-**Sieht schlecht:**
+**Sieht schlecht:** Probleme, wenn man jemanden oder etwas erkennen will, beim Fahren während Dunkelheit oder beim Ausmachen visueller Hinweise
 
 **Primitive:** a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
-**Primitiv:**
+**Primitiv:**Probleme beim Nutzen von Handys, Autos oder Türklingeln und während zivilisierter sozialer Begegnungen
 
 **Smelly:** a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
-**Intensiver Geruch:**
+**Intensiver Geruch:** Hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Jägern verstecken will
 
 **Wanted:** a pain when trying to keep out of trou- ble, or needing something from your apartment.
-**Gesucht:**
+**Gesucht:** Nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnugn braucht
 
 **Young:** a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
 **Jung:**
