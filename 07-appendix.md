@@ -181,19 +181,19 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Mut:** hilreich, um einen grauenvollen Anblick zu ertragen; deine Frau zu informieren, dass du den Hochzeitsstag vergessen hast, und um andere, gefährliche Aktionen zu versuchen
 
 **Driving:** great for car racing, car chases, and pass- ing your driving exam.
-**Fahren:** Vorteile beim Autorennen, bei Verfolgungsjagden, beim Bestehen deiner Fahrprüfung
+**Fahren:** toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung
 
 **Fencing:** good for sword  ghting and other civi- lized forms of melee.
-**Fechten:**Vorteile beim Schwertkampf und anderen zivilisierten Formen des Nahkampfes
+**Fechten:** gut für den Schwertkampf und andere zivilisierte Formen des Nahkampfes
 
 **Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas.
-**Gutes Gedächtnis:** Vorteile beim Merken von Namen und Gesichtern, wichtigen Hinweisen und mathematischen Formeln
+**Gutes Gedächtnis:** nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren
 
 **Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
-**Jagen:** Vorteile beim Spurenlesen und Sichheranpirschen, Gut aussehen in Tarnkleidung, Wissen, wie sich ein Nashorn anhört
+**Jagen:** vorteilhaft, wenn man Spurenlesen und sich heranpirschen oder in Tarnkleidung gut aussehen will und wissen muss, wie sich ein wütendes Nashorn anhört
 
 **Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
-**Scharfe Augen:** Vorteile beim Sehen weitentfernter Dinge oder bei Mondlicht
+**Scharfe Augen:** großartig, um weitentfernte Dinge sehen oder sich bei Mondlicht orientieren zu können
 
 **Linguistics:** good for speaking one (or more) foreign languages and generally communicating with others.
 **Sprachwissenschaften:** Vorteile beim Sprechen einer oder mehrere fremder Sprachen und der generellen Kommunikation mit anderen Leuten
