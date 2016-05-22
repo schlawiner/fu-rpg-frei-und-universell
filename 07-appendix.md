@@ -22,7 +22,7 @@ the same time, or doing slight-of-hand magic tricks.
 
 **Blonde:** good for getting people to underestimate
 you, not good if you spend too much time in the sun.
-**Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneintrahlung
+**Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneinstrahlung
 
 **Fake Orange Tan:** great for passing as an aging
 celebrity, and for drawing attention to yourself.
@@ -114,13 +114,13 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Belesen:** Vorteile beim Ablegen von Prüfungen, Wissen von Matheformeln, Erinnern von historischen Daten und Zugang zum Jurastudium
 
 **Computer-Wiz:** good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
-**Computerfreak:** Vorteile beim Programmieren, Laptopreparieren, XXX
+**Computerfreak:** Vorteile beim Programmieren, Laptopreparieren, bei heißblütigen Diskussionen zwischen PC- und Apple-Fans
 
 **Dim-Witted:** a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
-**Dämlich:**Probleme beim Verstehen von Witzen, Tricks verstehen, XXX
+**Dämlich:**Probleme beim Verstehen von Witzen und Tricks, [XXX]
 
 **Empathetic:** good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
-**Einfühlsam:** Vorteile beim Lesen von Emotionen, psychologische Diagnosen durchführen, Beruhigen von notleidenden Menschen
+**Einfühlsam:** Vorteile beim Lesen von Emotionen, Stellen psychologischer Diagnosen, Beruhigen von notleidenden Menschen
 
 **Focused:** good for staying on task, not getting dis- tracted, and looking serious.
 **Konzentriert:** Vorteile beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
@@ -132,7 +132,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Mathematikerin:** Vorteile beim Addieren, Gleichungen lösen, Steuern machen
 
 **Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
-**Aufmerksam:** Vorteile beim Bemerken versteckter Hinweise, Bemerken von Details, Lesen von Körpersprache
+**Aufmerksam:** Vorteile beim Bemerken versteckter Hinweise und Details, beim Lesen von Körpersprache
 
 **Orator:** good for public speaking, debating and getting people to see your point of view.
 **Rednerin:** Vorteile beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
@@ -244,7 +244,7 @@ sight, such as shooting, navigating an unfamiliar space, or painting.
 **Blind:** Nachteile bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, Navigieren oder Malen
 
 **Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
-**Mutig:** Vorteile beim Heranstürmen in eine tödliche Gefahr, Tollkühnen Verhalten und Probleme bekommen
+**Mutig:** Vorteile beim Heranstürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und Probleme bekommen
 
 **Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
 **Ungeschickt:** Nachteile beim Tragen einer wertvollen Vase, Besuch eines Antiquitätenladens oder beim  Durchqueren eines verminten Raumes
@@ -253,7 +253,7 @@ sight, such as shooting, navigating an unfamiliar space, or painting.
 **Gierig:** Schwierigkeiten beim Widerstehen des Impluses, etwas zu stehlen, zu lügen, beim Anhäufen und Behalten von Reichtum
 
 **in-Human Appearance:** a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
-**Unmenschliches Aussehen:**
+**Unmenschliches Aussehen:** Probleme beim Unauffällig sein und Aufmerksamkeit vermeiden, beim Finden von Hosen, die perfekt passen
 
 **Missing Leg:** a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
 **Fehlendes Bein:**
