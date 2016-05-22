@@ -14,36 +14,32 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 ## Körperliche Beschreiber
 
 **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
-**Beweglich:** Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
+**Beweglich:** hilfreich beim Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
 
-**Ambidextrous:** great when shooting two guns at
-the same time, or doing slight-of-hand magic tricks.
-**Beidhändig:** gleichzeitiges Schießen mit zwei Waffen, Taschenspielertricks
+**Ambidextrous:** great when shooting two guns at the same time, or doing slight-of-hand magic tricks.
+**Beidhändig:** toll beim gleichzeitigen Schießen mit zwei Waffen und Taschenspielertricks
 
-**Blonde:** good for getting people to underestimate
-you, not good if you spend too much time in the sun.
-**Blondine:** von Leuten unterschätzt werden, anfällig bei zu langer Sonneneinstrahlung
+**Blonde:** good for getting people to underestimate you, not good if you spend too much time in the sun.
+**Blondine:** gut, um von Leuten unterschätzt zu werden, nicht gutm wenn man sich  zu lange in der Sonne aufhält
 
-**Fake Orange Tan:** great for passing as an aging
-celebrity, and for drawing attention to yourself.
-**Selbstbräuner-Orange:** als alternde Berühmtheit durchgehen, Aufmerksamkeit auf sich ziehen
+**Fake Orange Tan:** great for passing as an aging celebrity, and for drawing attention to yourself.
+**Selbstbräuner-Orange:** toll, um als alternde Berühmtheit durchzugehen und Aufmerksamkeit auf sich zu ziehen
 
 **Furry:** useful for resisting cold weather, and living in the woods.
-**Pelzig:** kaltem Wetter widerstehen, in der Wildnis überleben
+**Pelzig:** nützlich, um kaltem Wetter zu widerstehen und in der Wildnis zu überleben
 
 **Handsome:** useful for  flirting, selling stuff , getting roles on T.V., modelling, and being popular.
-* **Gutaussehend:** Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
+* **Gutaussehend:** nützlich beim Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
 
 **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* **Gewaltig:** bedrohlich aussehen, an hohe Dinge herankommen, eine Bodybuilderin spielen, in kleinen Umgebungen steckenbleiben
+* **Gewaltig:** hut, um bedrohlich auszusehen, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder in kleinen Umgebungen steckenzubleiben
 
-**Overweight:** a problem when exercising and
-borrowing clothes.
-**Übergewichtig:** Probleme beim Sport und beim Ausleihen von Kleidung
+**Overweight:** a problem when exercising and borrowing clothes.
+**Übergewichtig:** ein Problem beim Sport und beim Ausleihen von Kleidung
 
 **Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
-**Schwache Konstitution:** Probleme bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
+**Schwache Konstitution:** hinderlich bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
 
 **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
 **Flink:** Wegducken, Taschenspielertricks, Ausweichen
@@ -277,7 +273,7 @@ Old: a pain when trying to look cool, climb stairs, use a computer, or be positi
 **Gesucht:** Nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnugn braucht
 
 **Young:** a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
-**Jung:**
+**Jung:** Problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden möchte, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte
 
 <!-- Descripteurs de Faille
 
