@@ -42,19 +42,19 @@ tance running, resisting damage, performing feats of endurance, and healing.
 **Schwache Konstitution:** hinderlich bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
 
 **Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-**Flink:** Wegducken, Taschenspielertricks, Ausweichen
+**Flink:** nützlich beim Wegducken und usweichen, bei Taschenspielertricks und anderen Handlungen, die schnelle Bewegungen erfordern
 
 **Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
-**Rasiermesserscharfe Klauen:** Gegner aufschlitzen, Obst und Gemüse schneiden, vielleicht beim Bäumehochklettern
+**Rasiermesserscharfe Klauen:** großartig, um Gegner aufzuschlitzen, Obst und Gemüse zu schneiden und eventuell auch beim Bäumehochklettern
 
 **Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
-**Klein:** nicht an hohe Sachen herankommen, unter Objekte kriechen, in der Menge verlorengehen
+**Klein:** nervig, weil man nicht an hohe Sachen herankommt, aber praktisch, um unter Objekte zu kriechen und in der Menge verloren zu gehen
 
 **Slow:** a problem when running, dodging, and reacting to things.
-**Langsam:** Probleme beim Laufen, Ausweichen und Reagieren
+**Langsam:** ein Problem beim Laufen, Ausweichen und Reagieren
 
 **Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
-**Stark:** Dinge anheben, tragen, zerschlagen und werfen; Ringen, nicht von Dingen erdrückt werden
+**Stark:** sinnvoll, um Dinge anzuheben, zu tragen, zu zerschlagen und zu werfen; könnte auch beim Ringen helfen und dabei, nicht von Dingen erdrückt zu werden
 
 **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
 **Hochgewachsen:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
