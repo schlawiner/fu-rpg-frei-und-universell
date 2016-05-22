@@ -146,7 +146,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: "Ich hab's euch gesagt,"
 
 **Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
-**Geistreich:** Vorteile beim Reißen witziger Kommentare, Charmant/Unterhaltsam sein, das Richtige zum rechten Zeitpunkt sagen
+**Geistreich:** gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen
 
 
 <!-- Descripteurs d'Esprit
@@ -172,13 +172,13 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 ## Beschreiber für Vorteile
 
 **Acrobatics:** great for joining the circus, leaping through narrow gaps, and doing impressive  ips.
-**Akrobatik:** Vorteile beim Bewerben beim Zirkus, XXX
+**Akrobatik:** großartig, um sich beim Zirkus zu bewerben, durch schmale Öffnungen zu springen und beeindruckende Salti zu schlagen
 
 **Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic, and reading ancient scrolls.
-**Okkultes Geheimwissen:** Vorteile beim Identifizieren mystischer Artefakte, Erkennen von Schwarzer Magie, Lesen uralter Pergamentrollen
+**Okkultes Geheimwissen:** praktisch, um mystische Artefakte zu identifizieren, schwarze Magie zu erkennen und uralte Pergamentrollen zu lesen
 
 **Courage:** handy when seeing something scary, telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
-**Mut:** Vorteile beim Verdauen eines grauenvollen Anblicks, Informieren deiner Frau, dass du den Jahrestag vergessen hast, Versuchen anderer gefährlicher Aktionen
+**Mut:** hilreich, um einen grauenvollen Anblick zu ertragen; deine Frau zu informieren, dass du den Hochzeitsstag vergessen hast, und um andere, gefährliche Aktionen zu versuchen
 
 **Driving:** great for car racing, car chases, and pass- ing your driving exam.
 **Fahren:** Vorteile beim Autorennen, bei Verfolgungsjagden, beim Bestehen deiner Fahrprüfung
