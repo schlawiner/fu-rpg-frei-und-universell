@@ -202,16 +202,16 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Magie:** Vorteile beim Wissen mystischer Künste, Sprüche wirken oder Auftreten als Bühnenmagier
 
 **Medicine:** good for performing operations, diag- nosing illness, and administering  rst aid.
-**Medizin:** Vorteile beim Durchführen von Operationen, Krankheiten diagnostizieren, Erste-Hilfe-Leisten
+**Medizin:** hilfreich beim Durchführen von Operationen, Diagnostizieren von Krankheiten, und Leisten von Erster-Hilfe
 
 **Nasty Bite:** great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
-**Fieser Biss:** Vorteile beim schweren Verletzen des Gegners im Kampf, Abkauen des eigenen Armes oder beim Gewinnen eines Kuchenesswettbewerbs
+**Fieser Biss:** großartig, um Gegner im Kampf schwer zu verletzen, den eigenen Arm abzukauen oder bei einem Kuchenesswettbewerb zu gewinnen
 
 **Rich:** handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
-**Reich:** Vorteile beim Kauf von Luxusautos, bei Einladungen zu exklusiven Partys und beim Bestechen von städtischen Beamten
+**Reich:** praktisch, um Luxusautos zu kaufen, Einladungen zu exklusiven Partys zu bekommen und um städtische Mitarbeiter zu bestechen
 
 **Wrestling:** good for  ghting unarmed combat, and pinning opponents to the ground.
-**Ringkampf:** Vorteile beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden
+**Ringkampf:** gut beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden
 
 <!-- Descripteurs d'Atout
 
