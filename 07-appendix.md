@@ -107,16 +107,16 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Zerstreut:** gut, um sich abzulenken, aber problematisch, wenn man sich erinnern will, wo man seine Schlüssel gelassen oder wenn man gerade den Sicherheitsstift einer Handgranate gezogen hat
 
 **Book-Smart:** great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
-**Belesen:** Vorteile beim Ablegen von Prüfungen, Wissen von Matheformeln, Erinnern von historischen Daten und Zugang zum Jurastudium
+**Belesen:** toll, um Schulprüfungen abzulegen, Matheformeln zu kennen, sich an geschichtliche Daten zu erinnern und um Zugang zum Jurastudium zu erlangen
 
 **Computer-Wiz:** good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
-**Computerfreak:** Vorteile beim Programmieren, Laptopreparieren, bei heißblütigen Diskussionen zwischen PC- und Apple-Fans
+**Computerfreak:** gut fürs Programmieren und Laptopreparieren, bei heißblütigen Diskussionen zwischen PC- und Apple-Fans
 
 **Dim-Witted:** a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
-**Dämlich:**Probleme beim Verstehen von Witzen und Tricks, [XXX]
+**Dämlich:**problematisch, um Witze und Tricks zu verstehen, oder in sozialen Situationen den Schein zu wahren
 
 **Empathetic:** good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
-**Einfühlsam:** Vorteile beim Lesen von Emotionen, Stellen psychologischer Diagnosen, Beruhigen von notleidenden Menschen
+**Einfühlsam:** gut, um die Emotionen anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und notleidende Menschen zu beruhigen
 
 **Focused:** good for staying on task, not getting dis- tracted, and looking serious.
 **Konzentriert:** Vorteile beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
