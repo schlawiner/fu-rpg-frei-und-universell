@@ -209,13 +209,16 @@ No, and... You don’t get what you want, and things get worse.
 
 ----
 
-*I'm HERE*
+
 
 ### Geschlossene Fragen
 
+FU verwendet zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten.
 
+"Geb ich diesem Trottel eins auf die Nase?"
+"Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?"
 Closed Questions
-FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
+FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. *I'm HERE* When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
 A lot of the time you won’t need to ask the question explicitly - it will be ob- vious from the action you attempt; “you take a run up and leap from the edge of the chasm. Roll.”
 
 Questions fermées
