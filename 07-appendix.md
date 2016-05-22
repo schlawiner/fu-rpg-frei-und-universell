@@ -119,31 +119,31 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Einfühlsam:** gut, um die Emotionen anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und notleidende Menschen zu beruhigen
 
 **Focused:** good for staying on task, not getting dis- tracted, and looking serious.
-**Konzentriert:** Vorteile beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
+**Konzentriert:** hilfreich beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
 
 **Lateral Thinker:** handy for problem solving, and approaching issues in new or unusual ways.
-**Querdenkerin:** Vorteile beim Problemlösen, Kreativen Angehen von Problemstellungen
+**Querdenkerin:** nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen
 
 **Mathematician:** great for doing sums, solving equations and doing your tax.
-**Mathematikerin:** Vorteile beim Addieren, Gleichungen lösen, Steuern machen
+**Mathematikerin:** toll, um zu addieren, Gleichungen zu lösen und die Steuern machen
 
 **Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
-**Aufmerksam:** Vorteile beim Bemerken versteckter Hinweise und Details, beim Lesen von Körpersprache
+**Aufmerksam:** prima, um versteckte Hinweise und Details zu erkennen und Körpersprache zu lesen
 
 **Orator:** good for public speaking, debating and getting people to see your point of view.
-**Rednerin:** Vorteile beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
+**Rednerin:** vorteilhaft beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
 
 **Slow:** a pain when trying to understand plans, or learn new things.
-**Langsam:** Nachteile beim Verstehen von Plänen, Lernen neuer Dinge
+**Langsam:** nervig, wenn man Pläne verstehen oder neue Dinge lernen will
 
 **Tactician:** great for planning battles, remember- ing military history and quoting Tsun Tsu.
-**Taktikerin:** Vorteile beim Planen von Kämpfen, Erinnern von militärischer Geschichte, Zitieren von Sun-Tsu
+**Taktikerin:** großartig, um Schlachten zu planen, sich an militärische Geschichte zu erinnern und Sun-Tsu zu zitieren
 
 **Uneducated:** a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
-**Ungebildet:** Nachteile beim Lesen, Matheaufgaben lösen, Wichtige geschichtliche Daten erinnern, Bestehen von Schultests
+**Ungebildet:** nervig beim Lesen, Matheaufgaben lösen, Erinnern wichtiger geschichtlicher Daten und wenn man Schultests bestehen will
 
 **Wise:** handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
-**Weise:** Vorteile beim Zitieren von Sprichwörtern, Ratgeben, Hinweise in Verbindung bringen, Interpretieren von Reaktionen anderer Menschen, Bemerken von "Ich hab's euch gesagt,"
+**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: "Ich hab's euch gesagt,"
 
 **Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
 **Geistreich:** Vorteile beim Reißen witziger Kommentare, Charmant/Unterhaltsam sein, das Richtige zum rechten Zeitpunkt sagen
