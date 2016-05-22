@@ -1,8 +1,13 @@
 # Race to the Temple of Tot
+# Das Rennen zum Tempel von Toth 
 
 > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
 
+> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
+
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
+ 
+Diese kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt dir eine Möglichkeit, mit der du deine eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten kannst. Nutze gern die vorgefertigten Figuren am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Figuren unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
 
@@ -11,10 +16,15 @@
 Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront tout un tas de rebondissements et qu'une fois les aventuriers lancés, tout est envisageable ! -->
 
 ## Before you begin
+## Vor dem Spiel
 
-Before starting play have a quick discussion about
-the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.  
-Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stu  they would like to see happen during the adventure. Note it all down - when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix!
+Before starting play have a quick discussion about the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.
+
+Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix! 
+
+Sprecht vor dem Spiel kurz über die Stimmung und den Stil den ihr spielen wollt. Das Szenario gehört mit seiner krassen Action, den ungeheuerlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stelle sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
+
+Lies den kursiven Stimmungstext oben vor und lasse alle Mitspielerinnen sich ein paar coole Ideen einfallen, die sie während des Abenteuers gern erleben möchten. Schreibe dir die Info auf und falls das Spiel mal zäh werden sollte oder du nicht weißt, was du als nächstes tun willst, hole einer der Ideen hervor!
 
 <!-- (Avant de commencer)
 
@@ -23,28 +33,43 @@ Avant de commencer à jouer, discutez du ton et du style du jeu. Le scénario es
 Lisez les textes d'ambiance ci-dessus (ceux en italique) et faites jaillir les idées sur ce que les joueurs autour de la table attendent de l'aventure. Notez tous ces éléments - quand l'action baissera, si vous êtes bloqué, empruntez une de ces idées et incorporez-la à l'histoire. -->
 
 ## Scenes
+## Szenen
 
  The scenes presented here have a description of
 where the action takes place and suggest Descriptors you or the players might incorporate into the action.  The italics set up the action of the scene and the objec- tive. paraphrase the details for your players.
+
+Die hier vorgestellten Szenen beinhalten eine Beschreibung, wo ihre Handlung stattfindet und schlagen Beschreiber vor, die du oder deine Spielerinnen nutzen können. Der kursive Teil bereitet die Handlung und das Ziel vor. Umschreibe die Details für deine Spielerinnen.
 
 <!-- (Les Scènes)
 Les scènes proposées ici comportent une description du lieu de l'action et suggèrent des Deskriptoren que vous ou les joueurs pourrez incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs. -->
 
 ### Challenges
 
+### Herausforderungen
+
 The challenges and adversaries in this adventure
 are recorded in boxes with relevant Descriptors, Con- ditions and Notes.  These are to guide you and do not have to be used. Your own cool ideas should always trump anything written here!
+
+Die Herausforderungen und Gegenspieler dieses Abenteuers sind mit ihren relevanten Beschreibern, Zuständen und Notizen in Kästen angeordnet. Sie sollen dir eine Hilfe sein, müssen von dir aber nicht benutzt werden. Verwende zunächst deine eigenen, coolen Ideen und erst dann das, was hier geschrieben steht!
 
 <!-- (Les défis)
 Les défis et les adversaires de cette aventure sont notés dans des tableaux avec leurs Descripteurs, Conditions et Notes. Ce sont des guides et vous pouvez vous en passer. Vos propres idées géniales seront toujours meilleures que ce qui est écrit ici. -->
 
 ### Escape the Bulak Market
 
+### Flucht vom Bulak-Markt
+
 **Scene**: Central Asia - a bustling market in the city of Bulak - midday. Tall stone and mud-brick buildings with narrow arched windows surround the central market; stalls and cafes, bars and emporiums run off in all directions along winding, narrow streets.
+
+**Szene:** Zentralasien – ein geschäftiger Markt am Mittag in der Stadt Bulak. Hohe Stein- und Lehmgebäude mit schmalen, bogenförmigen Fenstern schließen ihn ein. Stände, Cafés, Bars und Handelsplätze gehen in sich schlängelnden, schmalen Straßen in alle Richtungen weg.
 
 **Descriptors**: Crowded streets, exotic goods.
 
+**Beschreiber:** Überfüllte Straßen, exotische Waren
+
 > The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
+
+> Die Figuren haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazihandlanger aufgetaucht und wollen gleichermaßen die Karte. Es sind eine Menge Schläger und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können ie entkommen?
 
 <!--
 (S'échapper du Marché de Bulak)
@@ -62,6 +87,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |         **Gear** | Noisy Sub-machine guns                                                         |
 |   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht |
 
+|      Gegenspieler | Nazi-Handlanger                                                           |
+|-----------------:|:-------------------------------------------------------------------------------|
+| **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau                                    |
+| **Ausrüstung** | Laute Maschinengewehre                                                         |
+|   **Zustände** |  □ Verwirrt, □ Eingekreist, □ Aufgehalten, □ Außer Gefecht |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -72,28 +102,46 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 -->
 
  **Notes**: There are a number of goon squads equal to the number of characters.
+**Notizen:** Die Anzahl der Schlägerkader entspricht der Zahl an Charakteren.
 
  **What can go wrong?** The characters are cap- tured; The map is lost.
+**Was könnte schiefgehen?** Die Charaktere werden gefangen, die Karte wäre dann verloren
 
 <!-- **Notes**: Le nombre d'ennemis est égal au nombre de personnages.
 
 **Qu'est-ce qui peut mal tourner ?** Les personnages sont capturés ; La carte est perdue. -->
 
 ### Translating the Map
+### Die Übersetzung der Karte
 
 **Scene**: A dark coffee lounge, cafe or back room,
 somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room.
 
+**Szene:** Ein dunkler Cafésalon oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Geruch starken Kaffees und exotischer Lebensmittel durchdringt den Raum.
+
 **Descriptors**: Private.
 
+**Beschreiber:** Abgeschieden.
+
 > Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
+
+> Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Werden sie die Karte entschlüsseln?
+
 
 |        Challenge | Translating the Map                             |
 |-----------------:|:------------------------------------------------|
 | **Deskriptoren** | Ancient glyphs, Brittle paper                   |
 |   **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp |
 
+|        Herausforderung | Die Übersetzung der Karte                             |
+|-----------------:|:------------------------------------------------|
+| **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                   |
+|   **Zustände** □ Zerfleddert, □ Ruiniert, □ Verschmiert, □ Zu Asche verbrannt |
+
 **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
+
+**Was kann schiefgehen?** Die Karte ist beschädigt; die Charaktere missverstehen die Karte; Sie können die Karte nicht entziffern und müssen als Helfer einen Sprachexperten anheuern.
+
 
 <!-- Déchiffrer la carte
 
@@ -112,14 +160,21 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 **Qu'est-ce qui peut mal tourner ?** La carte est endommagée ; Les personnages se trompent dans leur traduction ; Ils n'arrivent pas à lire la carte et doivent faire appel à un expert en langues anciennes.
 -->
 
-### The Gou Zou Gorge (Die Gou-Zou-Schlucht)
+### The Gou Zou Gorge 
+### Die Gou-Zou-Schlucht
 
 **Scene**: The majestic Gou Zou Gorge, half a mile
 deep and crossed by a single iron girder railway bridge. Wide open plains lie on either side of the gorge and the Kow mountains lie in the distance.
 
+**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer Eisenträger-Bahnbrücke überquert. Weites, offenes Flachland liegt an beiden Seiten der Schlucht, die Kow-Berge befinden sich in der Ferne.
+
 **Descriptors**: open plains, Impassible Gorge.
 
+**Beschreiber:** Offenes Flachland, Unpassierbare Schlucht.
+
 > The characters follow the map to Gou Zou Gorge, by car or horse back. Giles Fishburne is ap- proaching fast, aboard the German dirigible Der Vogel. Do the characters cross the bridge safely? Do they keep their lead on the Germans?
+
+> Die Charaktere folgen den Hinweisen auf der Karte per Automobil oder auf dem Pferd bis zur Gou-Zou-Schlucht. Giles Fishburn naht auch schnell heran, er befindet sich an Bord des deutschen Luftschiffs Der Vogel. Werden die Charaktere die Brücke sicher überqueren und ihren Vorsprung gegenüber den Deutschen halten?
 
 |     Adversaries | Nazi Bird Truppen                                 |
 |----------------:|:--------------------------------------------------|
@@ -127,17 +182,34 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 |        **Gear** | Delicate Flying Harness, Deadly Stick Grenade     |
 |  **Conditions** | ☐ Confused, ☐ Grounded, ☐ Slowed, ☐ Out of Action |
 
+|     Gegenspieler | Nazi-Flugtruppen                                 |
+|----------------:|:--------------------------------------------------|
+| **Beschreiber** | Sie fliegen!, Beweglich                                  |
+| **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate     |
+|  **Zustände** | □ Verwirrt, □ Gestrandet, □ Aufgehalten, □ Außer Gefecht |
+
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
+
+**Notizen:** Die Anzahl der Flugtruppen entspricht der Zahl an Charakteren.
 
 |        Challenge | Gou Zou Bridge                 |
 |-----------------:|:-------------------------------|
 | **Deskriptoren** | Wide but narrow                |
 |   **Conditions** | ☐ Rickety, ☐ Blown all to hell |
 
+|        Herausforderung | Gou-Zou-Brücke                 |
+|-----------------:|:-------------------------------|
+| **Beschreiber** | Ohne Zug drauf breit genug, mit Zug ziemlich schmal              |
+|   **Zustände** | □ Wacklig, □ In die Luft gejagt |
+
 **Notes:** You know you must introduce an approach- ing train, right?
 
+**Notizen:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
+
 **What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured.
+
+**Was kann schiefgehen?** Die Brücke wird zerstört; Die Karte ist verloren; die Charaktere werden gefangengenommen.
 
 <!-- (Les Gorges du Gou Zou)
 
@@ -166,12 +238,18 @@ to the number of characters.
 **Qu'est-ce qui peut mal tourner ?** Le pont est démoli ; La carte est perdue ; Les personnages sont capturés. -->
 
 ### The Temple
-
+### Der Tempel
 **Scene**: An ancient temple fashioned into the side of a mountain. Grand statues of sinister looking gods and daemons line the walls. Dust covers everything. The tunnel leads deeper into the mountain.
+
+**Szene:** Ein uralter Tempel, der in die Seite eines Berges eingelassen ist. Gewaltige Statuen düster aussehender Götter und Dämonen bedecken die Wände. Staub überdeckt alles. Tunnel führen tiefer in den Berg hinein.
 
 **Descriptors**: Dark, Silent.
 
+**Beschreiber:** Dunkel, Still
+
 > The characters must penetrate the heart of the temple, but the map warned of nefarious traps and terrible guardians. Do they get past the traps and guardians?
+
+> Die Charaktere müssen ins Innere des Tempels vordringen, allerdings warnt sie die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Werden sie die Hindernisse überwinden?
 
 |        Challenge | Nefarious Traps                   |
 |-----------------:|:----------------------------------|
@@ -179,7 +257,15 @@ to the number of characters.
 |         **Gear** | Poison Darts, Rusting Spears      |
 |   **Conditions** | ☐ Disarmed, ☐ Set-off, ☐ Revealed |
 
+|        Herausforderung | Hinterhältige Fallen                   |
+|-----------------:|:----------------------------------|
+| **Beschreiber** | Verborgen, Tödlich                    |
+|         **Ausrüstung** | Giftpfeile, Rostige Speere      |
+|   **Zustände** | □ Entwaffnet, □ Ausgelöst, □ Entdeckt |
+
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
+
+**Notizen:** Fordere die Figuren mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
 
 |      Adversaries | Stone Statue Guardian                               |
 |-----------------:|:----------------------------------------------------|
@@ -187,9 +273,19 @@ to the number of characters.
 |         **Gear** | Heavy Stone Weapons                                 |
 |   **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Slowed, ☐ Out of Action |
 
+|        Gegenspieler | Steinwächter                   |
+|-----------------:|:----------------------------------|
+| **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                   |
+|         **Ausrüstung** | Schwere Steinwaffen      |
+|   **Zustände** | □ Beschädigt, □ Aus dem Gleichgewicht, □ Verlangsamt, □ Außer Gefecht  |
+
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
+**Notizen:** Für je zwei Figuren gibt es einen Steinwächter. Die großen, schweren Waffen können mehrere Charaktere gleichzeitg treffen.
+
 **What can go wrong?** Characters cannot get past traps; characters are injured by traps.
+
+**Was kann schiefgehen?** Die Figuren können die Fallen nicht überwinden; die Figuren werden durch die Fallen verletzt.
 
 <!-- Le Temple
 
@@ -220,12 +316,20 @@ to the number of characters.
 
 ### The Idol Chamber
 
+### Die Kammer des Götzen
+
 **Scene**: A large stone chamber ingeniously lit by
 mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
 
+**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln erhellt wird. Der Götze von Toth, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
+
 **Deskriptoren**: large bronze mirrors.
 
+**Beschreiber:** Große Bronzespiegel.
+
 > The characters enter the chamber of the idol, only to find that Giles Fishburne and his Nazi goons are here too! Do they defeat Giles and es- cape with the Idol?
+
+> Die Figuren betreten die Kammer des Götzen, um herauszufinden, dass Giles Fishburn und seine Nazihandlanger auch vor Ort sind! Werden sie Giles besiegen und mit dem Götzen entkommen?
 
 |        Adversary | Giles Fishburne                                  |
 |-----------------:|:-------------------------------------------------|
@@ -233,7 +337,15 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 |         **Gear** | Polished Sabre                                   |
 |   **Conditions** | ☐ Confused, ☐ Injured, ☐ Slowed, ☐ Out of Action |
 
+|        Gegenspieler | Giles Fishburne                                  |
+|-----------------:|:-------------------------------------------------|
+| **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                   |
+|         **Ausrüstung** | Polierter Säbel                                   |
+|   **Zustände** | □ Verwirrt, □ Verletzt, □ Aufgehalten, □ Außer Gefecht |
+
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
+
+**Notizen:** Giles ist zwar ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er zu fliehen versuchen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
 <!-- La Chambre de l'Idole
 
@@ -254,8 +366,12 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 ## Characters
 
+## Figuren
+
 Four pre-made characters can be found on the next
-page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should de ne one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
+page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should define one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
+
+Auf der nächsten Seite befinden sich vier vorgefertigte Figuren. Sie sind alle Beispiele klassischer Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin verändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Die Spielerinnen sollten die Beziehungen ihrer Figuren untereinander klären und festlegen, woher sie sich kennen. Ein schneller und einfacher Weg ist es, die Figuren beschreiben zu lassen, woher sie die Person links von ihnen kennen.
 
 <!-- Personnages
 
@@ -264,6 +380,8 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 ### Tennessee Smith, Daredevil Explorer (Tollkühner Forscher/Forschungsreisender)
 
+### Tennessee Smith, Tollkühner Entdecker
+
 |        Character | Tennessee Smith                                                                         |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Deskriptoren** | Nimble, level Headed, Use Bull Whip, Afraid of Heights                                  |
@@ -271,12 +389,24 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Find the Idol of Tot                                                                    |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
+|        Figur | Tennessee Smith                                                                         |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
+|         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
+|        **Motiv** | Den Götzen von Toth finden                                                                    |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
+
+> Tennessee Smith ist ein freundlicher Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um nach verschollenen Artefakten und Schätzen zu suchen. Auf eine raue Art gutaussehend, scheint er immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und er gerät oft in Teufels Küche.
 
 **Relationships**:  
 
+**Beziehungen:**
+
 **Notes**:
 
+**Notizen:**
 
 
 <!-- Tennessee Smith, Explorateur Intrépide
@@ -290,8 +420,10 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Tennessee Smith est un professeur d'histoire, bien éduqué, mais dans ses temps libres il voyage dans les contrées sauvages pour retrouver des artefacts perdus et des trésors. Au charme rugueux, il allie une sorte de calme permanent, quel que soit le danger face à lui - et il a tendance à souvent se présenter. -->
 
-### Jimmy Sweet, Beherzter/Unerschrockener Gassenjunge
-(Jimmy Sweet, Plucky Kid)
+### Jimmy Sweet, Plucky Kid
+
+### Jimmy Sweet, Beherzter Gassenjunge
+
 
 |        Character | Jimmy Sweet                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
@@ -300,11 +432,24 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | See the 7 wonders of the world                                                          |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
+|        Figur | Jimmy Sweet                                                                             |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                              |
+|         **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                  |
+|        **Motiv** | Die Sieben Weltwunder sehen                                                          |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+
 > Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune.
+
+> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der sich nie auf jemand anderen als sich selbst verlassen musste. Er ist drahtig, zäh und aufgeweckt und trägt eine freche Haltung zur Schau, die ihn regelmäßig in Schwierigkeiten bringt. Jimmy versteckte sich als blinder Passagier auf einem Bedarfsdampfer, um die Wunder der Welt zu sehen und sein Glück zu suchen.
 
 **Relationships**:  
 
+**Beziehungen:**  
+
 **Notes**:
+
+**Notizen:**
 
 
 <!-- Jimmy Sweet, Gamin courageux
@@ -320,6 +465,8 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 ### Harvey Reed, Retired Boxer
 
+### Harvey Reed, Ehemaliger Boxer
+
 |        Character | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Deskriptoren** | Strong, Thinks-on-his-Feet, Boxer, Ugly as Sin                                          |
@@ -327,11 +474,24 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Look out for Tennessee Smith                                                            |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
+|        Figur | Harvey Reed                                                                             |
+|-----------------:|:----------------------------------------------------------------------------------------|
+| **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                          |
+|         **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                     |
+|        **Motiv** | Auf Tennessee Smith aufpassen                                                            |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+
 > Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure.
+
+> Harvey Reed ist ein kürzlich zurückgetretener Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
 **Relationships**:  
 
+**Beziehungen:**  
+
 **Notes**:
+
+**Notizen:**
 
 
 <!-- Harvey Reed, Boxeur à la retraite
@@ -345,22 +505,27 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Harvey Reed a récemment raccroché les gants de boxe. Sa nouvelle vie de sédentaire lui a paru peu trop ennuyeuse, aussi il a rejoint son vieil ami Tennessee dans ses aventures. -->
 
-
+### October Jones, Girl Reporter
 ### October Jones, Junge Reporterin
-(Girl Reporter)
 
-|        Character | October Jones                                                                           |
+|        Figur | October Jones                                                                           |
 |-----------------:|:----------------------------------------------------------------------------------------|
-| **Deskriptoren** | Beautiful, Witty, Good memory, Curious                                                  |
-|         **Gear** | Trusty Camera, Thick Notebook                                                           |
-|        **Drive** | Get the scoop on the real Tennessee Smith                                               |
-|   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
+| **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
+|         **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                           |
+|        **Motiv** | Bekomme den Exklusivbericht über Tennessee Smith                                               |
+|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, Benommen, □ Verletzt, □ Sterbend |
 
 > October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants.
 
+> October Jones ist eine Reporterin und Abenteuerin, die durch den großen Reichtum ihres Vaters viele Freiheiten besitzt. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie möchte.
+
 **Relationships**:  
 
+**Beziehungen:**  
+
 **Notes**:
+
+**Notizen:**
 
 
 

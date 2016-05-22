@@ -1,6 +1,9 @@
 # Appendix - Descriptors
+# Anhang – Beschreiber
 
 This list is by no means exhaustive, but it’s a good place to start. each entry lists the kinds of things a Descriptor might be an advantage or hindrance for, which makes it a handy reference for both players and Narrators.
+
+Diese Liste an Dingen, für die ein Beschreiber vor- oder nachteilig sein könnte, ist bei weitem nicht vollständig, aber ein guter Startpunkt. Sie ist als nützliche Referenz für sowohl Erzählerinnen als auch Spielerinnen gedacht.
 
 <!-- Appendice - Descripteurs
 
@@ -8,31 +11,68 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 
 ## Body Descriptors
 
-* **Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
-* Ambidextrous: great when shooting two guns at
-the same time, or doing slight-of-hand magic tricks.
-* Blonde: good for getting people to underestimate
-you, not good if you spend too much time in the sun.
-* Fake Orange Tan: great for passing as an aging
-celebrity, and for drawing attention to yourself.
-* Furry: useful for resisting cold weather, and living in the woods.
-* Handsome: useful for  irting, selling stu , getting roles on T.V., modelling, and being popular.
-* Huge: good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
-* Overweight: a problem when exercising and
-borrowing clothes.
-* Poor Constitution: a hindrance when long dis-
+## Körperliche Beschreiber
+
+**Agile**: helpful when dancing, leaping, doing gymnastics, crawling through tight spaces and balancing.
+**Beweglich:** hilfreich beim Tanzen, Springen, Balancieren, Gymnastik, Kriechen durch enge Umgebungen
+
+**Ambidextrous:** great when shooting two guns at the same time, or doing slight-of-hand magic tricks.
+**Beidhändig:** toll beim gleichzeitigen Schießen mit zwei Waffen und Taschenspielertricks
+
+**Blonde:** good for getting people to underestimate you, not good if you spend too much time in the sun.
+**Blondine:** gut, um von Leuten unterschätzt zu werden, nicht gutm wenn man sich  zu lange in der Sonne aufhält
+
+**Fake Orange Tan:** great for passing as an aging celebrity, and for drawing attention to yourself.
+**Selbstbräuner-Orange:** toll, um als alternde Berühmtheit durchzugehen und Aufmerksamkeit auf sich zu ziehen
+
+**Furry:** useful for resisting cold weather, and living in the woods.
+**Pelzig:** nützlich, um kaltem Wetter zu widerstehen und in der Wildnis zu überleben
+
+**Handsome:** useful for  flirting, selling stuff , getting roles on T.V., modelling, and being popular.
+* **Gutaussehend:** nützlich beim Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, beliebt sein
+
+**Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces.
+* **Gewaltig:** hut, um bedrohlich auszusehen, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder in kleinen Umgebungen steckenzubleiben
+
+**Overweight:** a problem when exercising and borrowing clothes.
+**Übergewichtig:** ein Problem beim Sport und beim Ausleihen von Kleidung
+
+**Poor Constitution:** a hindrance when long dis-
 tance running, resisting damage, performing feats of endurance, and healing.
-* Quick: handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
-* Razor-sharp Claws: great for slicing up en- emies, cutting vegetables and maybe climbing trees.
-* Short: a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
-* Slow: a problem when running, dodging, and reacting to things.
-* Strong: useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
-* Tall: good for reaching the top shelf, climbing, and seeing over other people’s heads.
-* Thin: handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
-* Ugly: a problem when trying to seduce someone, or get a role on T.V.
-* Vigour: great for resisting poison, long distance running, and other feats of endurance.
-* Weak: a pain when lifting, carrying, smashing and throwing stuff.
-* Webbed Feet: great for swimming, but terrible when buying shoes.
+**Schwache Konstitution:** hinderlich bei Langstreckenläufen, Ausdauertätigkeiten und beim Verheilen von Wunden
+
+**Quick:** handy for ducking to and from places, slight-of-hand, dodging and other actions that require speed of action.
+**Flink:** nützlich beim Wegducken und usweichen, bei Taschenspielertricks und anderen Handlungen, die schnelle Bewegungen erfordern
+
+**Razor-sharp Claws:** great for slicing up en- emies, cutting vegetables and maybe climbing trees.
+**Rasiermesserscharfe Klauen:** großartig, um Gegner aufzuschlitzen, Obst und Gemüse zu schneiden und eventuell auch beim Bäumehochklettern
+
+**Short:** a pain for reaching the top shelf, but use ful for crawling under low objects and getting lost in a crowd.
+**Klein:** nervig, weil man nicht an hohe Sachen herankommt, aber praktisch, um unter Objekte zu kriechen und in der Menge verloren zu gehen
+
+**Slow:** a problem when running, dodging, and reacting to things.
+**Langsam:** ein Problem beim Laufen, Ausweichen und Reagieren
+
+**Strong:** useful for lifting, carrying, smashing and throwing things. Wrestling and avoiding being crushed might also be aided.
+**Stark:** sinnvoll, um Dinge anzuheben, zu tragen, zu zerschlagen und zu werfen; könnte auch beim Ringen helfen und dabei, nicht von Dingen erdrückt zu werden
+
+**Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
+**Hochgewachsen:** nützlich, um an das oberste Regal heranzureichen, beim Klettern und um über die Köpfe anderer Leute hinwegzuschauen
+
+**Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
+**Dünn:** praktisch, um sich in Kleidung und enge Orte hineinzuzwängen, sich hinter Pfosten zu verstecken und auf dem Laufsteg eine gute Figur zu machen
+
+**Ugly:** a problem when trying to seduce someone, or get a role on T.V.
+**Hässlich:** ein Problem beim Verführen von Leuten oder beim Bekommen einer Fernsehrolle
+
+**Vigour:** great for resisting poison, long distance running, and other feats of endurance.
+**Vitalität:** großartig, um Giften zu widerstehen, bei Langstreckenläufen und anderen Ausdauertätigkeiten
+
+**Weak:** a pain when lifting, carrying, smashing and throwing stuff.
+**Schwächlich:** Schwierigkeiten beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
+
+**Webbed Feet:** great for swimming, but terrible when buying shoes.
+**Schwimmfüße:** toll fürs Schwimmen, aber schrecklich, wenn man Schuhe kaufen will
 
 
 <!-- Descripteurs du Corps
@@ -60,22 +100,53 @@ tance running, resisting damage, performing feats of endurance, and healing.
 
 ## Mind Descriptors
 
-Absent-Minded: good for being distracted, but a
+### Geistige Beschreiber
+
+**Absent-Minded:** good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
-Book-Smart: great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
-Computer-Wiz: good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
-Dim-Witted: a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
-Empathetic: good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
-Focused: good for staying on task, not getting dis- tracted, and looking serious.
-Lateral Thinker: handy for problem solving, and approaching issues in new or unusual ways.
-Mathematician: great for doing sums, solving equations and doing your tax.
-Observant: great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
-Orator: good for public speaking, debating and getting people to see your point of view.
-Slow: a pain when trying to understand plans, or learn new things.
-Tactician: great for planning battles, remember- ing military history and quoting Tsun Tsu.
-Uneducated: a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
-Wise: handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
-Witty: good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
+**Zerstreut:** gut, um sich abzulenken, aber problematisch, wenn man sich erinnern will, wo man seine Schlüssel gelassen oder wenn man gerade den Sicherheitsstift einer Handgranate gezogen hat
+
+**Book-Smart:** great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
+**Belesen:** toll, um Schulprüfungen abzulegen, Matheformeln zu kennen, sich an geschichtliche Daten zu erinnern und um Zugang zum Jurastudium zu erlangen
+
+**Computer-Wiz:** good for programming,  xing your laptop and getting into pC vs. Apple  ame-wars.
+**Computerfreak:** gut fürs Programmieren und Laptopreparieren, bei heißblütigen Diskussionen zwischen PC- und Apple-Fans
+
+**Dim-Witted:** a problem when listening to jokes, recognizing a trick, or generally keeping up appear- ances in social settings.
+**Dämlich:**problematisch, um Witze und Tricks zu verstehen, oder in sozialen Situationen den Schein zu wahren
+
+**Empathetic:** good for reading peoples emotions, doing psychological evaluations, and knowing how to comfort distressed people.
+**Einfühlsam:** gut, um die Emotionen anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und notleidende Menschen zu beruhigen
+
+**Focused:** good for staying on task, not getting dis- tracted, and looking serious.
+**Konzentriert:** hilfreich beim Dabeibleiben an Aufgaben, Nicht abgelenkt werden, Ernsthaft aussehen
+
+**Lateral Thinker:** handy for problem solving, and approaching issues in new or unusual ways.
+**Querdenkerin:** nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen
+
+**Mathematician:** great for doing sums, solving equations and doing your tax.
+**Mathematikerin:** toll, um zu addieren, Gleichungen zu lösen und die Steuern machen
+
+**Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language.
+**Aufmerksam:** prima, um versteckte Hinweise und Details zu erkennen und Körpersprache zu lesen
+
+**Orator:** good for public speaking, debating and getting people to see your point of view.
+**Rednerin:** vorteilhaft beim öffentlichen Reden, Debattieren, Klarmachen deines Standpunkts
+
+**Slow:** a pain when trying to understand plans, or learn new things.
+**Langsam:** nervig, wenn man Pläne verstehen oder neue Dinge lernen will
+
+**Tactician:** great for planning battles, remember- ing military history and quoting Tsun Tsu.
+**Taktikerin:** großartig, um Schlachten zu planen, sich an militärische Geschichte zu erinnern und Sun-Tsu zu zitieren
+
+**Uneducated:** a pain when reading, doing math, remembering important dates in history and doing any school-type tests.
+**Ungebildet:** nervig beim Lesen, Matheaufgaben lösen, Erinnern wichtiger geschichtlicher Daten und wenn man Schultests bestehen will
+
+**Wise:** handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’.
+**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: "Ich hab's euch gesagt,"
+
+**Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say.
+**Geistreich:** gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen
 
 
 <!-- Descripteurs d'Esprit
@@ -98,22 +169,49 @@ Witty: good for making funny comments, being charming and / or entertaining, and
 
 ## Edge Descriptors
 
-Acrobatics: great for joining the circus, leaping
-through narrow gaps, and doing impressive  ips. Arcane Knowledge: good for identifying mys- tic artefacts, recognizing the presence of evil magic,
-and reading ancient scrolls.
-Courage: handy when seeing something scary,
-telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
-Driving: great for car racing, car chases, and pass- ing your driving exam.
-Fencing: good for sword  ghting and other civi- lized forms of melee.
-Good Memory: handy for remembering names and faces, vital clues, and mathematical formulas.
-Hunting: good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
-Keen Sight: great for seeing a long way or even doing stu  by moonlight.
-Linguistics: good for speaking one (or more) foreign languages and generally communicating with others.
-Magic: great for knowing the mystic arts, casting spells, or acting like a stage magician.
-Medicine: good for performing operations, diag- nosing illness, and administering  rst aid.
-Nasty Bite: great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
-Rich: handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
-Wrestling: good for  ghting unarmed combat, and pinning opponents to the ground.
+## Beschreiber für Vorteile
+
+**Acrobatics:** great for joining the circus, leaping through narrow gaps, and doing impressive  ips.
+**Akrobatik:** großartig, um sich beim Zirkus zu bewerben, durch schmale Öffnungen zu springen und beeindruckende Salti zu schlagen
+
+**Arcane Knowledge:** good for identifying mys- tic artefacts, recognizing the presence of evil magic, and reading ancient scrolls.
+**Okkultes Geheimwissen:** praktisch, um mystische Artefakte zu identifizieren, schwarze Magie zu erkennen und uralte Pergamentrollen zu lesen
+
+**Courage:** handy when seeing something scary, telling your wife you forgot your anniversary, and at- tempting other dangerous acts.
+**Mut:** hilreich, um einen grauenvollen Anblick zu ertragen; deine Frau zu informieren, dass du den Hochzeitsstag vergessen hast, und um andere, gefährliche Aktionen zu versuchen
+
+**Driving:** great for car racing, car chases, and pass- ing your driving exam.
+**Fahren:** toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung
+
+**Fencing:** good for sword  ghting and other civi- lized forms of melee.
+**Fechten:** gut für den Schwertkampf und andere zivilisierte Formen des Nahkampfes
+
+**Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas.
+**Gutes Gedächtnis:** nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren
+
+**Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
+**Jagen:** vorteilhaft, wenn man Spurenlesen und sich heranpirschen oder in Tarnkleidung gut aussehen will und wissen muss, wie sich ein wütendes Nashorn anhört
+
+**Keen Sight:** great for seeing a long way or even doing stu  by moonlight.
+**Scharfe Augen:** großartig, um weitentfernte Dinge sehen oder sich bei Mondlicht orientieren zu können
+
+**Linguistics:** good for speaking one (or more) foreign languages and generally communicating with others.
+**Sprachwissenschaften:** Vorteile beim Sprechen einer oder mehrere fremder Sprachen und der generellen Kommunikation mit anderen Leuten
+
+**Magic:** great for knowing the mystic arts, casting spells, or acting like a stage magician.
+**Magie:** Vorteile beim Wissen mystischer Künste, Sprüche wirken oder Auftreten als Bühnenmagier
+
+**Medicine:** good for performing operations, diag- nosing illness, and administering  rst aid.
+**Medizin:** hilfreich beim Durchführen von Operationen, Diagnostizieren von Krankheiten, und Leisten von Erster-Hilfe
+
+**Nasty Bite:** great for really hurting someone in combat, chewing your own arm o , or winning a pie eating contest.
+**Fieser Biss:** großartig, um Gegner im Kampf schwer zu verletzen, den eigenen Arm abzukauen oder bei einem Kuchenesswettbewerb zu gewinnen
+
+**Rich:** handy for buying luxury sports cars, getting invited to exclusive parties, and bribing city o cials.
+**Reich:** praktisch, um Luxusautos zu kaufen, Einladungen zu exklusiven Partys zu bekommen und um städtische Mitarbeiter zu bestechen
+
+**Wrestling:** good for  ghting unarmed combat, and pinning opponents to the ground.
+**Ringkampf:** gut beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden
 
 <!-- Descripteurs d'Atout
 
@@ -132,22 +230,50 @@ Wrestling: good for  ghting unarmed combat, and pinning opponents to the ground.
 * **Riche**: pouvoir acheter des voitures de sport luxueuses, être invité à des fêtes ultra-select, avoir les moyens de corrompre les gens influents.
 * **Bagarre**: pour se battre sans arme, et clouer un adversaire au sol. -->
 
+
 ## Flaw Descriptors
 
-Blind: a pain when doing anything that requires
+## Beschreiber für Nachteile
+
+**Blind:** a pain when doing anything that requires
 sight, such as shooting, navigating an unfamiliar space, or painting.
-Brave: good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
-Clumsy: a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
-Greedy: a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
-in-Human Appearance: a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
-Missing Leg: a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
+**Blind:** nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, Navigieren oder Malen
+
+**Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble.
+**Mutig:** nützlich beim Heranstürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und darin, in Schwierigkeiten zu geraten
+
+**Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room.
+**Ungeschickt:** problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes
+
+**Greedy:** a pain when resisting the urge to steal, lie, or in some other way keep or obtain wealth.
+**Gierig:** ungünstig beim Widerstehen des Impulses, etwas zu stehlen, zu lügen oder beim Anhäufen und Behalten von Reichtum
+
+**in-Human Appearance:** a hindrance when try- ing not to get noticed, avoiding attention, or  nding a pair of pants that  t just right.
+**Unmenschliches Aussehen:** hinderlich, wenn man nicht bemerkt werden und Aufmerksamkeit vermeiden will, oder beim Finden von Hosen, die perfekt passen
+
+**Missing Leg:** a problem when running, climbing, or performing any other activity that involves move- ment, without prosthetics or a wheel chair.
+**Fehlendes Bein:** Probleme beim Laufen, Klettern oder jeder anderen Aktivität, die Bewegung ohne Prothesen oder Rollstuhl umfasst
+
 Old: a pain when trying to look cool, climb stairs, use a computer, or be positive about your health.
-Poor: a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
-Poor Sight: a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
-Primitive: a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
-Smelly: a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
-Wanted: a pain when trying to keep out of trou- ble, or needing something from your apartment.
-Young: a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+**Alt:** Probleme beim Coolaussehen, Treppensteigen, Nutzen eines Computers oder damit, dass [XXX]
+
+**Poor:** a hindrance when wanting to buy food or clothes, or trying to get into an exclusive party.
+**Arm:** hinderlich, wenn man Essen oder Kleidung kaufen oder an einer exklusiven Party teilnehmen will
+
+**Poor Sight:** a pain when trying to recognize someone or thing, driving at night, or noticing visual clues.
+**Sieht schlecht:** nervig, wenn man jemanden oder etwas erkennen will, beim Fahren während Dunkelheit oder beim Ausmachen visueller Hinweise
+
+**Primitive:** a problem when using mobile phones, cars, and door bells, as well as interacting at more civi- lized social occasions.
+**Primitiv:**Probleme beim Nutzen von Handys, Autos oder Türklingeln und während kultivierter sozialer Begegnungen
+
+**Smelly:** a hindrance when trying to impress peo- ple, or hiding from wild animals or trackers.
+**Intensiver Geruch:** hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Jägern verstecken will
+
+**Wanted:** a pain when trying to keep out of trou- ble, or needing something from your apartment.
+**Gesucht:** nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnugn braucht
+
+**Young:** a problem when trying to get into clubs, be taken seriously by adults, avoid school, or see over the dash in a car.
+**Jung:** problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden möchte, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte
 
 <!-- Descripteurs de Faille
 
