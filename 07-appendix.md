@@ -57,22 +57,22 @@ tance running, resisting damage, performing feats of endurance, and healing.
 **Stark:** sinnvoll, um Dinge anzuheben, zu tragen, zu zerschlagen und zu werfen; könnte auch beim Ringen helfen und dabei, nicht von Dingen erdrückt zu werden
 
 **Tall:** good for reaching the top shelf, climbing, and seeing over other people’s heads.
-**Hochgewachsen:** an das oberste Regal heranreichen, Klettern, über die Köpfe anderer Leute hinwegschauen
+**Hochgewachsen:** nützlich, um an das oberste Regal heranzureichen, beim Klettern und um über die Köpfe anderer Leute hinwegzuschauen
 
 **Thin:** handy for squeezing into places and clothes, hiding behind poles, and performing on the catwalk.
-**Dünn:** sich in Kleidung und enge Orte hineinzwängen, sich hinter Pfosten verstecken, auf dem Laufsteg eine gute Figur machen
+**Dünn:** praktisch, um sich in Kleidung und enge Orte hineinzuzwängen, sich hinter Pfosten zu verstecken und auf dem Laufsteg eine gute Figur zu machen
 
 **Ugly:** a problem when trying to seduce someone, or get a role on T.V.
-**Hässlich:** Probleme beim Verführen von Leuten, beim Bekommen einer Fernsehrolle
+**Hässlich:** ein Problem beim Verführen von Leuten oder beim Bekommen einer Fernsehrolle
 
 **Vigour:** great for resisting poison, long distance running, and other feats of endurance.
-**Vitalität:** Giften widerstehen, Langstreckenläufe, Ausdauertätigkeiten
+**Vitalität:** großartig, um Giften zu widerstehen, bei Langstreckenläufen und anderen Ausdauertätigkeiten
 
 **Weak:** a pain when lifting, carrying, smashing and throwing stuff.
-**Schwächlich:** Probleme beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
+**Schwächlich:** Schwierigkeiten beim Anheben, Tragen, Zerschlagen und Werfen von Dingen
 
 **Webbed Feet:** great for swimming, but terrible when buying shoes.
-**Schwimmfüße:** Schwimmen, Probleme beim Kauf von Schuhen
+**Schwimmfüße:** toll fürs Schwimmen, aber schrecklich, wenn man Schuhe kaufen will
 
 
 <!-- Descripteurs du Corps
@@ -104,7 +104,7 @@ tance running, resisting damage, performing feats of endurance, and healing.
 
 **Absent-Minded:** good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade.
-**Zerstreut:** Abgelenkt, Vergesslich, Sicherungsstift aus Handgranate gezogen
+**Zerstreut:** gut, um sich abzulenken, aber problematisch, wenn man sich erinnern will, wo man seine Schlüssel gelassen oder wenn man gerade den Sicherheitsstift einer Handgranate gezogen hat
 
 **Book-Smart:** great when doing exams, knowing math formulas, remembering dates in history, and generally getting into law at Harvard.
 **Belesen:** Vorteile beim Ablegen von Prüfungen, Wissen von Matheformeln, Erinnern von historischen Daten und Zugang zum Jurastudium
