@@ -180,9 +180,10 @@ Captain Vance ducks as another hail of bullets peppers the wall he is hiding beh
 | 2    | **Ja, aber...** Du bekommst, was du willst, aber es hat einen Preis.                   |
 | 5    | **Nein, aber...** Du bekommst nicht, was du willst, aber es ist kein völliger Verlust. |
 | 3    | **Nein...** Du bekommst nicht, was du willst.                                          |
-| 1    | **Nein, und...** Du bekommst nicht, was du willst, und es wird noch schlimmer.         |
+| 1    | **Nein, und...** Du bekommst nicht, was du willst, und es wird noch schlimmer.|
 
-<!-- Roll
+<!--
+Roll
 6
 4
 2
@@ -204,15 +205,13 @@ No, and... You don’t get what you want, and things get worse.
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                           |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.       |
 | 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                               |
-| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | --> |
+| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | -->
 
 ----
 
-
-
 ### Geschlossene Fragen
 
-FU verwendet Fragen in geschlossener Form um zu entscheiden, wie eine Handlung ausgeht. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
+FU verwendet Fragen in geschlossener Form, um zu entscheiden, wie eine Handlung ausgeht. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
 Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: "Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!"
 
@@ -264,10 +263,21 @@ Vous pouvez poser une question différemment si vous voulez, mais il vous faudra
 
 Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire. -->
 
-###
-*I'm HERE*
+### Würfelergebnis-Alternativen
 
-Alternative Dice Rolls
+Manche Spieler sind keine Freunde der geraden/ungeraden Ergebnisse. Viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
+
+| Wurf | Bekommst du, was du willst?                                                            |
+|:-----|:---------------------------------------------------------------------------------------|
+| 6    | Ja, und...                        |
+| 5    | Ja...                                             |
+| 4    | Ja, aber...|
+| 3    | Nein, aber...|
+| 2    | Nein...|
+| 1    | Nein, und...         |
+
+
+<!-- Alternative Dice Rolls
 Some players are not fans of the even/odd results. Many prefer a 1-3 Bad, 4-6 Good result. In that case the result chart would look like this;
 
 Roll Do you get what you want?
@@ -290,10 +300,29 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 | 3   | Non, mais...                      |
 | 2   | Non...                            |
 | 1   | Non, et...                        |
+ -->
 
 ----
 
-## Success & Failure
+## Erfolg & Misserfolg
+
+Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder nicht.  Normalerweise genügt das, um die Geschichte weiterzutreiben, doch es können auch andere Dinge passieren.
+
+Wenn du eine Handlung versuchst, stellst du die Frage: "Erreicht meine Figur was sie will?" Darauf gibt es sechs mögliche Antworten:
+
+> Ja, und...
+>
+> Ja...
+>
+> Ja, aber...
+>
+> Nein, aber...
+>
+> Nein...
+>
+> Nein, und...
+
+<!-- Success & Failure
 When you make a beat the odds roll your character
 will either succeed at what they were attempting, or they wont.  is is usually enough to push your story further along, but other things can happen too.
 When you attempt an action, you are asking “Does my character get what they want?”  ere are six pos- sible answers to this question;
@@ -318,11 +347,17 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 >
 > Non...
 >
-> Non, et...
+> Non, et... -->
 
-Yes and No are pretty straight forward - they tell you whether the action succeeded or not.  e and and but are quali ers that modify how good the success or how bad the failure was. When you get a quali er you make an extra statement about how the action succeeded or failed.  is extra statement can add a Condition to a character or a Detail to a scene.
+*Ja* und *Nein* sind einfach zu verstehen - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner für die Stärke des Erfolgs oder Misserfolgs. Wenn du eine solche Einschränkung wirfst, machst du eine zusätzliche Aussage darüber, auf welche Weise die Handlung erfolgreich oder nicht war. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder eine Einzelheit zu einer Szene hinzufügen.
+<!--
+Yes and No are pretty straight forward - they tell you whether the action succeeded or not.  e and and but are quali ers that modify how good the success or how bad the failure was. When you get a quali er you make an extra statement about how the action succeeded or failed.  is extra statement can add a Condition to a character or a Detail to a scene. -->
 
-Conditions:  ese are physical, mental or social e ects that impact on the way a character behaves or attempts actions. Conditions include things like an- gry, confused, tired and unconscious.  ere are several listed on the FU character sheet, and there is space for you to write your own.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewußtlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch Platz, damit ihr selbst eigene hinzufügen könnt.
+
+**Einzelheiten**: Dies sind Merkmale der Umgebung oder Szene, die sich durch das Ergebnis einer Handlung verändern können. Einzelheiten können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Einzelheiten sind immer eng verknüpft mit der Szene und der versuchten Handlung.
+
+<!-- Conditions:  ese are physical, mental or social e ects that impact on the way a character behaves or attempts actions. Conditions include things like an- gry, confused, tired and unconscious.  ere are several listed on the FU character sheet, and there is space for you to write your own.
 
 Details:  ese are features of an environment or scene that might change as a result of an action. Details might include curtains catching  re, windows break- ing, animals running o , or machinery stalling. De- tails are always closely tied to the scene and the action.
 
@@ -331,11 +366,22 @@ et
 
 **Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action. Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* ou *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
 
-**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peuvent influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
+**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peuvent influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours. -->
 
 ----
 
-### Examples of Success & Failure
+### Beispiele für Erfolg & Misserfolg
+
+Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage **"Überspringt Sir Camden die Hecke?"** passieren würde:
+
+**Ja, und** er holt Lord Kane ein. Dies ist eine Einzelheit, die die Szene verändert.  
+**Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+**Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
+**Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Diese Einzelheit gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.  
+**Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+**Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
+
+<!-- Examples of Success & Failure
 Going back to an earlier example, let’s see what might have happened when we apply each possible answer to the question
 “Does Sir Camden leap the hedge?”
 Yes, and he catches up with Lord Kane.  is is a Detail that changes the scene.
@@ -362,9 +408,16 @@ Examples de succès & d'échecs
 
 **Non**, le cheval refuse l'obstacle. Il n'y a pas de et/mais, donc aucune Condition ou Détail n'est ajouté.
 
-**Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition.
+**Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition. -->
 
-### Who chooses Conditions & Details?
+
+### Wer wählt die Zustände & Einzelheiten?
+
+Alle können einen Zustand oder eine Einzelheit vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum erreichten Ergebnis passt. Normalerweise überlegen sich die Spielerin, die gewürfelt hat, und die Erzählerin gemeinsam eine angemessen dramatische Auswirkung. Doch eigentlich sollten alle am Tisch ihre coolen Ideen einbringen.  
+Die Erzählerin hat immer das letzte Wort, wenn es darum geht, welcher Zustand oder welche Einzelheit auf das Ergebnis angewendet wird.
+
+<!--
+Who chooses Conditions & Details?
 Anyone can suggest a Condition or Detail that they feel is appropriate to the action taken and result achieved. Usually the player that rolled the dice and the Narrator will work together to come up with a suitably dramatic e ect. But really, anyone at the table should throw in whatever cool idea they have.
  e Narrator always has  nal say over what Condition or Detail is ap- plied to a result.
 
@@ -372,9 +425,14 @@ Qui choisit les Conditions et les Détails ?
 
 Tout le monde peut suggérer une Condition ou un Détail qui lui semble approprié en fonction de l'action et du résultat. Habituellement le joueur qui a lancé les dés et le Narrateur travailleront de concert pour trouver une issue pertinente. Mais en fait, n'importe qui à la table peut proposer une idée qui lui paraît intéressante.
 
-Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à appliquer au résultat.
+Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à appliquer au résultat. -->
 
-### When should I use Conditions?
+### Wann soll ich Zustände verwenden?
+
+Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur das Leben etwas schwerer durch den geringen Erfolg oder sogar kompletten Misserfolg. Du kannst auch einer
+anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die gut für deine Figur ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, könntest du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand **müde** erhalten. Wenn man Zustände so anwendet, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.
+
+<!-- When should I use Conditions?
 Like all quali ers, it depends on situation. In the examples above Con- ditions are applied to the acting player when things don’t quite go right for them (Yes, but / No, and).  e Condi- tions make life a bit more di cult for the character because of the minimal success or outright failure.
 You can also apply Conditions to the target of an action, when things are going right for your character. If you are debating with a bureaucrat and get a Yes, and result you might apply the confused Condition to the target. If you attempt to outrun an enemy and get the No, but result they might catch up with
 you, but have the tired Condition. Ap- plying Conditions in this way will likely give player characters an advantage later in the scene.
@@ -383,10 +441,17 @@ Quand utiliser les Conditions ?
 
 Comme tous les qualificatifs, tout dépend de la situation. Dans les exemples précédents, les Conditions sont imposées au joueur courant quand les événements ne se déroulent pas comme il le pensait (**Oui, mais / Non, et**). Les Conditions peuvent rendre la vie du personnage un petit peu plus difficile à cause d'un succès trop léger ou d'un échec cuisant.
 
-Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En appliquant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène.
+Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En appliquant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène. -->
 
-### When should I use Details?
-Apply Details when the action is like- ly to change the scene or environment in some way.  is might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
+### Wann soll ich Einzelheiten benutzen?
+
+Wende Einzelheiten an, wenn die versuchte Handlung wahrscheinlich die Szene oder Umgebung irgendwie  ändern wird. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
+Einzelheiten werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Sie können jedoch sehr effektvoll genutzt werden, um Situationen unterhaltsamer und/oder gefährlicher zu machen: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
+
+Einzelheiten können sofortige oder dauerhafte Wirkung haben, abhängig von den Umständen. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+
+<!-- When should I use Details?
+Apply Details when the action is like- ly to change the scene or environment in some way.  This might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
 Details are o en applied when the acting character gains some advantage (Yes, and / No, but).  ey can be used to great e ect, however, to make situa- tions more entertaining and / or dan- gerous;
 “Do you swing across the room on the chandelier? Yes, but candles fall loose and set  re to the tavern.”
 Details can provide instant or on- going e ects, depending on the circum- stances. A gap in the hedge can be used immediately to continue the chase; a burning tavern will continue to be a hazard until someone puts the  re out!
@@ -399,16 +464,20 @@ Les Détails s'appliquent souvent quand le personnage qui agit obtient un avanta
 
 "Est-ce que j'arrive à me balancer au travers de la pièce à l'aide du chandelier ?" "**Oui, mais** une bougie en tombe et met le feu à la taverne."
 
-Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne qui prend feu reste un événement sans importance jusqu'à ce que le feu se propage !
+Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne qui prend feu reste un événement sans importance jusqu'à ce que le feu se propage ! -->
 
 ----
 
-## Modificateurs
+## Modifikatoren
+
+Manchmal werden Handlungen leichter oder schwerer durch äußere Umstände, Ausrüstung oder Fähigkeiten. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
+
 
 modifiers
 Sometimes circumstances, equipment and skill will
 make actions easier or harder. modi ers change the number of dice you get to roll when taking action.
 
+*I'm HERE*
 Making Things Easier: Roll an additional die for each Descriptor, piece of Gear, Condition or De- tail that provides some advantage to the action being taken.  e result is the single best (not necessarily highest) die roll, as the player chooses.
 
 Certaines circonstances, matériels et compétences peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous pourrez lancer.
