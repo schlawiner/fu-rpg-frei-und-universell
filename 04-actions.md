@@ -52,14 +52,13 @@ Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse
 
 \columnsbegin
 
-### Wer plant Szenen (bereitet vor)/legt Szenen fest
+### Wer plant Szenen?
 
+Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet die Erzählerin, welche Szenen passieren und in welcher Reihenfolge sie stattfinden.
 
-Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder an denen sie beteiligt sein wollen, doch meistens entscheidet die Erzählerin, welche Szenen passieren und in welcher Reihenfolge sie stattfinden.
+Ihr könnt zusammen über die Reihenfolge der Ereignisse diskutieren, was passiert, wo es passiert und wer drin vorkommt, bevor die Erzählerin die abschließende Entscheidung trifft.
 
-Ihr könnt zusammen über die Reihenfolge der Ereignisse diskutieren, was passiert, wo es passiert und wer drin vorkommt, bevor die Erzählerin über diese Dinge das letzte Wort hat (die abschließende Entscheidung trifft).
-
-Manche Gruppen geben gerne allen mal die Gelegenheit (jede mal zum Zug kommen lassen), eine Szene zu planen, und auch das ist völlig in Ordnung.
+Manche Gruppen möchten auch jeder Spielerin einmal die Gelegenheit geben, eine Szene planen lassen, und auch das ist völlig in Ordnung.
 
 
 <!-- Who “sets” the scene?
@@ -73,7 +72,7 @@ Les joueurs peuvent suggérer les scènes qu'ils voudraient jouer ou dans lesque
 
 Certains groupes de joueurs peuvent "poser" une scène à tour de rôle, et c'est totalement toléré. -->
 
-### Wie plant man eine Szene
+### Wie plant man eine Szene?
 
 Die Szene planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, und was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wer und Was.
 
@@ -91,7 +90,7 @@ Poser une scène signifie définir où et quand l'action se déroule, qui est pr
 
 En décrivant une scène il faut la dépeindre dans tous les plans : pointer les choses intéressantes ou importantes sur le lieu et les personnages impliqués. Prendre en considération les objectifs de la scène tout en la créant. -->
 
-### Was ist eine Zielsetzung
+### Was ist eine Zielsetzung?
 
 Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin zu interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
@@ -213,21 +212,36 @@ No, and... You don’t get what you want, and things get worse.
 
 ### Geschlossene Fragen
 
-FU verwendet zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten.
+FU verwendet Fragen in geschlossener Form um zu entscheiden, wie eine Handlung ausgeht. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
-"Geb ich diesem Trottel eins auf die Nase?"
-"Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?"
-Closed Questions
-FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. *I'm HERE* When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
+Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: "Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!"
+
+<!-- Closed Questions
+FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
 A lot of the time you won’t need to ask the question explicitly - it will be ob- vious from the action you attempt; “you take a run up and leap from the edge of the chasm. Roll.”
 
 Questions fermées
 
 FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce que la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
 
-Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
+Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé." -->
 
-### Alternative Questions
+### Fragen-Alternativen
+
+Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre "Wie gut gelingt es mir?" Das könnte zu den folgenden Ereignissen führen:
+
+| Wurf | Wie gut gelingt es mir?                   |
+|:-----|:------------------------------------------|
+| 6    | Legendärer Erfolg                         |
+| 4    | Völliger Erfolg                           |
+| 2    | Gerade so geschafft                       |
+| 5    | Gerade so daneben                         |
+| 3    | Völliger Misserfolg                       |
+| 1    | Sagenhafter Misserfolg, und zwar richtig! |
+
+Ihr könnt euch gerne eigene Fragen und Antworten ausdenken, passend zu eurer Gruppe, eurem Spiel und eurer Geschichte.
+
+<!-- Alternative Questions
 You can pose di erent questions if you want, though you will have to change the result chart. An obvious question is “How well do I succeed?”  is might garner the following results;
 
 Roll How well do you succeed?
@@ -248,9 +262,12 @@ Vous pouvez poser une question différemment si vous voulez, mais il vous faudra
 | 3   | Échec total                      |
 | 1   | Échec absolu, et pire encore     |
 
-Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire.
+Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire. -->
 
-### Alternative Dice Rolls
+###
+*I'm HERE*
+
+Alternative Dice Rolls
 Some players are not fans of the even/odd results. Many prefer a 1-3 Bad, 4-6 Good result. In that case the result chart would look like this;
 
 Roll Do you get what you want?
