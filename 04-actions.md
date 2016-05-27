@@ -29,7 +29,7 @@ Le jeu est divisé en scènes et tours. Une scène est une moment de l'histoire 
 Pendant une scène les joueurs et le Narrateur décrivent ce que les personnages font. Les joueurs "jouent la comédie" pour interpréter leurs personnages, étant leur voix et leur corps, tandis que le Narrateur fait de même pour tous les autres personnages, les créatures et les monstres de la scène.
 -->
 
-Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, die lang genug ist, um jeder Figur genau eine Aktion zu erlauben, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder eine andere Aufgabe.
+Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, um jeder Figur genau eine Aktion zu erlauben, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder eine andere Aufgabe.
 
 Die Spielerinnen geben an, welche Handlungen ihre Figuren machen, während die Erzählerin entscheidet, was die anderen Figuren und Wesen tun. Nun entscheiden alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig beginnt danach eine neue.
 
@@ -58,7 +58,7 @@ Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in
 
 Ihr könnt zusammen über die Reihenfolge der Ereignisse diskutieren, was passiert, wo es passiert und wer drin vorkommt, bevor die Erzählerin die abschließende Entscheidung trifft.
 
-Manche Gruppen möchten auch jeder Spielerin einmal die Gelegenheit geben, eine Szene planen lassen, und auch das ist völlig in Ordnung.
+Manche Gruppen möchten auch jeder Spielerin einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
 
 
 <!-- Who “sets” the scene?
@@ -103,7 +103,7 @@ Un objectif peut être ce que le joueur ou le personnage veut. Les objectifs du 
 
 ### Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?
 
-Ihr könnt alle möglichen Szenentechniken aus Kurzgeschichten, Romanen und Filmen verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden, müsst ihr euch nicht davon einschränken lassen.
+Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, müsst ihr euch nicht davon einschränken lassen.
 
 <!-- Do scenes have to be in order?
 You can use all the techniques of sto- ries, novels and movies, which means  ashbacks and  ash forwards, parallel
@@ -132,11 +132,11 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 ## Ungerade Zahlen vermeiden
 
-Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht sofort ersichtlich oder nicht völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie die ungeraden Zahlen zu vermeiden versucht.
+Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht eindeutig klar oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
 
 Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.
 
-Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens sind gerade Zahlen gut und ungerade schlecht, aber die tatsächlichen Ergebnis hängen von der konkreten Situation ab. Es kann zum Beispiel sein, dass der Wurf einer 1 nicht unbedingt ein unerhörter Misserfolg ist, sondern eher der kleinstmögliche, schwächste Erfolg, den man sich vorstellen kann.
+Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens sind gerade Zahlen gut und ungerade schlecht, aber die tatsächlichen Ergebnisse hängen von der konkreten Situation ab. Es kann zum Beispiel sein, dass der Wurf einer 1 nicht unbedingt ein unerhörter Misserfolg ist, sondern eher der kleinstmögliche, schwächste Erfolg, den man sich vorstellen kann.
 
 <!-- Beating the odds
 When a character attempts an action where the
@@ -158,7 +158,7 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 
 > In diesem Kapitel folgen wir den Irrungen und Wirrungen zweier Figuren aus zwei unterschiedlichen Spielwelten.
 >
-> Sir Camden reitet dem bösen Lord Kane hinterher. Er sieht, wie Lord Kane über eine hoche Hecke springt und im dahinter liegenden Wald verschwindet. Sir Camden versucht nun, über die Hecke zu springen, also werft ihr einen W6 und es fällt eine 2. Sir Camdens Pferd überspringt die Hecke, aber Sir Camden selbst bekommt einen Stoß versetzt und ist kurzzeitig durcheinander.
+> Sir Camden reitet dem bösen Lord Kane hinterher. Er sieht, wie Lord Kane über eine hoche Hecke springt und im dahinter liegenden Wald verschwindet. Sir Camden versucht nun, ebenfalls über die Hecke zu springen, also werft ihr einen W6 und es fällt eine 2. Sir Camdens Pferd überspringt die Hecke, aber Sir Camden selbst bekommt einen Stoß versetzt und ist kurzzeitig durcheinander.
 >
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
@@ -306,7 +306,7 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 
 ## Erfolg & Misserfolg
 
-Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder nicht.  Normalerweise genügt das, um die Geschichte weiterzutreiben, doch es können auch andere Dinge passieren.
+Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder nicht.  Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: "Erreicht meine Figur was sie will?" Darauf gibt es sechs mögliche Antworten:
 
@@ -448,7 +448,7 @@ Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les �
 Wende Einzelheiten an, wenn die versuchte Handlung wahrscheinlich die Szene oder Umgebung irgendwie  ändern wird. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
 Einzelheiten werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Sie können jedoch sehr effektvoll genutzt werden, um Situationen unterhaltsamer und/oder gefährlicher zu machen: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
 
-Einzelheiten können sofortige oder dauerhafte Wirkung haben, abhängig von den Umständen. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+Einzelheiten können abhängig von den Umständen sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
 
 <!-- When should I use Details?
 Apply Details when the action is like- ly to change the scene or environment in some way.  This might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
@@ -473,56 +473,80 @@ Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction
 Manchmal werden Handlungen leichter oder schwerer durch äußere Umstände, Ausrüstung oder Fähigkeiten. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
 
 
-modifiers
+<!-- modifiers
 Sometimes circumstances, equipment and skill will
-make actions easier or harder. modi ers change the number of dice you get to roll when taking action.
+make actions easier or harder. modi ers change the number of dice you get to roll when taking action. -->
 
-*I'm HERE*
-Making Things Easier: Roll an additional die for each Descriptor, piece of Gear, Condition or De- tail that provides some advantage to the action being taken.  e result is the single best (not necessarily highest) die roll, as the player chooses.
+**Dinge einfacher nachen**: Wirf einen zusätzlichen Würfel für jeden Beschreiber, Ausrüstungsgegenstand, Zustand oder jede Einzelheit, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
+
+<!-- Making Things Easier: Roll an additional die for each Descriptor, piece of Gear, Condition or De- tail that provides some advantage to the action being taken.  e result is the single best (not necessarily highest) die roll, as the player chooses.
 
 Certaines circonstances, matériels et compétences peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous pourrez lancer.
 
-**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage pour l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
+**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage pour l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur. -->
 
-> In the woods, Sir Camden tries to track Lord Kane. You point out that the knight is a good hunter, so you get an extra d6. Rolling 2d6, you score a 5 and a 4. Keeping the 4 it is decided that a er a brief search Sir Camden  nds Lord Kane’s tracks and follows them to a sinister citadel...
+> Im Wald versucht Sir Camden, Lord Kane aufzuspüren. Du weist darauf hin, dass der Ritter ein **guter Jäger** ist, daher bekommst du einen weiteren W6. Du wirfst 2W6 und es fallen einen 5 und eine 4. Du nimmst die 4 und es wird entschieden, dass Sir Camden nach kurzer Suche die Spuren von Lord Kane findet und ihnen zu einer finsteren Zitadelle folgt...
+
+<!-- > In the woods, Sir Camden tries to track Lord Kane. You point out that the knight is a good hunter, so you get an extra d6. Rolling 2d6, you score a 5 and a 4. Keeping the 4 it is decided that a er a brief search Sir Camden  nds Lord Kane’s tracks and follows them to a sinister citadel...
 
 > Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et elle mène à une citadelle lugubre...
+-->
 
-Making Things Harder: Roll an extra die for each Descriptor, bit of Gear, Condition or Detail that makes the action harder.  e result is the single worst die roll.
+**Dinge schwieriger machen**: Wirf einen zusätzlichen Würfel für jeden Beschreiber, jedes Ausrüstungteil, jeden Zustand oder jede Einzelheit, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
+
+> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. "Gelangt Vance unverletzt zun Geländewagen?" Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt**...
+
+<!-- Making Things Harder: Roll an extra die for each Descriptor, bit of Gear, Condition or Detail that makes the action harder.  e result is the single worst die roll.
 
 > Captain Vance decides to run to a near-by jeep.  e Narrator points out there is no cover between Vance’s hiding spot and the vehicle. “Does Vance get to the jeep uninjured?” You roll 2d6, scoring a 3 and a 5. You must accept the 3 and Captain Vance is injured as he reaches the jeep...
 
 **Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
 
-> Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep.
+> Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep. -->
 
-Cancelling Out: one bene cial die cancels out one hindering die, so you will never be rolling ‘nega- tive’ and ‘positive’ dice at the same time.
+**Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie "negative" und "positive" Würfel gleichzeitig wirfst.
+
+> Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
+
+<!-- Cancelling Out: one bene cial die cancels out one hindering die, so you will never be rolling ‘nega- tive’ and ‘positive’ dice at the same time.
 
 Later in his quest, Sir Camden must scale a sheer (-) cli .  e knight is strong (+) and has a rope (+). Overall, this means a single bonus to the action (the sheer cli  and the knight’s strength cancel each other out, just leaving the rope). You roll 2d6, scoring a 3 and 6.
 
 **Annulation des effets** : Un dé de bénéfice annule un dé de malus, aussi vous ne lancerez jamais un dé "négatif" et un "positif" au même moment.
 
-> Plus tard dans sa quête, Sire Camden doit escalader une paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6.
+> Plus tard dans sa quête, Sire Camden doit escalader une paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6. -->
 
 -----
 
-### Example of Modifiers
+### Beispiel-Modifikatoren
+
+Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinaus zu ziehen. "Kann Vance die Wache abschütteln?" Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3 und du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu befördern.
+
+<!-- Example of Modifiers
 Captain Vance hurtles along in the jeep, when a guard tries to drag him out through the window. “Will Vance shake the guard o ?” It is hard (+) to drag Vance out the window, but he is wounded (-) and surprised (-), and the attacker is very strong (-). In total you must roll 2 penalty dice. You roll 3d6 scoring a 2, 4 and 3, and must take the worst result, the 3.  e guard wrestles Vance out of the jeep.
 
 Exemples de modificateurs
 
-Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un garde essaie de l'attraper et le faire passer par la fenêtre. "Est-ce que Vance saura se débarrasser du garde ?". Il est **difficile** (+) d'extraire Vance du véhicule, mais il est **blessé** (-) et **surpris** (-), et l'attaquant est **très fort** (-). Au total il vous faudra lancer deux dés négatifs. Vous lancez 3d6 avec un score de 2, 4 et 3, et il faudra retenir le pire résultat, soit le 3. Le garde arrive à sortir Vance de la jeep.
+Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un garde essaie de l'attraper et le faire passer par la fenêtre. "Est-ce que Vance saura se débarrasser du garde ?". Il est **difficile** (+) d'extraire Vance du véhicule, mais il est **blessé** (-) et **surpris** (-), et l'attaquant est **très fort** (-). Au total il vous faudra lancer deux dés négatifs. Vous lancez 3d6 avec un score de 2, 4 et 3, et il faudra retenir le pire résultat, soit le 3. Le garde arrive à sortir Vance de la jeep. -->
 
-### Other types of rolls?
+### Andere Wurf-Arten?
+
+Bei FU gibt es keine "Gegenwürfe" oder "Wettstreit-Aktionen", "Schadenswürfe" und "Trefferwürfe". Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.
+
+<!-- Other types of rolls?
 FU has no such thing as ‘opposed rolls’ or ‘contested actions’, ‘damage rolls’ and ‘rolling to hit’.  e beat the odds roll is the only kind of roll used in FU, whether you are trying to drive a car through a crowded mall, arm wrestle a giant, or shrug o  the damage caused by a stray bullet.
 
 Pour les autres types de jets de dés ?
 
-Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue.
+Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue. -->
 
 
-### How do “opposed” actions work?
-For a start, only players ever roll dice. You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
+### Wie funktionieren "Gegenaktionen"?
+
+Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln.
+
+How do “opposed” actions work?
+For a start, only players ever roll dice. *I'm HERE* You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
 roll too. Is the opponent weak? You get a bonus die. Is the opponent a world champion arm wrestler? You factor in a penalty die. And so on, until every- thing is factored in. When you know how many bonus and/or penalty dice you have, roll. If the result is an even number, you win the contest; if the  nal result is an odd number, your opponent has the advantage.
 
 Comment est-ce que les actions "en opposition" fonctionnent ?
