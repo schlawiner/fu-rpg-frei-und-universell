@@ -1,15 +1,15 @@
 # Die Grundlagen
 
-Der Text von FU geht davon aus, dass wenigstens eine der Spielerinnen schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat!
+Der Text von FU geht davon aus, dass wenigstens eine der Spielerinnen schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat.
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
 
 FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de ce qu'est le jeu de rôle et a au moins une vague idée de comment il fonctionne. Si vous n'avez aucune idée de ce qu'est un JdR, foncez trouver quelqu'un qui connaît. -->
 
 ## Was ihr braucht
-Vor dem Spielen von FU solltet ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
+Vor dem Spielen solltet ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
-**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede Spielerin etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen sollt.
+**Würfel**: Um Aktionen auszuwerten, verwendet ihr bei FU klassische Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser wäre es, wenn jede Spielerin etwa drei Stück hat. Im Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen müsst.
 
 **Stifte und Papier**: Die Spielerinnen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Die Erzählerin braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
@@ -41,7 +41,7 @@ Deine Freunde und du arbeitet zusammen, um eine dramatische und aufregende Gesch
 
 Die meisten Spielerinnen erschaffen wahrscheinlich eine Figur, die eine Hauptrolle spielt - eine der coolen Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist Erzählerin, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen das letzte Wort zu haben, wenn das nötig sein sollte.
 
-Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht, und schaut, wie es ausgeht.
+Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu bringen. Dann verwendet ihr die Würfel, um herauszufinden, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.
 
 <!--
 ## What you do
@@ -55,7 +55,7 @@ play is a kind of conversation, where everyone works together to put the charact
 Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire à péripéties. Vous devrez concevoir des éléments de l'univers initial, et tout le monde aura sa chance pour poser son empreinte sur ce monde. La plupart des joueurs créeront un personnage qui fera partie des principaux protagonistes, ceux qui doivent "faire le taf". Chaque personnage a ses forces, ses faiblesses ou ses motivations qui vous aideront à incarner ce rôle. Un joueur sera le Narrateur, qui gère l'ensemble, présente les défis à surmonter pour les personnages, et applique les règles si nécessaire. Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour mettre les personnages dans des situations sympathiques ou amusantes. Ensuite, il faudra utiliser les dés pour savoir ce qui les attend. Parfois vous devrez travailler ensemble, lançant des idées à la ronde, suggérant et surenchérissant à qui mieux-mieux. C'est le chaos, mais avec de la chance, un chaos productif, et amusant. À d'autres moments vous devrez vous exprimer chacun votre tour pour décrire ce que fait votre personnage et constater le résultat de ses actes.-->
 
 ## Wie ihr's macht
-Wenn du etwas tust und das Ergebnis nicht eindeutig ist, wirf einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden<!--[^1]-->, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände, oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
+Wenn du etwas tust und das Ergebnis nicht eindeutig ist, wirf einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden<!--[^1]-->, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 <!--## How you do it
 To resolve any action where the outcome is not
@@ -68,7 +68,7 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 
 ## Vor dem Losspielen
 Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu gestalten und zeigt der Erzählerin, welche Rolle sie übernimmt.
-Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein schon vorgefertigtes Spielwelt-Modul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
+Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein schon vorgefertigtes Spielweltmodul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
 
 <!--## Before play
 Before anything else, you and your friends must
@@ -108,7 +108,7 @@ Cette discussion peut amener des éléments au Narrateur sur ce que veulent les 
 
 ### Der Sofort-Genre-Generator {.unnumbered}
 
-Für schnelle Spiele zum sofortigen Loslegen sollen alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel schreiben und in einen Hut werfen. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
+Für schnelle Spiele zum sofortigen Loslegen schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 </div>
 
