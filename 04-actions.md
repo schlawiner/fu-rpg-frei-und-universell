@@ -10,7 +10,7 @@ Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une his
 
 ## Szenen und Runden
 
-Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in der es um eine bestimmte Situation, einen Ort oder Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebige Zeiträume zwischen wenigen Sekunden und vielen Stunden darstellen. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet worden ist. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschrieben Ereignisse farbig ausschmücken. Viele Szenen tun dies alles sogar gleichzeitig.
+Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in der es um eine bestimmte Situation, einen Ort oder Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebige Zeiträume zwischen wenigen Sekunden und vielen Stunden darstellen. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun dies alles sogar gleichzeitig.
 
 Während der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen "spielen" ihre Figuren, sprechen für sie und geben an, wie sie handeln, während die Erzählerin dasselbe für alle anderen Figuren, Wesen und Monstren tut, die in der Szene vorkommen.  
 
@@ -31,7 +31,7 @@ Pendant une scène les joueurs et le Narrateur décrivent ce que les personnages
 
 Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, um jeder Figur genau eine Aktion zu erlauben, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder eine andere Aufgabe.
 
-Die Spielerinnen geben an, welche Handlungen ihre Figuren machen, während die Erzählerin entscheidet, was die anderen Figuren und Wesen tun. Nun entscheiden alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig beginnt danach eine neue.
+Die Spielerinnen geben an, welche Handlungen ihre Figuren machen, während die Erzählerin entscheidet, was die anderen Figuren und Wesen tun. Nun entscheiden alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
 Es sollte gesagt werden, dass nur die Spielerinnen würfeln. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste aufregende Gefecht vorzubereiten.
 
@@ -74,7 +74,7 @@ Certains groupes de joueurs peuvent "poser" une scène à tour de rôle, et c'es
 
 ### Wie plant man eine Szene?
 
-Die Szene planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, und was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wer und Was.
+Die Szene planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, und was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
 Beziehe beim Beschreiben der Szene alle Sinne mit ein und weise auf interessante oder wichtige Einzelheiten zum Handlungsort und allen anwesenden Figuren hin. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
 
@@ -92,7 +92,7 @@ En décrivant une scène il faut la dépeindre dans tous les plans : pointer les
 
 ### Was ist eine Zielsetzung?
 
-Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin zu interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
+Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
 <!-- What is an objective?
 An objective can be anything that a player or character wants. Character objectives might include nding a piece of information, defeating an enemy, talking to someone, travelling a small or great distance, preparing for battle, con- ning a mark, or stealing an object. Play- er objectives could include seeing their character in a cool  ght, solving the mystery, revealing a secret about their character, or interacting with a speci c character or player. O en, player and character goals overlap.
@@ -115,7 +115,7 @@ Vous pouvez utiliser toutes les techniques du conte, des romans ou des films, ce
 
 ### Muss ich Runden benutzen?
 
-Runden sind eine optional Möglichkeit der Zeitmessung, die nützlich ist, wenn mehrere Figuren verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu zu ordnen und einzuteilen. Einige Szenen werden sich fast wie von allein in Runden einteilen, andere wiederum enden, ohne dass Runden überhaupt nötig oder in Betracht gezogen werden (ihr werdet gar nicht an Runden denken).
+Runden sind eine optionale Möglichkeit der Zeitmessung, die nützlich ist, wenn mehrere Figuren verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Einige Szenen werden sich fast wie von allein in Runden einteilen, andere wiederum enden, ohne dass Runden überhaupt nötig oder in Betracht gezogen werden (ihr werdet gar nicht an Runden denken).
 
 <!-- Do I have to use turns?
 Turns are an optional measurement of time, useful for when a variety of stu  is being attempted by several charac- ters. Use them to organise the action as needed. Some scenes will naturally fall into turns, while others will be resolved without ever considering them.
@@ -158,7 +158,7 @@ Le fait de devoir vaincre les probabilités est au coeur de FU. Mais si la plupa
 
 > In diesem Kapitel folgen wir den Irrungen und Wirrungen zweier Figuren aus zwei unterschiedlichen Spielwelten.
 >
-> Sir Camden reitet dem bösen Lord Kane hinterher. Er sieht, wie Lord Kane über eine hoche Hecke springt und im dahinter liegenden Wald verschwindet. Sir Camden versucht nun, ebenfalls über die Hecke zu springen, also werft ihr einen W6 und es fällt eine 2. Sir Camdens Pferd überspringt die Hecke, aber Sir Camden selbst bekommt einen Stoß versetzt und ist kurzzeitig durcheinander.
+> Sir Camden reitet dem bösen Lord Kane hinterher. Er sieht, wie Lord Kane über eine hohe Hecke springt und im dahinter liegenden Wald verschwindet. Sir Camden versucht nun, über die Hecke zu springen, also werft ihr einen W6 und es fällt eine 2. Sir Camdens Pferd überspringt die Hecke, aber Sir Camden selbst bekommt einen Stoß versetzt und ist kurzzeitig durcheinander.
 >
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
@@ -175,12 +175,12 @@ Captain Vance ducks as another hail of bullets peppers the wall he is hiding beh
 
 | Wurf | Bekommst du, was du willst?                                                            |
 |:-----|:---------------------------------------------------------------------------------------|
-| 6    | **Ja, und...** Du bekommst, was du willst, und noch etwas mehr.                        |
-| 4    | **Ja...** Du bekommst, was du willst.                                                  |
-| 2    | **Ja, aber...** Du bekommst, was du willst, aber es hat einen Preis.                   |
-| 5    | **Nein, aber...** Du bekommst nicht, was du willst, aber es ist kein völliger Verlust. |
-| 3    | **Nein...** Du bekommst nicht, was du willst.                                          |
-| 1    | **Nein, und...** Du bekommst nicht, was du willst, und es wird noch schlimmer.|
+| 6    | **Ja, und ...** Du bekommst, was du willst, und noch etwas mehr.                        |
+| 4    | **Ja ...** Du bekommst, was du willst.                                                  |
+| 2    | **Ja, aber ...** Du bekommst, was du willst, aber es hat einen Preis.                   |
+| 5    | **Nein, aber ...** Du bekommst nicht, was du willst, aber es ist kein völliger Verlust. |
+| 3    | **Nein ...** Du bekommst nicht, was du willst.                                          |
+| 1    | **Nein, und ...** Du bekommst nicht, was du willst, und es wird noch schlimmer.         |
 
 <!--
 Roll
@@ -211,7 +211,7 @@ No, and... You don’t get what you want, and things get worse.
 
 ### Geschlossene Fragen
 
-FU verwendet Fragen in geschlossener Form, um zu entscheiden, wie eine Handlung ausgeht. Eine geschlossene Frage kann man nur mit "Ja"- oder "Nein"-Aussagen beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
+FU verwendet zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja" oder "Nein" beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
 Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: "Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!"
 

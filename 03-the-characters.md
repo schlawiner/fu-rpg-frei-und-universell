@@ -12,11 +12,11 @@ In FU a character is your alter-ego. During a story you describe what the charac
 
 ## Konzept
 
-Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr "Konzept". Dies ist der Kern deiner Figur; es beschreibt was sie ausmacht und wer sie ist und lässt sich in wenigen Wörtern oder einem kurzen Satz zusammenfassen.  
+Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr "Konzept". Dies ist der Kern deiner Figur; es beschreibt, was sie ausmacht und wer sie ist und lässt sich in wenigen Wörtern oder einem kurzen Satz zusammenfassen.  
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie "Paranormaler Ermittler" oder "Wunderkind". Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie "Edler Wilder" oder "Verrückter Professor".  
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein "Gewiefter Bulle" passt vielleicht nicht ganz ins mittalterliche England, aber ein "Weltgewandter Sheriff" könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
-> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen "Pulp"-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur "Tollkühner Entdecker". Nina möchte jemand ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine "Außerirdische Botschafterin".
+> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen "Pulp"-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur "Tollkühner Entdecker". Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine "Außerirdische Botschafterin".
 
 <!-- (Concept)
 
@@ -36,16 +36,16 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 ## Beschreiber
 
-Beschreiber sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwachstellen einer Figur kennzeichnen; Dinge, die ihnen das Leben erleichtern oder schwer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
+Beschreiber sind Adjektive oder kurze Sätze, welche die Fähigkeiten und Schwachstellen einer Figur kennzeichnen; Dinge, die ihnen das Leben erleichtern oder erschweren, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
 
 Figuren haben vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
-> David überlegt sich, was für Sachen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
+> David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
 > **Körper** : Agil  
 > **Geist**: Besonnen  
 > **Stärke**: Geschickt mit der Bullenpeitsche  
-> **Schwäche** : Höhenangst
+> **Schwäche**: Höhenangst
 
 > Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
 >
@@ -185,7 +185,7 @@ Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne pe
 
 #### Die Reichweite von Beschreibern ist begrenzt {.unnumbered}
 
-Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das erfahrt ihr erst während des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn letzteres kann auch in verschiedenen nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend..."*).
+Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das erfahrt ihr erst während des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn Letzteres kann auch in verschiedenen nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend ..."*).
 
 <!-- Descriptors are finite
 Each Descriptor should have one or two obvious uses or a speci c purpose. It might also be applicable in a range of other unforeseen circumstances, but you will  nd that out in play. Medicine is better than Doctor, for example, as the latter could be used in a variety of non-medical situations (“As a Doctor, I am well educated and quite wealthy...”).
@@ -206,7 +206,7 @@ Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **B
 
 #### Was sind gute Stärken und Schwächen? {.unnumbered}
 
-Dinge, die in anderen Spielen "Fertigkeiten" oder "Talente" heissen, eignen sich super als Stärken. Gute Beispiele sind **"Schwertkampf"**, **"unter Wasser atmen"** und **"gewinnendes Lächeln"**.
+Dinge, die in anderen Spielen "Fertigkeiten" oder "Talente" heißen, eignen sich super als Stärken. Gute Beispiele sind **"Schwertkampf"**, **"unter Wasser atmen"** und **"gewinnendes Lächeln"**.
 Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie "riecht immer schlecht" oder "taub" sind bessere Schwächen als **"kann nicht Fahren"** oder **"kann kein Französisch"**. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche **"kann nicht schwimmen"** in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur vor Herausforderungen zu stellen, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.
 
 
@@ -239,7 +239,7 @@ Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme 
 
 #### Beschreiber-Alternativen {.unnumbered}
 
-Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an euere Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen einige der hier genannten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.
+Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen einige der hier genannten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.
 
 <!-- Alternative Descriptors
  e four default Descriptors (Body, Mind, Edge & Flaw) are not the only way to de ne your characters. Change or replace them to suit your game, set- ting and stories. In a game about giant mecha you might replace Body and Mind with Chassis and Pilot, for ex- ample. In a game where everyone plays di erent types of were-creatures one Descriptor might become Animal Form. In these cases some of the advice in this sidebar might also need to be adjusted; Animal Form: Jaguar is broader than the Descriptors discussed here, but is to- tally appropriate to capture the ideas of your game. Use your imagination and modify things as needed!
@@ -256,11 +256,11 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 ## Ausrüstung
 
-Ausrüstung ist das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
+Ausrüstung sind das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
-Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* setzt sich ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv zusammen: Rostiges Schwert, Langes Seil, Schnelles Pferd, Weitschuss-Gewehr, Papas Camaro, Schwere Rüstung.
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* setzt sich ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv zusammen: Rostiges Schwert, Langes Seil, Schnelles Pferd, Gewehr, Papas Camaro, Schwere Rüstung.
 
-Deine Figur hat genau zwei Ausrüstungsgegenstände. Such' dir zwei Teile für deine Figur aus.
+Deine Figur hat genau zwei Ausrüstungsgegenstände, such' dir zwei Teile aus.
 
 <!-- Gear is the equipment, gadgets, and weapons that
 a character will use on their adventures. All characters have the basic clothes or items that are appropriate to their concept. Gear is the important and cool stu  that a character carries.  
@@ -276,7 +276,7 @@ Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'
 Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage. -->
 
 > David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgenutzte Lederjacke**, mit der er sich vor der Kälte und auch ein wenig vor Kratzern und Stürzen schützen kann.  
-Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **Offizielle Dokumente** die ihren politischen Status belegen, und für **Exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
+Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **Offizielle Dokumente**, die ihren politischen Status belegen, und für **Exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
 
 <!-- Dave decides his Daredevil Explorer to have a Sturdy Bull Whip, since he is quite skilled with it, and a Worn Leather Jacket to keep out the cold and o er a little protection from scrapes and falls.
 Nina thinks about her Alien Emissary before deciding on some O cial Documents that indi- cating her political status, and some Exotic Robes, designed to impress and inspire awe.
@@ -289,22 +289,21 @@ Nina thinks about her Alien Emissary before deciding on some O cial Documents th
 
 Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.
 
-
 <!--like the example Descriptors, this list is not in any
 way exhaustive. It barely scratches the surface of what your character might possess.-->
 
 **Kleider**:
-Designer-Jeans, Hautenges schwarzes Kleid (lassen wir "schwarzes Kleid" mal als Substantiv gelten), Dreckige Unterhosen, Abgetragene Jacke, Supermoderner Raumanzug, Seidener Herrenmorgenmantel, Verbeulter Filzhut, Hohe Puderperücke.
+Designer-Jeans, Hautenges schwarzes Kleid (lassen wir "schwarzes Kleid" mal als Substantiv gelten), Dreckige Unterhosen, Abgetragene Jacke, Supermoderner Raumanzug, Seidener Hausrock, Verbeulter Filzhut, Hohe Puderperücke.
 
 <!-- Clothes: Designer Jeans, Slinky Black Dress (let’s count “black dress” as the noun), Filthy Un- derpants, Worn Jacket, State-of-the-art Space Suit, Silk Smoking Jacket, Beat-up Fedora, Tall Powdered Wig. -->
 
 **Waffen**:
-Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.
+Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Revolverattrappe, Zuverlässige AK-47, Gummihammer.
 
 <!-- Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet. -->
 
 **Fortbewegung**:
-Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownschuhe, Getunter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
+Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
 
 <!-- Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about. -->
 
@@ -355,7 +354,7 @@ Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cyb
 
 ### Ausrüstung beschreiben
 
-Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas nützliches und/oder interessantes über den Gegenstand aussagen. Ein Langer Dolch ist ganz gut, aber ein Zerbrochener Dolch ist besser!
+Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein Langer Dolch ist ganz gut, aber ein Zerbrochener Dolch ist besser!
 
 <!-- Describing Gear
 When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!   -->
@@ -392,7 +391,7 @@ Un nom spécifique
 Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible. -->
 
 ### Sprich über deine Ausrüstung
-Diskutiere mit der Gruppe über deine Ausrüstung. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist, und wobei sie eher hinderlich sein kann.
+Diskutiere mit der Gruppe über deine Ausrüstung. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.
 
 Ausrüstung ist nie von Haus aus "gut" oder "schlecht". Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du dich befindest.
 
@@ -409,7 +408,7 @@ Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en
 
 ### Gute Ausrüstung und schlechte Ausrüstung
 
-Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein "gutes" Adjektiv, und der andere ein "schlechtes" haben muss. Vielleicht hast du eine "Warme Jacke" und eine "Alte Kanone", oder ein "Schnelles Motorrad" und eine "Überzogene Kreditkarte".
+Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein "gutes" Adjektiv, und der andere ein "schlechtes" haben muss. Vielleicht hast du eine "Warme Jacke" und eine "Alte Kanone" oder ein "Schnelles Motorrad" und eine "Überzogene Kreditkarte".
 
 <!-- Good Gear / Bad Gear
 You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card. -->
@@ -449,7 +448,7 @@ interesting. -->
 
 > David macht sich ein paar Notizen zu seinem  Tollkühnen Entdecker:
 >
-> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  THP: Meine Übersetzung im Abenteuerkapitel könnte abweichen, entscheide einfach du, welche Übersetzung greifen soll.
 
 > Ninas Beschreibung ihrer Ausserirdischen Botschafterin ist folgendermaßen:  
 >
@@ -471,7 +470,7 @@ Lumina is an important diplomat from the planet Jupiter, which is ruled by the D
 
 ## Motive
 
-Jede Figur hat einen Antrieb - ein Ziel das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
+Jede Figur hat einen Antrieb - ein Ziel, das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
 
 <!-- Drives
 every character has a purpose - a goal they are striv-
@@ -480,7 +479,7 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 **Was willst du erreichen?** Was wünschst du dir, was treibt dich an?
 <!-- **What do you want?** What is it that you desire, the thing that drives you to action? -->
 
-**Was hindert dich daran?** Welches Hindernis, welcher Gegner steht zwischen dir und dem was du willst?
+**Was hindert dich daran?** Welches Hindernis, welcher Gegner steht zwischen dir und dem, was du willst?
 
 <!-- **What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?   -->
 
@@ -489,7 +488,7 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 <!-- **What will you do?** What is the next step to get what you want? What are you willing to do to succeed? -->
 
 
-> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiss begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith unbedingt erfolgreich sein und ist bereit, fast alles zu tun, um an den Götzen zu gelangen - doch töten würde er dafür nie.
+> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith unbedingt erfolgreich sein und ist bereit, fast alles zu tun, um an den Götzen zu gelangen - doch töten würde er dafür nie.
 <!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
 >
 > Lumina strebt nach Freiheit für alle Jupiter-Völker. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum wahrzumachen.
@@ -540,7 +539,7 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
-Nutze deine Motive und Beziehungen als Leitlinie, wie du deine Rolle spielst, und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
+Nutze deine Motive und Beziehungen als Leitlinie, wie du deine Rolle spielst und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
 
 <!-- It’s all about roleplaying now
 Your Description, Drives and Re- lationships all help develop your char- acter and put them into the “world” of your stories and adventures.  e Narra- tor might occasionally give you a bonus to dice rolls because of the information you reveal here, but that is by no means required.  
@@ -556,7 +555,7 @@ Utilisez vos Motivations et vos Relations pour donner des indications concernant
 
 ### Langfristige oder kurzfristige Ziele?
 
-Wenn du dein Motiv wählst, kannst du frei zwischen lang- und kurzfristigen Zielen entscheiden. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, das länger braucht.
+Wenn du dein Motiv wählst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, dessen Erreichung länger braucht.
 
 <!-- Long or short term goals?
 When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character. -->
@@ -568,7 +567,7 @@ Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du
 
 ### Wie viele Beziehungen?
 
-Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst mit einer Mitspielerin zusammen arbeiten, um die Beziehung zwischen euren Figuren festzulegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben, oder "gegenläufige" Beziehungen (zum Beispiel: "Verliebt in"/"Angewidert von").
+Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst mit einer Mitspielerin zusammenarbeiten, um die Beziehung zwischen euren Figuren festzulegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben, oder "gegenläufige" Beziehungen (zum Beispiel: "Verliebt in"/"Angewidert von").
 
 <!-- How many Relationships?
 Two is a good number of Relation- ships to begin with. Pick two di erent characters and decide how they know each other. You and another player can
@@ -649,7 +648,7 @@ Choisissez deux items, en les décrivant avec un adjectif et un nom (ex : Sabre 
 
 ### 4. Beschreibung {.unnumbered}
 
-Wie sieht deine Figur aus? Wie heisst sie? Wo kommt sie her? Was ist an ihr interessant und besonders?
+Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist an ihr interessant und besonders?
 
 <!-- 4 Description
 
