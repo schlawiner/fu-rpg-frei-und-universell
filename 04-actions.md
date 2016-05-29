@@ -52,14 +52,13 @@ Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse
 
 \columnsbegin
 
-### Wer plant Szenen (bereitet vor)/legt Szenen fest
+### Wer plant Szenen?
 
+Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet die Erzählerin, welche Szenen passieren und in welcher Reihenfolge sie stattfinden.
 
-Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder an denen sie beteiligt sein wollen, doch meistens entscheidet die Erzählerin, welche Szenen passieren und in welcher Reihenfolge sie stattfinden.
+Ihr könnt zusammen über die Reihenfolge der Ereignisse diskutieren, was passiert, wo es passiert und wer drin vorkommt, bevor die Erzählerin die abschließende Entscheidung trifft.
 
-Ihr könnt zusammen über die Reihenfolge der Ereignisse diskutieren, was passiert, wo es passiert und wer drin vorkommt, bevor die Erzählerin über diese Dinge das letzte Wort hat (die abschließende Entscheidung trifft).
-
-Manche Gruppen geben gerne allen mal die Gelegenheit (jede mal zum Zug kommen lassen), eine Szene zu planen, und auch das ist völlig in Ordnung.
+Manche Gruppen möchten auch jeder Spielerin einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
 
 
 <!-- Who “sets” the scene?
@@ -73,7 +72,7 @@ Les joueurs peuvent suggérer les scènes qu'ils voudraient jouer ou dans lesque
 
 Certains groupes de joueurs peuvent "poser" une scène à tour de rôle, et c'est totalement toléré. -->
 
-### Wie plant man eine Szene
+### Wie plant man eine Szene?
 
 Die Szene planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, und was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
@@ -91,7 +90,7 @@ Poser une scène signifie définir où et quand l'action se déroule, qui est pr
 
 En décrivant une scène il faut la dépeindre dans tous les plans : pointer les choses intéressantes ou importantes sur le lieu et les personnages impliqués. Prendre en considération les objectifs de la scène tout en la créant. -->
 
-### Was ist eine Zielsetzung
+### Was ist eine Zielsetzung?
 
 Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
@@ -104,7 +103,7 @@ Un objectif peut être ce que le joueur ou le personnage veut. Les objectifs du 
 
 ### Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?
 
-Ihr könnt alle möglichen Szenentechniken aus Kurzgeschichten, Romanen und Filmen verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden, müsst ihr euch nicht davon einschränken lassen.
+Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, müsst ihr euch nicht davon einschränken lassen.
 
 <!-- Do scenes have to be in order?
 You can use all the techniques of sto- ries, novels and movies, which means  ashbacks and  ash forwards, parallel
@@ -133,11 +132,11 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 ## Ungerade Zahlen vermeiden
 
-Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht sofort ersichtlich oder nicht völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie die ungeraden Zahlen zu vermeiden versucht.
+Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht eindeutig klar oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
 
 Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.
 
-Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens sind gerade Zahlen gut und ungerade schlecht, aber die tatsächlichen Ergebnis hängen von der konkreten Situation ab. Es kann zum Beispiel sein, dass der Wurf einer 1 nicht unbedingt ein unerhörter Misserfolg ist, sondern eher der kleinstmögliche, schwächste Erfolg, den man sich vorstellen kann.
+Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens sind gerade Zahlen gut und ungerade schlecht, aber die tatsächlichen Ergebnisse hängen von der konkreten Situation ab. Es kann zum Beispiel sein, dass der Wurf einer 1 nicht unbedingt ein unerhörter Misserfolg ist, sondern eher der kleinstmögliche, schwächste Erfolg, den man sich vorstellen kann.
 
 <!-- Beating the odds
 When a character attempts an action where the
@@ -183,7 +182,8 @@ Captain Vance ducks as another hail of bullets peppers the wall he is hiding beh
 | 3    | **Nein ...** Du bekommst nicht, was du willst.                                          |
 | 1    | **Nein, und ...** Du bekommst nicht, was du willst, und es wird noch schlimmer.         |
 
-<!-- Roll
+<!--
+Roll
 6
 4
 2
@@ -205,30 +205,42 @@ No, and... You don’t get what you want, and things get worse.
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                           |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.       |
 | 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                               |
-| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | --> |
+| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | -->
 
 ----
 
-
-
 ### Geschlossene Fragen
 
-FU verwendet zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja" oder "Nein" beantworten.
+FU verwendet zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja" oder "Nein" beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
-"Geb ich diesem Trottel eins auf die Nase?"
-"Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?"
+Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: "Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!"
 
-Closed Questions
-FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. *I'm HERE* When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
+<!-- Closed Questions
+FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
 A lot of the time you won’t need to ask the question explicitly - it will be ob- vious from the action you attempt; “you take a run up and leap from the edge of the chasm. Roll.”
 
 Questions fermées
 
 FU utilise des questions à choix multiples pour aider à résoudre une action. On ne répond à une question fermée que par un "oui" ou un "non". Quand vous atteignez une situation qui doit être résolue par un jet de dés, proposez une question fermée : "Est-ce que je saute au-dessus du gouffre ?", "Est-ce que je cogne cet imbécile sur le nez ?", "Est-ce que la jolie serveuse de la taverne va succomber à mon charme et mon sourire ?". Le jet de dé donnera la réponse à la question et vous guidera.
 
-Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé."
+Souvent vous n'aurez pas besoin de poser la question de manière explicite - elle apparaîtra évidente en fonction de l'action tentée : "tu prends ton élan et tu sautes depuis le rebord du gouffre. Lance le dé." -->
 
-### Alternative Questions
+### Fragen-Alternativen
+
+Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre "Wie gut gelingt es mir?" Das könnte zu den folgenden Ereignissen führen:
+
+| Wurf | Wie gut gelingt es mir?                   |
+|:-----|:------------------------------------------|
+| 6    | Legendärer Erfolg                         |
+| 4    | Völliger Erfolg                           |
+| 2    | Gerade so geschafft                       |
+| 5    | Gerade so daneben                         |
+| 3    | Völliger Misserfolg                       |
+| 1    | Sagenhafter Misserfolg, und zwar richtig! |
+
+Ihr könnt euch gerne eigene Fragen und Antworten ausdenken, passend zu eurer Gruppe, eurem Spiel und eurer Geschichte.
+
+<!-- Alternative Questions
 You can pose di erent questions if you want, though you will have to change the result chart. An obvious question is “How well do I succeed?”  is might garner the following results;
 
 Roll How well do you succeed?
@@ -249,9 +261,23 @@ Vous pouvez poser une question différemment si vous voulez, mais il vous faudra
 | 3   | Échec total                      |
 | 1   | Échec absolu, et pire encore     |
 
-Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire.
+Libre à vous de composer vos propres questions et réponses, en fonction des besoins de votre groupe, du jeu et de l'histoire. -->
 
-### Alternative Dice Rolls
+### Würfelergebnis-Alternativen
+
+Manche Spieler sind keine Freunde der geraden/ungeraden Ergebnisse. Viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
+
+| Wurf | Bekommst du, was du willst?                                                            |
+|:-----|:---------------------------------------------------------------------------------------|
+| 6    | Ja, und...                        |
+| 5    | Ja...                                             |
+| 4    | Ja, aber...|
+| 3    | Nein, aber...|
+| 2    | Nein...|
+| 1    | Nein, und...         |
+
+
+<!-- Alternative Dice Rolls
 Some players are not fans of the even/odd results. Many prefer a 1-3 Bad, 4-6 Good result. In that case the result chart would look like this;
 
 Roll Do you get what you want?
@@ -274,10 +300,29 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 | 3   | Non, mais...                      |
 | 2   | Non...                            |
 | 1   | Non, et...                        |
+ -->
 
 ----
 
-## Success & Failure
+## Erfolg & Misserfolg
+
+Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder nicht.  Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.
+
+Wenn du eine Handlung versuchst, stellst du die Frage: "Erreicht meine Figur was sie will?" Darauf gibt es sechs mögliche Antworten:
+
+> Ja, und...
+>
+> Ja...
+>
+> Ja, aber...
+>
+> Nein, aber...
+>
+> Nein...
+>
+> Nein, und...
+
+<!-- Success & Failure
 When you make a beat the odds roll your character
 will either succeed at what they were attempting, or they wont.  is is usually enough to push your story further along, but other things can happen too.
 When you attempt an action, you are asking “Does my character get what they want?”  ere are six pos- sible answers to this question;
@@ -302,11 +347,17 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 >
 > Non...
 >
-> Non, et...
+> Non, et... -->
 
-Yes and No are pretty straight forward - they tell you whether the action succeeded or not.  e and and but are quali ers that modify how good the success or how bad the failure was. When you get a quali er you make an extra statement about how the action succeeded or failed.  is extra statement can add a Condition to a character or a Detail to a scene.
+*Ja* und *Nein* sind einfach zu verstehen - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner für die Stärke des Erfolgs oder Misserfolgs. Wenn du eine solche Einschränkung wirfst, machst du eine zusätzliche Aussage darüber, auf welche Weise die Handlung erfolgreich oder nicht war. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder eine Einzelheit zu einer Szene hinzufügen.
+<!--
+Yes and No are pretty straight forward - they tell you whether the action succeeded or not.  e and and but are quali ers that modify how good the success or how bad the failure was. When you get a quali er you make an extra statement about how the action succeeded or failed.  is extra statement can add a Condition to a character or a Detail to a scene. -->
 
-Conditions:  ese are physical, mental or social e ects that impact on the way a character behaves or attempts actions. Conditions include things like an- gry, confused, tired and unconscious.  ere are several listed on the FU character sheet, and there is space for you to write your own.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewußtlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch Platz, damit ihr selbst eigene hinzufügen könnt.
+
+**Einzelheiten**: Dies sind Merkmale der Umgebung oder Szene, die sich durch das Ergebnis einer Handlung verändern können. Einzelheiten können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Einzelheiten sind immer eng verknüpft mit der Szene und der versuchten Handlung.
+
+<!-- Conditions:  ese are physical, mental or social e ects that impact on the way a character behaves or attempts actions. Conditions include things like an- gry, confused, tired and unconscious.  ere are several listed on the FU character sheet, and there is space for you to write your own.
 
 Details:  ese are features of an environment or scene that might change as a result of an action. Details might include curtains catching  re, windows break- ing, animals running o , or machinery stalling. De- tails are always closely tied to the scene and the action.
 
@@ -315,11 +366,22 @@ et
 
 **Conditions**: Ce sont des effets physiques, mentaux ou sociaux qui changent le comportement d'un personnage ou influent ses chances de tenter une action. Les Conditions comprennent les termes *en colère*, *sonné*, *fatigué* ou *inconscient*. Certains d'entre eux sont listés sur la feuille de personnage de FU, mais il y a des emplacements pour que vous puissiez intégrer les vôtres.
 
-**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peuvent influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours.
+**Détails**: Ce sont les caractéristiques de l'environnement ou de la scène qui peuvent influer sur le résultat d'une action. Un Détail peut se manifester par un rideau qui prend feu, une fenêtre qui se brise, un animal qui fuit, ou un moteur qui cale. Les Détails sont toujours liés intimement à la scène ou l'action en cours. -->
 
 ----
 
-### Examples of Success & Failure
+### Beispiele für Erfolg & Misserfolg
+
+Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage **"Überspringt Sir Camden die Hecke?"** passieren würde:
+
+**Ja, und** er holt Lord Kane ein. Dies ist eine Einzelheit, die die Szene verändert.  
+**Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+**Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
+**Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Diese Einzelheit gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.  
+**Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+**Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
+
+<!-- Examples of Success & Failure
 Going back to an earlier example, let’s see what might have happened when we apply each possible answer to the question
 “Does Sir Camden leap the hedge?”
 Yes, and he catches up with Lord Kane.  is is a Detail that changes the scene.
@@ -346,9 +408,16 @@ Examples de succès & d'échecs
 
 **Non**, le cheval refuse l'obstacle. Il n'y a pas de et/mais, donc aucune Condition ou Détail n'est ajouté.
 
-**Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition.
+**Non, et** son cheval rue, le projetant au sol, ce qui lui inflige une **blessure**. C'est une Condition. -->
 
-### Who chooses Conditions & Details?
+
+### Wer wählt die Zustände & Einzelheiten?
+
+Alle können einen Zustand oder eine Einzelheit vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum erreichten Ergebnis passt. Normalerweise überlegen sich die Spielerin, die gewürfelt hat, und die Erzählerin gemeinsam eine angemessen dramatische Auswirkung. Doch eigentlich sollten alle am Tisch ihre coolen Ideen einbringen.  
+Die Erzählerin hat immer das letzte Wort, wenn es darum geht, welcher Zustand oder welche Einzelheit auf das Ergebnis angewendet wird.
+
+<!--
+Who chooses Conditions & Details?
 Anyone can suggest a Condition or Detail that they feel is appropriate to the action taken and result achieved. Usually the player that rolled the dice and the Narrator will work together to come up with a suitably dramatic e ect. But really, anyone at the table should throw in whatever cool idea they have.
  e Narrator always has  nal say over what Condition or Detail is ap- plied to a result.
 
@@ -356,9 +425,14 @@ Qui choisit les Conditions et les Détails ?
 
 Tout le monde peut suggérer une Condition ou un Détail qui lui semble approprié en fonction de l'action et du résultat. Habituellement le joueur qui a lancé les dés et le Narrateur travailleront de concert pour trouver une issue pertinente. Mais en fait, n'importe qui à la table peut proposer une idée qui lui paraît intéressante.
 
-Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à appliquer au résultat.
+Le Narrateur a toujours le dernier mot concernant la Condition ou le Détail à appliquer au résultat. -->
 
-### When should I use Conditions?
+### Wann soll ich Zustände verwenden?
+
+Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur das Leben etwas schwerer durch den geringen Erfolg oder sogar kompletten Misserfolg. Du kannst auch einer
+anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die gut für deine Figur ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, könntest du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand **müde** erhalten. Wenn man Zustände so anwendet, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.
+
+<!-- When should I use Conditions?
 Like all quali ers, it depends on situation. In the examples above Con- ditions are applied to the acting player when things don’t quite go right for them (Yes, but / No, and).  e Condi- tions make life a bit more di cult for the character because of the minimal success or outright failure.
 You can also apply Conditions to the target of an action, when things are going right for your character. If you are debating with a bureaucrat and get a Yes, and result you might apply the confused Condition to the target. If you attempt to outrun an enemy and get the No, but result they might catch up with
 you, but have the tired Condition. Ap- plying Conditions in this way will likely give player characters an advantage later in the scene.
@@ -367,10 +441,17 @@ Quand utiliser les Conditions ?
 
 Comme tous les qualificatifs, tout dépend de la situation. Dans les exemples précédents, les Conditions sont imposées au joueur courant quand les événements ne se déroulent pas comme il le pensait (**Oui, mais / Non, et**). Les Conditions peuvent rendre la vie du personnage un petit peu plus difficile à cause d'un succès trop léger ou d'un échec cuisant.
 
-Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En appliquant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène.
+Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les événements se déroulent bien pour les personnages. Si vous débattez avec un bureaucrate et obtenez un **Oui, et**, vous pouvez imposer une Condition **confus** à votre opposant. Si vous essayez de semer un ennemi et que vous obtenez un **Non, mais**, peut-être que votre poursuivant vous rattrape, mais vous pouvez aussi lui infliger une Condition **fatigué**. En appliquant ces Conditions vous donnerez une chance supplémentaire au personnage dans la suite de la scène. -->
 
-### When should I use Details?
-Apply Details when the action is like- ly to change the scene or environment in some way.  is might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
+### Wann soll ich Einzelheiten benutzen?
+
+Wende Einzelheiten an, wenn die versuchte Handlung wahrscheinlich die Szene oder Umgebung irgendwie  ändern wird. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
+Einzelheiten werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Sie können jedoch sehr effektvoll genutzt werden, um Situationen unterhaltsamer und/oder gefährlicher zu machen: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
+
+Einzelheiten können abhängig von den Umständen sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+
+<!-- When should I use Details?
+Apply Details when the action is like- ly to change the scene or environment in some way.  This might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
 Details are o en applied when the acting character gains some advantage (Yes, and / No, but).  ey can be used to great e ect, however, to make situa- tions more entertaining and / or dan- gerous;
 “Do you swing across the room on the chandelier? Yes, but candles fall loose and set  re to the tavern.”
 Details can provide instant or on- going e ects, depending on the circum- stances. A gap in the hedge can be used immediately to continue the chase; a burning tavern will continue to be a hazard until someone puts the  re out!
@@ -383,61 +464,89 @@ Les Détails s'appliquent souvent quand le personnage qui agit obtient un avanta
 
 "Est-ce que j'arrive à me balancer au travers de la pièce à l'aide du chandelier ?" "**Oui, mais** une bougie en tombe et met le feu à la taverne."
 
-Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne qui prend feu reste un événement sans importance jusqu'à ce que le feu se propage !
+Les Détails peuvent avoir des effets instantanés ou sur la durée, en fonction des circonstances. Un passage dans la haie peut être immédiatement utilisé pour continuer la poursuite ; une taverne qui prend feu reste un événement sans importance jusqu'à ce que le feu se propage ! -->
 
 ----
 
-## Modificateurs
+## Modifikatoren
 
-modifiers
+Manchmal werden Handlungen leichter oder schwerer durch äußere Umstände, Ausrüstung oder Fähigkeiten. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
+
+
+<!-- modifiers
 Sometimes circumstances, equipment and skill will
-make actions easier or harder. modi ers change the number of dice you get to roll when taking action.
+make actions easier or harder. modi ers change the number of dice you get to roll when taking action. -->
 
-Making Things Easier: Roll an additional die for each Descriptor, piece of Gear, Condition or De- tail that provides some advantage to the action being taken.  e result is the single best (not necessarily highest) die roll, as the player chooses.
+**Dinge einfacher nachen**: Wirf einen zusätzlichen Würfel für jeden Beschreiber, Ausrüstungsgegenstand, Zustand oder jede Einzelheit, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
+
+<!-- Making Things Easier: Roll an additional die for each Descriptor, piece of Gear, Condition or De- tail that provides some advantage to the action being taken.  e result is the single best (not necessarily highest) die roll, as the player chooses.
 
 Certaines circonstances, matériels et compétences peuvent vous rendre la vie plus facile ou plus difficile. Les modificateurs changent le nombre de dés que vous pourrez lancer.
 
-**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage pour l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur.
+**Rendre plus facile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui fournit un avantage pour l'action à effectuer. Le résultat le plus avantageux sera retenu, au choix du joueur. -->
 
-> In the woods, Sir Camden tries to track Lord Kane. You point out that the knight is a good hunter, so you get an extra d6. Rolling 2d6, you score a 5 and a 4. Keeping the 4 it is decided that a er a brief search Sir Camden  nds Lord Kane’s tracks and follows them to a sinister citadel...
+> Im Wald versucht Sir Camden, Lord Kane aufzuspüren. Du weist darauf hin, dass der Ritter ein **guter Jäger** ist, daher bekommst du einen weiteren W6. Du wirfst 2W6 und es fallen einen 5 und eine 4. Du nimmst die 4 und es wird entschieden, dass Sir Camden nach kurzer Suche die Spuren von Lord Kane findet und ihnen zu einer finsteren Zitadelle folgt...
+
+<!-- > In the woods, Sir Camden tries to track Lord Kane. You point out that the knight is a good hunter, so you get an extra d6. Rolling 2d6, you score a 5 and a 4. Keeping the 4 it is decided that a er a brief search Sir Camden  nds Lord Kane’s tracks and follows them to a sinister citadel...
 
 > Dans les bois, Sire Camden essaie de traquer le Seigneur Kane. Vous soulignez que le chevalier est un **bon chasseur**, ce qui donne un d6 supplémentaire. Après avoir lancé 2d6, vous obtenez 5 et 4. Le joueur décide de garder le 4 et il conclut qu'après un petite recherche Sire Camden retrouve la trace du Seigneur Kane et elle mène à une citadelle lugubre...
+-->
 
-Making Things Harder: Roll an extra die for each Descriptor, bit of Gear, Condition or Detail that makes the action harder.  e result is the single worst die roll.
+**Dinge schwieriger machen**: Wirf einen zusätzlichen Würfel für jeden Beschreiber, jedes Ausrüstungteil, jeden Zustand oder jede Einzelheit, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
+
+> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. "Gelangt Vance unverletzt zun Geländewagen?" Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt**...
+
+<!-- Making Things Harder: Roll an extra die for each Descriptor, bit of Gear, Condition or Detail that makes the action harder.  e result is the single worst die roll.
 
 > Captain Vance decides to run to a near-by jeep.  e Narrator points out there is no cover between Vance’s hiding spot and the vehicle. “Does Vance get to the jeep uninjured?” You roll 2d6, scoring a 3 and a 5. You must accept the 3 and Captain Vance is injured as he reaches the jeep...
 
 **Rendre plus difficile** : Lancez un dé supplémentaire pour chaque Descripteur, Matériel, Condition ou Détail qui rend l'action plus difficile. Le résultat se lit sur le plus mauvais dé.
 
-> Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep.
+> Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep. -->
 
-Cancelling Out: one bene cial die cancels out one hindering die, so you will never be rolling ‘nega- tive’ and ‘positive’ dice at the same time.
+**Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie "negative" und "positive" Würfel gleichzeitig wirfst.
+
+> Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
+
+<!-- Cancelling Out: one bene cial die cancels out one hindering die, so you will never be rolling ‘nega- tive’ and ‘positive’ dice at the same time.
 
 Later in his quest, Sir Camden must scale a sheer (-) cli .  e knight is strong (+) and has a rope (+). Overall, this means a single bonus to the action (the sheer cli  and the knight’s strength cancel each other out, just leaving the rope). You roll 2d6, scoring a 3 and 6.
 
 **Annulation des effets** : Un dé de bénéfice annule un dé de malus, aussi vous ne lancerez jamais un dé "négatif" et un "positif" au même moment.
 
-> Plus tard dans sa quête, Sire Camden doit escalader une paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6.
+> Plus tard dans sa quête, Sire Camden doit escalader une paroi **très raide** (-). Le chevalier est **fort** (+) et possède une corde (+). En conclusion, il n'ya qu'un seul dé de bonus (la difficulté de la paroi et la force du personnage s'annulent, ce qui laisse la corde). Vous lancerez 2d6. -->
 
 -----
 
-### Example of Modifiers
+### Beispiel-Modifikatoren
+
+Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinaus zu ziehen. "Kann Vance die Wache abschütteln?" Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3 und du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu befördern.
+
+<!-- Example of Modifiers
 Captain Vance hurtles along in the jeep, when a guard tries to drag him out through the window. “Will Vance shake the guard o ?” It is hard (+) to drag Vance out the window, but he is wounded (-) and surprised (-), and the attacker is very strong (-). In total you must roll 2 penalty dice. You roll 3d6 scoring a 2, 4 and 3, and must take the worst result, the 3.  e guard wrestles Vance out of the jeep.
 
 Exemples de modificateurs
 
-Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un garde essaie de l'attraper et le faire passer par la fenêtre. "Est-ce que Vance saura se débarrasser du garde ?". Il est **difficile** (+) d'extraire Vance du véhicule, mais il est **blessé** (-) et **surpris** (-), et l'attaquant est **très fort** (-). Au total il vous faudra lancer deux dés négatifs. Vous lancez 3d6 avec un score de 2, 4 et 3, et il faudra retenir le pire résultat, soit le 3. Le garde arrive à sortir Vance de la jeep.
+Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un garde essaie de l'attraper et le faire passer par la fenêtre. "Est-ce que Vance saura se débarrasser du garde ?". Il est **difficile** (+) d'extraire Vance du véhicule, mais il est **blessé** (-) et **surpris** (-), et l'attaquant est **très fort** (-). Au total il vous faudra lancer deux dés négatifs. Vous lancez 3d6 avec un score de 2, 4 et 3, et il faudra retenir le pire résultat, soit le 3. Le garde arrive à sortir Vance de la jeep. -->
 
-### Other types of rolls?
+### Andere Wurf-Arten?
+
+Bei FU gibt es keine "Gegenwürfe" oder "Wettstreit-Aktionen", "Schadenswürfe" und "Trefferwürfe". Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.
+
+<!-- Other types of rolls?
 FU has no such thing as ‘opposed rolls’ or ‘contested actions’, ‘damage rolls’ and ‘rolling to hit’.  e beat the odds roll is the only kind of roll used in FU, whether you are trying to drive a car through a crowded mall, arm wrestle a giant, or shrug o  the damage caused by a stray bullet.
 
 Pour les autres types de jets de dés ?
 
-Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue.
+Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue. -->
 
 
-### How do “opposed” actions work?
-For a start, only players ever roll dice. You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
+### Wie funktionieren "Gegenaktionen"?
+
+Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln.
+
+How do “opposed” actions work?
+For a start, only players ever roll dice. *I'm HERE* You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
 roll too. Is the opponent weak? You get a bonus die. Is the opponent a world champion arm wrestler? You factor in a penalty die. And so on, until every- thing is factored in. When you know how many bonus and/or penalty dice you have, roll. If the result is an even number, you win the contest; if the  nal result is an odd number, your opponent has the advantage.
 
 Comment est-ce que les actions "en opposition" fonctionnent ?
