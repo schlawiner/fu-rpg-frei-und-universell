@@ -543,7 +543,7 @@ Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dé
 
 ### Wie funktionieren "Gegenaktionen"?
 
-Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln.
+Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu.
 
 How do “opposed” actions work?
 For a start, only players ever roll dice. *I'm HERE* You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
