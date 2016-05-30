@@ -260,7 +260,7 @@ Ausrüstung sind das Zubehör, die coolen Geräte und die Waffen, die deine Figu
 
 Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* setzt sich ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv zusammen: Rostiges Schwert, Langes Seil, Schnelles Pferd, Gewehr, Papas Camaro, Schwere Rüstung.
 
-Deine Figur hat genau zwei Ausrüstungsgegenstände, such' dir zwei Teile aus.
+Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
 
 <!-- Gear is the equipment, gadgets, and weapons that
 a character will use on their adventures. All characters have the basic clothes or items that are appropriate to their concept. Gear is the important and cool stu  that a character carries.  
@@ -298,7 +298,7 @@ Designer-Jeans, Hautenges schwarzes Kleid (lassen wir "schwarzes Kleid" mal als 
 <!-- Clothes: Designer Jeans, Slinky Black Dress (let’s count “black dress” as the noun), Filthy Un- derpants, Worn Jacket, State-of-the-art Space Suit, Silk Smoking Jacket, Beat-up Fedora, Tall Powdered Wig. -->
 
 **Waffen**:
-Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Revolverattrappe, Zuverlässige AK-47, Gummihammer.
+Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.
 
 <!-- Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet. -->
 
@@ -329,7 +329,7 @@ Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbe
 <div markdown="1" class="sidebar">
 ### Ausrüstung auswählen
 
-Die Gegenstände, die du als Ausrüstung wählst, sollten ein Markenzeichen für deine Figur sein. Denk zum Beispiel an Batmans Düsteren Fledermausanzug, die Instabilen Protonen-Packs der Ghostbusters, James Bonds Zuverlässige Berretta oder Zorros blitzende Klinge.
+Die Gegenstände, die du als Ausrüstung wählst, sollten ein Markenzeichen für deine Figur sein. Denk zum Beispiel an Batmans **Düsteren Fledermausanzug**, die **Instabilen Protonen-Packs** der Ghostbusters, James Bonds **Zuverlässige Berretta** oder Zorros **Blitzende Klinge**.
 
 Jedes Ausrüstungsteil sollte etwas zur Charakterisierung deiner Figur beitragen, entweder zu ihrem Hintergrund, ihrer Persönlichkeit oder ihren Zielen. Es sollte etwas über deine Figur oder ihre Taten aussagen.
 
@@ -343,7 +343,7 @@ Chaque élément du Matériel doit ajouter un détail à l'histoire de votre per
 
 ### Ausrüstung ist Zubehör
 
-Ausrüstung ist nie einer Figur innewohnend - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein Gepanzerter Roboterhandschuh dagegen schon.
+Ausrüstung ist nie einer Figur innewohnend - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
 
 <!-- Gear is equipment
 Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
@@ -354,7 +354,7 @@ Le Matériel n'est pas inné - il peut être perdu, cassé ou volé. Un Bras Cyb
 
 ### Ausrüstung beschreiben
 
-Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein Langer Dolch ist ganz gut, aber ein Zerbrochener Dolch ist besser!
+Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein **Langer Dolch** ist ganz gut, aber ein **Zerbrochener Dolch** ist besser!
 
 <!-- Describing Gear
 When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!   -->
@@ -369,7 +369,7 @@ Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne pe
 
 ### Nur ein einziges Adjektiv
 
-Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein Scharfer Säbel ist gut, ein Magisches Schwert auch, aber ein Scharfer Magischer Säbel ist nicht erlaubt.
+Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein **Scharfer Säbel** ist gut, ein **Magisches Schwert** auch, aber ein **Scharfer Magischer Säbel** ist nicht erlaubt.
 
 <!-- One adjective only
  e description of your gear should have a single adjective - no less and no more. A Sharp Sabre is okay, as is a Magic Sword, but a Sharp Magic Sabre is not allowed.
@@ -408,7 +408,7 @@ Un Matériel n'est pas "bon" ou "mauvais" en soi. C'est ce que vous en ferez, en
 
 ### Gute Ausrüstung und schlechte Ausrüstung
 
-Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein "gutes" Adjektiv, und der andere ein "schlechtes" haben muss. Vielleicht hast du eine "Warme Jacke" und eine "Alte Kanone" oder ein "Schnelles Motorrad" und eine "Überzogene Kreditkarte".
+Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein "gutes" Adjektiv, und der andere ein "schlechtes" haben muss. Vielleicht hast du eine **"Warme Jacke"** und eine **"Alte Kanone"** oder ein **"Schnelles Motorrad"** und eine **"Überzogene Kreditkarte"**.
 
 <!-- Good Gear / Bad Gear
 You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card. -->
@@ -420,7 +420,7 @@ Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualifica
 
 ### Kram, der keine Ausrüstung ist
 
-Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur - Schaufensterdekoration. Du kannst aber die Ausrüstung anderer Figuren tauschen, stehlen oder aufheben und diese benutzen.
+Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen.
 
 <!-- Stuff that isn’t Gear
 Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that! -->
@@ -488,10 +488,10 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 <!-- **What will you do?** What is the next step to get what you want? What are you willing to do to succeed? -->
 
 
-> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith unbedingt erfolgreich sein und ist bereit, fast alles zu tun, um an den Götzen zu gelangen - doch töten würde er dafür nie.
+> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
 <!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
 >
-> Lumina strebt nach Freiheit für alle Jupiter-Völker. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum wahrzumachen.
+> Lumina strebt nach Freiheit für alle Jupiter-Völker. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum zu verwirklichen.
 
 <!-- > Lumina seeks freedom for all the people of Jupi- ter. Dread Lord Kang rules the planet with an iron  st, and his agents are always on the look out for renegades. Lumina is willing to put her own life on the line to achieve her vision. -->
 
@@ -513,14 +513,14 @@ Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'e
 
 ## Beziehungen
 
-Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und der Vergangenheit beider Figuren etwas mehr Tiefe verleihen. Zum Beispiel: Alte Saufkumpanen, Mit derselben Frau liiert, Zusammen im Krieg gekämpft, Vom selben Meister ausgebildet.
+Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und der Vergangenheit beider Figuren etwas mehr Tiefe verleihen. Zum Beispiel: **Alte Saufkumpane**, **Mit derselben Frau liiert**, **Zusammen im Krieg gekämpft**, **Vom selben Meister ausgebildet**.
 
 <!-- Relationships
 Choose at least one other character that will take
 part in the story and write a short statement about your relationship with them.  is should be clear and add some interesting depth to both characters back- grounds. For example; old drinking buddies; Dated the same woman; Fought in the war together; Were trained by the same master. -->
 
 
-> David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die alten Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich voneinander angezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.
+> David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die alten Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich zueinander hingezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.
 
 <!-- > Dave writes; Tennessee Smith and Lumina met at Harvard where Lumina was giving a presen- tation on the ancient cultures of Jupiter. Nina is happy with this, adding only that both characters were attracted to each other but Lumina is too fo- cussed on her mission to have any romantic dal- liance. -->
 
@@ -539,7 +539,7 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 
 Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe aufgrund von Informationen, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
-Nutze deine Motive und Beziehungen als Leitlinie, wie du deine Rolle spielst und wie deine Figur auf die Figuren der anderen Spieler und auf ihre Umwelt reagiert.
+Nutze deine Motive und Beziehungen als Leitlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.
 
 <!-- It’s all about roleplaying now
 Your Description, Drives and Re- lationships all help develop your char- acter and put them into the “world” of your stories and adventures.  e Narra- tor might occasionally give you a bonus to dice rolls because of the information you reveal here, but that is by no means required.  
@@ -555,7 +555,7 @@ Utilisez vos Motivations et vos Relations pour donner des indications concernant
 
 ### Langfristige oder kurzfristige Ziele?
 
-Wenn du dein Motiv wählst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, dessen Erreichung länger braucht.
+Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, dessen Erreichen länger braucht.
 
 <!-- Long or short term goals?
 When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character. -->
@@ -567,7 +567,7 @@ Quand vous choisissez vos Motivations, vous êtes libres de vous arrêter sur du
 
 ### Wie viele Beziehungen?
 
-Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst mit einer Mitspielerin zusammenarbeiten, um die Beziehung zwischen euren Figuren festzulegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben, oder "gegenläufige" Beziehungen (zum Beispiel: "Verliebt in"/"Angewidert von").
+Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben oder sogar "gegenläufige" Beziehungen (zum Beispiel: **"Verliebt in"/"Angewidert von"**).
 
 <!-- How many Relationships?
 Two is a good number of Relation- ships to begin with. Pick two di erent characters and decide how they know each other. You and another player can
@@ -579,7 +579,7 @@ Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages 
 
 ### Seid nicht eure eigenen Feinde
 
-Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber lasst sie sich nicht hassen. Die Figuren müssen zusammen funktionieren, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
+Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber lasst sie sich nicht hassen. Die Figuren müssen zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
 
 <!-- Don’t be antagonistic  
 Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission! -->
@@ -616,7 +616,7 @@ Les clichés et les archétypes sont ok ! -->
 
 ### 2. Beschreiber {.unnumbered}
 
-Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eins für Körper, Geist, Stärke und Schwäche. Jeder Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.
+Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.
 
 <!-- Identify the four most important or interesting features of your character,
 one each for Body, mind, edge and Flaw.
@@ -659,7 +659,7 @@ What does your character look like? What is their name? Where are they from? Wha
 
 ### 5. Motive {.unnumbered}
 
-Was will deine Figur? Was hindert sie daran? Was würde sie tun, um es zu bekommen?
+Was will deine Figur? Was hindert sie daran? Was würde sie tun, um es zu erreichen?
 
 <!-- Drives
 What does your character want? What is stopping them? What will they do
