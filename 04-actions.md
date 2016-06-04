@@ -543,24 +543,34 @@ Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dé
 
 ### Wie funktionieren "Gegenaktionen"?
 
-Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu.
+Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Strafwürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Strafwürfel du hast, würfle. Ist das Ergenis eine gerade Zahl, gewinnst du den Wettbewerb; ist das Endergebnis eine ungerade Zahl, ist dein Gegner im Vorteil.
 
-How do “opposed” actions work?
-For a start, only players ever roll dice. *I'm HERE* You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
+<!-- How do “opposed” actions work?
+For a start, only players ever roll dice. You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
 roll too. Is the opponent weak? You get a bonus die. Is the opponent a world champion arm wrestler? You factor in a penalty die. And so on, until every- thing is factored in. When you know how many bonus and/or penalty dice you have, roll. If the result is an even number, you win the contest; if the  nal result is an odd number, your opponent has the advantage.
 
 Comment est-ce que les actions "en opposition" fonctionnent ?
 
-Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les bonus (+) et les malus (-) applicables au personnage. Puis il faut ajouter tous les facteurs applicables à l'opposant et les intégrer au jet de dés. Est-ce que l'opposant est faible ? Vous avez un dé de bonus. Est-ce un champion du monde de catch ? On rajoute un dé de malus. Et ainsi de suite, jusqu'à ce que tout soit intégré. Quand vous avez réduit les dés pour en connaître le nombre à lancer, allez-y. En cas de résultat pair, vous gagnez le duel. Si le résultat est impair, votre adversaire a l'avantage.
+Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les bonus (+) et les malus (-) applicables au personnage. Puis il faut ajouter tous les facteurs applicables à l'opposant et les intégrer au jet de dés. Est-ce que l'opposant est faible ? Vous avez un dé de bonus. Est-ce un champion du monde de catch ? On rajoute un dé de malus. Et ainsi de suite, jusqu'à ce que tout soit intégré. Quand vous avez réduit les dés pour en connaître le nombre à lancer, allez-y. En cas de résultat pair, vous gagnez le duel. Si le résultat est impair, votre adversaire a l'avantage. -->
 
-### Dialing in on Your action
+### An deine Handlungen näher herangehen
+
+Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, die Handlungen aus der Nähe oder aus der Ferne zu betrachten, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf kannst du einen Schlagabtausch mit mehrmaligem hin und her erreichen, indem du fragst "Treffe ich den Grafen De Montief?". Du könntest aber auch den gesamten Kampf mit einem einzelnen Wurf abhandeln, indem du fragst "Besiege ich den Grafen De Montief im Duell?". Oder du verlegst den Kampf auf eine höhere Stufe und fragst "Stürmen meine Landsknechte die Burg des Grafen De Montief?" Stelle den Fokus ganz nach Bedarf flexibel ein!
+
+<!-- Dialing in on Your action
 Sword  ghts, political debates, space races, international wars, arguments and gun battles are all resolved using the beat the odds roll.  e key is to dial in or out of the action through the kind of questions you attempt to resolve. You can  ght a dramatic sword  ght and ex- change a series of blows by asking “Do I hit the Count De Montief?”. But you could also resolve the entire  ght with a single roll by asking “Do I defeat the Count De Montief in a duel?”. Or, take it to the next level and ask “Do my men- at-arms storm the Count De Montief’s castle?” Adjust the dial as necessary!
 
 Ajuster votre action
 
-Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au revolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme bon vous semble !
+Les combats à l'épée, les débats politiques, les courses spatiales, les guerres internationales, les disputes et les duels au revolver sont résolues par ces jets de dés. Pour ajuster vos actions, la clé réside dans la question à laquelle vous essayez de répondre par votre jet de dés. Vous pouvez vivre un combat à l'épée palpitant et vous échanger coups pour coups en plusieurs "Est-ce que je touche le Comte de Montief ?". Mais vous pourrez aussi réduire ce combat à un seul jet en demandant : "Est-ce que je triomphe du Comte de Montief dans ce duel ?". Ou passer encore à un niveau supérieur en demandant : "Est-ce que mes hommes et moi arrivons à prendre possession du château du Comte de Montief ?". À vous d'ajuster comme bon vous semble ! -->
 
-### Option: Matching Dice
+
+### Option: Paschwürfe
+
+Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer. Du darfst pro gefallenem gleichem Würfel eine "und ..."-Aussage hinzufügen. Wenn die Handlung fehlschlägt, sollte diese Aussage die Situation verschlimmern. Ist die Handlung erfolgreich, sollte jede der zusätzlichen Aussagen die Situation verbessern. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. "Besiegt Lord Kane die Schergen?" Er ist verletzt und in der Unterzahl, also wirfst du zwei Strafwürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein **"Nein ..."**-Ergebnis, doch die doppelte 3 macht es zu einem **"Nein, und ..."** Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein **"Nein, und ... und ..."** gewesen!
+
+<!--
+Option: Matching Dice
 Rolling doubles, triples or quadru- ples can make a success much better or a failure far worse. If your result die has a match the e ects will be much more dramatic. You may add one “and...” statement for each matching die. If the action is failed this statement should make the situation worse. If the action is a success the additional statement(s) should make the situation even better.
 For example, Sir Camden faces Lord Kane’s henchmen. “Will Sir Camden de- feat the henchmen?” He is injured and outnumbered so you will roll 2 penalty dice. You roll and score 3, 3, and 2. You must take the worst result - the double 3! Normally this would be a “No...” re- sult, but the matching 3 turns it into a “No, and...”. If you had rolled triple 3 the result would have been “No, and..., and...”!
 
@@ -568,12 +578,21 @@ Option : grouper les dés !
 
 Si vous lancez des doubles ou des triples (ou des quadruples), ils peuvent encore améliorer ou empirer votre jet. Si le résultat des dés est une combinaison, ses effets s'accentueront. Vous pourrez ajouter un "et..." pour chaque dé qui correspond. Si l'action est un échec, elle sera pire. Si c'est un succès, chaque ajout rendra l'action encore plus brillante.
 
-Par exemple, le Seigneur Camden fait face aux hommes de main du Seigneur Kane. "Est-ce que Sire Camden arrive a vaincre ces hommes ?". Il est blessé et en sous-nombre, aussi il doit lancer deux dés de pénalité. Son score est de 3, 3 et 2. Il faut prendre le pire résultat : le double 3 ! Normalement, ce devrait être un "**Non...**", mais le double 3 le transforme en "**Non, et...**". S'il avait été triplé, le résultat aurait été "**Non, et... et...**" !
+Par exemple, le Seigneur Camden fait face aux hommes de main du Seigneur Kane. "Est-ce que Sire Camden arrive a vaincre ces hommes ?". Il est blessé et en sous-nombre, aussi il doit lancer deux dés de pénalité. Son score est de 3, 3 et 2. Il faut prendre le pire résultat : le double 3 ! Normalement, ce devrait être un "**Non...**", mais le double 3 le transforme en "**Non, et...**". S'il avait été triplé, le résultat aurait été "**Non, et... et...**" ! -->
 
 ----
 
-## FU points
-FU points are a resource that you spend to improve
+## FU-Punkte
+
+FU-Punkte sind Hilfsmittel, die du wie eine Währung ausgeben kannst, um die Erfolgschancen deiner Figur bei einer Handlung zu erhöhen. Sie können auf zwei Arten eingesetzt werden:
+
+**Bonuswürfel:** Gib vor dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Bonuswürfel hinzuzubekommen. Dieser wirkt wie jeder andere Bonuswürfel. Du kannst so viele Bonuswürfel hinzunehmen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen.
+
+**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel neu zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.
+
+Du kannst für jede Handlung mehrere FU-Punkte ausgeben, für jeden dieser zwei Effekte, einzeln oder beide gleichzeitig. Die Regeln erlauben problemlos, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.
+
+<!-- FU points are a resource that you spend to improve
 a character’s chance of success at an action.  ey can be used in two ways;
 
 Bonus Die: Spend a FU point before a beat the odds roll to add a single bonus die.  is works like any other bonus die. You can add as many bonus dice as you have FU points, but they must all be declared at the same time.
@@ -581,9 +600,13 @@ Bonus Die: Spend a FU point before a beat the odds roll to add a single bonus di
 Re-roll: Spend a FU point a er a beat the odds roll to re-roll a single die.  e second result must stand - you cannot re-roll a re-roll. You can re-roll as many dice as you have FU points, but you must declare them all at the same time, before the  rst die is re-rolled.
 
 You can spend multiple FU points on any given action, and for either or both e ects. It is completely within the rules to spend a FU point to add a bonus
-die before a roll, then another FU point to re-roll a die a erwards.
+die before a roll, then another FU point to re-roll a die a erwards. -->
 
-> Back at HQ, Captain Vance tries to convince General Wallace to deploy the Rocket Troops un- der his command. Vance doesn’t have much going for him in this situation, in terms of Descriptors, so you decide to spend 2 FU Points on the roll. You roll the basic die, plus the two bonus dice, getting a 1, 1 and 3. Not happy with this, you spends your last FU Point on a re-roll. You pick up one of the 1’s and throw the die again...
+> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinem Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
+
+**FU-Punkte verdienen:** FU-Punkte verdienen sich die Spielerinnen, indem sie coole Dinge machen und ihre Rolle gut spielen. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle "Oooh!" rufen oder laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein. *I'm HERE*
+
+<!-- > Back at HQ, Captain Vance tries to convince General Wallace to deploy the Rocket Troops un- der his command. Vance doesn’t have much going for him in this situation, in terms of Descriptors, so you decide to spend 2 FU Points on the roll. You roll the basic die, plus the two bonus dice, getting a 1, 1 and 3. Not happy with this, you spends your last FU Point on a re-roll. You pick up one of the 1’s and throw the die again...
 
 Earning FU Points: FU points are earned during play for doing cool stu  and roleplaying your charac- ter. Whenever you do something that stops play and makes everyone go “Wow!”, or laugh out loud at your antics, or anything else that everyone thinks should be rewarded, you earn a FU point.
 
@@ -599,10 +622,10 @@ Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant 
 
 > De retour au quartier général, le Captaine Vance essaie de convaincre le Général Wallace de lui confier le commandement de l'artillerie. Vance n'a pas trop d'atouts pour l'aider dans cette situation, en terme de Descripteurs, aussi il décide de dépenser deux points de FU pour ce jet. En plus de son dé de base, il lance donc deux dés de bonus, pour un score de 1, 1 et 3. Loin d'être satisfait, il dépense un dernier point de FU pour une relance. Il choisit un des "1" et relance son dé.
 
-**Récupérer des points de FU :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le respect et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU.
+**Récupérer des points de FU :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le respect et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU. -->
 
 ----
-
+*I'm HERE*
 ### Starting FU Points?
  e number of FU Points you begin a game with should be discussed before play begins.  e more FU Points play- ers begin with, the more easily they will achieve successes. If playing games of high adventure or over-the-top action, it would be reasonable to begin with 2 FU Points. Super-powered heroes might begin with as many as 3 FU Points. For grittier games each player might only begin with 1 FU Point, or even none.
 
