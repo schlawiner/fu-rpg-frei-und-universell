@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-06-05T21:47:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/07-anhang/</loc>
+    <lastmod>2016-06-05T21:47:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/06-rennen-zum-tempel/</loc>
+    <lastmod>2016-06-05T21:47:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</loc>
+    <lastmod>2016-06-05T21:47:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/04-handeln/</loc>
+    <lastmod>2016-06-05T21:46:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/03-figuren/</loc>
+    <lastmod>2016-06-05T21:46:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/01-einleitung/</loc>
+    <lastmod>2016-06-05T21:46:15+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/02-grundlagen/</loc>
+    <lastmod>2016-06-05T21:45:43+02:00</lastmod>
+  </url>
+  
+</urlset>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>05-erzaehlerins on FU - Frei und universell</title>
+    <link>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</link>
+    <description>Recent content in 05-erzaehlerins on FU - Frei und universell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jun 2016 21:47:15 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/05-erzaehlerin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Die Erzählerin</title>
+      <link>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</link>
+      <pubDate>Sun, 05 Jun 2016 21:47:15 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
