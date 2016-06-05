@@ -113,7 +113,7 @@ Est-ce que les scènes doivent être dans l'ordre ?
 
 Vous pouvez utiliser toutes les techniques du conte, des romans ou des films, ce qui implique les flashbacks ou les "avances rapides", les intrigues parallèles ou les montages peuvent même être joués dans les scènes. Alors que la plupart du temps vos scènes auront lieu dans l'ordre chronologique, vous n'avez pas à vous y contraindre. -->
 
-### Muss ich Runden benutzen?
+### Muss ich Runden verwenden?
 
 Runden sind eine optionale Möglichkeit der Zeitmessung, die nützlich ist, wenn mehrere Figuren verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Einige Szenen werden sich fast wie von allein in Runden einteilen, andere wiederum enden, ohne dass Runden überhaupt nötig oder in Betracht gezogen werden (ihr werdet gar nicht an Runden denken).
 
@@ -132,7 +132,7 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 ## Ungerade Zahlen vermeiden
 
-Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht eindeutig klar oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
+Wenn eine Figur eine Handlung versucht, bei der das Ergebnis nicht eindeutig klar oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden [^1].
 
 Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erwartet. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.
 
@@ -543,7 +543,7 @@ Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dé
 
 ### Wie funktionieren "Gegenaktionen"?
 
-Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Strafwürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Strafwürfel du hast, würfle. Ist das Ergenis eine gerade Zahl, gewinnst du den Wettbewerb; ist das Endergebnis eine ungerade Zahl, ist dein Gegner im Vorteil.
+Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Strafwürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Strafwürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist das Endergebnis eine ungerade Zahl, ist dein Gegner im Vorteil.
 
 <!-- How do “opposed” actions work?
 For a start, only players ever roll dice. You begin by factoring in all the bonuses (+) and penalties (-) that apply to your character.  en you take stock of all the factors that would apply to the opponent, and apply those into your
@@ -686,7 +686,7 @@ Amusez-vous avec les points de FU. Expérimentez, modifiez-en l'usage en fonctio
 
 #### FU als Lebenspunkte
 
-Statt einer variablen Anzahl von FU-Punkten beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben, aber auch verloren werden, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, etc). In diesem Fall kann FU wieder aufgefüllt werden (zurück auf 3), indem eine Szene (ohne Würfeln) gemeinsam mit einer anderen Figur gespielt wird, die etwas über die Beziehung der beiden zeigt.
+Statt mit einer variablen Anzahl von FU-Punkten beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben, aber auch verloren werden, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, etc). In diesem Fall kann FU wieder aufgefüllt werden (zurück auf 3), indem eine Szene (ohne Würfeln) gemeinsam mit einer anderen Figur gespielt wird, die etwas über die Beziehung der beiden zeigt.
 
 <!-- FU as Health
 Rather than having a varying and changeable number of FU points, every character begins with 3.  ey can be spent as normal, but can also be lost when the character su ers physical or mental stress (injuries, fatigue, fear, etc). FU in this instance can be refreshed (brought back up to 3) by roleplaying out a (non-dice rolling) scene with an- other character that reveals something about your relationship.
@@ -706,67 +706,99 @@ Tout relancer
 
 En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou rien, aussi vous ne pourrez pas garder vos bons jets et relancer les autres. Utilisez cette variante au lieu de la relance classique. -->
 
-#### Augen verdrehen
+#### Ein Auge verdrehen
 
-Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert herauf- oder herunterzudrehen. 
+Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein "Nein" zu einem "Ja" machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.
 
-*I'm HERE*
-Flip a Pip
+<!-- Flip a Pip
 Spend a FU Point to adjust a single die up or down by one pip. Spend mul- tiple FU points to adjust a die multiple pips.  is option is more reliable than a re-roll as you will always be able to turn a “no” into a “yes”. If you used this variant the normal re-roll rule should not be used.
 
 Changer un point
 
-On peut dépenser un point de FU pour augmenter ou diminuer le résultat obtenu d'un point. Cette option est plus fiable qu'une relance parce qu'elle peut changer un "non" en "oui". Si vous utilisez cette variante, la relance classique peut être ignorée.
+On peut dépenser un point de FU pour augmenter ou diminuer le résultat obtenu d'un point. Cette option est plus fiable qu'une relance parce qu'elle peut changer un "non" en "oui". Si vous utilisez cette variante, la relance classique peut être ignorée. -->
 
-#### Use a Prop
+#### Eine Requisite benutzen
+
+Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
+
+<!-- Use a Prop
 Spend a FU point to turn a prop into an item of Gear for the duration of the scene.
 
 Utiliser un équipement
 
-En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Matériel pour la durée de la scène.
+En dépensant un point de FU, vous pourrez transformer un élément d'équipement simple en Matériel pour la durée de la scène. -->
 
-#### Stunts and Powers
+#### Talente und Stärken
+
+Gib Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein - mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
+
+<!-- Stunts and Powers
 Give characters special abilities, skills or powers that can only be used by spending a FU Point.  ese should be more powerful than Descriptors - make them break the rules or give a superhu- man knack, like the ability to  y or read minds, teleport, or whatever.
 
 Prouesses et Pouvoirs
 
-Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuvent être utilisées qu'en dépensant un point de FU. Ils doivent être plus puissants que des Descripteurs - faites-en des outils surpuissants, capables de passer outre une règle, comme la capacité de voler, de lire les esprits ou de se téléporter, par exemple.
+Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuvent être utilisées qu'en dépensant un point de FU. Ils doivent être plus puissants que des Descripteurs - faites-en des outils surpuissants, capables de passer outre une règle, comme la capacité de voler, de lire les esprits ou de se téléporter, par exemple. -->
 
-#### Taking a Hit
+#### Einen Treffer einstecken
+
+Anstatt zu würfeln, sage, dass du "einen Treffer einsteckst". Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
+
+<!-- Taking a Hit
 Instead of rolling, declare you are “taking a hit”. All the dice you should have rolled are treated as if they rolled 1’s (yes, if you are holding 5 dice, they count as  ve 1’s!). In return for your suf- fering you earn a FU Point.
 
 Prendre un coup
 
-Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés sont considérés comme des "1" (oui, si vous avez 5 dés, ça fera cinq fois le score 1 !). En compensation de votre peine, vous gagnez un point de FU.
+Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés sont considérés comme des "1" (oui, si vous avez 5 dés, ça fera cinq fois le score 1 !). En compensation de votre peine, vous gagnez un point de FU. -->
 
 ----
+<!--make a new page for the pdf that is genrated by latex - latex command -->
+\newpage
 
-## Action Summary
+## Handlungen kurzgefasst
+<!-- Action Summary
 
-Résumé des actions
+Résumé des actions -->
 
-### 1 set the scene
+### 1. Die Szene planen {unnumbered}
+
+Wo findet die Szene statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
+
+<!-- 1 set the scene
 Where does the scene take place? Who is there? What do they want? Do you need to break down into turns?
 
 Présenter la scène
 
-Où la scène se tient-elle ? Qui est présent ? Que veulent-ils ? Avez-vous besoin de répartir la scène en tours ?
+Où la scène se tient-elle ? Qui est présent ? Que veulent-ils ? Avez-vous besoin de répartir la scène en tours ? -->
 
-### 2 act
+### 2. Handeln {unnumbered}
+
+Spiele deine Figur und beschreibe was passiert. Arbeite auf das Ziel hin.
+
+<!-- 2 act
 Roleplay your character and describe what is going on. push toward the objective.
 
 Agir
 
-Jouez votre personnage et décrivez ce qui se passe. Convergez vers l'objectif.
+Jouez votre personnage et décrivez ce qui se passe. Convergez vers l'objectif. -->
 
-### 3 ask a QUestion
+### 3. Eine Frage stellen {unnumbered}
+
+Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. "Habe ich Erfolg?")
+
+<!-- 3 ask a QUestion
 When you need to resolve a con ict or complete an action ask a closed question (e.g. “Do I succeed?”)
 
 Posez une question
 
-Quand vous devez résoudre un conflit ou accomplir une action, posez une question fermée (par exemple: "Est-ce que je réussis ?")
+Quand vous devez résoudre un conflit ou accomplir une action, posez une question fermée (par exemple: "Est-ce que je réussis ?") -->
 
-### 4 Factor in modiFiers
+### 4. Modifikatoren einrechnen {unnumbered}
+
++1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jede Einzelheit der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
+
++1 Strafwürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jede Einzelheit der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
+
+ <!-- 4 Factor in modiFiers
 +1 bonus die for every Descriptor, item of Gear, Detail, Condition or other
 feature that makes the action easier.
 +1 penalty die for every Descriptor, item of Gear, Detail, Condition or other feature that makes the action harder.
@@ -775,22 +807,31 @@ Factorisez les modificateurs
 
 +1 dé de bonus pour chaque Descripteur, Matériel, Détail ou Condition ou autre chose qui rende l'action plus facile.
 
-+1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rende l'action plus difficile.
++1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rende l'action plus difficile. -->
 
-### 5 roll
+### 5. Würfeln {unnumbered}
+
+Wirf alle deine Würfel. Das Ergebnis ist der beste gefallene Würfel (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Strafwürfel wirfst).
+
+<!-- 5 roll
 Roll all your dice.  e result is the single best die (if rolling bonus dice) or single worst die (if rolling penalty dice).
 
 Lancez
 
-Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un ou plusieurs dé(s) de bonus) ou celui du plus mauvais dé (si vous lancez un ou plusieurs dé(s) de malus).
+Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un ou plusieurs dé(s) de bonus) ou celui du plus mauvais dé (si vous lancez un ou plusieurs dé(s) de malus). -->
 
-### 6 descriBe resUlt
+### 6. Ergebnis beschreiben {unnumbered}
+
+Verwendet das Würfelergebnis, um zu beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Einzelheiten an.
+
+<!-- descriBe resUlt
 Use the die result to describe how the con ict or action turned out. Apply Conditions or Details as necessary.
 
 Décrivez le résultat
 
-Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire.
+Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire. -->
 
 ----
-<!-- [^1] Anmerkung der Übersetzer: Siehe die Anmerkung im Kapitel "Grundlagen" -->
-[^1] NdT: même remarque qu'au chapitre "Les bases".
+[^1] Anmerkung der Übersetzer: Siehe die Anmerkung im Kapitel "Grundlagen"
+
+<!-- [^1] NdT: même remarque qu'au chapitre "Les bases". -->
