@@ -1,6 +1,6 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "Material Docs"
+title = "FU - Frei und universell"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,13 +9,13 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	# author = ""
+	# description = "A material design theme for documentations."
+	# copyright = "Released under the MIT license"
 
 	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	# provider = "GitHub"
+	# repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
 
 	version = "1.0.0"
 	logo = "images/logo.png"
@@ -24,15 +24,17 @@ googleAnalytics = ""
 	permalink = "#"
 
 	# Custom assets
-	custom_css = []
+	custom_css = [
+    "style.css"
+  ]
 	custom_js  = []
 
 	# Syntax highlighting theme
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "blue"
-    	accent  = "light green"
+    	primary = "cyan"
+    	accent  = "light blue"
 
     [params.font]
     	text = "Ubuntu"
@@ -40,34 +42,51 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
+	# twitter = "apfeleimer"
+	# github  = "schlawiner"
 
+
+# [[menu.main]]
+# 	name   = "FU - Frei und universell"
+# 	url    = "/"
+# 	weight = 0
 
 [[menu.main]]
-	name   = "Material"
-	url    = "/"
-	weight = 0
-
-[[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "Einleitung"
+	url    = "01-einleitung/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
+	name   = "Die Grundlagen"
+	url    = "02-grundlagen/"
 	weight = 20
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
+	name   = "Die Figuren"
+	url    = "03-figuren/"
 	weight = 30
 
 [[menu.main]]
-	name   = "License"
-	url    = "license/"
+	name   = "Etwas tun"
+	url    = "04-handeln/"
 	weight = 40
+
+[[menu.main]]
+	name   = "Die Erzählerin"
+	url    = "05-erzaehlerin/"
+	weight = 50
+
+[[menu.main]]
+	name   = "Beispielabenteuer: Rennen zum Tempel des Toth"
+	url    = "06-rennen-zum-tempel/"
+	weight = 60
+
+[[menu.main]]
+	name   = "Anhang"
+	url    = "07-anhang/"
+	weight = 70
+
+
 
 
 [blackfriday]
