@@ -24,9 +24,7 @@ googleAnalytics = ""
 	permalink = "#"
 
 	# Custom assets
-	custom_css = [
-    "style.css"
-  ]
+	custom_css = []
 	custom_js  = []
 
 	# Syntax highlighting theme

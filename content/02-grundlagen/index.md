@@ -85,7 +85,7 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 <!-- \columnsbegin -->
 
 <!-- <div markdown="1" class="sidebar"> -->
-{{< note title="Sidebar" >}}
+
 ### Sprecht vor dem Spielen miteinander!
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
@@ -112,7 +112,6 @@ Cette discussion peut amener des éléments au Narrateur sur ce que veulent les 
 
 Für schnelle Spiele zum sofortigen Loslegen schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
-{{< /note >}}
 
 <!-- \columnsend -->
 
