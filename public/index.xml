@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FU - Frei und universell</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/</link>
     <description>Recent content on FU - Frei und universell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>de-de</language>
     <lastBuildDate>Sun, 05 Jun 2016 21:47:58 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://schlawiner.github.io/fu-rpg-frei-und-universell/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Anhang</title>
-      <link>http://replace-this-with-your-hugo-site.com/07-anhang/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:58 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/07-anhang/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beispielabenteuer: Das Rennen zum Tempel des Toth</title>
-      <link>http://replace-this-with-your-hugo-site.com/06-rennen-zum-tempel/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:40 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/06-rennen-zum-tempel/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Die Erzählerin</title>
-      <link>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:15 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/05-erzaehlerin/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Etwas tun</title>
-      <link>http://replace-this-with-your-hugo-site.com/04-handeln/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:52 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/04-handeln/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Die Figuren</title>
-      <link>http://replace-this-with-your-hugo-site.com/03-figuren/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:27 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/03-figuren/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Einleitung</title>
-      <link>http://replace-this-with-your-hugo-site.com/01-einleitung/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:15 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/01-einleitung/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</guid>
       <description>
 
 &lt;p&gt;FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.&lt;/p&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Die Grundlagen</title>
-      <link>http://replace-this-with-your-hugo-site.com/02-grundlagen/</link>
+      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/</link>
       <pubDate>Sun, 05 Jun 2016 21:45:43 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/02-grundlagen/</guid>
+      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/</guid>
       <description>
 
 &lt;p&gt;Der Text von FU geht davon aus, dass wenigstens eine der Spielerinnen schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der einen hat.&lt;/p&gt;
@@ -187,52 +187,6 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 &lt;!-- \columnsbegin --&gt;
 
 &lt;!-- &lt;div markdown=&#34;1&#34; class=&#34;sidebar&#34;&gt; --&gt;
-
-&lt;div class=&#34;admonition note&#34;&gt;
-&lt;p class=&#34;admonition-title&#34;&gt;Sidebar&lt;/p&gt;
-&lt;p&gt;&lt;h3 id=&#34;sprecht-vor-dem-spielen-miteinander&#34;&gt;Sprecht vor dem Spielen miteinander!&lt;/h3&gt;
-
-&lt;p&gt;Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.&lt;/p&gt;
-
-&lt;p&gt;Einigt euch über die Grundstimmung, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für übertrieben leidenschaftliche Schauspieleinlagen oder für blutige Metzeleien Beifall oder eher Buhrufe ernten wird.&lt;/p&gt;
-
-&lt;p&gt;Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel gehen wird.&lt;/p&gt;
-
-&lt;p&gt;Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob die Spielerinnen sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.&lt;/p&gt;
-
-&lt;!--### Talk before play!
-Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
-Throw around ideas on setting, im- agery, set-pieces, cool clichés and funky
-scenes.  This way everyone gets a clear picture of what the game is going to be about.
- is discussion will also clue the Narrator in on what players want (or need) out of the game. It establishes whether players want to feel like epic heroes, down-trodden underdogs, or tragic anti-heroes.
-
-### Discutez avant de jouer !
-
-Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde parte sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
-
-Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l&#39;épopée, vivre en opprimés ou être de tragiques anti-héros.--&gt;
-
-&lt;h3 id=&#34;der-sofort-genre-generator&#34;&gt;Der Sofort-Genre-Generator&lt;/h3&gt;
-
-&lt;p&gt;Für schnelle Spiele zum sofortigen Loslegen schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet &amp;ldquo;Vorstadt-Weltuntergang&amp;rdquo;, &amp;ldquo;Mittelalter-Superhelden&amp;rdquo;, &amp;ldquo;Kampfsport-Gymnasium&amp;rdquo;, und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;!-- \columnsend --&gt;
-
-&lt;hr /&gt;
-
-&lt;!--
-### The Insta-Genre-Generator
-For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
-
-
-### Le Générateur Insta-Genre
-
-Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : &#34;Apocalypse Suburbaine&#34;, &#34;Super-héros Médiéval&#34;, &#34;Université des Arts Martiaux&#34;, etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
-
-
-[^1] Anmerkung der Übersetzer: Der Autor macht hier ein Wortspiel - die Aussage &#34;beating the odds&#34; bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort &#34;odd&#34; bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
---&gt;
 </description>
     </item>
     
