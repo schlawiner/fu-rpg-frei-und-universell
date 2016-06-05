@@ -1,5 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
+baseurl = "http://schlawiner.github.io/fu-rpg-frei-und-universell/"
+languageCode = "de-de"
 title = "FU - Frei und universell"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
