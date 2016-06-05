@@ -625,29 +625,44 @@ Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant 
 **Récupérer des points de FU :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le respect et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU. -->
 
 ----
-*I'm HERE*
-### Starting FU Points?
+### FU-Punkte beim Sitzungsbeginn
+
+Bevor ihr losspielt, solltet ihr ausdiskutieren, wie viele FU-Punkte ihr zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto einfacher wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, wären 2 FU-Punkte für den Spielbeginn angemessen. Übermächtige Superhelden könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen könnte jede Spielerin mit nur einem oder sogar gar keinem FU-Punkt beginnen.
+
+<!-- Starting FU Points?
  e number of FU Points you begin a game with should be discussed before play begins.  e more FU Points play- ers begin with, the more easily they will achieve successes. If playing games of high adventure or over-the-top action, it would be reasonable to begin with 2 FU Points. Super-powered heroes might begin with as many as 3 FU Points. For grittier games each player might only begin with 1 FU Point, or even none.
 
 Combien de points de FU au départ ?
 
-Le nombre de points de FU avec lesquels votre personnage commence doit être discuté avant le début de la partie. Plus vous aurez de points, plus vous aurez de chance d'avoir des succès. Si vous êtes impliqué dans des aventures rocambolesque, il est raisonnable de commencer avec 2 points de FU. Des super-héros peuvent débuter avec 3 points. Dans un jeu plus corsé, les joueurs peuvent démarrer avec un seul point de FU... voire aucun !
+Le nombre de points de FU avec lesquels votre personnage commence doit être discuté avant le début de la partie. Plus vous aurez de points, plus vous aurez de chance d'avoir des succès. Si vous êtes impliqué dans des aventures rocambolesque, il est raisonnable de commencer avec 2 points de FU. Des super-héros peuvent débuter avec 3 points. Dans un jeu plus corsé, les joueurs peuvent démarrer avec un seul point de FU... voire aucun ! -->
 
-### Can I give / share FU Points?
+### Darf ich FU-Punkte verschenken oder teilen?
+Das hängt von euch ab. Die Standardregel ist "nein", aber ...
+
+<!-- Can I give / share FU Points?
  at is up to you and your group.  e default is “no”, but...
 
 Est-ce que je peux donner / partager mes points ?
 
-C'est à vous de voir avec votre groupe. La règle par défaut dit "non", mais...
+C'est à vous de voir avec votre groupe. La règle par défaut dit "non", mais... -->
 
-### Do Narrators get FU points?
+### Bekommt die Erzählerin auch FU-Punkte?
+Üblicherweise nicht, aber sie kann einem besonders starken Gegner oder Monster einen, zwei oder drei zugestehen.
+
+<!-- Do Narrators get FU points?
 Usually, no, but they might allow a powerful villain or monster to have one, two or three.
 
 Les Narrateurs ont-ils droit à des points de FU ?
 
-Normalement, non, mais on peut allouer entre un et trois points à un méchant particulièrement puissant, ou à un monstre.
+Normalement, non, mais on peut allouer entre un et trois points à un méchant particulièrement puissant, ou à un monstre. -->
 
-### Other ways to earn FU
+### Andere Möglichkeiten, FU-Punkte zu verdienen
+
+Manchmal möchtet ihr vielleicht ändern, wie man FU-Punkte verdient. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.  
+
+Auf diese Weise lassen sich effektiv Stimmung oder Stil des Spiels ändern. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen "die da oben" Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen sein soll. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was ihr damit anfangen könnt.
+
+<!-- Other ways to earn FU
 You might like to change the way you earn FU Points. You might earn them for dealing the killing blow to monsters, achieving your character’s goal, or roll- ing multiple 1’s or 6’s.
  is is a really good way to change the tone or style of the game. Want to play a dungeon crawl? Reward FU for killing monsters. A gritty dystopian game? Reward FU when the characters
 lose out to  e Man. Decide if these are the only ways to earn FU, or if they are in addition to the normal roleplaying rewards.  is decision will also have a dramatic e ect on the tone of play. See what you can do with it.
@@ -656,30 +671,47 @@ Autres moyens pour gagner des FU
 
 Vous pouvez choisir de changer le moyen de gagner des points de FU. Vous pourriez les gagner en tuant des monstres, en achevant un des buts de votre personnage, ou en lançant un multiple 1 ou un multiple 6.
 
-C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire de l'exploration de donjon, récompensez les joueurs quand ils tuent un monstre. Vous êtes plongé dans une cruelle dystopie ? Attribuez des points de FU quand les personnages perdent leur bataille contre leur Ennemi. Décidez si ce sont les seuls moyens de gagner du FU ou s'ils s'ajoutent aux récompenses habituelles. Cette décision aura aussi un effet dramatique sur le ton de la partie. Choisissez ce que vous voulez en faire.
+C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire de l'exploration de donjon, récompensez les joueurs quand ils tuent un monstre. Vous êtes plongé dans une cruelle dystopie ? Attribuez des points de FU quand les personnages perdent leur bataille contre leur Ennemi. Décidez si ce sont les seuls moyens de gagner du FU ou s'ils s'ajoutent aux récompenses habituelles. Cette décision aura aussi un effet dramatique sur le ton de la partie. Choisissez ce que vous voulez en faire. -->
 
-### Other ways to use FU
+### Andere Möglichkeiten, FU einzusetzen
+
+Probiert ein wenig herum mit FU-Punkten. Experimentiert damit und passt ihren Einsatz an eure Spielgruppe oder eure Geschichte an. Hier ein paar Vorschläge:
+
+<!-- Other ways to use FU
 Play around with FU Points. Experi- ment, or adjust the ways you use them to suit your gaming group or the type of story you are playing. Here are some suggestions;
 
 Autres moyens de dépenser du FU
 
-Amusez-vous avec les points de FU. Expérimentez, modifiez-en l'usage en fonction de votre groupe de joueurs ou du type d'histoire que vous voulez interpréter. Voici quelques suggestions :
+Amusez-vous avec les points de FU. Expérimentez, modifiez-en l'usage en fonction de votre groupe de joueurs ou du type d'histoire que vous voulez interpréter. Voici quelques suggestions : -->
 
-#### FU as Health
+#### FU als Lebenspunkte
+
+Statt einer variablen Anzahl von FU-Punkten beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben, aber auch verloren werden, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, etc). In diesem Fall kann FU wieder aufgefüllt werden (zurück auf 3), indem eine Szene (ohne Würfeln) gemeinsam mit einer anderen Figur gespielt wird, die etwas über die Beziehung der beiden zeigt.
+
+<!-- FU as Health
 Rather than having a varying and changeable number of FU points, every character begins with 3.  ey can be spent as normal, but can also be lost when the character su ers physical or mental stress (injuries, fatigue, fear, etc). FU in this instance can be refreshed (brought back up to 3) by roleplaying out a (non-dice rolling) scene with an- other character that reveals something about your relationship.
 
 FU comme des Points de Vie
 
-Au lieu d'avoir un nombre de points de FU variable, tous les personnages commencent avec 3 points. Ils peuvent être dépensés comme les autres, mais également perdus quand les personnages subissent des dommages physiques ou mentaux (blessures, fatigue, peur, etc...). Dans ces cas, les points de FU peuvent être récupérés (pour revenir au maximum de 3) en interprétant une scène (sans jet de dés) avec un autre personnage qui lèvera le voile sur leur relation.
+Au lieu d'avoir un nombre de points de FU variable, tous les personnages commencent avec 3 points. Ils peuvent être dépensés comme les autres, mais également perdus quand les personnages subissent des dommages physiques ou mentaux (blessures, fatigue, peur, etc...). Dans ces cas, les points de FU peuvent être récupérés (pour revenir au maximum de 3) en interprétant une scène (sans jet de dés) avec un autre personnage qui lèvera le voile sur leur relation. -->
 
-#### Re-Roll Everything
+#### Alles neu würfeln
+
+Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei "alles oder nichts"; du darfst also ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Verwendet diese Variante statt der normalen Neuwurfregel.
+
+<!-- Re-Roll Everything
 Spend a FU point to re-roll all your dice.  is is an all-or-nothing thing, so you can’t keep a couple of good results and roll the rest. Use this variant in- stead of the normal re-roll rule.
 
 Tout relancer
 
-En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou rien, aussi vous ne pourrez pas garder vos bons jets et relancer les autres. Utilisez cette variante au lieu de la relance classique.
+En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou rien, aussi vous ne pourrez pas garder vos bons jets et relancer les autres. Utilisez cette variante au lieu de la relance classique. -->
 
-#### Flip a Pip
+#### Augen verdrehen
+
+Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert herauf- oder herunterzudrehen. 
+
+*I'm HERE*
+Flip a Pip
 Spend a FU Point to adjust a single die up or down by one pip. Spend mul- tiple FU points to adjust a die multiple pips.  is option is more reliable than a re-roll as you will always be able to turn a “no” into a “yes”. If you used this variant the normal re-roll rule should not be used.
 
 Changer un point
