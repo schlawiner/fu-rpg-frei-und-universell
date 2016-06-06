@@ -1,6 +1,7 @@
 ---
 date: 2016-06-05T21:46:27+02:00
 title: Die Figuren
+weight: 30
 ---
 Bei FU ist deine Figur dein "Alter Ego", dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen oder auf Personen reagiert.
 

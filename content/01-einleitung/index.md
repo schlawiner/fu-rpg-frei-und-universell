@@ -1,6 +1,7 @@
 ---
 date: 2016-06-05T21:46:15+02:00
 title: Einleitung
+weight: 10
 ---
 ## Über FU
 FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.

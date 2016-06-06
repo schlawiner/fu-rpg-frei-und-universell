@@ -2,7 +2,6 @@
 date: 2016-06-06T16:13:38+02:00
 title: "FU : Frei und universell"
 type: index
-weight: 0
 ---
 Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 

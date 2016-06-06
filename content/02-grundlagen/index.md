@@ -1,6 +1,7 @@
 ---
 date: 2016-06-05T21:45:43+02:00
 title: Die Grundlagen
+weight: 20
 ---
 Der Text von FU geht davon aus, dass wenigstens eine von euch schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.
 

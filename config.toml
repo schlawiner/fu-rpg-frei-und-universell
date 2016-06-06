@@ -86,6 +86,11 @@ googleAnalytics = ""
 	url    = "07-anhang/"
 	weight = 70
 
+	[[menu.main]]
+		name   = "[Impressum]"
+		url    = "impressum"
+		weight = 100
+
 
 
 
