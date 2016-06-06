@@ -80,6 +80,7 @@ body { font-family: "Alegreya"; }
   background-color: #eee;
   padding: 0.2em;
   border: 1pt dashed #000;
+  border-radius: 5px;
 }
 
 h2, h3
