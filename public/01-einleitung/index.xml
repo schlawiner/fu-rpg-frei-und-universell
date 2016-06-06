@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>01-einleitungs on FU - Frei und universell</title>
-    <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
+    <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
     <description>Recent content in 01-einleitungs on FU - Frei und universell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 05 Jun 2016 21:46:15 +0200</lastBuildDate>
-    <atom:link href="http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Einleitung</title>
-      <link>http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
+      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:15 +0200</pubDate>
       
-      <guid>http://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</guid>
+      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</guid>
       <description>
+
+&lt;h2 id=&#34;über-fu&#34;&gt;Über FU&lt;/h2&gt;
 
 &lt;p&gt;FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.&lt;/p&gt;
 
@@ -41,7 +43,7 @@
 &lt;p&gt;Regelbeispiele sind so formatiert. Überall im Haupttext findest du solche Blöcke, die dir die Regeln in Aktion zeigen. Nach deinem ersten Spiel musst du sie wahrscheinlich auch nicht noch einmal lesen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Außerdem gibt auf vielen Seiten &lt;del&gt;(ganz unten)&lt;/del&gt; &amp;ldquo;Seitenleisten&amp;rdquo;. Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Die Seitenleisten erkennst du leicht an &lt;em&gt;(am Ende gewählte Markierung einsetzen!) einer Linie, die sie vom Haupttext trennt, und an ihrer dreispaltigen Formatierung.&lt;/em&gt; Dort kannst du immer dann nachschauen, wenn du zum &amp;ldquo;Wie&amp;rdquo; und &amp;ldquo;Wann&amp;rdquo; einer bestimmten Regel Klärung brauchst.&lt;/p&gt;
+&lt;p&gt;Außerdem gibt zu vielen Themen Anmerkungskästen. Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem hellblauen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du zum &amp;ldquo;Wie&amp;rdquo; und &amp;ldquo;Wann&amp;rdquo; einer bestimmten Regel Klärung brauchst.&lt;/p&gt;
 
 &lt;p&gt;Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfacheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.&lt;/p&gt;
 </description>

@@ -1,0 +1,50 @@
+.article ol, .article p, .article ul {
+    margin-top: 0.3em;
+}
+
+blockquote p {
+    margin-top: 1em;
+    padding-top: 1em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 1px;
+    -webkit-margin-end: 1px;
+}
+
+blockquote {
+    margin: 1em;
+    border-top: 0.1em solid;
+    border-bottom: 0.1em solid;
+    padding: 0 1em;
+    font-family: Palatino, Georgia, serif;
+    /*font-style: italic;*/
+    font-size: 1.125em;
+    /*line-height: 1.5;
+    letter-spacing: 0.05em;*/
+    color: black;
+    border-color: #ccc;
+    border-color: rgba(0,0,0,0.2);
+    -webkit-border-radius: 0.25em;
+    -moz-border-radius: 0.25em;
+    -o-border-radius: 0.25em;
+    border-radius: 0.25em;
+}
+
+/* Change admonition-note color to a paler blue background and dark text*/
+.note {
+  margin-top: 2em;
+  background-color: #ccf5ff;
+  color: #002733;
+}
+
+/*smaller padding-top for the header in admonition-notes*/
+.note h2 {
+  padding: 2em 0 0 0;
+  margin-top: -2.25em;
+}
+
+.project .logo img {
+  border-radius:0%
+}
+
+.article .wrapper{padding:90px 24px 96px}
