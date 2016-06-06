@@ -2,6 +2,7 @@
 date: 2016-06-05T21:46:15+02:00
 title: Einleitung
 ---
+## Über FU
 FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
 
 Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erschaffen, und das mit kleinstmöglichen Aufwand und Vorbereitung.
@@ -24,6 +25,6 @@ FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten S
 
 > Regelbeispiele sind so formatiert. Überall im Haupttext findest du solche Blöcke, die dir die Regeln in Aktion zeigen. Nach deinem ersten Spiel musst du sie wahrscheinlich auch nicht noch einmal lesen.
 
-Außerdem gibt auf vielen Seiten ~~(ganz unten)~~ "Seitenleisten". Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Die Seitenleisten erkennst du leicht an *(am Ende gewählte Markierung einsetzen!) einer Linie, die sie vom Haupttext trennt, und an ihrer dreispaltigen Formatierung.* Dort kannst du immer dann nachschauen, wenn du zum "Wie" und "Wann" einer bestimmten Regel Klärung brauchst.
+Außerdem gibt zu vielen Themen Anmerkungskästen. Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem hellblauen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du zum "Wie" und "Wann" einer bestimmten Regel Klärung brauchst.
 
 Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfacheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.

@@ -1,4 +1,4 @@
-baseurl = "http://schlawiner.github.io/fu-rpg-frei-und-universell/"
+baseurl = "https://schlawiner.github.io/fu-rpg-frei-und-universell/"
 languageCode = "de-de"
 title = "FU - Frei und universell"
 theme = "hugo-material-docs"
@@ -24,7 +24,9 @@ googleAnalytics = ""
 	permalink = "#"
 
 	# Custom assets
-	custom_css = []
+	custom_css = [
+		"stylesheets/custom_style.css"
+	]
 	custom_js  = []
 
 	# Syntax highlighting theme

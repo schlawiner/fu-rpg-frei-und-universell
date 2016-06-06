@@ -72,20 +72,8 @@ Pour résoudre une action dont l'issue est incertaine, lancez un d6. Votre but e
 Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu erfinden und zeigt der Erzählerin, welche Rolle sie spielen werden.
 Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein schon vorgefertigtes Spielweltmodul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
 
-<!--## Before play
-Before anything else, you and your friends must
-decide what type of game you want to play, who the characters are going to be, and where your story takes place. Knowing this will help players create cool char- acters, and direct the Narrator in the role they will take.
- ese decisions might already be made, either by the Narrator, or a pre-made setting module. If not, work together to come up with something everyone is excited to play.
-## Avant de jouer
-
-Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
-
----
-
-<!-- \columnsbegin -->
-
-<!-- <div markdown="1" class="sidebar"> -->
-
+{{< note >}}
+## Anmerkungen
 ### Sprecht vor dem Spielen miteinander!
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
@@ -96,36 +84,8 @@ Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahren
 
 Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob die Spielerinnen sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
-<!--### Talk before play!
-Have a conversation about the type of game you will play, so everyone starts in the same “space”. Establish tone, theme and/or expectations. It is important to know whether you will be cheered or jeered for outrageous over- acting, or bloody acts of violence.
-Throw around ideas on setting, im- agery, set-pieces, cool clichés and funky
-scenes.  This way everyone gets a clear picture of what the game is going to be about.
- is discussion will also clue the Narrator in on what players want (or need) out of the game. It establishes whether players want to feel like epic heroes, down-trodden underdogs, or tragic anti-heroes.
-
-### Discutez avant de jouer !
-
-Conversez au sujet du type de jeu auquel vous jouerez, afin que tout le monde parte sur les mêmes bases. Définissez un ton, un thème et/ou des attentes. Il est important de comprendre qui sera félicité ou honni pour une réaction exagérée, ou des actes de violence gratuite. Lancez des idées à propos du décor, des images, des scènes classiques et enthousiasmantes ou des beaux clichés. De cette façon, tout le monde a une idée claire de ce à quoi le jeu peut ressembler.
-
-Cette discussion peut amener des éléments au Narrateur sur ce que veulent les joueurs (ou leurs besoins) en termes de jeu. Il saura si les joueurs veulent ressentir le souffle de l'épopée, vivre en opprimés ou être de tragiques anti-héros.-->
-
 ### Der Sofort-Genre-Generator
 
 Für schnelle Spiele zum sofortigen Loslegen schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
-
-<!-- \columnsend -->
-
----
-
-<!--
-### The Insta-Genre-Generator
-For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
-
-
-### Le Générateur Insta-Genre
-
-Pour des aventures en mode rapide, faites écrire à tout le monde deux genres ou décors sur des bouts de papier. Mettez-les dans un chapeau et tirez-en deux au sort. Vous obtiendrez : "Apocalypse Suburbaine", "Super-héros Médiéval", "Université des Arts Martiaux", etc. Discutez du ton que vous voulez lui donner, des intrigues possibles et des personnages. Vous êtes prêts à jouer !
-
-
-[^1] Anmerkung der Übersetzer: Der Autor macht hier ein Wortspiel - die Aussage "beating the odds" bezieht sich normalerweise darauf, etwas entgegen aller Wahrscheinlichkeit zu schaffen. Das Wort "odd" bedeutet aber auch *ungerade* Zahlen als Gegenteil von *gerade* und bezieht sich im Spiel auf ungerade Würfelwerte (1,3,5), die hier für schlechte Würfe stehen.
--->
+{{< /note >}}
