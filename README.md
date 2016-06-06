@@ -2,7 +2,7 @@
 
 Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 
-Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht dementsprechend ebenso unter der Creative-Commons-Lizenz.
+Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht ebenso unter der Creative-Commons-Lizenz.
 
 ## Copyright notice
 
