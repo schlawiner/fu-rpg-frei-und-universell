@@ -1,6 +1,6 @@
 # FU: Frei und universell
 
-Dieses Dokument als SRD-Website: <schlawiner.github.io/fu-rpg-frei-und-universell>
+Dieses Dokument als SRD-Website: <https://schlawiner.github.io/fu-rpg-frei-und-universell>
 
 Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 
