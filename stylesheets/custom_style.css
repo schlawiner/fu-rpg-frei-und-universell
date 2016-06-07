@@ -48,3 +48,25 @@ blockquote {
 }
 
 .article .wrapper{padding:90px 24px 96px}
+
+/*Remove the weird list item arrow before each item för buttons*/
+.palette-primary-cyan .article ul>li:before {
+    content: "";
+}
+
+.palette-primary-cyan .repo a {
+  color: white;
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 10px;
+  text-transform: none;
+  border-bottom: none;
+  width: 25em;
+  height: 5em;
+}
+
+.repo {
+    text-align: left;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
