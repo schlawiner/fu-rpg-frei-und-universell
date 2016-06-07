@@ -5,7 +5,32 @@ type: index
 ---
 Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 
-Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht dementsprechend ebenso unter der Creative-Commons-Lizenz.
+<ul class="repo">
+          <li class="repo-download">
+            <a href="/01-einleitung/"  title="Einleitung">Kapitel 1: Einleitung</a>
+          </li>
+          <li class="repo-download">
+            <a href="/02-grundlagen/"  title="Grundlagen">Kapitel 2: Die Grundlagen</a>
+          </li>
+          <li class="repo-download">
+            <a href="/03-figuren/"  title="Figuren">Kapitel 3: Die Figuren</a>
+          </li>
+          <li class="repo-download">
+            <a href="/04-handeln/"  title="Handeln">Kapitel 4: Etwas tun</a>
+          </li>
+          <li class="repo-download">
+            <a href="/05-erzaehlerin/"  title="Erzählerin">Kapitel 5: Die Erzählerin</a>
+          </li>
+          <li class="repo-download">
+            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer">Kapitel 6: Beispielabenteuer</a>
+          </li>
+          <li class="repo-download">
+            <a href="/07-anhang/"  title="Anhang">Kapitel 7: Anhang</a>
+          </li>
+        </ul>
+
+
+Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht  ebenso unter der Creative-Commons-Lizenz.
 
 ### Copyright notice FU
 
