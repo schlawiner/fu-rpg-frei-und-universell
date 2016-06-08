@@ -71,6 +71,7 @@ blockquote {
   border-bottom: none;
   width: 15em;
   height: 5em;
+  background-color: #00bcd4;
 }
 
 .repo {
