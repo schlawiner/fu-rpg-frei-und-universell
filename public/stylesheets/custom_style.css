@@ -49,39 +49,60 @@ blockquote {
 
 .article .wrapper{padding:90px 24px 96px}
 
+.article li {
+  margin-left:0;
+}
+
 /*Remove the weird list item arrow before each item för buttons*/
 .palette-primary-cyan .article ul>li:before {
     content: "";
+    margin-left: 0;
 }
 
 .palette-primary-cyan .repo a {
   color: white;
+}
+
+.repo a {
   text-align: left;
   font-size: 14px;
   margin-bottom: 10px;
   text-transform: none;
   border-bottom: none;
-  width: 25em;
+  width: 15em;
   height: 5em;
 }
 
 .repo {
     text-align: left;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
   }
 
-@media only screen and (max-width:479px){
-  .palette-primary-cyan .repo a {
+  .repo li {
+    margin-left: 0px;
+    padding-right: 2px;
+  }
+
+  .repo-download: {
+    padding: 0em;
+    margin-left: 0px;
+  }
+
+@media screen and (max-width: 375px){
+  .repo a {
     width: 15em;
     height: 5em;
   }
 
   .repo {
-      text-align: left;
-      margin-left: 0em;
-      margin-right: 0em;
     }
 
+ .repo li {
+      white-space:normal;
+      display:inline-block;
+      padding-right: 0.5em;
+    }
 
 }
