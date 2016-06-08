@@ -7,25 +7,27 @@ Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformu
 
 <ul class="repo">
           <li class="repo-download">
-            <a href="/01-einleitung/"  title="Einleitung">Kapitel 1: Einleitung</a>
+            <a href="/01-einleitung/"  title="Einleitung">Kapitel 1: Einleitung</br>
+            <img src="/images/ic_info_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/02-grundlagen/"  title="Grundlagen">Kapitel 2: Die Grundlagen</a>
+            <a href="/02-grundlagen/"  title="Grundlagen">Kapitel 2: Die Grundlagen</br><img src="/images/ic_description_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/03-figuren/"  title="Figuren">Kapitel 3: Die Figuren</a>
+            <a href="/03-figuren/"  title="Figuren">Kapitel 3: Die Figuren</br>
+            <img src="/images/ic_group_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/04-handeln/"  title="Handeln">Kapitel 4: Etwas tun</a>
+            <a href="/04-handeln/"  title="Handeln">Kapitel 4: Etwas tun</br><img src="/images/ic_pan_tool_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/05-erzaehlerin/"  title="Erzählerin">Kapitel 5: Die Erzählerin</a>
+            <a href="/05-erzaehlerin/"  title="Erzählerin">Kapitel 5: Die Erzählerin</br><img src="/images/ic_face_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer">Kapitel 6: Beispielabenteuer</a>
+            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer">Kapitel 6: Beispielabenteuer</br><img src="/images/ic_explore_white_24px.svg"></a>
           </li>
           <li class="repo-download">
-            <a href="/07-anhang/"  title="Anhang">Kapitel 7: Anhang</a>
+            <a href="/07-anhang/"  title="Anhang">Kapitel 7: Anhang</br><img src="/images/ic_list_white_24px.svg"></a>
           </li>
         </ul>
 

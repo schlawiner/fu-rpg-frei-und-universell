@@ -63,6 +63,10 @@ blockquote {
   color: white;
 }
 
+.repo img {
+  float: left;
+}
+
 .repo a {
   text-align: left;
   font-size: 14px;
