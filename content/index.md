@@ -3,7 +3,7 @@ date: 2016-06-06T16:13:38+02:00
 title: "FU : Frei und universell"
 type: index
 ---
-Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
+Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche.
 
 <ul class="repo">
           <li class="repo-download">
@@ -31,7 +31,7 @@ Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformu
           </li>
         </ul>
 
-
+Die Struktur des Dokuments basiert auf der [französischen Übersetzung von Bruno Bord](https://github.com/brunobord/fu-rpg-libre-et-universel).
 Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht  ebenso unter der Creative-Commons-Lizenz.
 
 ### Copyright notice FU
