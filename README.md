@@ -1,4 +1,6 @@
-# FU : Frei und universell
+# FU: Frei und universell
+
+Dieses Dokument als SRD-Website: <https://schlawiner.github.io/fu-rpg-frei-und-universell>
 
 Dies ist eine Übersetzung von [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche. Die Struktur des Dokuments basiert auf der französischen Übersetzung von Bruno Bord.
 
@@ -23,7 +25,7 @@ Weitere Bearbeitung und Korrekturlesung durch: ...
 ### Über Git auf der Kommandozeile arbeiten
 Ich lege für jede Korrekturlesung einen eigenen Git-Branch an, den man als Korrekturleserin auschecken kann (ich füge euch als Contributors hinzu). Darin könnt ihr frei Änderungen machen, und ich merge am Ende diesen Branch mit Master.
 
-Damit es möglich ist, einzelne Korrekturvorschläge zu übernehmen und andere eventuell zu verwerfen, ist es am besten, nach jeder einzelnen Korrektur zu committen. Dann können über "cherry picking" bestimmte Commits selektiv gemergt werden. Die Einfachste Möglichkeit, das über die Konsole in einer Zeile zu machen:
+Damit es möglich ist, einzelne Korrekturvorschläge zu übernehmen und andere eventuell zu verwerfen, ist es am besten, nach jeder einzelnen Korrektur zu committen. Dann können über "cherry picking" bestimmte Commits selektiv gemergt werden. Die einfachste Möglichkeit, das über die Konsole in einer Zeile zu machen:
 
     git commit -a -m "Kommentar"
 
