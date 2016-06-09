@@ -32,7 +32,7 @@ Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben
 ### Wie plant man eine Szene?
 Die Szene zu planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
-Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Einzelheiten zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
+Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
 
 ### Was ist eine Zielsetzung?
 Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
@@ -116,48 +116,48 @@ Wenn du eine Handlung versuchst, stellst du die Frage: "Erreicht meine Figur was
 > - Nein, und...
 >
 
-*Ja* und *Nein* sind klar - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, machst du eine zusätzliche Aussage darüber, wie die Handlung erfolgreich ist oder fehlschlägt. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder eine Einzelheit zu einer Szene hinzufügen.
+*Ja* und *Nein* sind klar - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, machst du eine zusätzliche Aussage darüber, wie die Handlung erfolgreich ist oder fehlschlägt. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.
 
 **Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch genug Platz, damit ihr selbst eigene hinzufügen könnt.
 
-**Einzelheiten**: Dies sind Merkmale der Umgebung oder Szene, die sich durch den Ausgang einer Handlung verändern können. Einzelheiten können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Einzelheiten sind immer eng verknüpft mit der Szene und der versuchten Handlung.
+**Details**: Dies sind Merkmale der Umgebung oder Szene, die sich durch den Ausgang einer Handlung verändern können. Details können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Details sind immer eng verknüpft mit der Szene und der versuchten Handlung.
 
 {{<note>}}
 ## Anmerkungen zu Ergebnissen
 ### Beispiele für Erfolg & Misserfolg
 Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage **"Überspringt Sir Camden die Hecke?"** passieren würde:
 
-- **Ja, und** er holt Lord Kane ein. Dies ist eine Einzelheit, die die Szene verändert.  
-- **Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+- **Ja, und** er holt Lord Kane ein. Dies ist ein Detail, das die Szene verändert.  
+- **Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
 - **Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend - **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
-- **Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Diese Einzelheit gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.  
-- **Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Einzelheit hinzugefügt.  
+- **Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses Detail gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.  
+- **Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
 - **Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
 
-### Wer entscheidet über Zustände & Einzelheiten?
-Alle können Zustände oder Einzelheiten vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine angemessen dramatische Auswirkung. Schöner ist es jedoch, wenn alle am Tisch ihre coolen Ideen einbringen.  
-Wenn es darum geht, welcher Zustand oder welche Einzelheit am Ende auf das Ergebnis angewendet wird, hat die Erzählerin aber immer das letzte Wort.
+### Wer entscheidet über Zustände & Details?
+Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine angemessen dramatische Auswirkung. Schöner ist es jedoch, wenn alle am Tisch ihre coolen Ideen einbringen.  
+Wenn es darum geht, welcher Zustand oder welches Detail am Ende auf das Ergebnis angewendet wird, hat die Erzählerin aber immer das letzte Wort.
 
 ### Wann soll ich Zustände verwenden?
 Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur nach einem geringen Erfolg oder sogar völligen Misserfolg das Leben etwas schwerer. Du kannst auch einer anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die gut für deine Figur ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, kannst du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand **müde** erhalten. Wenn ihr Zustände so benutzt, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.
 
-### Wann soll ich Einzelheiten benutzen?
-Füge Einzelheiten hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
-Einzelheiten werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
+### Wann soll ich Details benutzen?
+Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
+Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
 
-Einzelheiten können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
 
 {{</note>}}
 
 ## Modifikatoren
 Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung leichter oder schwerer. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
 
-**Dinge einfacher nachen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Einzelheiten, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
+**Dinge einfacher nachen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
 
 > Im Wald versucht Sir Camden, Lord Kane aufzuspüren. Du merkst an, dass der Ritter ein **guter Jäger** ist, daher bekommst du einen weiteren W6. Du wirfst 2W6 und es fallen eine 5 und eine 4. Du nimmst die 4 und es wird entschieden, dass Sir Camden nach kurzer Suche die Spuren von Lord Kane findet und ihnen zu einer finsteren Zitadelle folgt ...
 
 
-**Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Einzelheiten, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
+**Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
 > Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. "Gelangt Vance unverletzt zun Geländewagen?" Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
@@ -247,12 +247,12 @@ Spiele deine Figur und beschreibe was passiert. Arbeite auf das Ziel hin.
 Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. "Habe ich Erfolg?")
 
 ### 4. Modifikatoren einrechnen
-+1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jede Einzelheit der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
++1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
 
-+1 Strafwürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jede Einzelheit der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
++1 Strafwürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
 
 ### 5. Würfeln
 Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Strafwürfel wirfst) gefallene Würfel.
 
 ### 6. Ergebnis beschreiben
-Benutzt das Würfelergebnis zum Beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Einzelheiten an.
+Benutzt das Würfelergebnis zum Beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.
