@@ -14,7 +14,7 @@ Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt
 
 Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen "spielen" ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
-Der Ausgang von Szenen kann durch Würfelwürfe entscheiden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
+Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
 <!-- Scenes and Turns
 play is broken into scenes and turns. A scene is a
@@ -29,7 +29,7 @@ Le jeu est divisé en scènes et tours. Une scène est une moment de l'histoire 
 Pendant une scène les joueurs et le Narrateur décrivent ce que les personnages font. Les joueurs "jouent la comédie" pour interpréter leurs personnages, étant leur voix et leur corps, tandis que le Narrateur fait de même pour tous les autres personnages, les créatures et les monstres de la scène.
 -->
 
-Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung tun kann, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder irgendeine andere Aufgabe.
+Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder irgendeine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
@@ -76,7 +76,7 @@ Certains groupes de joueurs peuvent "poser" une scène à tour de rôle, et c'es
 
 Die Szene zu planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
-Beziehe beim Beschreiben der Szene alle Sinne mit ein stelle interessante oder wichtige Einzelheiten zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
+Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Einzelheiten zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
 
 <!--
 How do you “set a scene”?
@@ -132,7 +132,7 @@ Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile
 
 ## Ungerade Zahlen vermeiden
 
-Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden [^1].
+Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
 
 Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.
 
@@ -265,7 +265,7 @@ Libre à vous de composer vos propres questions et réponses, en fonction des be
 
 ### Würfelergebnis-Alternativen
 
-Manche Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
+Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
 
 | Wurf | Bekommst du, was du willst?                                                            |
 |:-----|:---------------------------------------------------------------------------------------|
@@ -353,7 +353,7 @@ Quand vous tentez une action, vous posez la question : "Est-ce que mon personnag
 <!--
 Yes and No are pretty straight forward - they tell you whether the action succeeded or not.  e and and but are quali ers that modify how good the success or how bad the failure was. When you get a quali er you make an extra statement about how the action succeeded or failed.  is extra statement can add a Condition to a character or a Detail to a scene. -->
 
-**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewußtlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch genug Platz, damit ihr selbst eigene hinzufügen könnt.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch genug Platz, damit ihr selbst eigene hinzufügen könnt.
 
 **Einzelheiten**: Dies sind Merkmale der Umgebung oder Szene, die sich durch den Ausgang einer Handlung verändern können. Einzelheiten können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Einzelheiten sind immer eng verknüpft mit der Szene und der versuchten Handlung.
 
@@ -519,7 +519,7 @@ Later in his quest, Sir Camden must scale a sheer (-) cli .  e knight is strong 
 
 ### Beispiel-Modifikatoren
 
-Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinaus zu ziehen. "Kann Vance die Wache abschütteln?" Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3 und du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
+Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. "Kann Vance die Wache abschütteln?" Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
 
 <!-- Example of Modifiers
 Captain Vance hurtles along in the jeep, when a guard tries to drag him out through the window. “Will Vance shake the guard o ?” It is hard (+) to drag Vance out the window, but he is wounded (-) and surprised (-), and the attacker is very strong (-). In total you must roll 2 penalty dice. You roll 3d6 scoring a 2, 4 and 3, and must take the worst result, the 3.  e guard wrestles Vance out of the jeep.
@@ -601,7 +601,7 @@ Re-roll: Spend a FU point a er a beat the odds roll to re-roll a single die.  e 
 You can spend multiple FU points on any given action, and for either or both e ects. It is completely within the rules to spend a FU point to add a bonus
 die before a roll, then another FU point to re-roll a die a erwards. -->
 
-> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinem Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
+> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinen Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
 
 **FU-Punkte verdienen:** FU-Punkte verdienen sich die Spielerinnen, indem sie coole Dinge machen und ihre Rolle gut spielen. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle "Oooh!" rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
 
@@ -674,7 +674,7 @@ C'est un bon outil pour changer le ton ou le style du jeu. Si vous voulez faire 
 
 ### Andere Möglichkeiten, FU einzusetzen
 
-Probiert ein wenig mit FU-Punkten herum. Experimentiert damit und passt ihren Einsatz an eure Spielgruppe oder eure Geschichte an. Hier ein paar Vorschläge:
+Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe oder eure Geschichte an. Hier ein paar Vorschläge:
 
 <!-- Other ways to use FU
 Play around with FU Points. Experi- ment, or adjust the ways you use them to suit your gaming group or the type of story you are playing. Here are some suggestions;
@@ -831,6 +831,6 @@ Décrivez le résultat
 Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire. -->
 
 ----
-[^1] Anmerkung der Übersetzer: Siehe die Anmerkung im Kapitel "Grundlagen"
+<!-- [^1] Anmerkung der Übersetzer: Siehe die Anmerkung im Kapitel "Grundlagen" -->
 
 <!-- [^1] NdT: même remarque qu'au chapitre "Les bases". -->
