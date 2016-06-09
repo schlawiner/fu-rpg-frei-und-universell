@@ -55,8 +55,8 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 >
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
-| Wurf | Bekommst du, was du willst?                                                            |
-|:-----|:---------------------------------------------------------------------------------------|
+| Wurf | Bekommst du, was du willst?                                                             |
+|:-----|:----------------------------------------------------------------------------------------|
 | 6    | **Ja, und ...** Du bekommst, was du willst, und noch etwas mehr.                        |
 | 4    | **Ja ...** Du bekommst, was du willst.                                                  |
 | 2    | **Ja, aber ...** Du bekommst, was du willst, aber es hat einen Preis.                   |
@@ -90,14 +90,14 @@ Ihr könnt euch gerne eigene Fragen und Antworten ausdenken, die zu eurer Gruppe
 
 Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
 
-| Wurf | Bekommst du, was du willst?                                                            |
-|:-----|:---------------------------------------------------------------------------------------|
-| 6    | Ja, und...                        |
-| 5    | Ja...                                             |
-| 4    | Ja, aber...|
-| 3    | Nein, aber...|
-| 2    | Nein...|
-| 1    | Nein, und...         |
+| Wurf | Bekommst du, was du willst? |
+|:-----|:----------------------------|
+| 6    | Ja, und...                  |
+| 5    | Ja...                       |
+| 4    | Ja, aber...                 |
+| 3    | Nein, aber...               |
+| 2    | Nein...                     |
+| 1    | Nein, und...                |
 
 {{</note>}}
 
@@ -143,7 +143,7 @@ Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispiele
 Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
 Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
 
-Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
 
 {{</note>}}
 
