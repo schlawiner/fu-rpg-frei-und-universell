@@ -3,8 +3,6 @@ date: 2016-06-05T21:46:52+02:00
 title: Etwas tun
 weight: 40
 ---
-# Etwas tun
-
 Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern darum, dass alle Freude daran haben, die gemeinsame Geschichte zu entwickeln.
 
 ## Szenen und Runden
@@ -129,7 +127,7 @@ Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der
 
 - **Ja, und** er holt Lord Kane ein. Dies ist ein Detail, das die Szene verändert.  
 - **Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
-- **Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend - **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
+- **Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
 - **Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses Detail gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.  
 - **Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
 - **Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
