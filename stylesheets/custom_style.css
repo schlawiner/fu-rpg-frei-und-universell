@@ -1,5 +1,9 @@
+.article p, .article h3, article h4{
+  font-size:110%;
+}
+
 .article ol, .article p, .article ul {
-    margin-top: 0.3em;
+    margin-top: 0.7em;
 }
 
 blockquote p {
@@ -18,7 +22,7 @@ blockquote {
     padding: 0 1em;
     font-family: Palatino, Georgia, serif;
     /*font-style: italic;*/
-    font-size: 1.125em;
+    font-size: 1em;
     /*line-height: 1.5;
     letter-spacing: 0.05em;*/
     color: black;
