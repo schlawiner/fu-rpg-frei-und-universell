@@ -173,8 +173,8 @@ Captain Vance ducks as another hail of bullets peppers the wall he is hiding beh
 >
 > Le Capitaine Vance se jette à couvert alors que les balles fusent au travers du mur derrière lui. Il s'empare de la radio endommagée, trifouille les boutons et essaie d'appeler des renforts. Vous lancez un d6 et c'est un 1. Vance n'arrive pas du tout à trouver la bonne fréquence et une balle perdue détruit la radio. -->
 
-| Wurf | Bekommst du, was du willst?                                                            |
-|:-----|:---------------------------------------------------------------------------------------|
+| Wurf | Bekommst du, was du willst?                                                             |
+|:-----|:----------------------------------------------------------------------------------------|
 | 6    | **Ja, und ...** Du bekommst, was du willst, und noch etwas mehr.                        |
 | 4    | **Ja ...** Du bekommst, was du willst.                                                  |
 | 2    | **Ja, aber ...** Du bekommst, was du willst, aber es hat einen Preis.                   |
@@ -205,7 +205,7 @@ No, and... You don’t get what you want, and things get worse.
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                           |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.       |
 | 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                               |
-| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | -->
+| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | --> |
 
 ----
 
@@ -267,14 +267,14 @@ Libre à vous de composer vos propres questions et réponses, en fonction des be
 
 Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
 
-| Wurf | Bekommst du, was du willst?                                                            |
-|:-----|:---------------------------------------------------------------------------------------|
-| 6    | Ja, und...                        |
-| 5    | Ja...                                             |
-| 4    | Ja, aber...|
-| 3    | Nein, aber...|
-| 2    | Nein...|
-| 1    | Nein, und...         |
+| Wurf | Bekommst du, was du willst? |
+|:-----|:----------------------------|
+| 6    | Ja, und...                  |
+| 5    | Ja...                       |
+| 4    | Ja, aber...                 |
+| 3    | Nein, aber...               |
+| 2    | Nein...                     |
+| 1    | Nein, und...                |
 
 
 <!-- Alternative Dice Rolls
@@ -447,7 +447,7 @@ Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les �
 Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
 Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
 
-Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gafahr, bis jemand das Feuer löscht!
+Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
 
 <!-- When should I use Details?
 Apply Details when the action is like- ly to change the scene or environment in some way.  This might be a change in the power dynamic of the scene (“Yes, he leaps the hedge and he catches up with Lord Kane.”); or a change in the physical environment (“No, but he spots a gap in the hedge.”).
