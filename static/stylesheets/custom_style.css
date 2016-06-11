@@ -44,7 +44,7 @@ blockquote {
 /*smaller padding-top for the header in admonition-notes*/
 .note h2 {
   padding: 2em 0 0 0;
-  margin-top: -2.25em;
+  margin-top: -2.6em;
 }
 
 .project .logo img {
