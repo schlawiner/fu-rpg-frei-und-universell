@@ -1,12 +1,12 @@
 # Race to the Temple of Tot
-# Das Rennen zum Tempel von Toth 
+# Das Rennen zum Tempel von Toth
 
 > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
 
-> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Gils Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
+> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Giles Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
 
  This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
- 
+
 Diese kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt dir eine Möglichkeit, mit der du deine eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten kannst. Nutze gern die vorgefertigten Figuren am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Figuren unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
@@ -20,7 +20,7 @@ Cette courte aventure vous plongera rapidement dans l'action. Elle montre une ma
 
 Before starting play have a quick discussion about the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.
 
-Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix! 
+Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix!
 
 Sprecht vor dem Spiel kurz über die Stimmung und den Stil den ihr spielen wollt. Das Szenario gehört mit seiner krassen Action, den ungeheuerlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stelle sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
 
@@ -87,11 +87,11 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |         **Gear** | Noisy Sub-machine guns                                                         |
 |   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht |
 
-|      Gegenspieler | Nazi-Handlanger                                                           |
-|-----------------:|:-------------------------------------------------------------------------------|
-| **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau                                    |
-| **Ausrüstung** | Laute Maschinengewehre                                                         |
-|   **Zustände** |  □ Verwirrt, □ Eingekreist, □ Aufgehalten, □ Außer Gefecht |
+|    Gegenspieler | Nazi-Handlanger                                           |
+|----------------:|:----------------------------------------------------------|
+| **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau |
+|  **Ausrüstung** | Laute Maschinengewehre                                    |
+|    **Zustände** | □ Verwirrt, □ Eingekreist, □ Aufgehalten, □ Außer Gefecht |
 
 <!--
 |   Brutes Nazies |                                                    |
@@ -133,10 +133,10 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 | **Deskriptoren** | Ancient glyphs, Brittle paper                   |
 |   **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp |
 
-|        Herausforderung | Die Übersetzung der Karte                             |
-|-----------------:|:------------------------------------------------|
-| **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                   |
-|   **Zustände** □ Zerfleddert, □ Ruiniert, □ Verschmiert, □ Zu Asche verbrannt |
+|                                                             Herausforderung | Die Übersetzung der Karte               |
+|----------------------------------------------------------------------------:|:----------------------------------------|
+|                                                             **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier |
+| **Zustände** □ Zerfleddert, □ Ruiniert, □ Verschmiert, □ Zu Asche verbrannt |                                         |
 
 **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
 
@@ -160,7 +160,7 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 **Qu'est-ce qui peut mal tourner ?** La carte est endommagée ; Les personnages se trompent dans leur traduction ; Ils n'arrivent pas à lire la carte et doivent faire appel à un expert en langues anciennes.
 -->
 
-### The Gou Zou Gorge 
+### The Gou Zou Gorge
 ### Die Gou-Zou-Schlucht
 
 **Scene**: The majestic Gou Zou Gorge, half a mile
@@ -182,11 +182,11 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 |        **Gear** | Delicate Flying Harness, Deadly Stick Grenade     |
 |  **Conditions** | ☐ Confused, ☐ Grounded, ☐ Slowed, ☐ Out of Action |
 
-|     Gegenspieler | Nazi-Flugtruppen                                 |
-|----------------:|:--------------------------------------------------|
+|    Gegenspieler | Nazi-Flugtruppen                                         |
+|----------------:|:---------------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
-| **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate     |
-|  **Zustände** | □ Verwirrt, □ Gestrandet, □ Aufgehalten, □ Außer Gefecht |
+|  **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate   |
+|    **Zustände** | □ Verwirrt, □ Gestrandet, □ Aufgehalten, □ Außer Gefecht |
 
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
@@ -198,10 +198,10 @@ to the number of characters.
 | **Deskriptoren** | Wide but narrow                |
 |   **Conditions** | ☐ Rickety, ☐ Blown all to hell |
 
-|        Herausforderung | Gou-Zou-Brücke                 |
-|-----------------:|:-------------------------------|
-| **Beschreiber** | Ohne Zug drauf breit genug, mit Zug ziemlich schmal              |
-|   **Zustände** | □ Wacklig, □ In die Luft gejagt |
+| Herausforderung | Gou-Zou-Brücke                                      |
+|----------------:|:----------------------------------------------------|
+| **Beschreiber** | Ohne Zug drauf breit genug, mit Zug ziemlich schmal |
+|    **Zustände** | □ Wacklig, □ In die Luft gejagt                     |
 
 **Notes:** You know you must introduce an approach- ing train, right?
 
@@ -257,11 +257,11 @@ to the number of characters.
 |         **Gear** | Poison Darts, Rusting Spears      |
 |   **Conditions** | ☐ Disarmed, ☐ Set-off, ☐ Revealed |
 
-|        Herausforderung | Hinterhältige Fallen                   |
-|-----------------:|:----------------------------------|
+| Herausforderung | Hinterhältige Fallen                  |
+|----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
-|         **Ausrüstung** | Giftpfeile, Rostige Speere      |
-|   **Zustände** | □ Entwaffnet, □ Ausgelöst, □ Entdeckt |
+|  **Ausrüstung** | Giftpfeile, Rostige Speere            |
+|    **Zustände** | □ Entwaffnet, □ Ausgelöst, □ Entdeckt |
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
@@ -273,11 +273,11 @@ to the number of characters.
 |         **Gear** | Heavy Stone Weapons                                 |
 |   **Conditions** | ☐ Damaged, ☐ Off balance, ☐ Slowed, ☐ Out of Action |
 
-|        Gegenspieler | Steinwächter                   |
-|-----------------:|:----------------------------------|
-| **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                   |
-|         **Ausrüstung** | Schwere Steinwaffen      |
-|   **Zustände** | □ Beschädigt, □ Aus dem Gleichgewicht, □ Verlangsamt, □ Außer Gefecht  |
+|    Gegenspieler | Steinwächter                                                          |
+|----------------:|:----------------------------------------------------------------------|
+| **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                                    |
+|  **Ausrüstung** | Schwere Steinwaffen                                                   |
+|    **Zustände** | □ Beschädigt, □ Aus dem Gleichgewicht, □ Verlangsamt, □ Außer Gefecht |
 
 **Notes**: There is one Statue Guardian for every two characters. The large, heavy weapons can strike multiple characters at once.
 
@@ -337,11 +337,11 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 |         **Gear** | Polished Sabre                                   |
 |   **Conditions** | ☐ Confused, ☐ Injured, ☐ Slowed, ☐ Out of Action |
 
-|        Gegenspieler | Giles Fishburne                                  |
-|-----------------:|:-------------------------------------------------|
-| **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                   |
-|         **Ausrüstung** | Polierter Säbel                                   |
-|   **Zustände** | □ Verwirrt, □ Verletzt, □ Aufgehalten, □ Außer Gefecht |
+|    Gegenspieler | Giles Fishburne                                        |
+|----------------:|:-------------------------------------------------------|
+| **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                     |
+|  **Ausrüstung** | Polierter Säbel                                        |
+|    **Zustände** | □ Verwirrt, □ Verletzt, □ Aufgehalten, □ Außer Gefecht |
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
@@ -389,12 +389,12 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Find the Idol of Tot                                                                    |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Figur | Tennessee Smith                                                                         |
-|-----------------:|:----------------------------------------------------------------------------------------|
-| **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                  |
-|         **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                          |
-|        **Motiv** | Den Götzen von Toth finden                                                                    |
-|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+|           Figur | Tennessee Smith                                                                                         |
+|----------------:|:--------------------------------------------------------------------------------------------------------|
+| **Beschreiber** | Geschickt, Ausgeglichen, Bullenpeitsche verwenden, Höhenangst                                           |
+|  **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                                  |
+|       **Motiv** | Den Götzen von Toth finden                                                                              |
+|    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Tennessee Smith is a mild-mannered profes- sor of history, but in his spare time he travels into the wilderness in search of lost artefacts and treasure. Ruggedly handsome, he always seems to keep his cool, no matter how much danger he is in—and he tends to get into a lot of it.
 
@@ -432,12 +432,12 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | See the 7 wonders of the world                                                          |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Figur | Jimmy Sweet                                                                             |
-|-----------------:|:----------------------------------------------------------------------------------------|
-| **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                              |
-|         **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                  |
-|        **Motiv** | Die Sieben Weltwunder sehen                                                          |
-|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+|           Figur | Jimmy Sweet                                                                                             |
+|----------------:|:--------------------------------------------------------------------------------------------------------|
+| **Beschreiber** | Schnell, Neunmalklug, Unterschätzt, Jung                                                                |
+|  **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                        |
+|       **Motiv** | Die Sieben Weltwunder sehen                                                                             |
+|    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune.
 
@@ -474,12 +474,12 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |        **Drive** | Look out for Tennessee Smith                                                            |
 |   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
 
-|        Figur | Harvey Reed                                                                             |
-|-----------------:|:----------------------------------------------------------------------------------------|
-| **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                          |
-|         **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                     |
-|        **Motiv** | Auf Tennessee Smith aufpassen                                                            |
-|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
+|           Figur | Harvey Reed                                                                                             |
+|----------------:|:--------------------------------------------------------------------------------------------------------|
+| **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                                  |
+|  **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                                     |
+|       **Motiv** | Auf Tennessee Smith aufpassen                                                                           |
+|    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Sterbend |
 
 > Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure.
 
@@ -508,12 +508,12 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 ### October Jones, Girl Reporter
 ### October Jones, Junge Reporterin
 
-|        Figur | October Jones                                                                           |
-|-----------------:|:----------------------------------------------------------------------------------------|
+|           Figur | October Jones                                                                                         |
+|----------------:|:------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
-|         **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                           |
-|        **Motiv** | Bekomme den Exklusivbericht über Tennessee Smith                                               |
-|   **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, Benommen, □ Verletzt, □ Sterbend |
+|  **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                                 |
+|       **Motiv** | Bekomme den Exklusivbericht über Tennessee Smith                                                      |
+|    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, Benommen, □ Verletzt, □ Sterbend |
 
 > October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants.
 
