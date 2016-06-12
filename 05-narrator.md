@@ -30,7 +30,7 @@ Parlez aussi pendant le jeu. Encouragez les joueurs à partager leurs pensées e
 
 <!-- If there is going to be talk there needs to be listening. listen to your players and the things they tell you, either in conversation or when they do things with their character. Do stuff that relates to the Descriptors written on the player’s character sheets, because that is what they think is cool. -->
 
-Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn deine Spielerinnen dir etwas sagen, sei es Gespräch oder durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.
+Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn deine Spielerinnen dir etwas sagen, sei direkt es Gespräch oder durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.
 
 <!--(Écouter, c'est bien)
 S'il y a parole, il doit y avoir écoute. Écoutez vos joueurs et ce qu'ils vous racontent, que ce soit par la conversation ou par les actes de leurs personnages. Proposez des choses en relation avec leurs Descripteurs, parce que c'est ce qu'ils estiment "cool".-->
@@ -47,7 +47,7 @@ Plane vor dem Leiten eines Spiels nicht zu weit voraus. Die Würfelergebnisse we
 <!-- **Keep things simple:** Do not complicate your job
 by introducing lots of sub-plots or convoluted twists. Things will get all messed about by themselves and the story will run off on tangents that you never dreamed of.   -->
 
-**Weniger ist mehr:** Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird sich in Richtungen entwickeln, auf die du alleine nie gekommen wärst.
+**Weniger ist mehr:** Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird in Richtungen abschweifen, auf die du alleine nie gekommen wärst.
 
 <!-- **You are not the enemy:** this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to kill everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adversaries, and are expected to do so vigorously but fairly. other times you will get to be an ally, companion, or peer, and once again you should be true to the spirit of the game. -->
 
@@ -55,7 +55,7 @@ by introducing lots of sub-plots or convoluted twists. Things will get all messe
 
 <!-- **Say "yes":** if players make suggestions or ask ques- tions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. encourage this and condently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players in- troduce elements into the story when the time is right. -->
 
-**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich, weil sie interessant finden, was gerade passiert. Sie haben wahrscheinlich eine coole Idee für die Geschichte. Ermuntere sie und sag "ja" zu solchen Eingaben. Das soll nicht heißen, dass die Spielerinnen alles bekommen sollten, was sie möchten – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
+**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich, weil sie interessant finden, was gerade passiert. Sie haben wahrscheinlich eine coole Idee für die Geschichte. Ermuntere sie und sag getrost "ja" zu solchen Eingaben. Das soll nicht heißen, dass die Spielerinnen alles bekommen sollten, was sie möchten – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
 <!-- **Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story. -->
 
@@ -120,7 +120,7 @@ Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präs
 <!--
 Answer these questions and everyone at the table will be clear on their role in the coming adventure. -->
 
-Beantwortet diese Fragen und alle am Tisch werden sich ihrer Rolle im kommenden Abenteuer bewusst sein.
+Beantwortet diese Fragen und alle am Tisch werden sich über ihre Rolle im kommenden Abenteuer im Klaren sein.
 
 <!-- (Quel est le rôle du Narrateur ?)
 Quels défis, quelles rencontres ou situations vous allez présenter aux personnages pour qu'ils fassent ce qu'ils attendent ? Avez-vous besoin de faire miroiter une belle récompense pour chaque défi ? Ferez-vous en sorte que chaque combat soit dur mais équitable ? Serez-vous impitoyable concernant les desseins des antagonistes ?
@@ -145,13 +145,15 @@ Pendant les parties les personnages peuvent subir des blessures, être poussés 
 
 ## Belohnungen
 
-Reward players for good roleplaying and achieving goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point.
+<!-- Reward players for good roleplaying and achieving goals by giving them FU points. You may also reward them for a variety of other reasons, as your group de- cides (see the sidebar on page 12 [shouldn't this be page 14???]). FU points can be used to improve a characters chance of success and are therefore a great immediate, tangible reward. You don’t have to be the only one at the table o ering rewards, though. All players should speak up when someone has done something cool, funny or awesome, and re- ward a FU point. -->
 
-Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Gründe belohnen, die die Gruppe untereinander abspricht. [Siehe dazu die Seitenleiste auf Seite XX]
+Belohne Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Gründe belohnen, die die Gruppe untereinander abspricht (siehe dazu die **Anmerkungen/Seitenleiste** zu FU-Punkten in Kapitel 4).
 
-**How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster.
+Mit FU-Punkten können die Erfolgschancen der Figuren verbessert werden; daher stellen sie eine schöne, direkte und greifbare Belohnung dar. Du brauchst jedoch nicht die einzige sein, die Belohnungen verteilt. Alle sollten sich melden, wenn sie finden, dass jemand etwas cooles, witziges oder beeindruckendes getan hat, und einen FU-Punkt dafür ausloben.
 
-**Wie viel und wie oft?** Sei mit Belohnungen großzügig. Die positive Verstärkung durch das Verdienen von FU-Punkten wird die Spielerinnen zu weiteren Taten des Heldentums, Spektakels oder der Schlechtigkeit inspirieren.
+<!-- **How much, how often?** Be generous with your rewards, as the positive reinforcement of earning FU points will inspire them on to greater acts of heroism, spectacle or depravity, as the case may be. Also, take into account whether this will be a “one off” game, or a part of an ongoing story or campaign - players are likely to burn through FU points faster in a singe ses- sion game and will need their resources replenished faster. -->
+
+**Wie viel und wie oft?** Sei mit Belohnungen großzügig. Die positive Verstärkung durch das Verdienen von FU-Punkten wird die Spielerinnen, je nachdem, zu weiteren heldenhaften, spektakulären oder verderbten Taten anregen. Berücksichtige auch, ob euer Spiel nur über eine Sitzung gehen soll oder Teil einer längeren Geschichte oder Kampagne wird. In Spielen mit nur einer Sitzung brauchen die Spielerinnen ihre FU-Punkte wahrscheinlich schneller auf, daher sollten sie auch schneller wieder aufgefüllt werden.
 
 <!-- (Récompenses)
 Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de leur but en leur attribuant des points de FU. Vous pouvez aussi les récompenser pour d'autres raisons, comme le groupe le décidera (voir le chapitre sur les points de FU). Ces points peuvent être utilisés pour améliorer les chances de succès d'un personnage, ce qui est une récompense immédiate, tangible. Vous pouvez ne pas être le seul autour de la table à attribuer des récompenses. Tous les joueurs peuvent s'exprimer s'ils pensent que l'un d'entre eux a fait quelque chose d'amusant ou de formidable et lui donner un point de FU.
@@ -163,41 +165,41 @@ Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de 
 
 ## Figuren und Hindernisse
 
-All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting.
+<!-- All the characters, monsters, traps, villains, terrain features, creatures and obstacles that are encountered during a story are defined in much the same way as characters. You are not confined by any rules or restrictions when creating characters or obstacles, the only thing you must do is make them entertaining and interesting. -->
 
-Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, Kreaturen und Hindernisse im Spiel werden im Großen und Ganzen genau wie Figuren definiert. Dir stehen bei der Erschaffung keine Regeln oder Begrenzungen im Weg. Die einzige Voraussetzung ist, dass es unterhaltsam und interessant wird.
+Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, Wesen und Hindernisse, denen die Spielerinnen begegnen, werden im Großen und Ganzen genau wie Figuren definiert. Es gibt keine Regeln, die dich beim Gestalten von Figuren oder Hindernisse einschränken. Die einzige Voraussetzung ist, dass sie unterhaltsam und interessant sind.
 
 <!-- (Personnages et obstacles)
 Tous les personnages, monstres, pièges, adversaires, éléments du décor, créatures et obstacles rencontrés pendant l'histoire seront définis de la même manière que les personnages. Vous n'êtes confinés par aucune règle ou restriction en créant des personnages non-joueurs ou des obstacles, la seule chose qui compte est de les rendre distrayants et intéressants. -->
 
 ----
 
-### The Bowl
+<!-- ### The Bowl -->
 
-### Das Behältnis für die FU-Punkte
+### Die Schale
 
-One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?”
+<!-- One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?” -->
 
-Eine Möglichkeit der Belohnung durch FU-Punkte ist es, ein Behältnis mit Perlen, Spielchips oder Spielsteinen in die Mitte des Tisches zu stellen. Jeder Gegenstand darin entspricht einem FU-Punkt. Die Erzählerin kann Spielerinnen bitten, einen aus dem Behältnis zu nehmen, und andere Spielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten.
+Eine Methode zum Ausgeben von FU-Punkten ist es, eine Schale mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte zu stellen. Jeder Gegenstand darin entspricht einem FU-Punkt. Die Erzählerin kann Spielerinnen bitten, sich "einen aus der Schale" zu nehmen, und andere Spielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss "Gibt es dafür einen FU-Punkt?"
 
 <!-- (Le bol)
 Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
 
-### Advancement
+<!-- ### Advancement -->
 
 ### Erfahrung gewinnen
-
+_I'M HERE_
 FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
 
-In FU geht es nicht um das "Aufleveln" einer Figur, sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Figuren im Spiel auch Dinge lernen.
+In FU geht es nicht um das Aufsteigen einer Figur auf immer höhere "Level", sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Figuren im Spiel auch Dinge lernen.
 
 If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
 
-Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen Beschreiber ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen Sitzungen geändert werden.
+Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen Beschreiber ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen zwei Sitzungen gewechselt werden.
 
 Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
 
-Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung die Zeit, ihre Ziele anzupassen.
+Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung Zeit, ihre Ziele anzupassen.
 
 <!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
