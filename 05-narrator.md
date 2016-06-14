@@ -238,7 +238,8 @@ Mit „offenen Karten" zu spielen bedeutet, dass alle Bescheid wissen, was passi
 
 <!-- Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors. -->
 
-Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer sehr befriedigend, wenn man für das richtige Einschätzen der Beschreiber eines Gegners mit Bonuswürfeln belohnt wird.
+Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können geschickt taktieren, um sich selbst gut zu positionieren oder die Situation in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer sehr befriedigend, wenn man für das richtige Einschätzen der Beschreiber eines Gegners mit Bonuswürfeln belohnt wird.
+
 
 <!-- (Que dois-je partager avec les joueurs ?)
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des monstres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options implique des styles de jeu différents.
