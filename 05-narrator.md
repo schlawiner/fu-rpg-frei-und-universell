@@ -188,18 +188,18 @@ Une technique existe pour l'attribution des points de FU : placez un bol au cent
 <!-- ### Advancement -->
 
 ### Erfahrung gewinnen
+<!-- FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.   -->
+
+In FU geht es nicht um das Aufsteigen auf immer höhere "Level". Die Figuren können zwar allerlei Erfahrungen machen und aus ihnen auch lernen, aber der eigentliche Fortschritt entsteht durch die sich verändernde Welt und Geschichte.
+
+<!-- If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.   -->
+
+Gegebenenfalls können die Spielerinnen zwischen den Spielsitzungen einen ihrer Beschreiber ändern. Diese Änderung sollte mit einer gerade in der Geschichte gemachten Erfahrung zusammenhängen. Ob Ausrüstung zwischen den Sitzungen gewechselt werden kann, liegt im Ermessen der Erzählerin.
+
 _I'M HERE_
-FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.  
-
-In FU geht es nicht um das Aufsteigen einer Figur auf immer höhere "Level", sondern hauptsächlich um die Geschichte, die sich verändert. Natürlich können Figuren im Spiel auch Dinge lernen.
-
-If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.  
-
-Wenn es angebracht scheint, können Spielerinnen zwischen Spielsitzungen einen Beschreiber ändern. Diese Änderung sollte in Zusammenhang mit einer zeitnahen Erfahrung aus der Geschichte stehen. Ausrüstung kann in Absprache mit der Erzählerin zwischen zwei Sitzungen gewechselt werden.
-
 Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
 
-Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung Zeit, ihre Ziele anzupassen.
+Auch Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung Zeit, ihre Ziele anzupassen.
 
 <!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
