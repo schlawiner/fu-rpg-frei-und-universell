@@ -161,7 +161,7 @@ Récompensez les joueurs pour un bon "roleplaying" et pour l'accomplissement de 
 
 **Combien ? Souvent ?** Soyez généreux dans vos récompenses ; attribuer des points de FU aidera à renforcer l'envie d'accomplir des actes héroïques, spectaculaires, ou de dépradation, au choix. Il faudra également prendre en compte le caractère "one-shot" de la partie, ou si elle s'étale sur plusieurs aventures, ou une campagne. Les joueurs auront tendance à dépenser leurs points de FU plus vite sur une session unique et auront besoin de recharger leurs réserves plus vite. -->
 
-## Characters & Obstacles
+<!-- ## Characters & Obstacles -->
 
 ## Figuren und Hindernisse
 
@@ -196,10 +196,9 @@ In FU geht es nicht um das Aufsteigen auf immer höhere "Level". Die Figuren kö
 
 Gegebenenfalls können die Spielerinnen zwischen den Spielsitzungen einen ihrer Beschreiber ändern. Diese Änderung sollte mit einer gerade in der Geschichte gemachten Erfahrung zusammenhängen. Ob Ausrüstung zwischen den Sitzungen gewechselt werden kann, liegt im Ermessen der Erzählerin.
 
-_I'M HERE_
-Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary.
+<!-- Goals might also change from game session to game session. Give players time to consider their goals at the start of each session and let them adjust or change them as necessary. -->
 
-Auch Ziele können sich auch von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung Zeit, ihre Ziele anzupassen.
+Auch Motive können sich von Sitzung zu Sitzung verändern. Gib deinen Spielerinnen zu Beginn jeder Spielsitzung Zeit, über ihre Ziele nachzudenken und sie wenn nötig anzupassen oder neue zu schreiben.
 
 <!-- (Progression)
 FU n'est pas un jeu concerné par la "montée en niveau". Pendant que les personnages vivent des expériences variées et apprennent d'elles, la vraie progression apparaît dans les changements opérés dans l'histoire et/ou le monde.
@@ -208,38 +207,38 @@ Si besoin, les joueurs peuvent décider de changer un Descripteur entre les sess
 
 Les Motivations peuvent aussi changer entre les sessions. Laissez le temps aux joueurs pour revoir leurs objectifs au début de chaque session et les laisser les ajuster ou les changer si nécessaire. -->
 
-### Tracking Obstacles
+<!-- ### Tracking Obstacles -->
 
-### Hindernisse notieren
+### Den Überblick über Hindernisse behalten
 
-Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.  
+<!-- Use sticky-notes (Haftnotizen) or index cards (Karteikarten) to record details about your characters, monsters and obstacles. Write down Descriptors, Gear and other info. As they suffer Conditions, record those on the card.   -->
 
-Benutze Haftnotizen oder Karteikarten, um Einzelheiten über die Figuren, Monster und Hindernisse festzuhalten. Notiere auch Beschreiber, Ausrüstung und andere Informationen.
+Benutze Haftnotizen oder Karteikarten, um Einzelheiten über deine Figuren, Monster und Hindernisse festzuhalten. Notiere ihre Beschreiber, Ausrüstung und andere Daten. Wenn sie Zustände auferlegt bekommen, vermerke auch diese auf ihrer Karte.
 
-Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions.
+<!-- Use index cards to record important terrain features, too. Write down any Descriptor(s) pertaining to the feature so players can take them into account as they plan their actions. -->
 
-Benutze auch Karteikarten, um wichtige Geländeeigenschaften festzuhalten. Halte zugehörige Beschreiber fest, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
+Halte auch wichtige Geländemerkmale auf Karteikarten fest. Notiere alle zugehörigen Beschreiber, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
 
 <!-- (Garder la trace des obstacles)
 Utilisez des post-its ou des fiches bristol pour garder trace des détails sur les personnages, les monstres ou les obstacles. Écrivez-y les Descripteurs, le Matériel et les autres informations. S'ils sont atteints par une Condition, enregistrez-les sur ces fiches.
 
 Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez les Descripteurs associés à ces caractéristiques afin que les joueurs les intègrent dans leurs plans d'action. -->
 
-### What do I share with players?
+<!-- ### What do I share with players? -->
 
 ### Welche Informationen teilst du mit deinen Spielerinnen?
+_I'm HERE_
+<!-- Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.   -->
 
-Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.  
+Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern keinen Hehl. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
 
-Einige Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern kein Geheimnis. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
+<!-- Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.   -->
 
-Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.  
+Mit „offenen Karten" zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.
 
-An einem „offenen Tisch" zu spielen bedeutet, dass alle Bescheid wissen, was passiert, welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen können sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und sie in Szenen einbeziehen.
+<!-- Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors. -->
 
-Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors.
-
-Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer befriedigend, wenn man für das Einschätzen der Beschreiber eines Gegners mit Bonuswürfeln belohnt wird.
+Die Einzelheiten von Bösewichten, Zielen und anderen Hindernissen geheimzuhalten wird die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können sich und Situationen dadurch in Richtungen steuern, die sie für vorteilhaft halten. Es ist immer sehr befriedigend, wenn man für das richtige Einschätzen der Beschreiber eines Gegners mit Bonuswürfeln belohnt wird.
 
 <!-- (Que dois-je partager avec les joueurs ?)
 Certains groupes jouent ouvertement, sans secret à propos des Descripteurs et des détails des créatures et des monstres. D'autres groupes (et/ou Narrateurs) cachent ces informations aux joueurs. Chacune de ces options implique des styles de jeu différents.
