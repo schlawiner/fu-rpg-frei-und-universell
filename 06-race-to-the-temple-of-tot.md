@@ -1,13 +1,13 @@
 # Race to the Temple of Tot
-# Das Rennen zum Tempel von Toth
+# Das Rennen zum Tempel des Toth
 
-> Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis!
+<!-- > Tennessee Smith, famed explorer, has  nally got a solid lead on the whereabouts of the ancient Idol of Tot, an object of reported supernatural power. Unfortunately, Smith’s arch enemy Giles Fishburne is also on the trail of the Idol, and has thrown his lot in with the Nazis! -->
 
-> Der berühmte Forscher Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Fähigkeiten nachgesagt werden. Unglücklicherweise ist Smiths Erzfeind, Giles Fishburn, der Reliquie auch auf der Spur und hat sich mit den Nazis zusammengetan!
+> Der berühmte Entdecker Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatue von Toth führen soll, einem Gegestand, dem übernatürliche Kräfte nachgesagt werden. Unglücklicherweise ist Giles Fishburne, Smiths Erzfeind, der Reliquie ebenfalls auf der Spur und hat sich mit den Nazis zusammengetan!
 
- This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible!
+ <!-- This short adventure will get you into the action quickly. It illustrates one way you might prepare your own adventures, adversaries and obstacles. Use the pre-generated characters presented at the end of the adventure. *Race to the Temple of Tot* consists of a series of set-piece (-> Schlüsselszenen) encounters that you can use, rearrange and ignore at your leisure. Remember that beat the odds rolls will lead to all kinds of interesting twists and turns and once the characters set out on the adventure anything is possible! -->
 
-Diese kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt dir eine Möglichkeit, mit der du deine eigenen Abenteuer, Gegenspieler und Hindernisse vorbereiten kannst. Nutze gern die vorgefertigten Figuren am Ende des Abenteuers. *Das Rennen um den Tempel von Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen können, und sobald die Figuren unterwegs sind, ist alles möglich!
+Dieses kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt beispielhaft, wie du selbst eigene Abenteuer, Gegenspieler und Hindernisse vorbereiten kannst. Am Ende des Abenteuers findet ihr vorgefertigte Figuren, die ihr benutzen könnt. *Das Rennen zum Tempel des Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du nach Belieben verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfelwürfe zu allen möglichen, interessanten Wendungen führen werden, und sobald die Figuren unterwegs sind, ist alles möglich!
 
 <!-- ()À la recherche du Temple de Tot)
 
@@ -15,16 +15,16 @@ Diese kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt dir ein
 
 Cette courte aventure vous plongera rapidement dans l'action. Elle montre une manière de préparer votre propre aventure, avec ses adversaires et ses obstacles. Utilisez les personnages pré-générés qui se trouvent à la fin. *À la recherche du Temple de Tot* est composée d'une série de rencontres / scènes conçues pour être utilisées, réarrangées ou ignorées à votre discrétion. Souvenez-vous que les jets de dés amèneront tout un tas de rebondissements et qu'une fois les aventuriers lancés, tout est envisageable ! -->
 
-## Before you begin
+<!-- ## Before you begin -->
 ## Vor dem Spiel
 
-Before starting play have a quick discussion about the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed.
+<!-- Before starting play have a quick discussion about the tone and style of the game. The scenario is classic pulp - over the top action, outrageous villains and larger than life heroes. Make sure everyone is on the same page here - talk about what makes this genre cool and perhaps point out examples of the genre (*Indiana Jones*, *The Mummy*, *The Rocketeer*) and what parts of these you enjoyed. -->
+<!--
+Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix! -->
 
-Read the flavour text above (the stuff in italics) and get everyone at the table to throw around some ideas of cool stuff they would like to see happen during the adventure. Note it all down -when things slow, or if you get stuck for what to do next, chuck one of these ideas into the mix!
+Sprecht vor dem Spiel kurz über Stimmung und Stil, in denen ihr spielen wollt. Das Szenario gehört mit seiner haarsträubenden Action, den ruchlosen Schurken und überzeichneten Helden ins Pulpgenre. Vergewissere dich, dass das allen klar ist: redet darüber, was an diesem Genre cool ist und welche Aspekte von Genrefilmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch gefallen haben.
 
-Sprecht vor dem Spiel kurz über die Stimmung und den Stil den ihr spielen wollt. Das Szenario gehört mit seiner krassen Action, den ungeheuerlichen Gegenspielern und herausragenden Helden ins Pulpgenre. Stelle sicher, dass das allen klar ist, sprecht darüber, wodurch dieses Genre cool wird und welche Aspekte von Filmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch Spaß gemacht haben.
-
-Lies den kursiven Stimmungstext oben vor und lasse alle Mitspielerinnen sich ein paar coole Ideen einfallen, die sie während des Abenteuers gern erleben möchten. Schreibe dir die Info auf und falls das Spiel mal zäh werden sollte oder du nicht weißt, was du als nächstes tun willst, hole einer der Ideen hervor!
+Lies den obigen Stimmungstext vor und lasse alle Mitspielerinnen ein paar Ideen für coole Sachen einbringen, die sie während des Abenteuers erleben möchten. Schreibe dir alle Ideen auf; falls das Spiel mal zäh werden sollte oder du nicht weiter weißt, baue eine davon ein!
 
 <!-- (Avant de commencer)
 
@@ -32,44 +32,44 @@ Avant de commencer à jouer, discutez du ton et du style du jeu. Le scénario es
 
 Lisez les textes d'ambiance ci-dessus (ceux en italique) et faites jaillir les idées sur ce que les joueurs autour de la table attendent de l'aventure. Notez tous ces éléments - quand l'action baissera, si vous êtes bloqué, empruntez une de ces idées et incorporez-la à l'histoire. -->
 
-## Scenes
+<!-- ## Scenes -->
 ## Szenen
-
+<!--
  The scenes presented here have a description of
-where the action takes place and suggest Descriptors you or the players might incorporate into the action.  The italics set up the action of the scene and the objec- tive. paraphrase the details for your players.
+where the action takes place and suggest Descriptors you or the players might incorporate into the action.  The italics set up the action of the scene and the objec- tive. paraphrase the details for your players. -->
 
-Die hier vorgestellten Szenen beinhalten eine Beschreibung, wo ihre Handlung stattfindet und schlagen Beschreiber vor, die du oder deine Spielerinnen nutzen können. Der kursive Teil bereitet die Handlung und das Ziel vor. Umschreibe die Details für deine Spielerinnen.
+Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handlungsortes und Vorschläge für Beschreiber, die du oder deine Spielerinnen einbauen könnt. Der kursive Teil legt den Grundstein für die Handlung und gibt  das Ziel vor. Umschreibe deinen Spielerinnen die Details in eigenen Worten.
 
 <!-- (Les Scènes)
 Les scènes proposées ici comportent une description du lieu de l'action et suggèrent des Deskriptoren que vous ou les joueurs pourrez incorporer dans l'action. Les textes en italique mettent l'action en place et donnent les objectifs. Brodez les détails pour vos joueurs. -->
 
-### Challenges
+<!-- ### Challenges -->
 
 ### Herausforderungen
 
-The challenges and adversaries in this adventure
-are recorded in boxes with relevant Descriptors, Con- ditions and Notes.  These are to guide you and do not have to be used. Your own cool ideas should always trump anything written here!
+<!-- The challenges and adversaries in this adventure
+are recorded in boxes with relevant Descriptors, Con- ditions and Notes.  These are to guide you and do not have to be used. Your own cool ideas should always trump anything written here! -->
 
-Die Herausforderungen und Gegenspieler dieses Abenteuers sind mit ihren relevanten Beschreibern, Zuständen und Notizen in Kästen angeordnet. Sie sollen dir eine Hilfe sein, müssen von dir aber nicht benutzt werden. Verwende zunächst deine eigenen, coolen Ideen und erst dann das, was hier geschrieben steht!
+Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Hinweisen zusammengefasst. Sie sollen dir eine Hilfe sein, aber du musst sie nicht zwingend benutzen. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!
 
 <!-- (Les défis)
 Les défis et les adversaires de cette aventure sont notés dans des tableaux avec leurs Descripteurs, Conditions et Notes. Ce sont des guides et vous pouvez vous en passer. Vos propres idées géniales seront toujours meilleures que ce qui est écrit ici. -->
 
-### Escape the Bulak Market
+<!-- ### Escape the Bulak Market -->
 
 ### Flucht vom Bulak-Markt
 
-**Scene**: Central Asia - a bustling market in the city of Bulak - midday. Tall stone and mud-brick buildings with narrow arched windows surround the central market; stalls and cafes, bars and emporiums run off in all directions along winding, narrow streets.
+<!-- **Scene**: Central Asia - a bustling market in the city of Bulak - midday. Tall stone and mud-brick buildings with narrow arched windows surround the central market; stalls and cafes, bars and emporiums run off in all directions along winding, narrow streets. -->
 
-**Szene:** Zentralasien – ein geschäftiger Markt am Mittag in der Stadt Bulak. Hohe Stein- und Lehmgebäude mit schmalen, bogenförmigen Fenstern schließen ihn ein. Stände, Cafés, Bars und Handelsplätze gehen in sich schlängelnden, schmalen Straßen in alle Richtungen weg.
+**Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
-**Descriptors**: Crowded streets, exotic goods.
+<!-- **Descriptors**: Crowded streets, exotic goods. -->
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
-> The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape?
+<!-- > The characters have just acquired a map to the Temple of Tot. Unfortunately, Nazi goons have ar- rived and want the map, too.  There are a lot of goons, and while the characters could fight them, it might be easier to flee. Do the characters escape? -->
 
-> Die Figuren haben gerade eine Karte zum Tempel von Tot erstanden. Unglücklicherweise sind Nazihandlanger aufgetaucht und wollen gleichermaßen die Karte. Es sind eine Menge Schläger und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können ie entkommen?
+> Die Figuren haben gerade eine Karte zum Tempel von Toth erstanden. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind eine Menge Schläger, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?
 
 <!--
 (S'échapper du Marché de Bulak)
@@ -81,15 +81,15 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 
 -->
 
-|      Adversaries | Nazi Goons/-Schläger                                                           |
+<!-- |      Adversaries | Nazi Goons/-Schläger                                                           |
 |-----------------:|:-------------------------------------------------------------------------------|
 | **Deskriptoren** | lots of goons, Beefy Aryans, Not too bright                                    |
 |         **Gear** | Noisy Sub-machine guns                                                         |
-|   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht |
+|   **Conditions** | ☐ Confused, ☐ Trapped, ☐ Slowed (aufgehalten?), ☐ Out of Action/Ausser Gefecht | -->
 
-|    Gegenspieler | Nazi-Handlanger                                           |
+|    Gegenspieler | Nazischlägertypen                                         |
 |----------------:|:----------------------------------------------------------|
-| **Beschreiber** | Ein Haufen Handlanger, Muskulöse Arier, Nicht sehr schlau |
+| **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau |
 |  **Ausrüstung** | Laute Maschinengewehre                                    |
 |    **Zustände** | □ Verwirrt, □ Eingekreist, □ Aufgehalten, □ Außer Gefecht |
 
@@ -101,46 +101,47 @@ Les défis et les adversaires de cette aventure sont notés dans des tableaux av
 |  **Conditions** | ☐ Désorienté, ☐ Piégé, ☐ Ralenti, ☐ Hors de combat |
 -->
 
- **Notes**: There are a number of goon squads equal to the number of characters.
-**Notizen:** Die Anzahl der Schlägerkader entspricht der Zahl an Charakteren.
+ <!-- **Notes**: There are a number of goon squads equal to the number of characters. -->
 
- **What can go wrong?** The characters are cap- tured; The map is lost.
-**Was könnte schiefgehen?** Die Charaktere werden gefangen, die Karte wäre dann verloren
+**Hinweise:** Es gibt so viele Schlägertruppen wie Spielerinnenfiguren.
+
+ <!-- **What can go wrong?** The characters are cap- tured; The map is lost. -->
+**Was kann schiefgehen?** Die Figuren werden gefangen; Die Karte geht verloren.
 
 <!-- **Notes**: Le nombre d'ennemis est égal au nombre de personnages.
 
 **Qu'est-ce qui peut mal tourner ?** Les personnages sont capturés ; La carte est perdue. -->
 
-### Translating the Map
+<!-- ### Translating the Map -->
 ### Die Übersetzung der Karte
 
-**Scene**: A dark coffee lounge, cafe or back room,
-somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room.
+<!-- **Scene**: A dark coffee lounge, cafe or back room,
+somewhere in the city of Bulak. The smell of strong coffee and exotic food permeates the room. -->
 
-**Szene:** Ein dunkler Cafésalon oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Geruch starken Kaffees und exotischer Lebensmittel durchdringt den Raum.
+**Szene:** Ein dunkler Cafésalon, ein Kaffeehaus oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Duft starken Kaffees und exotischer Lebensmittel durchströmt den Raum.
 
-**Descriptors**: Private.
+<!-- **Descriptors**: Private. -->
 
 **Beschreiber:** Abgeschieden.
 
-> Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map?
+<!-- > Tennessee Smith and his companions have the map but must now translate it, puzzling out the strange symbols and markings. Do they translate the map? -->
 
-> Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Markierungen entziffern. Werden sie die Karte entschlüsseln?
+> Tennessee Smith und seine Begleiter sind im Besitz der Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?
 
-
+<!--
 |        Challenge | Translating the Map                             |
 |-----------------:|:------------------------------------------------|
 | **Deskriptoren** | Ancient glyphs, Brittle paper                   |
-|   **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp |
+|   **Conditions** | ☐ Torn, ☐ Ruined, ☐ Smudged, ☐ Burnt to a crisp | -->
 
 |                                                             Herausforderung | Die Übersetzung der Karte               |
 |----------------------------------------------------------------------------:|:----------------------------------------|
 |                                                             **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier |
-| **Zustände** □ Zerfleddert, □ Ruiniert, □ Verschmiert, □ Zu Asche verbrannt |                                         |
+| **Zustände** □ Zerrissen, □ Zerfallen, □ Verschmutzt, □ Zu Asche verbrannt |                                         |
 
-**What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages.
+<!-- **What can go wrong?**  The map is damaged; The characters misread the map; They cannot read the map and must get help from an expert in ancient languages. -->
 
-**Was kann schiefgehen?** Die Karte ist beschädigt; die Charaktere missverstehen die Karte; Sie können die Karte nicht entziffern und müssen als Helfer einen Sprachexperten anheuern.
+**Was kann schiefgehen?** Die Karte wird beschädigt; die Figuren missverstehen die Karte; Sie können die Karte nicht entziffern und brauchen die Hilfe eines Experten für alte Sprachen.
 
 
 <!-- Déchiffrer la carte
@@ -159,8 +160,8 @@ somewhere in the city of Bulak. The smell of strong coffee and exotic food perme
 
 **Qu'est-ce qui peut mal tourner ?** La carte est endommagée ; Les personnages se trompent dans leur traduction ; Ils n'arrivent pas à lire la carte et doivent faire appel à un expert en langues anciennes.
 -->
-
-### The Gou Zou Gorge
+_I'M HERE!_
+<!-- ### The Gou Zou Gorge -->
 ### Die Gou-Zou-Schlucht
 
 **Scene**: The majestic Gou Zou Gorge, half a mile
@@ -170,7 +171,7 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 
 **Descriptors**: open plains, Impassible Gorge.
 
-**Beschreiber:** Offenes Flachland, Unpassierbare Schlucht.
+**Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
 
 > The characters follow the map to Gou Zou Gorge, by car or horse back. Giles Fishburne is ap- proaching fast, aboard the German dirigible Der Vogel. Do the characters cross the bridge safely? Do they keep their lead on the Germans?
 
@@ -191,7 +192,7 @@ deep and crossed by a single iron girder railway bridge. Wide open plains lie on
 **Notes**: There are a number of Bird Truppen equal
 to the number of characters.
 
-**Notizen:** Die Anzahl der Flugtruppen entspricht der Zahl an Charakteren.
+**Hinweise:** Die Anzahl der Flugtruppen entspricht der Zahl an Charakteren.
 
 |        Challenge | Gou Zou Bridge                 |
 |-----------------:|:-------------------------------|
@@ -205,11 +206,11 @@ to the number of characters.
 
 **Notes:** You know you must introduce an approach- ing train, right?
 
-**Notizen:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
+**Hinweise:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
+<!--
+**What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured. -->
 
-**What can go wrong?** The bridge is destroyed; The map is lost; the characters are captured.
-
-**Was kann schiefgehen?** Die Brücke wird zerstört; Die Karte ist verloren; die Charaktere werden gefangengenommen.
+**Was kann schiefgehen?** Die Brücke wird zerstört; Die Karte geht verloren; die Figuren werden gefangengenommen.
 
 <!-- (Les Gorges du Gou Zou)
 
@@ -237,7 +238,7 @@ to the number of characters.
 
 **Qu'est-ce qui peut mal tourner ?** Le pont est démoli ; La carte est perdue ; Les personnages sont capturés. -->
 
-### The Temple
+<!-- ### The Temple -->
 ### Der Tempel
 **Scene**: An ancient temple fashioned into the side of a mountain. Grand statues of sinister looking gods and daemons line the walls. Dust covers everything. The tunnel leads deeper into the mountain.
 
@@ -265,7 +266,7 @@ to the number of characters.
 
 **Notes**: Challenge characters with one or two traps. Tell them the passage is trapped, but don’t tell them how, or where the traps are until they are sprung!
 
-**Notizen:** Fordere die Figuren mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
+**Hinweise:** Fordere die Figuren mit ein oder zwei Fallen. Erzähle ihnen, dass der Durchgang versperrt ist, aber sage ihnen nicht wie oder wo die Fallen liegen, bis sie ausgelöst werden!
 
 |      Adversaries | Stone Statue Guardian                               |
 |-----------------:|:----------------------------------------------------|
@@ -314,14 +315,14 @@ to the number of characters.
 **Qu'est-ce qui peut mal tourner ?** Les personnages ne franchissent pas les pièges ; Ils sont blessés par les pièges.
 -->
 
-### The Idol Chamber
+<!-- ### The Idol Chamber -->
 
 ### Die Kammer des Götzen
 
 **Scene**: A large stone chamber ingeniously lit by
 mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed monkey - sits on a stone plinth in the centre of the room.
 
-**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln erhellt wird. Der Götze von Toth, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
+**Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Licht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statue eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
 **Deskriptoren**: large bronze mirrors.
 
@@ -345,7 +346,7 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 **Notes**: Giles is a greedy, arrogant villain, but he isn’t stupid. If things start looking dire he will attempt to escape, make a deal and/or double-cross anyone in his way. He has no loyalty to the Nazis!
 
-**Notizen:** Giles ist zwar ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er zu fliehen versuchen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
+**Notizen:** Giles ist zwar ein gieriger, arroganter Schurke, allerdings ist er nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen. einen Deal aushandeln und/oder jeden hintergehen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
 <!-- La Chambre de l'Idole
 
@@ -378,7 +379,7 @@ Auf der nächsten Seite befinden sich vier vorgefertigte Figuren. Sie sind alle 
 Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exemples typiques d'aventurier *pulp*. Les joueurs peuvent les ajuster avec l'accord du Narrateur, avant le début de la partie, en changeant un Descripteur ou deux, ou d'échanger un ou deux éléments de Matériel. Avant de démarrer le jeu chaque joueur devra définir une ou deux relations entre les personnages. Un bon moyen rapide consiste demander que chacun décrive comment il a rencontré le personnage à sa gauche. -->
 
 
-### Tennessee Smith, Daredevil Explorer (Tollkühner Forscher/Forschungsreisender)
+<!-- ### Tennessee Smith, Daredevil Explorer (Tollkühner Forscher/Forschungsreisender) -->
 
 ### Tennessee Smith, Tollkühner Entdecker
 
@@ -406,7 +407,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 **Notes**:
 
-**Notizen:**
+**Hinweise:**
 
 
 <!-- Tennessee Smith, Explorateur Intrépide
@@ -420,7 +421,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Tennessee Smith est un professeur d'histoire, bien éduqué, mais dans ses temps libres il voyage dans les contrées sauvages pour retrouver des artefacts perdus et des trésors. Au charme rugueux, il allie une sorte de calme permanent, quel que soit le danger face à lui - et il a tendance à souvent se présenter. -->
 
-### Jimmy Sweet, Plucky Kid
+<!-- ### Jimmy Sweet, Plucky Kid -->
 
 ### Jimmy Sweet, Beherzter Gassenjunge
 
@@ -443,13 +444,13 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Jimmy Sweet ist ein unbekümmerter Gassenjunge, der sich nie auf jemand anderen als sich selbst verlassen musste. Er ist drahtig, zäh und aufgeweckt und trägt eine freche Haltung zur Schau, die ihn regelmäßig in Schwierigkeiten bringt. Jimmy versteckte sich als blinder Passagier auf einem Bedarfsdampfer, um die Wunder der Welt zu sehen und sein Glück zu suchen.
 
-**Relationships**:  
+<!-- **Relationships**:   -->
 
 **Beziehungen:**  
 
-**Notes**:
+<!-- **Notes**: -->
 
-**Notizen:**
+**Hinweise:**
 
 
 <!-- Jimmy Sweet, Gamin courageux
