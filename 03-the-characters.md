@@ -42,7 +42,7 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 
 > David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
-> **Körper** : Agil  
+> **Körper** : Flink  
 > **Geist**: Besonnen  
 > **Stärke**: Geschickt mit der Bullenpeitsche  
 > **Schwäche**: Höhenangst
@@ -275,7 +275,7 @@ Comme les Descripteurs, le Matériel d'un personnage modifie ses chances lors d'
 
 Votre personnage possède deux éléments de Matériel. Choisissez donc deux éléments pour votre personnage. -->
 
-> David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgenutzte Lederjacke**, mit der er sich vor der Kälte und leichten Kratzern und Stürzen schützen kann.  
+> David entscheidet, dass sein Tollkühner Entdecker eine **Stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **Abgetragene Lederjacke**, mit der er sich vor der Kälte und leichten Kratzern und Stürzen schützen kann.  
 Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **Offizielle Dokumente**, die ihren politischen Status belegen, und für **Exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
 
 <!-- Dave decides his Daredevil Explorer to have a Sturdy Bull Whip, since he is quite skilled with it, and a Worn Leather Jacket to keep out the cold and o er a little protection from scrapes and falls.
