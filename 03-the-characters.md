@@ -42,9 +42,9 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 
 > David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
-> **Körper** : Flink  
+> **Körper** : Geschickt  
 > **Geist**: Besonnen  
-> **Stärke**: Geschickt mit der Bullenpeitsche  
+> **Stärke**: Bullenpeitsche einsetzen
 > **Schwäche**: Höhenangst
 
 > Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
@@ -448,7 +448,7 @@ interesting. -->
 
 > David macht sich ein paar Notizen zu seinem  Tollkühnen Entdecker:
 >
-> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  THP: Meine Übersetzung im Abenteuerkapitel könnte abweichen, entscheide einfach du, welche Übersetzung greifen soll.
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
 
 > Ninas Beschreibung ihrer Ausserirdischen Botschafterin ist folgendermaßen:  
 >

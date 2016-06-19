@@ -368,13 +368,12 @@ mirrors reflecting sunlight. The Idol of Tot - a golden statue of a seven-headed
 
 <!-- ## Characters -->
 
-_I'm here_
 ## Figuren
 
 Four pre-made characters can be found on the next
 page. They are each examples of classic pulp charac- ter archetypes. players may tweak or adjust them at the Narrator’s discretion, before play starts, perhaps changing a Descriptor or two, or switching out an item of Gear. Before starting the game each player should define one or two relationships, describing how the characters know each other. A quick and easy way to do this is for everyone to describe how they know the character to their left.
 
-Auf der nächsten Seite findet ihr vier vorgefertigte Figuren. Sie sind alle Beispiele klassischer Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin verändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Die Spielerinnen sollten die Beziehungen ihrer Figuren untereinander klären und festlegen, woher sie sich kennen. Ein schneller und einfacher Weg ist es, die Figuren beschreiben zu lassen, woher sie die Person links von ihnen kennen.
+Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, alle Beispiele für klassische Pulp-Klischees. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin abändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Außerdem sollte jede Spielerin ein bis zwei Beziehungen festlegen, die beschreiben, woher die Figuren sich kennen. Am einfachsten geht das, wenn alle beschreiben, woher sie die Person links von sich kennen.
 
 <!-- Personnages
 
@@ -442,9 +441,9 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 |       **Motiv** | Die sieben Weltwunder sehen                                                                             |
 |    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Dem Tode nah |
 
-> Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune.
+<!-- > Jimmy Sweet is a happy-go-lucky kid who has never had anyone to rely on but himself. He is wiry, tough and quick, with a cheeky attitude that frequently gets him into trouble. Jimmy stowed away on a tramp steamer with the inten- tion of seeing the world and making his fortune. -->
 
-> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und seine vorlaute Art bringt ihn regelmäßig in Schwierigkeiten. Jimmy versteckte sich als blinder Passagier auf einem Frachtdampfer, um die Welt zu sehen und reich zu werden.
+> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und seine vorlaute Art bringt ihn regelmäßig in Schwierigkeiten. Jimmy hat sich als blinder Passagier auf einem Frachtdampfer versteckt, um die Welt zu sehen und reich zu werden.
 
 <!-- **Relationships**:   -->
 
@@ -466,35 +465,35 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Jimmy Sweet est un gamin insouciant qui n'a jamais pu compter que sur lui-même. Il est élancé, résistant et rapide, doté d'un caractère effronté qui lui a souvent apporté des ennuis. Jimmy s'est embarqué clandestinement sur un cargo à vapeur avec comme but de parcourir le monde et d'y faire bonne fortune. -->
 
-### Harvey Reed, Retired Boxer
+<!-- ### Harvey Reed, Retired Boxer -->
 
-### Harvey Reed, Ehemaliger Boxer
+### Harvey Reed, Boxer im Ruhestand
 
-|        Character | Harvey Reed                                                                             |
+<!-- |        Character | Harvey Reed                                                                             |
 |-----------------:|:----------------------------------------------------------------------------------------|
 | **Deskriptoren** | Strong, Thinks-on-his-Feet, Boxer, Ugly as Sin                                          |
 |         **Gear** | Roll of quarters, poor fitting suit                                                     |
 |        **Drive** | Look out for Tennessee Smith                                                            |
-|   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying |
+|   **Conditions** | ☐ Angry, ☐ Scared, ☐ Tired, ☐ Trapped, ☐ Blinded, ☐ Hungry, ☐ Dazed, ☐ Injured, ☐ Dying | -->
 
 |           Figur | Harvey Reed                                                                                             |
 |----------------:|:--------------------------------------------------------------------------------------------------------|
-| **Beschreiber** | Stark, Reaktionsschnell, Boxer, Hässlich wie die Nacht                                                  |
+| **Beschreiber** | Stark, Kann schnell improvisieren, Boxer, Hässlich wie die Nacht                                                  |
 |  **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                                     |
 |       **Motiv** | Auf Tennessee Smith aufpassen                                                                           |
 |    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, □ Benommen, □ Verletzt, □ Dem Tode nah |
 
-> Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure.
+<!-- > Harvey Reed is a recently retired champion boxer. Finding the sedentary life a little too bor- ing he has joined his old friend Tennessee in search of adventure. -->
 
-> Harvey Reed ist ein kürzlich zurückgetretener Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
+> Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
-**Relationships**:  
+<!-- **Relationships**:   -->
 
 **Beziehungen:**  
 
-**Notes**:
+<!-- **Notes**: -->
 
-**Notizen:**
+**Bemerkungen:**
 
 
 <!-- Harvey Reed, Boxeur à la retraite
@@ -508,25 +507,25 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 > Harvey Reed a récemment raccroché les gants de boxe. Sa nouvelle vie de sédentaire lui a paru peu trop ennuyeuse, aussi il a rejoint son vieil ami Tennessee dans ses aventures. -->
 
-### October Jones, Girl Reporter
+<!-- ### October Jones, Girl Reporter -->
 ### October Jones, Junge Reporterin
 
 |           Figur | October Jones                                                                                         |
 |----------------:|:------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                  |
-|  **Ausrüstung** | Verlässliche Kamera, Dickes Notizbuch                                                                 |
-|       **Motiv** | Bekomme den Exklusivbericht über Tennessee Smith                                                      |
+|  **Ausrüstung** | Verlässliche Kamera, Dicker Notizblock                                                                 |
+|       **Motiv** | Den Exklusivbericht über den wahren Tennessee Smith kriegen                                                     |
 |    **Zustände** | □ Wütend, □ Verängstigt, □ Müde, □ Gefangen, □ Geblendet, □ Hungrig, Benommen, □ Verletzt, □ Dem Tode nah |
 
-> October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants.
+<!-- > October Jones is a reporter and adventurer, a orded a great deal of freedom by her father’s immense wealth. Beautiful, intelligent and spoilt she is a woman used to getting what she wants. -->
 
-> October Jones ist eine Reporterin und Abenteuerin, die durch den großen Reichtum ihres Vaters viele Freiheiten besitzt. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie möchte.
+> October Jones ist Reporterin und Abenteurerin. Der große Reichtum ihres Vaters erlaubt ihr viele Freiheiten. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie will.
 
-**Relationships**:  
+<!-- **Relationships**:   -->
 
 **Beziehungen:**  
 
-**Notes**:
+<!-- **Notes**: -->
 
 **Hinweise:**
 
