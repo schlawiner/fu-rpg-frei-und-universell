@@ -6,25 +6,22 @@
     margin-top: 0.7em;
 }
 
-blockquote p {
+/*blockquote p {
     margin-top: 1em;
     padding-top: 1em;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
     -webkit-margin-start: 1px;
     -webkit-margin-end: 1px;
-}
+}*/
 
-blockquote {
+/*blockquote {
     margin: 1em;
     border-top: 0.1em solid;
     border-bottom: 0.1em solid;
     padding: 0 1em;
     font-family: Palatino, Georgia, serif;
-    /*font-style: italic;*/
     font-size: 1em;
-    /*line-height: 1.5;
-    letter-spacing: 0.05em;*/
     color: black;
     border-color: #ccc;
     border-color: rgba(0,0,0,0.2);
@@ -32,7 +29,12 @@ blockquote {
     -moz-border-radius: 0.25em;
     -o-border-radius: 0.25em;
     border-radius: 0.25em;
-}
+
+font-style: italic;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+
+} */
 
 /* Change admonition-note color to a paler blue background and dark text*/
 .note {
