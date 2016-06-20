@@ -2,7 +2,7 @@
 
 FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
 
-Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erschaffen, und das mit kleinstmöglichen Aufwand und Vorbereitung.
+Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erschaffen, und das mit kleinstmöglichem Aufwand und Vorbereitung.
 
 FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee "Diese Spielwelt könnten wir doch als Rollenspiel spielen!" zum eigentlichen Spiel zu bringen.
 
