@@ -19,9 +19,9 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 
 > David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
-> **Körper** : Agil  
+> **Körper** : Geschickt  
 > **Geist**: Besonnen  
-> **Stärke**: Geschickt mit der Bullenpeitsche  
+> **Stärke**: Bullenpeitsche einsetzen
 > **Schwäche**: Höhenangst
 
 > Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
@@ -34,9 +34,9 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 ### Beispiele für Beschreiber
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
-> **Körper** Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwach, Schwimmhäute an den Füßen.
+> **Körper** Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwächlich, Schwimmhäute an den Füßen.
 >
-> **Geist**: Zerstreut, Belesen, Computerfreak, Schwer von Begriff, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
+> **Geist**: Zerstreut, Belesen, Computerfreak, Dämlich, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
 > **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagen, Scharfe Augen, Sprachwissenschaft, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
 >
