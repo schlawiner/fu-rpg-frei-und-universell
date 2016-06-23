@@ -10,7 +10,7 @@ Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une his
 
 ## Szenen und Runden
 
-Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um eine bestimmte Situation, einen Ort oder eine Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden darstellen. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.
+Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um eine bestimmte Situation, einen Ort oder eine Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.
 
 Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen "spielen" ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
@@ -54,9 +54,9 @@ Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse
 
 ### Wer plant Szenen?
 
-Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet die Erzählerin, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
+Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet am Ende die Erzählerin, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
 
-Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse ausdiskutieren, was passiert, wo es passiert und wer drin vorkommt.
+Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse ausdiskutieren, was passiert, wo es passiert und wer dabei ist.
 
 Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
 
@@ -103,7 +103,7 @@ Un objectif peut être ce que le joueur ou le personnage veut. Les objectifs du 
 
 ### Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?
 
-Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.
+Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.
 
 <!-- Do scenes have to be in order?
 You can use all the techniques of sto- ries, novels and movies, which means  ashbacks and  ash forwards, parallel
@@ -528,7 +528,7 @@ Exemples de modificateurs
 
 Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un garde essaie de l'attraper et le faire passer par la fenêtre. "Est-ce que Vance saura se débarrasser du garde ?". Il est **difficile** (+) d'extraire Vance du véhicule, mais il est **blessé** (-) et **surpris** (-), et l'attaquant est **très fort** (-). Au total il vous faudra lancer deux dés négatifs. Vous lancez 3d6 avec un score de 2, 4 et 3, et il faudra retenir le pire résultat, soit le 3. Le garde arrive à sortir Vance de la jeep. -->
 
-### Andere Wurf-Arten?
+### Andere Würfe?
 
 Bei FU gibt es keine "Gegenwürfe" oder "Wettstreit-Aktionen", "Schadenswürfe" oder "Trefferwürfe". Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.
 
@@ -587,7 +587,7 @@ FU-Punkte sind Hilfsmittel, die du wie eine Währung ausgeben kannst, um die Erf
 
 **Bonuswürfel:** Gib vor dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Bonuswürfel hinzuzubekommen. Dieser wirkt wie jeder andere Bonuswürfel. Du kannst so viele Bonuswürfel hinzunehmen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen.
 
-**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel neu zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.
+**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.
 
 Du kannst bei einer einzelnen Handlung auch mehrere FU-Punkte für diese zwei Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.
 
@@ -626,7 +626,7 @@ Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant 
 ----
 ### FU-Punkte beim Sitzungsbeginn
 
-Bevor ihr losspielt, solltet ihr ausdiskutieren, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, sind 2 FU-Punkte für den Spielbeginn angemessen. Übermächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen könnte jede Spielerin mit nur einem oder sogar gar keinem FU-Punkt beginnen.
+Bevor ihr losspielt, solltet ihr ausdiskutieren, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, sind 2 FU-Punkte für den Spielbeginn angemessen. Übermächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen könnte jede Spielerin mit nur einem oder sogar gar ganz ohne FU-Punkt beginnen.
 
 <!-- Starting FU Points?
  e number of FU Points you begin a game with should be discussed before play begins.  e more FU Points play- ers begin with, the more easily they will achieve successes. If playing games of high adventure or over-the-top action, it would be reasonable to begin with 2 FU Points. Super-powered heroes might begin with as many as 3 FU Points. For grittier games each player might only begin with 1 FU Point, or even none.
@@ -707,7 +707,7 @@ En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou 
 
 #### Ein Auge verdrehen
 
-Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein "Nein" zu einem "Ja" machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.
+Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein "Nein" zu einem "Ja" machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.
 
 <!-- Flip a Pip
 Spend a FU Point to adjust a single die up or down by one pip. Spend mul- tiple FU points to adjust a die multiple pips.  is option is more reliable than a re-roll as you will always be able to turn a “no” into a “yes”. If you used this variant the normal re-roll rule should not be used.

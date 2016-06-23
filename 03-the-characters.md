@@ -1,6 +1,6 @@
 # Die Figuren
 
-Bei FU ist deine Figur dein "Alter Ego", dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen oder auf Personen reagiert.
+Bei FU ist deine Figur dein "Alter Ego", dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf Personen reagiert.
 
 <!-- (Characters)  
 
@@ -44,7 +44,7 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 >
 > **Körper** : Geschickt  
 > **Geist**: Besonnen  
-> **Stärke**: Bullenpeitsche einsetzen
+> **Stärke**: Bullenpeitsche einsetzen  
 > **Schwäche**: Höhenangst
 
 > Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
@@ -99,7 +99,7 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
-> **Körper** Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwächlich, Schwimmhäute an den Füßen.
+> **Körper**: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwächlich, Schwimmhäute an den Füßen.
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Dämlich, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
@@ -139,7 +139,7 @@ Ceci n'est en aucun cas une liste exhaustive, mais donne quelques idées pour vo
 
 #### Klischees sind deine Freunde! {.unnumbered}
 
-Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir direkt vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch eine muskelbepackte unzivilisierte Person vor Augen. Klischees sind eine Art Abkürzung zur Beschreibung deiner Figur.
+Es ist völlig in Ordnung, wenn du dich bei deinem Konzept auf Klischees stützt. Klischees umfassen eine Unzahl von Vorstellungen und Konzepten, mit denen man direkt vertraut ist. Wenn jemand sagt, seine Figur sei ein Barbar, hat man automatisch einen muskelbepackten unzivilisierten Klotz vor Augen. Klischees sind eine Art Abkürzung beim Beschreiben deiner Figur.
 
 <!-- It is totally okay to use clichés when coming up with your concept. Clichés contain a host of ideas and concepts that we are immediately familiar with. When somebody says their character is a barbarian, we automatically picture them as heavily muscled, and uncivi- lised. Using clichés is a kind of a short- hand way to describe your character.
 
@@ -149,7 +149,7 @@ Il est tout à fait acceptable d'user de clichés quand on propose son concept. 
 #### Beschreiber wählen {.unnumbered}
 
 Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche **"kann nicht schwimmen"** zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
-Lass deine Fantasie spielen, behalte dein Konzept im Kopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
+Lass deine Fantasie spielen, behalte dein Konzept im Hinterkopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
 
 <!-- Choosing Descriptors
 You should strive to be imaginative and honest. Consider both your concept and the setting. Giving a character the Flaw ‘can’t swim’ when you know all the stories will take place in the desert is hardly sporting.
@@ -164,7 +164,7 @@ Soyez inventifs, gardez votre concept en tête, et discutez-en avec le Narrateur
 
 #### Beschreiber sind klar und eindeutig {.unnumbered}
 
-Einen guten Beschreiber kann jeder am Tisch verstehen. Wenn du oder eine Mitspielerin einen Beschreiber für nicht eindeutig haltet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.  
+Beschreiber sind gut, wenn alle am Tisch sie verstehen. Wenn du oder eine Mitspielerin einen Beschreiber nicht eindeutig findet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.  
 
 <!-- Descriptors are clear
 A good Descriptor is understood by everyone at the table. If you or another player think a Descriptor is ambiguous, talk about it. It might need to be re- written, but it might not either. You just want everyone to be on the same page when it comes time to using it.
@@ -172,9 +172,9 @@ A good Descriptor is understood by everyone at the table. If you or another play
 
 Un bon Descripteur est compris par tout le monde autour de la table. Si vous ou un autre joueur estime que le Descripteur est ambigu, parlez-en. Il se peut qu'il nécessite d'être mieux défini, ou pas. Il faut juste que, le moment venu, tous lui donnent la même signification. -->
 
-#### Beschreiber wohnen einer Figur inne {.unnumbered}
+#### Beschreiber gehören fest zu einer Figur {.unnumbered}
 
-Jeder Beschreiber ist ein wesentlicher, ihr innewohnender Teil der Figur. Normalerweise können sie ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber also nicht zu Gegenständen oder Geräten.
+Jeder Beschreiber ist ein wesentlicher Teil der Figur, der fest mit ihr verbunden ist. Normalerweise können Beschreiber ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber also nicht zu Gegenständen oder Geräten.
 
 <!-- Descriptors are innate
 Each Descriptor is an integral and innate part of the character.  ey can- not normally be taken away, lost or removed (though they might be forgot- ten or restricted under the right circum- stances). Do not make your Descriptors items of equipment.
@@ -185,7 +185,7 @@ Chaque Descripteur est une partie intégrante et innée du personnage. Ils ne pe
 
 #### Die Reichweite von Beschreibern ist begrenzt {.unnumbered}
 
-Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist zum Beispiel besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend ..."*).
+Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden (*"Als Arzt bin ich gebildet und ziemlich wohlhabend ..."*).
 
 <!-- Descriptors are finite
 Each Descriptor should have one or two obvious uses or a speci c purpose. It might also be applicable in a range of other unforeseen circumstances, but you will  nd that out in play. Medicine is better than Doctor, for example, as the latter could be used in a variety of non-medical situations (“As a Doctor, I am well educated and quite wealthy...”).
@@ -195,7 +195,7 @@ Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut
 
 #### Was für ein Beschreiber ist das? {.unnumbered}
 
-Einige Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Es hängt von dir, der Erzählerin und von deinen Mitspielerinnen ab - ihr entscheidet, ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht.
+Manche Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht hängt von dir, der Erzählerin und von deinen Mitspielerinnen ab. Entscheidet selbst.
 
 <!-- What type of Descriptor is this?
 Some Descriptors could easily fall into more than one category—Good Memory might, for example, be a Mind Descriptor or an Edge; Ugly could be a Flaw or a Body Descriptor.  at’s  ne. It is up to you, the Narrator and the other players to make a decision on whether a speci c Descriptor is appropriate or not for the stories you are telling.
@@ -209,7 +209,6 @@ Certains Descripteurs peuvent facilement entrer dans plus d'une catégorie ; **B
 Dinge, die in anderen Spielen "Fertigkeiten" oder "Talente" heißen, eignen sich wunderbar als Stärken. Gute Beispiele sind **"Schwertkampf"**, **"unter Wasser atmen"** und **"gewinnendes Lächeln"**.
 Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie **"riecht immer schlecht"** oder **"taub"** sind bessere Schwächen als **"kann nicht Fahren"** oder **"kann kein Französisch"**. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche **"kann nicht schwimmen"** in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur herauszufordern, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.
 
-
 <!-- What makes a good Edge & Flaw?
  ings that might be called “skills” or “feats” or “stunts” in other games make great Edges - stu  like ‘sword  ghting’, ‘breath underwater’, and ‘winning smile’ are all good examples.
  e best Flaws are personality traits or physical shortcomings.  ings like ‘always smells bad’, or ‘deaf’ are better  aws than ‘can’t drive’ or ‘can’t speak French’. Of course, there are always exceptions. If the characters are British spies during the Napoleonic wars, not speaking French would be a real draw- back. Likewise, the Flaw ‘can’t swim’ becomes a great feature in a game of pirates and sea battles. Look for ways to challenge your character, add spice to games, and present obstacles to over- come.
@@ -222,8 +221,8 @@ Les meilleures Failles sont des traits de personnalité ou des incapacités phys
 
 #### Soll ich mich spezialisieren? {.unnumbered}
 
-Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER die Figur hat kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
-Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
+Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so "spezialisieren". Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
+Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 <!-- You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
 Describe your character’s Body as Huge and their Edge as Strong, if you
@@ -239,7 +238,7 @@ Décrivez le Corps de votre personnage comme **Gigantesque** et son Atout comme 
 
 #### Beschreiber-Alternativen {.unnumbered}
 
-Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen einige der zuvor erwähnten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.
+Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu "Tierform" werden. In solchen Fällen müssen ein paar der zuvor erwähnten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist viel allgemeiner als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
 
 <!-- Alternative Descriptors
  e four default Descriptors (Body, Mind, Edge & Flaw) are not the only way to de ne your characters. Change or replace them to suit your game, set- ting and stories. In a game about giant mecha you might replace Body and Mind with Chassis and Pilot, for ex- ample. In a game where everyone plays di erent types of were-creatures one Descriptor might become Animal Form. In these cases some of the advice in this sidebar might also need to be adjusted; Animal Form: Jaguar is broader than the Descriptors discussed here, but is to- tally appropriate to capture the ideas of your game. Use your imagination and modify things as needed!
@@ -258,7 +257,7 @@ Les quatre Descripteurs par défaut (Corps, Esprit, Atout et Faille) ne sont pas
 
 Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
-Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.
 
 Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
 
@@ -343,7 +342,7 @@ Chaque élément du Matériel doit ajouter un détail à l'histoire de votre per
 
 ### Ausrüstung ist Zubehör
 
-Ausrüstung ist nie einer Figur innewohnend - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
+Ausrüstung ist nie fest zu einer einer Figur - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
 
 <!-- Gear is equipment
 Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
@@ -391,7 +390,7 @@ Un nom spécifique
 Il est mieux d'utiliser un nom spécifique, précis : Sabre est mieux qu'Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible. -->
 
 ### Sprich über deine Ausrüstung
-Diskutiere mit der Gruppe über deine Ausrüstung. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.
+Diskutiere deine Ausrüstung mit der Gruppe. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.
 
 Ausrüstung ist nie von Haus aus "gut" oder "schlecht". Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du bist.
 
@@ -479,7 +478,7 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 **Was willst du erreichen?** Was wünschst du dir, was treibt dich an?
 <!-- **What do you want?** What is it that you desire, the thing that drives you to action? -->
 
-**Was hindert dich daran?** Welches Hindernis, welcher Gegner steht zwischen dir und dem, was du willst?
+**Was hindert dich daran?** Welches Hindernis, welche Gegner stehen zwischen dir und dem, was du willst?
 
 <!-- **What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?   -->
 
@@ -489,7 +488,9 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 
 
 > Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
+
 <!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
+
 >
 > Lumina strebt nach Freiheit für alle Völker des Jupiter. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum zu verwirklichen.
 
@@ -520,7 +521,7 @@ Choose at least one other character that will take
 part in the story and write a short statement about your relationship with them.  is should be clear and add some interesting depth to both characters back- grounds. For example; old drinking buddies; Dated the same woman; Fought in the war together; Were trained by the same master. -->
 
 
-> David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die alten Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich zueinander hingezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.
+> David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die antiken Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich zueinander hingezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.
 
 <!-- > Dave writes; Tennessee Smith and Lumina met at Harvard where Lumina was giving a presen- tation on the ancient cultures of Jupiter. Nina is happy with this, adding only that both characters were attracted to each other but Lumina is too fo- cussed on her mission to have any romantic dal- liance. -->
 
@@ -616,7 +617,7 @@ Les clichés et les archétypes sont ok ! -->
 
 ### 2. Beschreiber {.unnumbered}
 
-Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.
+Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur fest zugehörig und begrenzt sein.
 
 <!-- Identify the four most important or interesting features of your character,
 one each for Body, mind, edge and Flaw.
