@@ -1,4 +1,5 @@
 <!-- # Appendix - Descriptors -->
+\newpage
 # Anhang – Beschreiber
 
 <!-- This list is by no means exhaustive, but it’s a good place to start. each entry lists the kinds of things a Descriptor might be an advantage or hindrance for, which makes it a handy reference for both players and Narrators. -->
@@ -32,7 +33,7 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 **Gutaussehend:** nützlich beim Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, und fürs beliebt sein.
 
 <!-- **Huge:** good for looking menacing, reaching high places, acting like a body builder, or getting stuck in small spaces. -->
-* **Gewaltig:** gut, um gefährlich zu wirken, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder an engen Stellen steckenzubleiben.
+**Gewaltig:** gut, um gefährlich zu wirken, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder an engen Stellen steckenzubleiben.
 
 <!-- **Overweight:** a problem when exercising and borrowing clothes. -->
 **Übergewichtig:** ein Problem beim Sport und beim Ausleihen von Kleidung.
@@ -99,7 +100,7 @@ Cette liste n'est en aucun cas exhaustive, mais c'est un bon départ. Chaque él
 
 <!-- ## Mind Descriptors -->
 
-### Geistige Beschreiber
+## Geistige Beschreiber
 
 <!-- **Absent-Minded:** good for being distracted, but a
 problem when remembering where you le  the keys, or that you just pulled the pin from a hand grenade. -->
@@ -144,7 +145,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 
 <!-- **Wise:** handy for sprouting proverbs, giving advice, putting unrelated clues together, interpreting people’s reactions, and saying ‘I told you so’. -->
 
-**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: "Ich hab's euch ja gesagt".
+**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: „Ich hab's euch ja gesagt“.
 
 <!-- **Witty:** good for making funny comments, being charming and / or entertaining, and always knowing the right thing to say. -->
 **Geistreich:** gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen.
@@ -190,7 +191,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 <!-- **Good Memory:** handy for remembering names and faces, vital clues, and mathematical formulas. -->
 **Gutes Gedächtnis:** nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren.
 
-**Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like.
+<!-- **Hunting:** good when tracking and stalking, look- ing good in camou age, and knowing what an angry rhinoceros sounds like. -->
 **Jagen:** vorteilhaft beim Spurenlesen und Anpirschen, um in Tarnkleidung gut auszusehen, und um zu wissen, wie sich ein wütendes Nashorn anhört.
 
 <!-- **Keen Sight:** great for seeing a long way or even doing stu  by moonlight. -->
@@ -293,7 +294,6 @@ sight, such as shooting, navigating an unfamiliar space, or painting. -->
 * **Jeune**: problématique pour entrer en boîte, être pris au sérieux par les adultes, sécher l'école ou voir au-dessus du volant quand on conduit. -->
 
 ## Figurenvorlage
-
 Eine ausdruckbare Figurenvorlage zum Ausfüllen ist online unter folgender Adresse zum Herunterladen erhältlich:
 
 (Dies ist der Link zum franz. Bogen, wir sollten den deutschen ins Git einpflegen und dann hier verlinken)

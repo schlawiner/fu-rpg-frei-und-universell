@@ -1,3 +1,4 @@
+\newpage
 # Etwas tun
 
 Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern darum, dass alle Freude daran haben, die gemeinsame Geschichte zu entwickeln.
@@ -12,7 +13,7 @@ Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une his
 
 Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um eine bestimmte Situation, einen Ort oder eine Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.
 
-Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen "spielen" ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
+Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
 Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
@@ -50,7 +51,7 @@ Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse
 
 ----
 
-\columnsbegin
+<!-- \twocolumnsbegin -->
 
 ### Wer plant Szenen?
 
@@ -124,12 +125,12 @@ Suis-je obligé d'avoir des tours ?
 
 Les tours sont des règles optionnelles de la gestion du temps, ce qui est utile quand un grand nombre d'actions est tenté par plusieurs personnages au même moment. Utilisez-les pour organiser vos actions si nécessaire. Certaines scènes se découperont naturellement en tours, alors que d'autres seront jouées sans avoir à y recourir. -->
 
-\columnsend
+<!-- \columnsend -->
 
-----
+<!-- ---- -->
 
 
-
+\newpage
 ## Ungerade Zahlen vermeiden
 
 Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
@@ -174,7 +175,7 @@ Captain Vance ducks as another hail of bullets peppers the wall he is hiding beh
 > Le Capitaine Vance se jette à couvert alors que les balles fusent au travers du mur derrière lui. Il s'empare de la radio endommagée, trifouille les boutons et essaie d'appeler des renforts. Vous lancez un d6 et c'est un 1. Vance n'arrive pas du tout à trouver la bonne fréquence et une balle perdue détruit la radio. -->
 
 | Wurf | Bekommst du, was du willst?                                                             |
-|:-----|:----------------------------------------------------------------------------------------|
+|:-------|:----------------------------------------------------------------------------------------|
 | 6    | **Ja, und ...** Du bekommst, was du willst, und noch etwas mehr.                        |
 | 4    | **Ja ...** Du bekommst, was du willst.                                                  |
 | 2    | **Ja, aber ...** Du bekommst, was du willst, aber es hat einen Preis.                   |
@@ -205,15 +206,15 @@ No, and... You don’t get what you want, and things get worse.
 | 2   | **Oui, mais...** Vous obtenez ce que vous voulez, mais il y a un coût                           |
 | 5   | **Non, mais...** Vous n'obtenez pas ce que vous voulez, mais ce n'est pas un échec total.       |
 | 3   | **Non...** Vous n'obtenez pas ce que vous voulez.                                               |
-| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | --> |
+| 1   | **Non, et...** Vous n'obtenez pas ce que vous voulez, et les choses empirent              | -->
 
 ----
 
 ### Geschlossene Fragen
 
-Bei FU verwendet ihr zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit "Ja" oder "Nein" beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: "Springe ich über den Abgrund?", "Geb ich dem Trottel eins auf die Nase?", "Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?" Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
+Bei FU verwendet ihr zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
-Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: "Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!"
+Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: „Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!“
 
 <!-- Closed Questions
 FU uses a closed question format to help resolve actions. A closed question can only be answered with a “yes” or “no” statement. When you reach a situ- ation that needs to be resolved by dice, propose a closed question; “Do I leap the chasm?”; “Do I punch that jerk in the nose?”; “Does the tavern wench fall for my easy charm and winning smile?”.  e roll of the die will answer the ques- tion and guide your response.
@@ -227,7 +228,7 @@ Souvent vous n'aurez pas besoin de poser la question de manière explicite - ell
 
 ### Fragen-Alternativen
 
-Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre "Wie gut gelingt es mir?" Das könnte zu den folgenden Ereignissen führen:
+Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre „Wie gut gelingt es mir?“ Das könnte zu den folgenden Ereignissen führen:
 
 | Wurf | Wie gut gelingt es mir?                   |
 |:-----|:------------------------------------------|
@@ -250,7 +251,7 @@ Feel free to come up with your own questions and answers, as suits the needs of 
 
 Questions alternatives
 
-Vous pouvez poser une question différemment si vous voulez, mais il vous faudra changer la table des résultats. Une question évidente pourrait être : "De quelle manière ai-je réussi ?", ce qui produirait les résultats suivants :
+Vous pouvez poser une question différemment si vous voulez, mais il vous faudra changer la table des résultats. Une question évidente pourrait être : „De quelle manière ai-je réussi ?", ce qui produirait les résultats suivants :
 
 | Jet | De quelle manière ai-je réussi ? |
 |:----|:---------------------------------|
@@ -304,11 +305,12 @@ Certains joueurs ne sont pas à l'aise avec les résultats en mode pair/impair. 
 
 ----
 
+\newpage
 ## Erfolg & Misserfolg
 
 Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.
 
-Wenn du eine Handlung versuchst, stellst du die Frage: "Erreicht meine Figur was sie will?" Darauf gibt es sechs mögliche Antworten:
+Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:
 
 > Ja, und...
 >
@@ -372,7 +374,7 @@ et
 
 ### Beispiele für Erfolg & Misserfolg
 
-Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage **"Überspringt Sir Camden die Hecke?"** passieren würde:
+Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage „**Überspringt Sir Camden die Hecke?**“ passieren würde:
 
 **Ja, und** er holt Lord Kane ein. Dies ist ein Detail, das die Szene verändert.  
 **Ja,** er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
@@ -444,8 +446,8 @@ Vous pouvez aussi appliquer les Conditions à la cible d'une action, quand les �
 
 ### Wann soll ich Details benutzen?
 
-Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein ("**Ja,** er springt über die Hecke **und** holt Lord Kane ein."), oder eine geänderte Umgebung ("**Nein, aber** er entdeckt eine Lücke in der Hecke.").  
-Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: "Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand."  
+Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein („**Ja,** er springt über die Hecke **und** holt Lord Kane ein.“), oder eine geänderte Umgebung („**Nein, aber** er entdeckt eine Lücke in der Hecke.“).  
+Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: „Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand.“  
 
 Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
 
@@ -493,7 +495,7 @@ Certaines circonstances, matériels et compétences peuvent vous rendre la vie p
 
 **Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
-> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. "Gelangt Vance unverletzt zun Geländewagen?" Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
+> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zun Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
 <!-- Making Things Harder: Roll an extra die for each Descriptor, bit of Gear, Condition or Detail that makes the action harder.  e result is the single worst die roll.
 
@@ -503,7 +505,7 @@ Certaines circonstances, matériels et compétences peuvent vous rendre la vie p
 
 > Le Capitaine Vance décide de se ruer vers une jeep toute proche. Le Narrateur souligne qu'il n'y a **aucune couverture** entre l'endroit où se cache Vance et le véhicule. "Est-ce que Vance atteint la jeep sans être blessé ?". Après avoir lancé 2d6, vous avez un 3 et un 5. Il vous faut accepter le 3 et le Capitaine Vance est **blessé** avant d'atteindre la jeep. -->
 
-**Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie "negative" und "positive" Würfel gleichzeitig wirfst.
+**Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 
 > Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
 
@@ -519,7 +521,7 @@ Later in his quest, Sir Camden must scale a sheer (-) cli .  e knight is strong 
 
 ### Beispiel-Modifikatoren
 
-Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. "Kann Vance die Wache abschütteln?" Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
+Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. „Kann Vance die Wache abschütteln?“ Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
 
 <!-- Example of Modifiers
 Captain Vance hurtles along in the jeep, when a guard tries to drag him out through the window. “Will Vance shake the guard o ?” It is hard (+) to drag Vance out the window, but he is wounded (-) and surprised (-), and the attacker is very strong (-). In total you must roll 2 penalty dice. You roll 3d6 scoring a 2, 4 and 3, and must take the worst result, the 3.  e guard wrestles Vance out of the jeep.
@@ -530,7 +532,7 @@ Le Capitaine Vance, est lancé à pleine vitesse dans la jeep, quand soudain un 
 
 ### Andere Würfe?
 
-Bei FU gibt es keine "Gegenwürfe" oder "Wettstreit-Aktionen", "Schadenswürfe" oder "Trefferwürfe". Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.
+Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schadenswürfe“ oder „Trefferwürfe“. Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.
 
 <!-- Other types of rolls?
 FU has no such thing as ‘opposed rolls’ or ‘contested actions’, ‘damage rolls’ and ‘rolling to hit’.  e beat the odds roll is the only kind of roll used in FU, whether you are trying to drive a car through a crowded mall, arm wrestle a giant, or shrug o  the damage caused by a stray bullet.
@@ -540,7 +542,7 @@ Pour les autres types de jets de dés ?
 Il n'y a pas de "jet d'opposition" ou de "jet de dommage" dans FU. Le jet de dés pour "ne pas faire d'impair" est le seul genre de lancer utilisé en jeu, que vous deviez conduire une voiture au milieu d'une galerie marchande, combattre un géant à mains nues ou ignorer la blessure causée par une balle perdue. -->
 
 
-### Wie funktionieren "Gegenaktionen"?
+### Wie funktionieren „Gegenaktionen“?
 
 Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Strafwürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Strafwürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist dein Gegner im Vorteil.
 
@@ -553,8 +555,7 @@ Comment est-ce que les actions "en opposition" fonctionnent ?
 Pour commencer, seuls les joueurs lancent les dés. Il faut rassembler tous les bonus (+) et les malus (-) applicables au personnage. Puis il faut ajouter tous les facteurs applicables à l'opposant et les intégrer au jet de dés. Est-ce que l'opposant est faible ? Vous avez un dé de bonus. Est-ce un champion du monde de catch ? On rajoute un dé de malus. Et ainsi de suite, jusqu'à ce que tout soit intégré. Quand vous avez réduit les dés pour en connaître le nombre à lancer, allez-y. En cas de résultat pair, vous gagnez le duel. Si le résultat est impair, votre adversaire a l'avantage. -->
 
 ### An deine Handlungen näher herangehen
-
-Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf kannst du einen Schlagabtausch mit mehrmaligem hin und her erreichen, wenn du fragst "Treffe ich den Grafen De Montief?". Du könntest aber auch den gesamten Kampf mit einem einzelnen Wurf abhandeln, indem du fragst "Besiege ich den Grafen De Montief im Duell?". Oder du verlegst den Kampf auf eine höhere Ebene und fragst "Stürmen meine Landsknechte die Burg des Grafen De Montief?" Stelle den Fokus ganz nach Bedarf flexibel ein!
+Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf kannst du einen Schlagabtausch mit mehrmaligem hin und her erreichen, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzelnen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!
 
 <!-- Dialing in on Your action
 Sword  ghts, political debates, space races, international wars, arguments and gun battles are all resolved using the beat the odds roll.  e key is to dial in or out of the action through the kind of questions you attempt to resolve. You can  ght a dramatic sword  ght and ex- change a series of blows by asking “Do I hit the Count De Montief?”. But you could also resolve the entire  ght with a single roll by asking “Do I defeat the Count De Montief in a duel?”. Or, take it to the next level and ask “Do my men- at-arms storm the Count De Montief’s castle?” Adjust the dial as necessary!
@@ -565,8 +566,7 @@ Les combats à l'épée, les débats politiques, les courses spatiales, les guer
 
 
 ### Option: Paschwürfe
-
-Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer. Du darfst pro gefallenem gleichem Würfel eine "und ..."-Aussage hinzufügen. Wenn die Handlung fehlschlägt, muss diese Aussage die Situation verschlimmern. Ist die Handlung erfolgreich, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. "Besiegt Lord Kane die Schergen?" Er ist verletzt und in der Unterzahl, also wirfst du zwei Strafwürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein **"Nein ..."**-Ergebnis, doch die doppelte 3 macht es zu einem **"Nein, und ..."** Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein **"Nein, und ... und ..."** gewesen!
+Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer. Du darfst pro gefallenem gleichem Würfel eine „und ...“-Aussage hinzufügen. Wenn die Handlung fehlschlägt, muss diese Aussage die Situation verschlimmern. Ist die Handlung erfolgreich, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Strafwürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
 
 <!--
 Option: Matching Dice
@@ -603,7 +603,7 @@ die before a roll, then another FU point to re-roll a die a erwards. -->
 
 > Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinen Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
 
-**FU-Punkte verdienen:** FU-Punkte verdienen sich die Spielerinnen, indem sie coole Dinge machen und ihre Rolle gut spielen. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle "Oooh!" rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
+**FU-Punkte verdienen:** FU-Punkte verdienen sich die Spielerinnen, indem sie coole Dinge machen und ihre Rolle gut spielen. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
 
 <!-- > Back at HQ, Captain Vance tries to convince General Wallace to deploy the Rocket Troops un- der his command. Vance doesn’t have much going for him in this situation, in terms of Descriptors, so you decide to spend 2 FU Points on the roll. You roll the basic die, plus the two bonus dice, getting a 1, 1 and 3. Not happy with this, you spends your last FU Point on a re-roll. You pick up one of the 1’s and throw the die again...
 
@@ -624,6 +624,7 @@ Vous pouvez dépenser plusieurs points de FU pour une unique action en cumulant 
 **Récupérer des points de FU :** Ces points peuvent être récupérés en jeu en accomplissant de belles actions ou en incarnant à la perfection votre rôle. Quand vous faites une action qui impose le respect et que tout le monde fait "Ouaaah !", ou que vous faites rire par votre caricature, ou toute autre situation qui pourrait être récompensée, vous gagnez un point de FU. -->
 
 ----
+
 ### FU-Punkte beim Sitzungsbeginn
 
 Bevor ihr losspielt, solltet ihr ausdiskutieren, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, sind 2 FU-Punkte für den Spielbeginn angemessen. Übermächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen könnte jede Spielerin mit nur einem oder sogar gar ganz ohne FU-Punkt beginnen.
@@ -636,7 +637,7 @@ Combien de points de FU au départ ?
 Le nombre de points de FU avec lesquels votre personnage commence doit être discuté avant le début de la partie. Plus vous aurez de points, plus vous aurez de chance d'avoir des succès. Si vous êtes impliqué dans des aventures rocambolesque, il est raisonnable de commencer avec 2 points de FU. Des super-héros peuvent débuter avec 3 points. Dans un jeu plus corsé, les joueurs peuvent démarrer avec un seul point de FU... voire aucun ! -->
 
 ### Darf ich FU-Punkte verschenken oder teilen?
-Das könnt ihr selbst entscheiden. Die Standardregel ist "nein", aber ...
+Das könnt ihr selbst entscheiden. Die Standardregel ist „nein“, aber ...
 
 <!-- Can I give / share FU Points?
  at is up to you and your group.  e default is “no”, but...
@@ -659,7 +660,7 @@ Normalement, non, mais on peut allouer entre un et trois points à un méchant p
 
 Manchmal möchtet ihr vielleicht ändern, wie man FU-Punkte verdient. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.  
 
-So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen "die da oben" Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen sein soll. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was ihr damit anfangen könnt.
+So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen sein soll. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was ihr damit anfangen könnt.
 
 <!-- Other ways to earn FU
 You might like to change the way you earn FU Points. You might earn them for dealing the killing blow to monsters, achieving your character’s goal, or roll- ing multiple 1’s or 6’s.
@@ -696,7 +697,7 @@ Au lieu d'avoir un nombre de points de FU variable, tous les personnages commenc
 
 #### Alles neu würfeln
 
-Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei "alles oder nichts"; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Verwendet diese Variante statt der normalen Neuwurfregel.
+Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Verwendet diese Variante statt der normalen Neuwurfregel.
 
 <!-- Re-Roll Everything
 Spend a FU point to re-roll all your dice.  is is an all-or-nothing thing, so you can’t keep a couple of good results and roll the rest. Use this variant in- stead of the normal re-roll rule.
@@ -707,7 +708,7 @@ En dépensant un point de FU, vous pouvez relancer tous vos dés. C'est tout ou 
 
 #### Ein Auge verdrehen
 
-Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein "Nein" zu einem "Ja" machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.
+Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.
 
 <!-- Flip a Pip
 Spend a FU Point to adjust a single die up or down by one pip. Spend mul- tiple FU points to adjust a die multiple pips.  is option is more reliable than a re-roll as you will always be able to turn a “no” into a “yes”. If you used this variant the normal re-roll rule should not be used.
@@ -740,7 +741,7 @@ Donnez des capacités spéciales à vos personnages, ou des pouvoirs qui ne peuv
 
 #### Einen Treffer einstecken
 
-Anstatt zu würfeln, sage, dass du "einen Treffer einsteckst". Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
+Anstatt zu würfeln, sage, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
 
 <!-- Taking a Hit
 Instead of rolling, declare you are “taking a hit”. All the dice you should have rolled are treated as if they rolled 1’s (yes, if you are holding 5 dice, they count as  ve 1’s!). In return for your suf- fering you earn a FU Point.
@@ -750,6 +751,7 @@ Prendre un coup
 Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés sont considérés comme des "1" (oui, si vous avez 5 dés, ça fera cinq fois le score 1 !). En compensation de votre peine, vous gagnez un point de FU. -->
 
 ----
+
 <!--make a new page for the pdf that is genrated by latex - latex command -->
 \newpage
 
@@ -758,7 +760,7 @@ Au lieu de lancer les dés, annoncez que vous "prenez un coup". Tous les dés so
 
 Résumé des actions -->
 
-### 1. Die Szene planen {unnumbered}
+### 1. Die Szene planen {.unnumbered}
 
 Wo findet die Szene statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
 
@@ -769,7 +771,7 @@ Présenter la scène
 
 Où la scène se tient-elle ? Qui est présent ? Que veulent-ils ? Avez-vous besoin de répartir la scène en tours ? -->
 
-### 2. Handeln {unnumbered}
+### 2. Handeln {.unnumbered}
 
 Spiele deine Figur und beschreibe was passiert. Arbeite auf das Ziel hin.
 
@@ -780,9 +782,9 @@ Agir
 
 Jouez votre personnage et décrivez ce qui se passe. Convergez vers l'objectif. -->
 
-### 3. Eine Frage stellen {unnumbered}
+### 3. Eine Frage stellen {.unnumbered}
 
-Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. "Habe ich Erfolg?")
+Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)
 
 <!-- 3 ask a QUestion
 When you need to resolve a con ict or complete an action ask a closed question (e.g. “Do I succeed?”)
@@ -791,7 +793,7 @@ Posez une question
 
 Quand vous devez résoudre un conflit ou accomplir une action, posez une question fermée (par exemple: "Est-ce que je réussis ?") -->
 
-### 4. Modifikatoren einrechnen {unnumbered}
+### 4. Modifikatoren einrechnen {.unnumbered}
 
 +1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
 
@@ -808,7 +810,7 @@ Factorisez les modificateurs
 
 +1 dé de pénalité pour chaque Descripteur, Matériel, Détail, Condition ou autre chose qui rende l'action plus difficile. -->
 
-### 5. Würfeln {unnumbered}
+### 5. Würfeln {.unnumbered}
 
 Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Strafwürfel wirfst) gefallene Würfel.
 
@@ -819,7 +821,7 @@ Lancez
 
 Lancez tous vos dés. Le résultat est celui du meilleur dé (si vous lancez un ou plusieurs dé(s) de bonus) ou celui du plus mauvais dé (si vous lancez un ou plusieurs dé(s) de malus). -->
 
-### 6. Ergebnis beschreiben {unnumbered}
+### 6. Ergebnis beschreiben {.unnumbered}
 
 Benutzt das Würfelergebnis zum Beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.
 
@@ -831,6 +833,3 @@ Décrivez le résultat
 Utilisez le dé de résultat pour décrire l'issue de l'action ou du conflit. Appliquez une Condition ou un Détail si nécessaire. -->
 
 ----
-<!-- [^1] Anmerkung der Übersetzer: Siehe die Anmerkung im Kapitel "Grundlagen" -->
-
-<!-- [^1] NdT: même remarque qu'au chapitre "Les bases". -->

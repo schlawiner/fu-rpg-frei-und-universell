@@ -1,3 +1,4 @@
+\newpage
 # Die Erzählerin
 
 <!-- Following is some simple, straightforward advice for Narrators. It is all fairly generic because all the specific stuff is going to relate to the genre, tone and style of game that you and your players choose to play. -->
@@ -51,11 +52,11 @@ by introducing lots of sub-plots or convoluted twists. Things will get all messe
 
 <!-- **You are not the enemy:** this may seem obvious, but is worth stating. Your role is to help guide the story in interesting directions, not to kill everyone. You can give players hints and ideas if you think this will lead to a better story. Sometimes you will portray the adversaries, and are expected to do so vigorously but fairly. other times you will get to be an ally, companion, or peer, and once again you should be true to the spirit of the game. -->
 
-**Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich erwähnt werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken - nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.
+**Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich erwähnt werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken - nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.  
 
 <!-- **Say "yes":** if players make suggestions or ask ques- tions it is probably because they are interested in what is going on. They probably have a cool idea to introduce to the story. encourage this and condently say “yes” to requests. This doesn’t mean you should let players get anything they want – but you should let players in- troduce elements into the story when the time is right. -->
 
-**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich, weil sie interessant finden, was gerade passiert. Sie haben wahrscheinlich eine coole Idee für die Geschichte. Ermuntere sie und sag getrost "ja" zu solchen Eingaben. Das soll nicht heißen, dass die Spielerinnen alles bekommen sollten, was sie möchten – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
+**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das wahrscheinlich, weil sie interessant finden, was gerade passiert. Sie haben wahrscheinlich eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja„ zu solchen Eingaben. Das soll nicht heißen, dass die Spielerinnen alles bekommen sollten, was sie möchten – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
 <!-- **Make rolls meaningful:** every time you call for a die roll it should mean something interesting is going to happen, NO MATTER THE RESUlT. Don’t have players make rolls if the result is not important to the story, or if failure will stop the momentum of the story. -->
 
@@ -180,7 +181,7 @@ Tous les personnages, monstres, pièges, adversaires, éléments du décor, cré
 
 <!-- One technique for rewarding FU Points is to place a bowl of beads, chits or tokens in the centre of the table. Each bead is a FU Point.  The Narrator can tell players to “take one from the bowl”, and other players can reach in when it is appropriate to reward a player, by passing a bead from the bowl.  This requires trust between players and Narrator, but makes the running of the game very smooth as no-one has to stop and ask; “Does that deserve a FU Point?” -->
 
-Eine Methode zum Ausgeben von FU-Punkten ist es, eine Schale mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte zu stellen. Jeder Gegenstand darin entspricht einem FU-Punkt. Die Erzählerin kann Spielerinnen bitten, sich "einen aus der Schale" zu nehmen, und andere Spielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss "Gibt es dafür einen FU-Punkt?"
+Eine Methode zum Ausgeben von FU-Punkten ist es, eine Schale mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte zu stellen. Jeder Gegenstand darin entspricht einem FU-Punkt. Die Erzählerin kann Spielerinnen bitten, sich „einen aus der Schale“ zu nehmen, und andere Spielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss „Gibt es dafür einen FU-Punkt?“
 
 <!-- (Le bol)
 Une technique existe pour l'attribution des points de FU : placez un bol au centre de la table, rempli de jetons ou de perles de verre. Chaque jeton est un point de FU. Quand le Narrateur dit à un joueur "prends un point de FU dans le bol" ou que les autres joueurs trouvent cela approprié, ils peuvent l'atteindre et récompenser le joueur méritant. Cela nécessite toute confiance entre les joueurs et le Narrateur, mais ça fluidifie la partie parce que personne ne pense à poser la question : "Est-ce que ça mérite un point de FU ?" -->
@@ -190,7 +191,7 @@ Une technique existe pour l'attribution des points de FU : placez un bol au cent
 ### Erfahrung gewinnen
 <!-- FU is not a game about “levelling up”. While characters might have a variety of experiences and learn from them, the real advancement comes from the changing story and/or world.   -->
 
-In FU geht es nicht um das Aufsteigen auf immer höhere "Level". Die Figuren können zwar allerlei Erfahrungen machen und aus ihnen auch lernen, aber der eigentliche Fortschritt entsteht durch die sich verändernde Welt und Geschichte.
+In FU geht es nicht um das Aufsteigen auf immer höhere „Level“. Die Figuren können zwar allerlei Erfahrungen machen und aus ihnen auch lernen, aber der eigentliche Fortschritt entsteht durch die sich verändernde Welt und Geschichte.
 
 <!-- If appropriate, players can change one Descriptor between game sessions. This alteration should relate in some way to the experiences and story their character just participated in. Gear can be changed between sessions at the Narrator’s discretion.   -->
 
@@ -227,14 +228,14 @@ Utilisez les fiches pour y consigner les caractéristiques du terrain. Écrivez 
 <!-- ### What do I share with players? -->
 
 ### Welche Informationen teilst du mit deinen Spielerinnen?
-_I'm HERE_
+
 <!-- Some groups play open, making no secret of the Descriptors and details of creatures and monsters. Other groups (and/or Narrators) keep this informa- tion hidden from players. Both options provide for different styles of play.   -->
 
 Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern keinen Hehl. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
 
 <!-- Playing an open table means eve- ryone is clear about what is going on, what opportunities exist for cool scenes and actions. Players can see what Gear, Conditions and Descriptors are “in play” and incorporate them into scenes.   -->
 
-Mit „offenen Karten" zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.
+Mit „offenen Karten“ zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.
 
 <!-- Keeping the details of villains, traps and other obstacles from the players will push them to test their enemies, explore the environment, and try different things. They can manoeuvre themselves and situations in directions they think will be advantageous. It is always satis- fying to be rewarded with bonus dice for accurately guessing an enemy’s Descrip- tors. -->
 

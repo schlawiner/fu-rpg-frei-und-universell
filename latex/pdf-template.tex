@@ -1,0 +1,519 @@
+\documentclass{article}
+
+\usepackage[cmyk,table,usenames,dvipsnames]{xcolor} % load early to avoid name clash
+ \usepackage{verbatim}  % \begin{comment} support
+ \usepackage{eso-pic}   % AddToShipoutPicture support
+ %\usepackage{units}	 % nice fractions (like "1/2")
+\usepackage{multicol}  % 2 and 3-columns
+% \usepackage[german=guillemets]{csquotes} % deutsche Anführungszeichen
+% \MakeAutoQuote{„}{“}
+
+\usepackage{latex/ocgx} % for pdf layer support
+
+% --- colors -----------------------------------------------------------
+
+\DefineNamedColor{named}{primary}{cmyk}{0.79, 0.00, 0.00, 0.17}   % cyan
+\DefineNamedColor{named}{secondary}{cmyk}{0.13, 0.00, 0.00, 0.04} % light cyan
+\DefineNamedColor{named}{trueBlack}{cmyk}{0.75,0.68,0.67,0.90} % blacker than black
+%------------------
+% fix spacing below and above section headers
+\usepackage[compact]{titlesec}
+\titlespacing{\section}{0pt}{0em}{0em}
+\titlespacing{\subsection}{0pt}{0em}{0}
+\titlespacing{\subsubsection}{0pt}{0em}{0}
+
+%---redefine rule length to full width
+\let\OldRule\rule
+\renewcommand{\rule}[2]{\OldRule{\linewidth}{#2}}
+
+% --- units ------------------------------------------------------------
+
+\setlength{\unitlength}{1mm}
+
+% --- images & graphics ------------------------------------------------
+
+\usepackage{graphicx}
+
+\usepackage{tikz}
+\usetikzlibrary{decorations.pathmorphing}
+\usetikzlibrary{fadings}
+\usetikzlibrary{shadows}
+\usetikzlibrary{calc}
+\usetikzlibrary{backgrounds}
+% \usetikzlibrary{quotes,babel}% vor polyglossia
+
+% --- language ---------------------------------------------------------
+\usepackage{fontspec}
+% \usepackage[babelshorthands]{polyglossia}
+\usepackage{polyglossia}
+\setdefaultlanguage{german}
+% \setmainlanguage[babelshorthands=true]{german}
+% \usepackage[T1]{fontenc}
+\hyphenchar\font=\string"7F
+\hyphenation{Rol-len-spiel}
+\hyphenation{Blatt-hälfte}
+\hyphenation{Sofort-Gen-re-Ge-ner-ator}
+\hyphenation{Selbst-bräu-ner- Orange}
+\hyphenation{Science-Fict-ion-Ro-man-hef-ten}
+\hyphenation{Mit-tel-al-ter-Su-per-hel-den}
+\hyphenation{Kampf-sport-Gym-na-sium}
+
+
+% --- page & basic text setup ------------------------------------------
+
+\usepackage[driver=xetex]{geometry}
+
+\geometry{% A5
+	a5paper,
+	% textwidth=132mm,
+	% textheight=180mm,
+	inner=5mm,
+	top=5mm,
+  bottom=5mm
+	% columnsep=4mm,
+  % footskip=2mm
+  %footskip=10.0mm,
+}
+
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0mm}
+
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+\finalhyphendemerits = 10000
+\brokenpenalty = 7500
+\pretolerance 2500
+\tolerance 500
+\hyphenpenalty 250
+\exhyphenpenalty 100
+\doublehyphendemerits 7500
+\finalhyphendemerits 7500
+\lefthyphenmin 3
+\righthyphenmin 3
+\looseness 1
+
+\multicolpretolerance 2500
+\multicoltolerance 500
+\setcounter{collectmore}{-1}
+
+\usepackage[final]{microtype}
+
+% --- header and footer ------------------------------------------------
+% \titleformat{\chapter}[display]
+  % {\normalfont\bfseries}{}{0pt}{\Large}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot{}
+\fancyfootoffset[RO,LE]{2mm}
+\fancyfoot[C]{\bf\color{primary}\ffancy\thepage}
+% \fancyfoot[C]{\bf\color{primary}\ffancy\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% \fancyhead[LE,RO]{\slshape \rightmark}
+% \fancyhead[LO,RE]{\slshape \leftmark}
+% \fancyfoot[C]{\thepage}
+% \headrulewidth 0.4pt
+% \footrulewidth 0 pt
+
+% --- pdf tweaks -------------------------------------------------------
+% some usefull default pdf settings
+\usepackage{hyperref}
+\hypersetup{
+	pdfpagelayout=TwoPageRight,
+	pdfstartview=Fit,
+	pdfpagemode=UseOutlines,
+	pdfprintscaling=None,
+	colorlinks=false,
+	hidelinks=true,
+	bookmarksnumbered=false,
+	bookmarksopen=false
+}
+
+
+% --- language macros --------------------------------------------------
+
+\newcommand{\zB}{z.\,B.}
+\newcommand{\uU}{u.\,U.}
+% --- fonts & symbols --------------------------------------------------
+
+% \usepackage{fontspec}
+\usepackage{xltxtra}
+\usepackage{xunicode}
+
+\ifdefined\fontsearchpath\else\newcommand{\fontsearchpath}{./fonts}\fi
+
+\newcommand{\fsNormal}{\fontsize{12pt}{12pt plus 0.125pt minus 0.125pt}}
+\newcommand{\fsSmall}{\fontsize{10pt}{11pt plus 0.125pt minus 0.125pt}}
+\renewcommand{\normalsize}{\fsNormal\selectfont}
+\renewcommand{\small}{\fsSmall\selectfont}
+% note: those default sizes are usually overridden in the content.xx.tex file
+% to reflect languages that need more/less space
+
+\newfontfamily{\fftext}[
+	Path=\fontsearchpath/sourcesanspro/,
+	Mapping=tex-text,
+	UprightFont={SourceSansPro-Light},
+	ItalicFont={SourceSansPro-LightItalic},
+	BoldFont={SourceSansPro-Semibold},
+	BoldItalicFont={SourceSansPro-SemiboldItalic}
+]{SourceSansPro}
+\newfontfamily{\ffextra}[
+	Path=\fontsearchpath/sourcesanspro/,
+	Mapping=tex-text
+]{SourceSansPro-Regular}
+\newfontfamily{\fffancy}[
+	Path=\fontsearchpath/sourcesanspro/,
+	Mapping=tex-text,
+	UprightFont={SourceSansPro-Black},
+	ItalicFont={SourceSansPro-BlackItalic},
+	BoldFont={SourceSansPro-Black},
+	BoldItalicFont={SourceSansPro-BlackItalic}
+]{SourceSansPro}
+
+
+
+% --- page references --------------------------------------------------
+
+\usepackage{zref-user,zref-titleref,zref-hyperref}
+\newcommand{\refPage}[1]{\book\,\zpageref{#1}}
+
+% --- common style items -----------------------------------------------
+
+\newcommand{\keyword}[1]{{\textbf{#1}}}
+\newcommand{\say}[1]{„\textit{#1}“}
+
+% --- tables -----------------------------------------------------------
+
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{ragged2e}
+\usepackage{booktabs}
+%\usepackage{multirow}
+
+\renewcommand{\tabcolsep}{1mm}
+
+\newcolumntype{x}[1]{%
+>{\raggedright\hspace{0pt}}p{#1}%
+}
+\newcolumntype{y}[1]{%
+>{\centering\hspace{0pt}}p{#1}%
+}
+\newcolumntype{z}[1]{%
+>{\raggedleft\hspace{0pt}}p{#1}%
+}
+
+\newcommand{\thead}[1]{\textup{\color{white}#1}}
+\newcommand{\tn}{\tabularnewline}
+
+\newcommand{\tabelle}[4][\ffextra\small]{\renewcommand{\arraystretch}{0.95}{
+{#1%
+\vspace{2pt plus 6pt}%
+\noindent%
+\rowcolors[]{1}{secondary}{}%
+\RaggedRight\setlength{\extrarowheight}{0.15\baselineskip}%
+\begin{tabularx}{\columnwidth}{#2}
+\rowcolor{primary}
+#3
+#4
+\end{tabularx}\vspace{2pt plus 6pt}}}}
+
+
+%---cover image page
+% \newcommand\BackgroundPic{\put(0,0){\parbox[b][\paperheight]{\paperwidth}{%
+% \vfill
+% \centering
+% \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{cover.eps}%
+% \vfill
+% }}}
+% --- background images/gfx --------------------------------------------
+
+
+
+%
+%
+\newcommand{\background}{} % contains the background for each page
+\AddToShipoutPicture{\background}
+
+% --- rough-edged boxes/banners ----------------------------------------
+%
+% This looks more complicated than it is. It creates the top and bottom
+% "rough" boxes. They default to 2mm each in the 'primary' color, but it
+% is easy to override the values on a per-page basis:
+
+  % \backgroundtop{colorname}{height}
+  % \backgroundbottom{colorname}{height}
+
+% What happens is that a few tikz boxes are created that are shifted
+% around so they appear finally at the right height on the top/ bottom
+% of the page, taking into account any page crop that might be enabled.
+
+\newcommand{\bgbox}{}
+\newcommand{\bgboxinjectonce}{}
+\newcommand{\bgboxverticalheight}{2mm}
+\newcommand{\bgboxtopcolor}{primary}
+\newcommand{\bgboxtopheight}{\bgboxverticalheight}
+\newcommand{\bgboxbottomcolor}{primary}
+\newcommand{\bgboxbottomheight}{\bgboxverticalheight}
+\newcommand{\backgroundbottom}[2]{%
+\grenewcommand{\bgboxbottomcolor}{#1}%
+\grenewcommand{\bgboxbottomheight}{#2}%
+}
+\newcommand{\backgroundtop}[2]{%
+\grenewcommand{\bgboxtopcolor}{#1}%
+\grenewcommand{\bgboxtopheight}{#2}%
+}
+
+\newcommand{\backgroundlayername}{Background}
+
+\newcommand{\backgroundpages}{%
+	\renewcommand{\background}{%
+		\begin{ocg}{\backgroundlayername}{oc1}{1}%
+			\begin{tikzpicture}[remember picture,overlay,shift={(current page.center)}]
+				\fill [
+					white,
+					xshift=-2\paperwidth,
+					yshift=-2\paperheight
+				] (0,0) rectangle (4\paperwidth,4\paperheight);% white bg
+				\fill [
+					\bgboxtopcolor,
+					decorate,
+					decoration={random steps,segment length=26pt,amplitude=0.33pt},
+					xshift=-0.75\paperwidth,
+					yshift=0.5\paperheight,
+					yshift=-\bgboxtopheight
+				] (0,0) rectangle (1.5\paperwidth,1.5\paperheight);% top box
+				\fill [
+					\bgboxbottomcolor,
+					decorate,
+					decoration={random steps,segment length=26pt,amplitude=0.33pt},
+					xshift=-0.75\paperwidth,
+					yshift=-2.0\paperheight,
+					yshift=\bgboxbottomheight
+				] (0,0) rectangle (1.5\paperwidth,1.5\paperheight);% top box
+			\end{tikzpicture}\bgboxinjectonce%
+			\bgbox%
+			% \grenewcommand{\bgboxtopcolor}{primary}%
+			% \grenewcommand{\bgboxtopheight}{\bgboxverticalheight}%
+			% \grenewcommand{\bgboxbottomcolor}{primary}%
+			% \grenewcommand{\bgboxbottomheight}{\bgboxverticalheight}%
+			% \grenewcommand{\bgboxinjectonce}{}%
+		\end{ocg}
+	}
+}
+
+\backgroundpages
+
+% --- lists ------------------------------------------------------------
+
+% \newcommand{\mylist}[1]{%
+%     \begin{list}{
+%         \color{primary}\textbullet}{\leftmargin=1.5em\itemsep=3pt\parsep=0pt}#1
+%     \end{list}
+% }
+
+% --- headlines -------------------------------------------------------
+
+\usepackage{sectsty}
+
+\setcounter{secnumdepth}{-1} % no headline numbers
+\setcounter{figure}{-1}      % no figure numbers
+
+\newcommand{\chapterfontsize}{\fontsize{31.573pt}{10pt}}
+\newcommand{\sectionfontsize}{\fontsize{17.769pt}{10pt}}
+\newcommand{\subsectionfontsize}{\fontsize{12pt}{10pt}}
+\newcommand{\subsubsectionfontsize}{\fontsize{10pt}{10pt}}
+
+\chapterfont{\color{primary}\raggedright\fffancy\chapterfontsize\selectfont}
+\sectionfont{\color{primary}\raggedright\fffancy\chapterfontsize\selectfont}
+\subsectionfont{\color{primary}\raggedright\fffancy\sectionfontsize\selectfont}
+% \subsectionfont{\color{primary}\raggedleft\fffancy\subsectionfontsize\selectfont\itshape}
+\subsubsectionfont{\raggedright\fffancy\subsectionfontsize\selectfont}
+
+\def\tightlist{}
+% \usepackage{latex/fu-de}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{titlesec}
+
+\newcommand{\threecolumnsbegin}{\begin{multicols}{3}}
+\newcommand{\twocolumnsbegin}{\begin{multicols}{2}}
+\newcommand{\columnsend}{\end{multicols}}
+
+% Fonts and typography
+
+
+
+
+% Page
+
+%% Use full page in book style
+\usepackage{fullpage}
+
+% A way to produce similar looking "statblocks"
+% 1 = NSC/Monster name, e.g. "Giant rat"
+% 2 = hit die, e.g. "4"
+% 3 = action die, e.g. "6"
+% 4 = reaction die, e.g. "4"
+\newcommand{\nsc}[4]{\keyword{#1:} \HD#2 \AD#3 \RD#4}
+
+% Listings
+\usepackage{upquote}
+
+\usepackage{listings}
+
+% --- language dependent typography stuff ------------------------------
+
+% \renewcommand{\say}[1]{„\textit{#1}“}
+\setdefaultlanguage[spelling=new]{german}
+
+% \renewcommand{\fsNormal}{\fontsize{9.75pt}{11.25pt plus 0.1pt minus 0pt}}
+% \renewcommand{\fsSmall}{\fontsize{8.5pt}{9.5pt plus 0.1pt minus 0pt}}
+
+
+
+% --- pdf metadata & stuff ---------------------------------------------
+
+\hypersetup{
+	pdftitle={FU: Frei und Universell},
+	pdfauthor={Nathan Russell, Tina Trillitzsch,Thorsten Panknin},
+	pdfsubject={Ein freies universelles Rollenspielsystem.},
+	pdfkeywords={FU, fu, Rollenspiel, System, frei, RSP, RPG}
+}
+\renewcommand{\backgroundlayername}{Hintergrund}
+
+
+%-----fancy quotes
+% \usepackage{framed}
+\usepackage[framemethod=TikZ]{mdframed}
+
+% \let\oldquote=\quote
+% \let\endoldquote=\endquote
+% \colorlet{shadecolor}{orange!15}
+% \renewenvironment{quote}{\begin{shaded*}\begin{oldquote}}{\end{oldquote}\end{shaded*}}
+
+\surroundwithmdframed[
+  topline=true,
+  bottomline=true,
+  rightline=false,
+  leftline=false,
+  backgroundcolor = secondary,%
+  linecolor = primary,
+  % backgroundcolor = orange!15,%
+  % linecolor = orange!70,
+  linewidth = 2pt,
+  skipabove=10pt,
+  skipbelow=0pt,
+  innertopmargin=10pt,
+  innerbottommargin=10pt
+]{quote}
+
+% --- common packages --------------------------------------------------
+% Links
+
+%% Hyperref
+% \usepackage[colorlinks, breaklinks, bookmarks, xetex]{hyperref}
+
+% \hypersetup {
+%   linkcolor = DarkSkyBlue,
+%   citecolor = DarkSkyBlue,
+%   filecolor = DarkSkyBlue,
+%   urlcolor = DarkSkyBlue
+% }
+
+%% Don’t use Mono font for URLs
+% \urlstyle{same}
+
+
+% Images
+
+% \usepackage{graphicx}
+
+
+% Pandoc hacks
+
+%% Normal enumerates processing
+\usepackage{enumerate}
+
+%% Disable section numbers
+%%\setcounter{secnumdepth}{0}
+
+\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+% \setmainfont{Times}
+% \setmonofont{Lucida Sans Typewriter}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+% \usepackage{ifxetex,ifluatex}
+% % \usepackage{fixltx2e} % provides \textsubscript
+% \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+%   \usepackage[T1]{fontenc}
+%   \usepackage[utf8]{inputenc}
+% \else % if luatex or xelatex
+%   \ifxetex
+%     \usepackage{mathspec}
+%   \else
+%     \usepackage{fontspec}
+%   \fi
+%   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+% \fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+
+%\begin{document}
+
+ \begin{document}\fftext
+% \AddToShipoutPicture*{\BackgroundPic}
+% \newpage
+% \tableofcontents
+
+  %  \tableofcontents
+  %  \newpage
+  % Title page
+
+ % \thispagestyle{empty}
+ %
+ % \vspace*{\fill}
+ %   \begin{center}
+ %     \includegraphics[width=0.7\textwidth]{title}
+ %   \end{center}
+ % \vspace*{\fill}
+ %
+ % \setcounter{page}{0}
+
+  % Book contents
+
+  $body$
+
+\end{document}

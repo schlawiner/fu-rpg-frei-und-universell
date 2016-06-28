@@ -1,5 +1,5 @@
 # Die Grundlagen
-
+<!-- \twocolumnsbegin -->
 Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon einmal von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.
 
 <!-- FU is written with the assumption that at least one player is familiar with roleplaying games and has a vague idea of how they work. If you don’t have a clue what an RpG is, then start by  nding someone who does!
@@ -9,7 +9,7 @@ FU est écrit avec comme prérequis qu'au moins un des joueurs est au courant de
 ## Was ihr braucht
 Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
-**Würfel**: Um auszuwerten, wie eure Handlungen ausgehen, verwendet ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In diesem Regeltext werden sechsseitige Würfel durchgehend als "W6" bezeichnet. Wenn davor eine Zahl erscheint (wie bei "2W6" oder "4W6"), bedeutet das, dass ihr so viele Würfel werfen müsst.
+**Würfel**: Um auszuwerten, wie eure Handlungen ausgehen, verwendet ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In diesem Regeltext werden sechsseitige Würfel durchgehend als „W6“ bezeichnet. Wenn davor eine Zahl erscheint (wie bei „2W6“ oder „4W6“), bedeutet das, dass ihr so viele Würfel werfen müsst.
 
 **Stifte und Papier**: Die Spielerinnen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Die Erzählerin braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.
 
@@ -78,9 +78,10 @@ decide what type of game you want to play, who the characters are going to be, a
 
 Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous voulez jouer, qui seront vos personnages, et dans quel univers prendra place l'histoire. En sachant cela, vous aiderez les joueurs à créer des personnages plaisants, et cela donnera des indications au Narrateur sur le rôle qu'ils endosseront. Ces décisions ont peut-être déjà été prises, soit par le Narrateur, soit par l'intermédiaire d'un module déjà écrit. Si ce n'est pas le cas, oeuvrez ensemble pour construire un univers dans lequel tout le monde aura envie de jouer.-->
 
+
 ---
 
-\columnsbegin
+<!-- \twocolumnsbegin -->
 
 <div markdown="1" class="sidebar">
 
@@ -108,15 +109,16 @@ Cette discussion peut amener des éléments au Narrateur sur ce que veulent les 
 
 ### Der Sofort-Genre-Generator {.unnumbered}
 
-Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium", und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
+Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet „Vorstadt-Weltuntergang“, „Mittelalter-Superhelden“, „Kampfsport-Gymnasium“, und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 </div>
 
-\columnsend
-
----
+<!-- \columnsend -->
 
 <!--
+---
+
+
 ### The Insta-Genre-Generator
 For quick pick-up games, get every- one to write two genres or settings on bits of paper. Stick them all in a hat and pick out two. Now you have “Apocalypse Suburbia”, “Medieval Super-heroes”, “Kung-Fu High School” or whatever, have a discussion about tone, theme, possible plots and characters. Now play!
 
