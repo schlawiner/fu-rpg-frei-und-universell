@@ -1,7 +1,7 @@
 \newpage
 # Die Figuren
 
-Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf Personen reagiert.
+Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.
 
 <!-- (Characters)  
 
@@ -13,11 +13,11 @@ In FU a character is your alter-ego. During a story you describe what the charac
 
 ## Konzept
 
-Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Wörtern oder einem kurzen Satz zusammenfassen.  
+Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
-Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Weltgewandter Sheriff“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
+Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
-> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
+> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
 
 <!-- (Concept)
 
@@ -37,7 +37,7 @@ Bien évidemment, le concept du personnage doit correspondre à l'univers choisi
 
 ## Beschreiber
 
-Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben erleichtern oder erschweren, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
+Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben leichter oder schwerer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
 
 Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
@@ -197,7 +197,7 @@ Chaque Descripteur doit avoir un ou deux cas d'utilisation spécifiques. Il peut
 
 ### Was für ein Beschreiber ist das? {.unnumbered}
 
-Manche Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht hängt von dir, der Erzählerin und von deinen Mitspielerinnen ab. Entscheidet selbst.
+Manche Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Ob ein Beschreiber für eure Geschichten passt oder nicht, hängt von dir als Erzählerin und von deinen Mitspielerinnen ab. Entscheidet selbst.
 
 <!-- What type of Descriptor is this?
 Some Descriptors could easily fall into more than one category—Good Memory might, for example, be a Mind Descriptor or an Edge; Ugly could be a Flaw or a Body Descriptor.  at’s  ne. It is up to you, the Narrator and the other players to make a decision on whether a speci c Descriptor is appropriate or not for the stories you are telling.
@@ -306,7 +306,7 @@ Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, E
 <!-- Weapons: Rusting Sabre, Heavy Axe, My Father’s Service Revolver, Concealed Dagger, Ex- perimental Flamethrower, Fake Revolver, Reliable AK-47, Rubber Mallet. -->
 
 **Fortbewegung**:  
-Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
+Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
 
 <!-- Transport: Faithful Horse, Beat-up Buick, Bullet-proof Limo, Squeaky Clown Shoes, Tuned- up Street Racer, Girls Bicycle, Unreliable Coupe, Rickety Wagon, Fast Motorcycle, Grandma’s Run- about. -->
 
@@ -346,7 +346,7 @@ Chaque élément du Matériel doit ajouter un détail à l'histoire de votre per
 
 ### Ausrüstung ist Zubehör
 
-Ausrüstung gehört nie fest zu einer einer Figur - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
+Ausrüstung gehört nie fest zu einer einer Figur - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
 
 <!-- Gear is equipment
 Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
@@ -362,7 +362,7 @@ Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nü
 <!-- Describing Gear
 When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!   -->
 
-Die Beschreibung deiner Ausrüstung sollte, wie Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut sind oder was ihre Haupteigenschaft ist.
+Die Beschreibung deiner Ausrüstung sollte, wie Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
 
 <!-- Like Descriptors, the description of your Gear should be clear - you don’t want to be guessing at the purpose or main feature of an item.
 
@@ -423,7 +423,7 @@ Vous pouvez, si vous voulez, imposer qu'un des éléments ait un "bon" qualifica
 
 ### Kram, der keine Ausrüstung ist
 
-Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen.
+Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!
 
 <!-- Stuff that isn’t Gear
 Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that! -->
@@ -451,7 +451,7 @@ interesting. -->
 
 <!-- À présent, vous avez une bonne idée de qui est votre personnage. Il est temps de parfaire les détails. C'est le moment de décrire l'apparence et le caractère de ce personnage, son passé, ses buts, amis, ennemis et d'autres détails qui vous sembleront significatifs. -->
 
-> David macht sich ein paar Notizen zu seinem  Tollkühnen Entdecker:
+> David macht sich ein paar Notizen zu seinem Tollkühnen Entdecker:
 >
 > Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
 
@@ -488,12 +488,12 @@ ing to achieve. It may not be world changing (though it can be) but it should be
 
 <!-- **What is stopping you?** What obstacle or adver- sary is stopping you from getting what you want?   -->
 
-**Was bist du bereit du tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
+**Was bist du bereit zu tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
 
 <!-- **What will you do?** What is the next step to get what you want? What are you willing to do to succeed? -->
 
 
-> Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
+> Tennessee Smith ist auf der Suche nach dem Götzen des Toth, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
 
 <!-- > Tennessee Smith is in search of the Idol of Tot, an artefact he has coveted for decades. His rival, Giles Fishburne is also a er the idol and always seems to be one step ahead. Tennessee is desperate to succeed this time and will do almost anything to get the idol - though he would never kill for it. -->
 
@@ -520,7 +520,7 @@ Tous les personnages ont un objectif, un but qu'ils essaient d'atteindre. Ce n'e
 
 ## Beziehungen
 
-Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und der Vergangenheit beider Figuren etwas vertiefen. Zum Beispiel: **Alte Saufkumpane**, **Mit derselben Frau liiert**, **Zusammen im Krieg gekämpft**, **Vom selben Meister ausgebildet**.
+Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und die Vergangenheit beider Figuren etwas vertiefen. Zum Beispiel: **Alte Saufkumpane**, **Mit derselben Frau liiert**, **Zusammen im Krieg gekämpft**, **Vom selben Meister ausgebildet**.
 
 <!-- Relationships
 Choose at least one other character that will take
@@ -544,7 +544,7 @@ Choisissez au moins un personnage qui prend part à l'histoire et écrivez une c
 <div markdown="1" class="sidebar">
 ### Jetzt dreht sich alles ums Rollenspiel
 
-Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
 Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.
 
@@ -562,7 +562,7 @@ Utilisez vos Motivations et vos Relations pour donner des indications concernant
 
 ### Langfristige oder kurzfristige Ziele?
 
-Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, dessen Erreichen länger braucht.
+Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, für das sie länger braucht.
 
 <!-- Long or short term goals?
 When choosing your Drive you are free to pick long or short term goals. If you are only playing a one-o  game, then it is a better idea to pick something that will have an immediate impact on the plot. If you are planning a series of games, then by all means come up with a longer-term goal for your character. -->
@@ -584,9 +584,9 @@ work together to decide on a relation- ship, or you can have separate, unre- lat
 
 Deux est un bon nombre de Relations pour commencer. Choisissez deux personnages différents et trouvez comment ils peuvent se connaître. Vous et l'autre joueur pouvez travailler ensemble pour construire la Relation, ou pouvez oeuvrer chacun de votre côté pour produire une Relation séparée, sans lien direct ou "opposée" (par exemple : "est amoureu(x)(se) de" / "est repoussé(e) par"). -->
 
-### Seid nicht eure eigenen Feinde
+### Seid keine Feinde
 
-Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
+Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
 
 <!-- Don’t be antagonistic  
 Don’t create Drives or Relationships that will have characters constantly at each others throats. It is okay to have characters that don’t see eye-to-eye (in fact, that can be fun!), but don’t have them hate each other. You want the characters to function together in order to defeat the antagonist, solve the mys- tery or complete the mission! -->

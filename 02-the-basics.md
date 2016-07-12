@@ -37,11 +37,11 @@ Pour jouer à FU vous aurez besoin d'un peu de matériel. Voici votre liste de c
 **Papier brouillon** : Les Narrateurs pourront trouver utile d'avoir une réserve de feuilles de papier supplémentaire pour dessiner des plans ou des diagrammes, ou de garder une trace des événements de l'histoire. Un petit tableau blanc est également pratique pour ce genre de choses. -->
 
 ## Was ihr macht
-Deine Freundinnen und du erzählt gemeinsam eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
+Gemeinsam mit deinen Freundinnen erzählst du eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin, deren Aufgabe es ist, den anderen dabei zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen wenn nötig das letzte Wort zu haben.
+Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin. Ihre Aufgabe es ist, den anderen dabei zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen - wenn nötig - das letzte Wort zu haben.
 
-Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.
+Das Spielen selbst besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.
 
 <!--
 ## What you do
@@ -55,7 +55,7 @@ play is a kind of conversation, where everyone works together to put the charact
 Vous et vos amis allez devoir travailler ensemble à la narration d'une histoire à péripéties. Vous devrez concevoir des éléments de l'univers initial, et tout le monde aura sa chance pour poser son empreinte sur ce monde. La plupart des joueurs créeront un personnage qui fera partie des principaux protagonistes, ceux qui doivent "faire le taf". Chaque personnage a ses forces, ses faiblesses ou ses motivations qui vous aideront à incarner ce rôle. Un joueur sera le Narrateur, qui gère l'ensemble, présente les défis à surmonter pour les personnages, et applique les règles si nécessaire. Le jeu est une sorte de conversation, dans laquelle tout le monde participe pour mettre les personnages dans des situations sympathiques ou amusantes. Ensuite, il faudra utiliser les dés pour savoir ce qui les attend. Parfois vous devrez travailler ensemble, lançant des idées à la ronde, suggérant et surenchérissant à qui mieux-mieux. C'est le chaos, mais avec de la chance, un chaos productif, et amusant. À d'autres moments vous devrez vous exprimer chacun votre tour pour décrire ce que fait votre personnage et constater le résultat de ses actes.-->
 
 ## Wie ihr's macht
-Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
+Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Dein Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 <!--## How you do it
 To resolve any action where the outcome is not
@@ -89,7 +89,7 @@ Avant tout, vous et vos amis devrez vous accorder sur le type de jeu auquel vous
 
 Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
-Einigt euch über die Grundstimmung, das Thema und eure Erwartungen. Es ist zum Beispiel wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.  
+Werdet euch einig über die Grundstimmung, das Thema und eure Erwartungen. Es ist zum Beispiel wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.  
 
 Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel gehen wird.
 

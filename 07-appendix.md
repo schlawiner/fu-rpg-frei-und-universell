@@ -125,7 +125,7 @@ problem when remembering where you le  the keys, or that you just pulled the pin
 **Querdenkerin:** nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen.
 
 <!-- **Mathematician:** great for doing sums, solving equations and doing your tax. -->
-**Mathematikerin:** toll, um zu addieren, Gleichungen zu lösen und die Steuererklärung machen.
+**Mathematikerin:** toll, um zu addieren, Gleichungen zu lösen und die Steuererklärung zu machen.
 
 <!-- **Observant:** great for spotting hidden clues, no- ticing details, doing  nd-a-words, and reading body language. -->
 

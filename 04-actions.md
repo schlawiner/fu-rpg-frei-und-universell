@@ -11,9 +11,9 @@ Dans FU, vous et les autres joueurs allez travailler à l'élaboration d'une his
 
 ## Szenen und Runden
 
-Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um eine bestimmte Situation, einen Ort oder eine Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.
+Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.
 
-Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
+Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und sagen, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
 Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
@@ -30,11 +30,11 @@ Le jeu est divisé en scènes et tours. Une scène est une moment de l'histoire 
 Pendant une scène les joueurs et le Narrateur décrivent ce que les personnages font. Les joueurs "jouent la comédie" pour interpréter leurs personnages, étant leur voix et leur corps, tandis que le Narrateur fait de même pour tous les autres personnages, les créatures et les monstres de la scène.
 -->
 
-Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder irgendeine andere Aufgabe.
+Wenn es wichtig ist, was genau jede Figur in welcher Reihenfolge tut, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder irgendeine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
-Es sollte gesagt werden, dass nur die Spielerinnen würfeln. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste aufregende Gefecht vorzubereiten.
+Es sollte gesagt werden, dass nur die Spielerinnen würfeln. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste aufregende Ereignis vorzubereiten.
 
 <!-- When it is important to know the speci c actions of each character and the order in which they occur, a scene is broken into turns. A turn is a period long enough for each character to take a single action, whether that be to make an attack, deliver a rousing speech, throw an object to a companion, look up some information on their iphone, or perform some other task.
 
@@ -57,7 +57,7 @@ Il est important de signaler que seuls les joueurs lancent les dés. Ceci laisse
 
 Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet am Ende die Erzählerin, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
 
-Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse ausdiskutieren, was passiert, wo es passiert und wer dabei ist.
+Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse ausdiskutieren - was passiert, wo es passiert und wer dabei ist.
 
 Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
 
@@ -77,7 +77,7 @@ Certains groupes de joueurs peuvent "poser" une scène à tour de rôle, et c'es
 
 Die Szene zu planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
-Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.
+Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene darauf, welches Ziel sie verfolgen soll.
 
 <!--
 How do you “set a scene”?
@@ -93,7 +93,7 @@ En décrivant une scène il faut la dépeindre dans tous les plans : pointer les
 
 ### Was ist eine Zielsetzung?
 
-Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
+Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnenziele könnten sein: die eigene Figur in einem tollen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
 <!-- What is an objective?
 An objective can be anything that a player or character wants. Character objectives might include nding a piece of information, defeating an enemy, talking to someone, travelling a small or great distance, preparing for battle, con- ning a mark, or stealing an object. Play- er objectives could include seeing their character in a cool  ght, solving the mystery, revealing a secret about their character, or interacting with a speci c character or player. O en, player and character goals overlap.

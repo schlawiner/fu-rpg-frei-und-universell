@@ -1,5 +1,5 @@
 # Einleitung
-FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
+FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel der großen Ambitionen und von verblüffender Einfachheit.
 
 Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erschaffen, und das mit kleinstmöglichem Aufwand und Vorbereitung.
 

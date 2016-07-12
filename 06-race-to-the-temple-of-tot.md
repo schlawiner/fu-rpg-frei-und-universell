@@ -392,7 +392,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 
 <!-- ### Tennessee Smith, Daredevil Explorer (Tollkühner Forscher/Forschungsreisender) -->
-
+\newpage
 ### Tennessee Smith, Tollkühner Entdecker
 
  <!-- | Character | Tennessee Smith                                                                    |
@@ -435,6 +435,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 <!-- ### Jimmy Sweet, Plucky Kid -->
 
+\newpage
 ### Jimmy Sweet, Beherzter Gassenjunge
 
 
@@ -478,6 +479,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 
 <!-- ### Harvey Reed, Retired Boxer -->
 
+\newpage
 ### Harvey Reed, Boxer im Ruhestand
 
  <!-- | Character | Harvey Reed                                                                       |
@@ -519,6 +521,7 @@ Vous trouverez quatre personnages pré-générés ci-dessous. Ce sont des exempl
 > Harvey Reed a récemment raccroché les gants de boxe. Sa nouvelle vie de sédentaire lui a paru peu trop ennuyeuse, aussi il a rejoint son vieil ami Tennessee dans ses aventures. -->
 
 <!-- ### October Jones, Girl Reporter -->
+\newpage
 ### October Jones, Junge Reporterin
 
 |           Figur | October Jones                                                                                             |
