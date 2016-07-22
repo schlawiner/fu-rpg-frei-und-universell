@@ -1,0 +1,239 @@
+%\documentclass[]{article}
+% --- language dependent typography stuff ------------------------------
+
+\renewcommand{\say}[1]{„\textit{#1}“}
+\setdefaultlanguage[spelling=new]{german}
+
+\renewcommand{\fsNormal}{\fontsize{9.75pt}{11.25pt plus 0.1pt minus 0pt}}
+\renewcommand{\fsSmall}{\fontsize{8.5pt}{9.5pt plus 0.1pt minus 0pt}}
+
+\hyphenation{Rol-len-spiel}
+\hyphenation{Blatt-hälfte}
+\hyphenation{Sofort-Gen-re-Ge-ner-ator}
+
+% --- pdf metadata & stuff ---------------------------------------------
+
+\hypersetup{
+	pdftitle={FU: Frei und Universell},
+	pdfauthor={Nathan Russell, Tina Trillitzsch,Thorsten Panknin},
+	pdfsubject={Ein freies universelles Rollenspielsystem.},
+	pdfkeywords={FU, fu, Rollenspiel, System, frei, RSP, RPG}
+}
+
+% \renewcommand{\backgroundlayername}{Hintergrund}
+
+% --- fine print ---------------------------------------------------------------
+
+% \renewcommand{\nipajinCopyright}{\copyright\ 2009--2015, Markus Leupold-Löwenthal}
+% \renewcommand{\nipajinCredits}{Lektorat: Onno Tasler}
+% \renewcommand{\nipajinFineprint}{(Logos und Marken ausgenommen. Bitte nicht einweg-relizensieren.)}
+
+% --- language macros --------------------------------------------------
+
+\newcommand{\zB}{z.\,B.}
+\newcommand{\uU}{u.\,U.}
+
+%--------------
+
+% \newcommand{\columnsbegin}{\begin{multicols}{3}}
+% \newcommand{\columnsend}{\end{multicols}}
+\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+\setmainfont{Times}
+% \setmonofont{Lucida Sans Typewriter}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+% \usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+\setmainfont{Times}
+
+
+\date{}
+
+\begin{document}
+
+\tableofcontents
+\newpage
+
+\section{Die Grundlagen}\label{die-grundlagen}
+\begin{multicols}{2}
+Der Text von FU geht davon aus, dass wenigstens eine von euch schon von
+Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie
+funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist,
+sucht euch zuerst jemanden, der Bescheid weiß.
+
+\subsection{Was ihr braucht}\label{was-ihr-braucht}
+Vor dem Spielen solltet ihr ein paar Sachen zusammensuchen. Hier ist die
+Einkaufsliste.
+
+\textbf{Würfel}: Um auszuwerten, wie eure Handlungen ausgehen, verwendet
+ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens
+einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In
+diesem Regeltext werden sechsseitige Würfel durchgehend als ``W6''
+bezeichnet. Wenn davor eine Zahl erscheint (wie bei ``2W6'' oder
+``4W6''), bedeutet das, dass ihr so viele Würfel werfen müsst.
+
+\textbf{Stifte und Papier}: Die Spielerinnen müssen sich ein paar
+Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre
+Mission und allerlei anderen Dingen. Die Erzählerin braucht Papier, um
+den Überblick über die verschiedenen Elemente der Geschichte zu
+behalten.
+
+\textbf{Schmierpapier}: Für Erzählerinnen kann es nützlich sein, einen
+kleinen Zettelvorrat zur Hand zu haben, um grobe Schaubilder oder eine
+Übersicht über die Ereignisse festzuhalten. Für diesen Zweck eignet sich
+auch ein kleines Whiteboard.
+% \titlespacing{\section}{0pt}{-60.0em}{-60.0em}
+\subsection{Was ihr macht}\label{was-ihr-macht}
+
+Deine Freundinnen und du erzählt gemeinsam eine dramatische und
+aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben
+Gelegenheit, diese Welt zu beeinflussen.
+
+Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die
+eine Hauptrolle spielt - coole Typen, die Dinge anpacken und etwas
+bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und
+Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der
+Spielerinnen ist die Erzählerin, deren Aufgabe es ist, den anderen zu
+helfen, ihre Figuren vor Herausforderungen zu stellen und bei
+Regelfragen wenn nötig das letzte Wort zu haben.
+
+Das Spielen besteht aus einer Art Unterhaltung, bei der alle
+zusammenwirken, um die Figuren in coole und/oder unterhaltsame
+Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was
+als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen
+in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein
+Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal
+wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure
+Figur jeweils macht und schaut, wie es ausgeht.
+
+\newcommand{\TableResult}{%
+	\tabelle{X c}{
+		\thead{Wurf} & \thead{Ergebnis} \\
+	}{
+		6                   & Ja, und \\
+		5         & Ja! \\
+		4                   & Ja, aber \\
+		3                &  Nein, aber \\
+		2              & Nein! \\
+		1 & Nein, und... \\
+	}
+}
+
+\subsection{Wie ihr's macht}\label{wie-ihrs-macht}
+
+Wenn du etwas tust und das Ergebnis nicht eindeutig ist, wirf einen W6.
+Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine
+gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das
+Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung
+entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je
+niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die
+Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten
+eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und
+nimmst das beste oder schlechteste Ergebnis.
+
+\subsection{Vor dem Losspielen}\label{vor-dem-losspielen}
+
+Bevor es richtig losgehen kann, musst du mit deinen Freundinnen
+entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren
+sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den
+Spielerinnen, coole Figuren zu erfinden und zeigt der Erzählerin, welche
+Rolle sie übernehmen. Vielleicht sind diese Dinge ja schon entschieden,
+sei es durch die Erzählerin oder durch ein vorgefertigtes
+Spielweltmodul. Falls nicht, überlegt euch gemeinsam etwas, das alle
+spannend finden und spielen wollen.
+
+\TableResult
+\end{multicols}
+
+
+
+\vfill
+\begin{center}\rule{1.0\linewidth}{\linethickness}\end{center}
+%\columnsbegin
+\subsection{Anmerkungen}\label{Anmerkugen}
+
+\begin{multicols}{3}
+\subsubsection*{Sprecht vor dem Spielen
+miteinander!}\label{sprecht-vor-dem-spielen-miteinander}
+\addcontentsline{toc}{subsubsection}{Sprecht vor dem Spielen
+miteinander!}
+
+Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit
+alle von Anfang an wissen, was Sache ist.
+
+Einigt euch über die Grundstimmung, das Thema und eure Erwartungen. Es
+ist wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen
+und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.
+
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder
+abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert
+darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel
+gehen wird.
+
+Diese Diskussion wird auch der Erzählerin deutlich machen, was die
+Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob sie
+sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische
+Antihelden fühlen wollen.
+
+\subsubsection*{Der
+Sofort-Genre-Generator}\label{der-sofort-genre-generator}
+\addcontentsline{toc}{subsubsection}{Der Sofort-Genre-Generator}
+
+Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle
+Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine
+Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet
+``Vorstadt-Weltuntergang'', ``Mittelalter-Superhelden'',
+``Kampfsport-Gymnasium'', und ähnliches. Diskutiert über Stimmung,
+Themen, mögliche Geschichten und Figuren und spielt dann los!
+
+% \vskip-\lastskip     % drop the extra space from enumerate
+% \vskip-\prevdepth    % back up by the depth of the last lin
+% \columnbreak
+\end{multicols}
+% \columnsend
+
+\end{document}

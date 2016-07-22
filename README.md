@@ -36,3 +36,11 @@ Eine andere Option ist es, beim Lesen des Dokuments auf Gitbook einen Korrekturv
 
 Dort kann man in jede Zeile klicken - es erscheint rechts ein Plussymbol (+), das man anklickt, um zu der entsprechenden Zeile einen Diskussionsthread im Gitbook-Projektforum anzulegen, in der man seinen Vorschlag einträgt und gegebenenfalls auch noch genauer erläutern kann.
 In dem Fall sieht und kommentiert man immer nur den Master-Branch. Aber da man ja keine direkten Änderungen macht, sondern nur Vorschläge, ist das egal. Ich füge die Änderungen dann von Hand selektiv ein.
+
+### Selbst mit pandoc Ausgabedokumente aus den Mardown-Dateien generieren
+
+#### PDF über LaTeX (hier xetex)
+pandoc --latex-engine=xelatex --template=pdf-template.tex -S -o fu.pdf 01-introduction.md 02-the-basics.md 03-the-characters.md 04-actions.md 05-narrator.md 06-race-to-the-temple-of-tot.md 07-appendix.md
+
+#### Epub für Ebookreader oder Smartphones per CSS-Stylesheet
+pandoc 01-introduction.md 02-the-basics.md 03-the-characters.md 04-actions.md 05-narrator.md 06-race-to-the-temple-of-tot.md 07-appendix.md --epub-stylesheet=styles/pandoc-epub.css --epub-cover-image=cover.jpg --epub-metadata=metadata.xml --number-sections -o fu.epub

@@ -1,0 +1,59 @@
+% (c) 2009-2015 by Markus Leupold-Löwenthal
+% This file is released under CC BY-SA 4.0. Please do not apply other licenses one-way.
+
+\documentclass{article}
+
+\usepackage{fu-de}
+
+% each language file has to re-define the following items:
+
+\newcommand{\nipajinVersion}{v0.0}
+\newcommand{\nipajinCopyright}{}
+\newcommand{\nipajinCredits}{}
+\newcommand{\nipajinFineprint}{}
+\newcommand{\nipajinSummary}{}
+
+\newcommand{\nipajinHeadlinePlayer}{}
+\newcommand{\nipajinTocPlayer}{}
+\newcommand{\nipajinTextPlayer}{}
+\newcommand{\nipajinHeadlineEffects}{}
+\newcommand{\nipajinTocEffects}{}
+\newcommand{\nipajinTextEffects}{}
+\newcommand{\nipajinHeadlineGM}{}
+\newcommand{\nipajinTocGM}{}
+\newcommand{\nipajinTextGM}{}
+
+\input{content.de.tex} % Makefile will map the current language into content.txt
+
+% ###########################################################################
+% ###########################################################################
+% ###########################################################################
+
+\begin{document}\fftext
+
+% ### BANNER ################################################################
+
+\coverbanner{\nipajinCopyright}{\nipajinVersion}{\nipajinCredits}{\nipajinFineprint}{\nipajinSummary}
+
+% ### CONTENT #################################################################
+
+\mybanner{\MakeUppercase{\nipajinHeadlinePlayer}}{\nipajinTocPlayer}
+
+\begin{multicols}{2}\raggedbottom
+	\noindent\nipajinTextPlayer
+\end{multicols}
+
+\newpage
+
+\backgroundtop{secondary}{13.5cm}
+\mybannersimple{\MakeUppercase{\nipajinHeadlineEffects}}{\nipajinTocEffects}
+\begin{multicols}{2}
+	\nipajinTextEffects
+\end{multicols}
+
+\mybanner{\MakeUppercase{\nipajinHeadlineGM}}{\nipajinTocGM}
+\begin{multicols}{2}
+	\nipajinTextGM
+\end{multicols}
+
+\end{document}
