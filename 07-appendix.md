@@ -241,7 +241,7 @@ sight, such as shooting, navigating an unfamiliar space, or painting. -->
 **Blind:** nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, sich auf unbekanntem Gelände Zurechtfinden oder Malen
 
 <!-- **Brave:** good for charging into mortal danger, act- ing foolhardy, and getting into deep trouble. -->
-**Mutig:** nützlich beim Heranstürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und um ordentlich in Schwierigkeiten zu geraten.
+**Mutig:** nützlich beim Stürmen in eine tödliche Gefahr, bei tollkühnem Verhalten und um ordentlich in Schwierigkeiten zu geraten.
 
 <!-- **Clumsy:** a problem when carrying a valuable vase, visiting an antique store, or trying to cross a booby- trapped room. -->
 **Ungeschickt:** problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes
