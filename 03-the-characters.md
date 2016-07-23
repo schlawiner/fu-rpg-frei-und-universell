@@ -100,13 +100,13 @@ Les personnages ont quatre Descripteurs : Corps, Esprit, Atout et Faille. Choisi
 
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
-> **Körper**: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwächlich, Schwimmhäute an den Füßen.
+> **Körper**: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Lebenskraft, Schwächlich, Schwimmhäute an den Füßen.
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Dämlich, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
 > **Stärke**: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagen, Scharfe Augen, Sprachwissenschaft, Magie, Medizin, Fieser Biss, Reich, Ringkampf.
 >
-> **Schwäche**: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
+> **Schwäche**: Blind, Unerschrocken, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.
 
 <!--
  is is by no means an exhaustive list, just some
@@ -223,8 +223,8 @@ Les meilleures Failles sont des traits de personnalité ou des incapacités phys
 
 ### Soll ich mich spezialisieren? {.unnumbered}
 
-Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einem richtig furchteinflößenden Krieger kannst du Körper: **Stark**, Geist: **Taktiker**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
-Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
+Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einet richtig furchteinflößenden Kriegerin kannst du Körper: **Stark**, Geist: **Taktikerin**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
+Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du eine Ringerin, Bodybuilderin oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 <!-- You can focus your Descriptors on a single concept and “specialise”. For a really awesome warrior give them Body: Strong, Mind: Tactician, Edge: Melee and Flaw: Reckless. It would be very easy to bring most of these descrip- tors into play whenever you get into a  ght. BUT, there isn’t a lot of depth there and you are going to be in a bind when in noncombat situations. Instead, you might replace a couple of Descrip- tors with more versatile options; Body: Tough, Mind: Focused, Edge: Melee and Flaw: Reckless.
 Describe your character’s Body as Huge and their Edge as Strong, if you
