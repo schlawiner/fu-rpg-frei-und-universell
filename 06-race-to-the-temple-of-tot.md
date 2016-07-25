@@ -6,29 +6,25 @@
 Dieses kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt beispielhaft, wie du selbst eigene Abenteuer, Gegenspielerinnen und Hindernisse vorbereiten kannst. Am Ende des Abenteuers findet ihr vorgefertigte Figuren, die ihr übernehmen könnt. *Das Rennen zum Tempel des Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du nach Belieben verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfel zu allen möglichen interessanten Wendungen führen werden, und sobald die Figuren erst unterwegs sind, alles möglich ist!
 
 ## Vor dem Spiel
-
 Sprecht vor dem Spiel kurz über Stimmung und Stil des Spiels. Das Szenario gehört mit seiner haarsträubenden Action, den ruchlosen Schurken und überzeichneten Helden ins Pulpgenre. Vergewissere dich, dass das allen klar ist: redet darüber, was an diesem Genre cool ist und welche Aspekte von Genrefilmen wie *Indiana Jones*, *Die Mumie* oder *Rocketeer* euch gefallen haben.
 
 Lies den obigen Stimmungstext vor und lasse alle Mitspielerinnen ein paar Ideen für coole Sachen einbringen, die sie während des Abenteuers erleben möchten. Schreibe dir alle Ideen auf; falls das Spiel mal zäh werden sollte oder du nicht weiter weißt, baue eine davon ein!
 
 
 ## Szenen
-
 Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handlungsortes und Vorschläge für Beschreiber, die du oder deine Spielerinnen nutzen könnt. Der kursive Teil legt den Grundstein für die Handlung und gibt  das Ziel vor. Umschreibe deinen Spielerinnen die Details in eigenen Worten.
 
 ### Herausforderungen
-
 Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht, aber du musst sie nicht zwingend benutzen. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!
 
 ### Flucht vom Bulak-Markt
-
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
-> Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?
+_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
 
-|    Gegenspieler | Nazischlägertypen                                         |
+|    Gegenspieler: | Nazischlägertypen                                         |
 |----------------:|:----------------------------------------------------------|
 | **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau             |
 |  **Ausrüstung** | Laute Maschinenpistolen                                   |
@@ -38,14 +34,13 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
 
 ### Die Übersetzung der Karte
-
 **Szene:** Ein dunkler Cafésalon, ein Kaffeehaus oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Duft starken Kaffees und exotischer Lebensmittel durchströmt den Raum.
 
 **Beschreiber:** Abgeschieden.
 
-> Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?
+_Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?_
 
-| Herausforderung | Die Übersetzung der Karte                                     |
+| Herausforderung: | Die Übersetzung der Karte                                     |
 |----------------:|:--------------------------------------------------------------|
 | **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                       |
 |    **Zustände** | [ ] Zerrissen, [ ] Zerfallen, [ ] Verschmutzt, [ ] Zu Asche verbrannt |
@@ -54,14 +49,13 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 
 
 ### Die Gou-Zou-Schlucht
-
 **Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kan man das Kau-Gebirge erkennen.
 
 **Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
 
-> Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entweder per Automobil oder auf dem Pferd. Giles Fishburne ist ihnen an Bord des deutschen Luftschiffs „Der Vogel“ hart auf den Fersen. Können die Figuren die Brücke unbeschadet überqueren und ihren Vorsprung gegenüber den Deutschen halten?
+_Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entweder per Automobil oder auf dem Pferd. Giles Fishburne ist ihnen an Bord des deutschen Luftschiffs „Der Vogel“ hart auf den Fersen. Können die Figuren die Brücke unbeschadet überqueren und ihren Vorsprung gegenüber den Deutschen halten?_
 
-|    Gegenspieler | Nazi-Flugtruppen                                         |
+|    Gegenspieler: | Nazi-Flugtruppen                                         |
 |----------------:|:---------------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
 |  **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate   |
@@ -70,8 +64,7 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 **Bemerkungen:** Es gibt so viele Flugtruppen wie Figuren.
 
 
-
-| Herausforderung | Gou-Zou-Brücke                                      |
+| Herausforderung: | Gou-Zou-Brücke                                      |
 |----------------:|:----------------------------------------------------|
 | **Beschreiber** | Ohne Zug drauf breit, mit Zug ziemlich schmal |
 |    **Zustände** | [ ] Wacklig, [ ] In die Luft gejagt                   |
@@ -81,14 +74,13 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 **Was kann schiefgehen?** Die Brücke wird zerstört; die Karte geht verloren; die Figuren werden gefangengenommen.
 
 ### Der Tempel
-
 **Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
 
 **Beschreiber:** Dunkel, Still
 
-> Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?
+_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_  
 
-| Herausforderung | Tükische Fallen                       |
+| Herausforderung: | Tükische Fallen                       |
 |----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
@@ -96,7 +88,7 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 
 **Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!
 
-|    Gegenspieler | Steinwächter                                                          |
+|    Gegenspieler: | Steinwächter                                                          |
 |----------------:|:----------------------------------------------------------------------|
 | **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                                    |
 |  **Ausrüstung** | Schwere Steinwaffen                                                   |
@@ -107,14 +99,13 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 **Was kann schiefgehen?** Die Figuren können die Fallen nicht überwinden; die Figuren werden durch die Fallen verletzt.
 
 ### Die Kammer des Götzen
-
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
 **Beschreiber:** Große Bronzespiegel.
 
-> Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?
+_Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?_
 
-|    Gegenspieler | Giles Fishburne                                        |
+|    Gegenspieler: | Giles Fishburne                                        |
 |----------------:|:-------------------------------------------------------|
 | **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                     |
 |  **Ausrüstung** | Polierter Säbel                                        |
@@ -123,14 +114,14 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 **Bemerkungen:** Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
 ## Figuren
-
 Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiele für klassische Pulp-Klischees sind. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin ändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Außerdem sollte jede Spielerin ein bis zwei Beziehungen festlegen, die beschreiben, woher die Figuren sich kennen. Am einfachsten geht das, wenn alle sagen, woher sie die Person links von sich kennen.
 
-\newpage
-### Tennessee Smith, Tollkühner Entdecker
+<!-- \newpage -->
+
+### Tennessee Smith, Tollkühner Entdecker {.examplePC}  
 
 
-|           Figur | Tennessee Smith                                                                                             |
+|           Figur: | Tennessee Smith                                                                                             |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Geschickt, Besonnen, Bullenpeitsche einsetzen, Höhenangst                                                   |
 |  **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                                      |
@@ -144,10 +135,12 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
-\newpage
-### Jimmy Sweet, Beherzter Gassenjunge
+<!-- \newpage -->
 
-|           Figur | Jimmy Sweet                                                                                                 |
+### Jimmy Sweet, Beherzter Gassenjunge {.examplePC}  
+
+
+|           Figur: | Jimmy Sweet                                                                                                 |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Flink, Neunmalklug, Unterschätzt, Jung                                                                      |
 |  **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                            |
@@ -160,10 +153,12 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
-\newpage
-### Harvey Reed, Boxer im Ruhestand
+<!-- \newpage -->
 
-|           Figur | Harvey Reed                                                                                                 |
+### Harvey Reed, Boxer im Ruhestand {.examplePC}  
+
+
+|           Figur: | Harvey Reed                                                                                                 |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Stark, Kann schnell improvisieren, Boxer, Hässlich wie die Nacht                                            |
 |  **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                                         |
@@ -176,10 +171,10 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
-\newpage
-### October Jones, Junge Reporterin
+### October Jones, Junge Reporterin {.examplePC}  
 
-|           Figur | October Jones                                                                                             |
+
+|           Figur: | October Jones                                                                                             |
 |----------------:|:----------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                      |
 |  **Ausrüstung** | Verlässliche Kamera, Dicker Notizblock                                                                    |

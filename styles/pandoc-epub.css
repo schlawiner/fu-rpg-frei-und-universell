@@ -1,47 +1,20 @@
-/* ---- Front Matter ---- */
+/* This defines styles and classes used in the book */
+body { margin: 10%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  font-family: "CardenioModernBold", sans-serif;
+  color: green;
+  page-break-after: avoid;
+}
 
-/* Pandoc header DIV. Contains .title, .author and .date. Comes before div#TOC.
-   Only appears if one of those three are in the document.
-*/
+.title { text-align: center;}
+.subtitle { text-align: center;}
+.author, .trl, .pfr, .bkd, .rights {text-align: center;}
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
-div#header, header
-    {
-    /* Put border on bottom. Separates it from TOC or body that comes after it. */
-    border-bottom: 1px solid #aaa;
-    margin-bottom: 0.5em;
-    }
-
-.title /* Pandoc title header (h1.title) */
-    {
-    text-align: center;
-    font-family:
-    }
-
-.author, .date /* Pandoc author(s) and date headers (h2.author and h3.date) */
-    {
-    text-align: center;
-    }
-
-/* Pandoc table of contents DIV when using the --toc option.
-   NOTE: this doesn't support Pandoc's --id-prefix option for #TOC and #header.
-   Probably would need to use div[id$='TOC'] and div[id$='header'] as selectors.
-*/
-
-div#TOC, nav#TOC
-    {
-    /* Put border on bottom to separate it from body. */
-    border-bottom: 1px solid #aaa;
-    margin-bottom: 0.5em;
-    }
-
-@media print
-    {
-    div#TOC, nav#TOC
-        {
-        /* Don't display TOC in print */
-        display: none;
-        }
-    }
 
   @font-face {
     font-family: CardenioModernBold;
@@ -54,280 +27,115 @@ div#TOC, nav#TOC
     font-family: GentiumRegular;
     font-style: normal;
     font-weight: normal;
-    src: url("GenBkBasR.ttf");
+    src: url("GenBasR.ttf");
   }
 
-  body {font-family: "GentiumRegular", serif;}
-/*
-@font-face {
-font-family: Alegreya;
-font-style: normal;
-font-weight: normal;
-src:url("Alegreya-Regular.otf");
+  @font-face {
+    font-family: GentiumBold;
+    font-style: normal;
+    font-weight: bold;
+    src: url("GenBasB.ttf");
+  }
+
+  @font-face {
+    font-family: GentiumItalic;
+    font-style:italic;
+    font-weight: normal;
+    src: url("GenBasI.ttf");
+  }
+
+  body {
+    font-family: "GentiumRegular", serif;
+    font-size: 1rem;
 }
-@font-face {
-font-family: Alegreya;
-font-style: normal;
-font-weight: bold;
-src:url("Alegreya-Bold.otf");
+
+strong, b {
+  font-family: "GentiumBold", serif;
+  font-weight: bold;
 }
-@font-face {
-font-family: Alegreya;
-font-style: italic;
-font-weight: normal;
-src:url("Alegreya-Italic.otf");
+
+p {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+  font-size: 1.0rem;
 }
-@font-face {
-font-family: Alegreya;
-font-style: italic;
-font-weight: bold;
-src:url("Alegreya-BoldItalic.otf");
+
+.author {
+  font-family: "GentiumRegular";
 }
-body { font-family: "Alegreya"; }
-*/
+.rights {
+  font-family: "GentiumBold";
+  font-weight: bold;
+}
 
 .sidebar {
   /*column-count: 3;*/
   background-color: #eee;
-  padding: 0.2em;
-  border: 1pt dashed #000;
+  padding: 0.7em;
+  border: 1pt solid #000;
   border-radius: 5px;
+  page-break-inside: avoid;
+  color: black;
+  margin-bottom: 1em;
+}
+
+h1 { text-align: left; font-size: 2.369em;}
+h2 { text-align: left; font-size: 1.777em;}
+h3 { text-align: left; font-size: 1.333em;}
+h4 { text-align: left; font-size: 1em;}
+h5 { text-align: left; font-size: 1em;}
+h6 { text-align: left; font-size: 1em;}
+
+h1 {
+  page-break-before:always;
+  margin-top: 0;
+  margin-bottom:1em;
+  page-break-after:avoid;
+  color: green;
 }
 
 h2, h3
 {
-  page-break-after: avoid; /* Firefox, Chrome, and Safari do not support the property value "avoid" */
-  margin-bottom: -0.6em;
-  font-family: "CardenioModernBold", sans-serif;;
-}
-
-h2 {
-  page-break-before:always;
-  font-family: "CardenioModernBold", sans-serif;;
-}
-
-h1 {
-  font-family: "CardenioModernBold" sans-serif;;
-  margin-top: 0em; margin-bottom:0em;
-  page-break-before:always;
-  page-break-after:avoid;
+  page-break-after: avoid;
+  /*margin-bottom: -0.6em;*/
+  margin-top: 0.5em;
+  margin-bottom: 0;
 }
 
 h4, h5, h6
 {
-  margin-bottom: -1em;
+  /*margin-bottom: -0.8em;*/
   page-break-after: avoid;
-  font-family: "CardenioModernBold";
+  margin-top: 0.5em;
+  margin-bottom: 0;
 }
 
 /* Pandoc with --section-divs option */
 
 blockquote
     {
-    border-top: 2pt solid #000;
-    border-bottom: 2pt solid #000;
+    border-top: 3pt solid green;
+    border-bottom: 3pt solid green;
     /*font-style: italic;*/
-    background-color: #eee;
-    padding-top: 0.1em;
-    padding-bottom: 0.1em;
+    background-color: #CEF6CE;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 1.0em;
+    padding-bottom: 0.7em;
     padding-left: 0.5em;
     padding-right: 0.5em;
     page-break-inside: avoid;
     }
 
-li /* All list items */
-    {
-    }
 
-li > p /* Loosely spaced list item */
-    {
-    margin-top: 1em; /* IE: lack of space above a <li> when the item is inside a <p> */
-    }
-
-ul /* Whole unordered list */
-    {
-    }
-
-ul li /* Unordered list item */
-    {
-    }
-
-ol /* Whole ordered list */
-    {
-    }
-
-ol li /* Ordered list item */
-    {
-    }
-
-hr {}
-
-/* ---- Some span elements --- */
-
-sub /* Subscripts. Pandoc: H~2~O */
-    {
-    }
-
-sup /* Superscripts. Pandoc: The 2^nd^ try. */
-    {
-    }
-
-em /* Emphasis. Markdown: *emphasis* or _emphasis_ */
-    {
-    }
-
-em > em /* Emphasis within emphasis: *This is all *emphasized* except that* */
-    {
-    font-style: normal;
-    }
-
-strong /* Markdown **strong** or __strong__ */
-    {
-    }
-
-/* ---- Links (anchors) ---- */
-
-a /* All links */
-    {
-    /* Keep links clean. On screen, they are colored; in print, they do nothing anyway. */
-    text-decoration: none;
-    }
-
-@media screen
-    {
-    a:hover
-        {
-        /* On hover, we indicate a bit more that it is a link. */
-        text-decoration: underline;
-        }
-    }
-
-@media print
-    {
-    a   {
-        /* In print, a colored link is useless, so un-style it. */
-        color: black;
-        background: transparent;
-        }
-
-    a[href^="http://"]:after, a[href^="https://"]:after
-        {
-        /* However, links that go somewhere else, might be useful to the reader,
-           so for http and https links, print the URL after what was the link
-           text in parens
-        */
-        content: " (" attr(href) ") ";
-        font-size: 90%;
-        }
-    }
-
-/* ---- Images ---- */
-
-img
-    {
-    /* Let it be inline left/right where it wants to be, but verticality make
-       it in the middle to look nicer, but opinions differ, and if in a multi-line
-       paragraph, it might not be so great.
-    */
-    vertical-align: middle;
-    }
-
-div.figure /* Pandoc figure-style image */
-    {
-    /* Center the image and caption */
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    font-style: italic;
-    }
-
-p.caption /* Pandoc figure-style caption within div.figure */
-    {
-    /* Inherits div.figure props by default */
-    }
-
-/* ---- Code blocks and spans ---- */
-
-pre, code
-    {
-    background-color: #fdf7ee;
-    /* BEGIN word wrap */
-    /* Need all the following to word wrap instead of scroll box */
-    /* This will override the overflow:auto if present */
-    white-space: pre-wrap; /* css-3 */
-    white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
-    white-space: -pre-wrap; /* Opera 4-6 */
-    white-space: -o-pre-wrap; /* Opera 7 */
-    word-wrap: break-word; /* Internet Explorer 5.5+ */
-    /* END word wrap */
-    }
-
-pre /* Code blocks */
-    {
-    /* Distinguish pre blocks from other text by more than the font with a background tint. */
-    padding: 0.5em; /* Since we have a background color */
-    border-radius: 5px; /* Softens it */
-    /* Give it a some definition */
-    border: 1px solid #aaa;
-    /* Set it off left and right, seems to look a bit nicer when we have a background */
-    margin-left:  0.5em;
-    margin-right: 0.5em;
-    }
-
-@media screen
-    {
-    pre
-        {
-        /* On screen, use an auto scroll box for long lines, unless word-wrap is enabled */
-        white-space: pre;
-        overflow: auto;
-        /* Dotted looks better on screen and solid seems to print better. */
-        border: 1px dotted #777;
-        }
-    }
-
-code /* All inline code spans */
-    {
-    }
-
-p > code, li > code /* Code spans in paragraphs and tight lists */
-    {
-    /* Pad a little from adjacent text */
-    padding-left:  2px;
-    padding-right: 2px;
-    }
-
-li > p code /* Code span in a loose list */
-    {
-    /* We have room for some more background color above and below */
-    padding: 2px;
-    }
-
-/* ---- Math ---- */
-
-span.math /* Pandoc inline math default and --jsmath inline math */
-    {
-    /* Tried font-style:italic here, and it messed up MathJax rendering in some browsers. Maybe don't mess with at all. */
-    }
-
-div.math /* Pandoc --jsmath display math */
-    {
-    }
-
-span.LaTeX /* Pandoc --latexmathml math */
-    {
-    }
-
-eq /* Pandoc --gladtex math */
-    {
-    }
+.examplePC {
+  page-break-before: always;
+  padding-bottom: 1.0em;
+  margin-bottom: 1.0em;
+}
 
 
-/* ---- Tables ---- */
-
-/*  A clean textbook-like style with horizontal lines above and below and under
-    the header. Rows highlight on hover to help scanning the table on screen.
-*/
 
 table
     {
@@ -335,79 +143,35 @@ table
     border-collapse: collapse;
     border-spacing: 0; /* IE 6 */
 
-    border-bottom: 2pt solid #000;
-    border-top: 2pt solid #000; /* The caption on top will not have a bottom-border */
+    border-bottom: 2pt solid green;
+    border-top: 2pt solid green; /* The caption on top will not have a bottom-border */
 
     /* Center */
     margin-left: auto;
     margin-right: auto;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
     }
 
 thead /* Entire table header */
     {
-    border-bottom: 1pt solid #000;
+    border-bottom: 1pt solid green;
     background-color: #eee; /* Does this BG print well? */
+    font-family: "GentiumBold";
+    font-weight: bold;
+    text-transform:uppercase;
     }
 
-tr.header /* Each header row */
-    {
-    }
-
-tbody /* Entire table  body */
-    {
-    }
-
-/* Table body rows */
-
-tr  {
-    }
-tr.odd:hover, tr.even:hover /* Use .odd and .even classes to avoid styling rows in other tables */
-    {
-    background-color: #eee;
-    }
+td, th {
+  padding-left: 0.5em;
+  /*padding-right: 0.5em;*/
+}
 
 /* Odd and even rows */
-tr.odd {}
-tr.even {}
-
-td, th /* Table cells and table header cells */
-    {
-    vertical-align: top; /* Word */
-    vertical-align: baseline; /* Others */
-    padding-left:   0.5em;
-    padding-right:  0.5em;
-    padding-top:    0.2em;
-    padding-bottom: 0.2em;
-    }
-
-/* Removes padding on left and right of table for a tight look. Good if thead has no background color*/
-/*
-tr td:last-child, tr th:last-child
-    {
-    padding-right: 0;
-    }
-tr td:first-child, tr th:first-child
-    {
-    padding-left: 0;
-    }
-*/
-
-th /* Table header cells */
-    {
-    font-weight: bold;
-    }
-
-tfoot /* Table footer (what appears here if caption is on top?) */
-    {
-    }
-
-caption /* This is for a table caption tag, not the p.caption Pandoc uses in a div.figure */
-    {
-    caption-side: top;
-    border: none;
-    font-size: 0.9em;
-    font-style: italic;
-    text-align: center;
-    margin-bottom: 0.3em; /* Good for when on top */
-    padding-bottom: 0.2em;
-    }
+tr.odd {
+  background-color: lightgreen;
+}
+tr.even {
+  background-color: #CEF6CE;
+}

@@ -1,3 +1,28 @@
+---
+title:
+- type: main
+  text: 'FU - frei und universell'
+- type: subtitle
+  text: Ein Rollenspiel von Nathan Russell
+creator:
+- role: author
+  text: "Autor: Nathan Russell"
+- role: trl
+  text: "Übersetzung: Tina Trillitzsch"
+- role: trl
+  text: "und Thorsten Panknin"
+- role: pfr
+  text: "Korrektur: Florian Grässle"
+- role: bkd
+  text: "Layout: Dimitri Chotin"
+lang: de-DE
+cover-image: cover2.png
+stylesheet: styles/pandoc-epub.css
+rights: © 2010, 2016 Nathan Russell, CC BY-NC
+tags: [rpg, role-playing, game, Rollenspiel]
+...
+
+
 # Einleitung
 FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
 

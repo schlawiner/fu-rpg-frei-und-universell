@@ -1,5 +1,5 @@
 # Die Grundlagen
-<!-- \twocolumnsbegin -->
+
 Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon einmal von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.
 
 ## Was ihr braucht
@@ -25,11 +25,7 @@ Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Dein Zie
 Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu erfinden und zeigt der Erzählerin, welche Rolle sie in der Welt übernehmen wollen.
 Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein vorgefertigtes Spielweltmodul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.
 
----
-
-<!-- \twocolumnsbegin -->
-
-<div markdown="1" class="sidebar">
+<div class="sidebar">
 
 ### Sprecht vor dem Spielen miteinander! {.unnumbered}
 
@@ -46,5 +42,3 @@ Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen
 Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht dann zwei davon und ihr erhaltet „Vorstadt-Weltuntergang“, „Mittelalter-Superhelden“, „Kampfsport-Gymnasium“, und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 </div>
-
----
