@@ -1,2 +1,7 @@
 /_book/
 .DS_Store
+.html
+.odt
+.eps
+.tex
+metadata.yaml
