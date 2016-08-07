@@ -88,6 +88,131 @@ IN THE SOFTWARE.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Search</title>
+      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/search/</link>
+      <pubDate>Thu, 11 Jun 2015 16:03:09 -0400</pubDate>
+      
+      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/search/</guid>
+      <description>&lt;form method=&#34;GET&#34; id=&#34;searchForm&#34; action=&#34;/search&#34;&gt;
+&lt;div class=&#34;row&#34;&gt;
+    &lt;!-- search form --&gt;
+    &lt;div class=&#34;col-md-12&#34;&gt;
+            &lt;div id=&#34;custom-search-input&#34;&gt;
+                &lt;div class=&#34;input-group col-md-6 col-md-offset-3&#34;&gt;
+                    &lt;input id=&#34;page&#34; name=&#34;p&#34; value=&#34;1&#34; type=&#34;hidden&#34;/&gt;
+                    &lt;input id=&#34;query&#34; name=&#34;q&#34; type=&#34;text&#34; class=&#34;form-control input-lg&#34; placeholder=&#34;Search&#34; /&gt;
+                    &lt;span class=&#34;input-group-btn&#34;&gt;
+                        &lt;button id=&#34;searchButton&#34; class=&#34;btn btn-info btn-lg&#34; type=&#34;submit&#34;&gt;
+                            &lt;i class=&#34;glyphicon glyphicon-search&#34;&gt;&lt;/i&gt;
+                        &lt;/button&gt;
+                    &lt;/span&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;!-- search results --&gt;
+    &lt;div id=&#34;searchResultsArea&#34; class=&#34;col-md-12&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+
+&lt;script id=&#34;searchResultsTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
+
+    &lt;h5&gt;
+        {{#hasMultiplePages}}Page {{page}} of {{/hasMultiplePages}}
+        {{total_hits}} results ({{searchTime}})
+    &lt;/h5&gt;
+
+    &lt;div class=&#34;col-md-8&#34;&gt;
+    {{#hits}}
+        &lt;div&gt;
+            &lt;b&gt;
+                &lt;a class=&#34;resultLink&#34; href=&#34;{{id}}&#34;&gt;{{fields.title}}&lt;/a&gt;
+            &lt;/b&gt;
+                     
+            &lt;span class=&#34;badge pull-right&#34;&gt;{{roundScore}}&lt;/span&gt;
+                    
+            &lt;div class=&#34;panel panel-default&#34;&gt;
+                &lt;div class=&#34;panel-heading&#34;&gt;
+
+                    &lt;b&gt;{{fields.author}}&lt;/b&gt; on {{fields.date}}
+                &lt;/div&gt;
+
+                &lt;div class=&#34;panel-body&#34;&gt;
+                    {{#fragments}}
+                        &lt;div&gt;
+                            {{#content}}
+                                &lt;div&gt;{{{.}}}&lt;/div&gt;
+                            {{/content}}
+                        &lt;/div&gt;
+                    {{/fragments}}
+                &lt;/div&gt;
+
+            &lt;/div&gt;
+        &lt;/div&gt;
+    {{/hits}}
+    &lt;/div&gt;
+
+    &lt;div class=&#34;col-md-3 col-md-offset-1&#34;&gt;
+        &lt;h3&gt;Refine Results&lt;/h3&gt;
+        {{#each facets}}
+            &lt;div class=&#34;panel panel-default&#34;&gt;
+                &lt;div class=&#34;panel-heading&#34;&gt;&lt;b&gt;{{@key}}&lt;/b&gt;&lt;/div&gt;
+                &lt;div class=&#34;panel-body&#34;&gt;
+                    {{#each terms}}
+                    &lt;div class=&#34;checkbox&#34;&gt;
+                      &lt;label&gt;
+                        &lt;input name=&#34;f{{@../key}}&#34; type=&#34;checkbox&#34; value=&#34;{{term}}&#34; onclick=&#34;toggleFilter(&#39;{{@../key}}&#39;,&#39;{{term}}&#39;,event);&#34; {{checked isChecked}}&gt;
+                        {{term}} ({{count}})
+                      &lt;/label&gt;
+                    &lt;/div&gt;
+                    {{/each}}
+                    {{#each date_ranges}}
+                    &lt;div class=&#34;checkbox&#34;&gt;
+                      &lt;label&gt;
+                        &lt;input name=&#34;f{{@../key}}&#34; type=&#34;checkbox&#34; value=&#34;{{name}}&#34; onclick=&#34;toggleFilter(&#39;{{@../key}}&#39;,&#39;{{name}}&#39;,event);&#34; {{checked isChecked}}&gt;
+                        {{name}} ({{count}})
+                      &lt;/label&gt;
+                    &lt;/div&gt;
+                    {{/each}}
+                &lt;/div&gt;
+            &lt;/div&gt;
+        {{/each}}
+    &lt;/div&gt;
+
+
+    {{#hasMultiplePages}}
+        &lt;div class=&#34;col-md-4 col-md-offset-4&#34;&gt;
+            &lt;ul class=&#34;pagination&#34;&gt;
+                {{#notOnFirstPage}}
+                    &lt;li&gt;
+                        &lt;a onclick=&#34;jumpToPage({{prevPage}})&#34; href=&#34;&#34;&gt;&amp;laquo;&lt;/a&gt;
+
+                {{/notOnFirstPage}}
+
+                {{#validPages}}
+                    &lt;li class=&#34;{{clazz}}&#34;&gt;
+                        &lt;a href=&#34;&#34; onclick=&#34;jumpToPage({{index}}, event)&#34;&gt;{{index}}&lt;/a&gt;
+                    &lt;/li&gt;
+                {{/validPages}}
+                
+                {{#notOnLastPage}}
+                    &lt;li&gt;
+                        &lt;a onclick=&#34;jumpToPage(nextPage)&#34; href=&#34;&#34;&gt;&amp;raquo;&lt;/a&gt;
+                    &lt;/li&gt;
+                {{/notOnLastPage}}
+            &lt;/ul&gt;
+        &lt;/div&gt;
+    {{/hasMultiplePages}}
+&lt;/script&gt;
+&lt;script id=&#34;noHitsTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
+    &lt;h5&gt;Your search - {{userQuery}} - did not match any documents.&lt;/h5&gt;
+&lt;/script&gt;
+&lt;script id=&#34;searchErrorTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
+    &lt;h5&gt;Error executing search: {{msg}}&lt;/h5&gt;
+&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Einleitung</title>
       <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:15 +0200</pubDate>
@@ -99,31 +224,31 @@ IN THE SOFTWARE.&lt;/p&gt;
 
 &lt;p&gt;FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.&lt;/p&gt;
 
-&lt;p&gt;Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erschaffen, und das mit kleinstmöglichen Aufwand und Vorbereitung.&lt;/p&gt;
+&lt;p&gt;Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erleben, und das mit kleinstmöglichem Aufwand und Vorbereitung.&lt;/p&gt;
 
-&lt;p&gt;FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee &amp;ldquo;Diese Spielwelt könnten wir doch als Rollenspiel spielen!&amp;rdquo; zum eigentlichen Spiel zu bringen.&lt;/p&gt;
+&lt;p&gt;FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee „Diese Spielwelt könnten wir doch als Rollenspiel spielen!“ zum eigentlichen Spiel zu bringen.&lt;/p&gt;
 
-&lt;p&gt;Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst;   das Spielsystem ist leicht zu erlernen und sehr leicht zu benutzen.&lt;/p&gt;
+&lt;p&gt;Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst;  das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.&lt;/p&gt;
 
-&lt;p&gt;FU ist universell oder auch &amp;ldquo;generisch&amp;rdquo;. Egal, wie man es nennt, das heißt, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern stattdessen nichts vorwegnehmen oder voraussetzen will.&lt;/p&gt;
+&lt;p&gt;FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern nichts vorwegnimmt oder voraussetzt.&lt;/p&gt;
 
 &lt;p&gt;FU ist ein Grundsystem, um das herum du deine eigene Spielwelt und deine eigenen Geschichten entwickeln kannst.&lt;/p&gt;
 
 &lt;p&gt;Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: Es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählerinnen, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielerinnen, die keine Lust mehr darauf haben, dass man ihnen sagt, was alles nicht geht, statt was sie alles tun können.&lt;/p&gt;
 
-&lt;h2 id=&#34;wie-man-dieses-dokument-verwendet&#34;&gt;Wie man dieses Dokument verwendet&lt;/h2&gt;
+&lt;h2 id=&#34;wie-man-dieses-buch-verwendet&#34;&gt;Wie man dieses Buch verwendet&lt;/h2&gt;
 
-&lt;p&gt;Dieses Buch enthält zwei Arten von Informationen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.&lt;/p&gt;
+&lt;p&gt;Dieses Buch enthält zwei Informationstypen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.&lt;/p&gt;
 
 &lt;p&gt;FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten Spiel nicht mehr oft in diese Regeln schauen. Trotzdem ist alles, was du brauchst, klar und eindeutig formatiert.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Regelbeispiele sind so formatiert. Überall im Haupttext findest du solche Blöcke, die dir die Regeln in Aktion zeigen. Nach deinem ersten Spiel musst du sie wahrscheinlich auch nicht noch einmal lesen.&lt;/p&gt;
+&lt;p&gt;Regelbeispiele sind so formatiert. Überall im Haupttext findest du solche Blöcke, die dir die Regeln in Aktion zeigen. Auch sie wirst du nach dem ersten Spiel wahrscheinlich nicht noch einmal brauchen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelererläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem hellblauen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du zum &amp;ldquo;Wie&amp;rdquo; und &amp;ldquo;Wann&amp;rdquo; einer bestimmten Regel Klärung brauchst.&lt;/p&gt;
+&lt;p&gt;Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem hellblauen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfacheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.&lt;/p&gt;
@@ -138,13 +263,13 @@ IN THE SOFTWARE.&lt;/p&gt;
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/</guid>
       <description>
 
-&lt;p&gt;Der Text von FU geht davon aus, dass wenigstens eine von euch schon von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.&lt;/p&gt;
+&lt;p&gt;Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon einmal von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.&lt;/p&gt;
 
 &lt;h2 id=&#34;was-ihr-braucht&#34;&gt;Was ihr braucht&lt;/h2&gt;
 
-&lt;p&gt;Vor dem Spielen solltet ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.&lt;/p&gt;
+&lt;p&gt;Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Würfel&lt;/strong&gt;: Um auszuwerten, wie eure Handlungen ausgehen, verwendet ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In diesem Regeltext werden sechsseitige Würfel durchgehend als &amp;ldquo;W6&amp;rdquo; bezeichnet. Wenn davor eine Zahl erscheint (wie bei &amp;ldquo;2W6&amp;rdquo; oder &amp;ldquo;4W6&amp;rdquo;), bedeutet das, dass ihr so viele Würfel werfen müsst.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Würfel&lt;/strong&gt;: Um auszuwerten, wie eure Handlungen ausgehen, verwendet ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In diesem Regeltext werden sechsseitige Würfel durchgehend als „W6“ bezeichnet. Wenn davor eine Zahl erscheint (wie bei „2W6“ oder „4W6“), bedeutet das, dass ihr so viele Würfel werfen müsst.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Stifte und Papier&lt;/strong&gt;: Die Spielerinnen müssen sich ein paar Notizen machen - zu den Einzelheiten ihrer Figur, Wichtigem über ihre Mission und allerlei anderen Dingen. Die Erzählerin braucht Papier, um den Überblick über die verschiedenen Elemente der Geschichte zu behalten.&lt;/p&gt;
 
@@ -152,19 +277,19 @@ IN THE SOFTWARE.&lt;/p&gt;
 
 &lt;h2 id=&#34;was-ihr-macht&#34;&gt;Was ihr macht&lt;/h2&gt;
 
-&lt;p&gt;Deine Freundinnen und du erzählt gemeinsam eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.&lt;/p&gt;
+&lt;p&gt;Gemeinsam mit deinen Freundinnen erzählst du eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.&lt;/p&gt;
 
-&lt;p&gt;Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Typen, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin, deren Aufgabe es ist, den anderen zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen wenn nötig das letzte Wort zu haben.&lt;/p&gt;
+&lt;p&gt;Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin. Ihre Aufgabe es ist, den anderen dabei zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen - wenn nötig - das letzte Wort zu haben.&lt;/p&gt;
 
-&lt;p&gt;Das Spielen besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.&lt;/p&gt;
+&lt;p&gt;Das Spielen selbst besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.&lt;/p&gt;
 
 &lt;h2 id=&#34;wie-ihr-s-macht&#34;&gt;Wie ihr&amp;rsquo;s macht&lt;/h2&gt;
 
-&lt;p&gt;Wenn du etwas tust und das Ergebnis nicht eindeutig ist, wirf einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.&lt;/p&gt;
+&lt;p&gt;Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Dein Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.&lt;/p&gt;
 
 &lt;h2 id=&#34;vor-dem-losspielen&#34;&gt;Vor dem Losspielen&lt;/h2&gt;
 
-&lt;p&gt;Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu erfinden und zeigt der Erzählerin, welche Rolle sie übernehmen.
+&lt;p&gt;Bevor es richtig losgehen kann, musst du mit deinen Freundinnen entscheiden, was für eine Art Spiel ihr spielen wollt, wer eure Figuren sein sollen, und wo eure Geschichte stattfindet. Dieses Wissen hilft den Spielerinnen, coole Figuren zu erfinden und zeigt der Erzählerin, welche Rolle sie in der Welt übernehmen wollen.
 Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin oder durch ein vorgefertigtes Spielweltmodul. Falls nicht, überlegt euch gemeinsam etwas, das alle spannend finden und spielen wollen.&lt;/p&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
@@ -175,15 +300,15 @@ Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin o
 
 &lt;p&gt;Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.&lt;/p&gt;
 
-&lt;p&gt;Einigt euch über die Grundstimmung, das Thema und eure Erwartungen. Es ist wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.&lt;/p&gt;
+&lt;p&gt;Werdet euch einig über die Grundstimmung, das Thema und eure Erwartungen. Es ist zum Beispiel wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.&lt;/p&gt;
 
-&lt;p&gt;Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel gehen wird.&lt;/p&gt;
+&lt;p&gt;Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So haben alle eine klare Vorstellung davon, worum es im Spiel gehen wird.&lt;/p&gt;
 
-&lt;p&gt;Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob sie sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.&lt;/p&gt;
+&lt;p&gt;Diese Diskussion macht auch der Erzählerin deutlich, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob sie sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.&lt;/p&gt;
 
 &lt;h3 id=&#34;der-sofort-genre-generator&#34;&gt;Der Sofort-Genre-Generator&lt;/h3&gt;
 
-&lt;p&gt;Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht zwei davon und ihr erhaltet &amp;ldquo;Vorstadt-Weltuntergang&amp;rdquo;, &amp;ldquo;Mittelalter-Superhelden&amp;rdquo;, &amp;ldquo;Kampfsport-Gymnasium&amp;rdquo;, und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!&lt;/p&gt;
+&lt;p&gt;Wollt ihr schnell und ohne Umwege direkt loslegen, schreibt alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werft sie in einen Hut. Zieht zwei davon und ihr erhaltet &amp;ldquo;Vorstadt-Weltuntergang&amp;rdquo;, &amp;ldquo;Mittelalter-Superhelden&amp;rdquo;, &amp;ldquo;Kampfsport-Gymnasium&amp;rdquo; und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
@@ -196,21 +321,21 @@ Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin o
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/</guid>
       <description>
 
-&lt;p&gt;Bei FU ist deine Figur dein &amp;ldquo;Alter Ego&amp;rdquo;, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen oder auf Personen reagiert.&lt;/p&gt;
+&lt;p&gt;Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.&lt;/p&gt;
 
 &lt;h2 id=&#34;konzept&#34;&gt;Konzept&lt;/h2&gt;
 
-&lt;p&gt;Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr &amp;ldquo;Konzept&amp;rdquo;. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Wörtern oder einem kurzen Satz zusammenfassen.&lt;br /&gt;
-Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie &amp;ldquo;Paranormaler Ermittler&amp;rdquo; oder &amp;ldquo;Wunderkind&amp;rdquo;. Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie &amp;ldquo;Edler Wilder&amp;rdquo; oder &amp;ldquo;Verrückter Professor&amp;rdquo;.&lt;br /&gt;
-Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein &amp;ldquo;Gewiefter Bulle&amp;rdquo; passt vielleicht nicht ganz ins mittalterliche England, aber ein &amp;ldquo;Weltgewandter Sheriff&amp;rdquo; könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!&lt;/p&gt;
+&lt;p&gt;Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.&lt;br /&gt;
+Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.&lt;br /&gt;
+Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen &amp;ldquo;Pulp&amp;rdquo;-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur &amp;ldquo;Tollkühner Entdecker&amp;rdquo;. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David diskutiert hat, entscheidet sie sich für eine &amp;ldquo;Außerirdische Botschafterin&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;beschreiber&#34;&gt;Beschreiber&lt;/h2&gt;
 
-&lt;p&gt;Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben erleichtern oder erschweren, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.&lt;/p&gt;
+&lt;p&gt;Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben leichter oder schwerer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.&lt;/p&gt;
 
 &lt;p&gt;Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.&lt;/p&gt;
 
@@ -219,7 +344,7 @@ Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zu
 
 &lt;p&gt;&lt;strong&gt;Körper&lt;/strong&gt; : Geschickt&lt;br /&gt;
 &lt;strong&gt;Geist&lt;/strong&gt;: Besonnen&lt;br /&gt;
-&lt;strong&gt;Stärke&lt;/strong&gt;: Bullenpeitsche einsetzen
+&lt;strong&gt;Stärke&lt;/strong&gt;: Bullenpeitsche einsetzen&lt;br /&gt;
 &lt;strong&gt;Schwäche&lt;/strong&gt;: Höhenangst&lt;/p&gt;
 
 &lt;p&gt;Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:&lt;/p&gt;
@@ -230,18 +355,18 @@ Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zu
 &lt;strong&gt;Schwäche&lt;/strong&gt;: Außerirdische Sichtweise&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&#34;beispiele-für-beschreiber&#34;&gt;Beispiele für Beschreiber&lt;/h3&gt;
+&lt;h2 id=&#34;beispiele-für-beschreiber&#34;&gt;Beispiele für Beschreiber&lt;/h2&gt;
 
 &lt;p&gt;Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Körper&lt;/strong&gt; Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Vitalität, Schwächlich, Schwimmhäute an den Füßen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Körper&lt;/strong&gt;: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Lebenskraft, Schwächlich, Schwimmhäute an den Füßen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Geist&lt;/strong&gt;: Zerstreut, Belesen, Computerfreak, Dämlich, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Stärke&lt;/strong&gt;: Akrobatik, Okkultes Geheimwissen, Mut, Fahren, Fechten, Gutes Gedächtnis, Jagen, Scharfe Augen, Sprachwissenschaft, Magie, Medizin, Fieser Biss, Reich, Ringkampf.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Schwäche&lt;/strong&gt;: Blind, Mutig, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schwäche&lt;/strong&gt;: Blind, Unerschrocken, Ungeschickt, Gierig, Unmenschliches Aussehen, Fehlendes Bein, Alt, Arm, Sieht schlecht, Primitiv, Intensiver Geruch, Gesucht, Jung.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
@@ -250,54 +375,54 @@ Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zu
 
 &lt;h3 id=&#34;klischees-sind-deine-freunde&#34;&gt;Klischees sind deine Freunde!&lt;/h3&gt;
 
-&lt;p&gt;Es ist völlig in Ordnung, wenn du dich beim Ausdenken deines Konzepts auf Klischees stützt. Klischees enthalten eine Unzahl von Vorstellungen und Konzepten, mit denen wir direkt vertraut sind. Wenn jemand sagt, seine Figur sei ein Barbar, haben wir automatisch eine muskelbepackte unzivilisierte Person vor Augen. Klischees sind eine Art Abkürzung zur Beschreibung deiner Figur.&lt;/p&gt;
+&lt;p&gt;Es ist völlig in Ordnung, wenn du dich bei deinem Konzept auf Klischees stützt. Klischees umfassen eine Unzahl von Vorstellungen und Konzepten, mit denen man direkt vertraut ist. Wenn jemand sagt, seine Figur sei ein Barbar, hat man automatisch einen muskelbepackten unzivilisierten Klotz vor Augen. Klischees sind eine Art Abkürzung beim Beschreiben deiner Figur.&lt;/p&gt;
 
 &lt;h3 id=&#34;beschreiber-wählen&#34;&gt;Beschreiber wählen&lt;/h3&gt;
 
-&lt;p&gt;Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche &lt;strong&gt;&amp;ldquo;kann nicht schwimmen&amp;rdquo;&lt;/strong&gt; zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
-Lass deine Fantasie spielen, behalte dein Konzept im Kopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.&lt;/p&gt;
+&lt;p&gt;Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche „&lt;strong&gt;kann nicht schwimmen&lt;/strong&gt;“ zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
+Lass deine Fantasie spielen, behalte dein Konzept im Hinterkopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.&lt;/p&gt;
 
 &lt;h3 id=&#34;beschreiber-sind-klar-und-eindeutig&#34;&gt;Beschreiber sind klar und eindeutig&lt;/h3&gt;
 
-&lt;p&gt;Einen guten Beschreiber kann jeder am Tisch verstehen. Wenn du oder eine Mitspielerin einen Beschreiber für nicht eindeutig haltet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.&lt;/p&gt;
+&lt;p&gt;Beschreiber sind gut, wenn alle am Tisch sie verstehen. Wenn du oder eine Mitspielerin einen Beschreiber nicht eindeutig findet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.&lt;/p&gt;
 
-&lt;h3 id=&#34;beschreiber-wohnen-einer-figur-inne&#34;&gt;Beschreiber wohnen einer Figur inne&lt;/h3&gt;
+&lt;h3 id=&#34;beschreiber-gehören-fest-zu-einer-figur&#34;&gt;Beschreiber gehören fest zu einer Figur&lt;/h3&gt;
 
-&lt;p&gt;Jeder Beschreiber ist ein wesentlicher, ihr innewohnender Teil der Figur. Normalerweise können sie ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber also nicht zu Gegenständen oder Geräten.&lt;/p&gt;
+&lt;p&gt;Jeder Beschreiber ist ein wesentlicher Teil der Figur, der fest mit ihr verbunden ist. Normalerweise können Beschreiber ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber also nicht zu Gegenständen oder Geräten.&lt;/p&gt;
 
 &lt;h3 id=&#34;die-reichweite-von-beschreibern-ist-begrenzt&#34;&gt;Die Reichweite von Beschreibern ist begrenzt&lt;/h3&gt;
 
-&lt;p&gt;Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. &lt;strong&gt;Medizin&lt;/strong&gt; ist zum Beispiel besser als &lt;strong&gt;Arzt&lt;/strong&gt;, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden (&lt;em&gt;&amp;ldquo;Als Arzt bin ich gebildet und ziemlich wohlhabend &amp;hellip;&amp;rdquo;&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. &lt;strong&gt;Medizin&lt;/strong&gt; ist beispielsweise besser als &lt;strong&gt;Arzt&lt;/strong&gt;, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden (&lt;em&gt;„Als Arzt bin ich gebildet und ziemlich wohlhabend &amp;hellip;“&lt;/em&gt;).&lt;/p&gt;
 
 &lt;h3 id=&#34;was-für-ein-beschreiber-ist-das&#34;&gt;Was für ein Beschreiber ist das?&lt;/h3&gt;
 
-&lt;p&gt;Einige Beschreiber passen problemlos in mehr als eine Kategorie - &lt;strong&gt;Gutes Gedächtnis&lt;/strong&gt; könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. &lt;strong&gt;Hässlich&lt;/strong&gt; kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Es hängt von dir, der Erzählerin und von deinen Mitspielerinnen ab - ihr entscheidet, ob ein Beschreiber für die Geschichten, die ihr erzählen wollt passt oder nicht.&lt;/p&gt;
+&lt;p&gt;Manche Beschreiber passen problemlos in mehr als eine Kategorie - &lt;strong&gt;Gutes Gedächtnis&lt;/strong&gt; könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. &lt;strong&gt;Hässlich&lt;/strong&gt; kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Ob ein Beschreiber für eure Geschichten passt oder nicht, hängt von dir als Erzählerin und von deinen Mitspielerinnen ab. Entscheidet selbst.&lt;/p&gt;
 
 &lt;h3 id=&#34;was-sind-gute-stärken-und-schwächen&#34;&gt;Was sind gute Stärken und Schwächen?&lt;/h3&gt;
 
-&lt;p&gt;Dinge, die in anderen Spielen &amp;ldquo;Fertigkeiten&amp;rdquo; oder &amp;ldquo;Talente&amp;rdquo; heißen, eignen sich wunderbar als Stärken. Gute Beispiele sind &lt;strong&gt;&amp;ldquo;Schwertkampf&amp;rdquo;&lt;/strong&gt;, &lt;strong&gt;&amp;ldquo;unter Wasser atmen&amp;rdquo;&lt;/strong&gt; und &lt;strong&gt;&amp;ldquo;gewinnendes Lächeln&amp;rdquo;&lt;/strong&gt;.
-Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie &lt;strong&gt;&amp;ldquo;riecht immer schlecht&amp;rdquo;&lt;/strong&gt; oder &lt;strong&gt;&amp;ldquo;taub&amp;rdquo;&lt;/strong&gt; sind bessere Schwächen als &lt;strong&gt;&amp;ldquo;kann nicht Fahren&amp;rdquo;&lt;/strong&gt; oder &lt;strong&gt;&amp;ldquo;kann kein Französisch&amp;rdquo;&lt;/strong&gt;. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche &lt;strong&gt;&amp;ldquo;kann nicht schwimmen&amp;rdquo;&lt;/strong&gt; in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur herauszufordern, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.&lt;/p&gt;
+&lt;p&gt;Dinge, die in anderen Spielen „Fertigkeiten“ oder „Talente“ heißen, eignen sich wunderbar als Stärken. Gute Beispiele sind „&lt;strong&gt;Schwertkampf&lt;/strong&gt;“, „&lt;strong&gt;unter Wasser atmen&lt;/strong&gt;“ und „&lt;strong&gt;gewinnendes Lächeln&lt;/strong&gt;“.&lt;br /&gt;
+Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie „&lt;strong&gt;riecht immer schlecht&lt;/strong&gt;“ oder „&lt;strong&gt;taub&lt;/strong&gt;“ sind bessere Schwächen als „&lt;strong&gt;kann nicht Fahren&lt;/strong&gt;“ oder „&lt;strong&gt;kann kein Französisch&lt;/strong&gt;“. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche „&lt;strong&gt;kann nicht schwimmen&lt;/strong&gt;“ in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur herauszufordern, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.&lt;/p&gt;
 
 &lt;h3 id=&#34;soll-ich-mich-spezialisieren&#34;&gt;Soll ich mich spezialisieren?&lt;/h3&gt;
 
-&lt;p&gt;Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so &amp;ldquo;spezialisieren&amp;rdquo;. Einem richtig furchteinflößenden Krieger kannst du Körper: &lt;strong&gt;Stark&lt;/strong&gt;, Geist: &lt;strong&gt;Taktiker&lt;/strong&gt;, Stärke: &lt;strong&gt;Nahkampf&lt;/strong&gt; und Schwäche: &lt;strong&gt;Leichtsinnig&lt;/strong&gt; geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. ABER die Figur hat kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: &lt;strong&gt;Zäh&lt;/strong&gt;, Geist: &lt;strong&gt;Konzentriert&lt;/strong&gt;, Stärke: &lt;strong&gt;Nahkampf&lt;/strong&gt; und Schwäche: &lt;strong&gt;Leichtsinnig&lt;/strong&gt;.
-Beschreibe den Körper deiner Figur als &lt;strong&gt;Gewaltig&lt;/strong&gt; und ihre Stärke als &lt;strong&gt;Stark&lt;/strong&gt;, wenn du einen Ringer, Bodybuilder oder wütenden grünen Superhelden haben willst. Gib deiner genialen Wissenschaftlerin Geist: &lt;strong&gt;Belesen&lt;/strong&gt; und Stärke: &lt;strong&gt;Raketentechnik&lt;/strong&gt;. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.&lt;/p&gt;
+&lt;p&gt;Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einer richtig furchteinflößenden Kriegerin kannst du Körper: &lt;strong&gt;Stark&lt;/strong&gt;, Geist: &lt;strong&gt;Taktikerin&lt;/strong&gt;, Stärke: &lt;strong&gt;Nahkampf&lt;/strong&gt; und Schwäche: &lt;strong&gt;Leichtsinnig&lt;/strong&gt; geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: &lt;strong&gt;Zäh&lt;/strong&gt;, Geist: &lt;strong&gt;Konzentriert&lt;/strong&gt;, Stärke: &lt;strong&gt;Nahkampf&lt;/strong&gt; und Schwäche: &lt;strong&gt;Leichtsinnig&lt;/strong&gt;.
+Beschreibe den Körper deiner Figur als &lt;strong&gt;Gewaltig&lt;/strong&gt; und ihre Stärke als &lt;strong&gt;Stark&lt;/strong&gt;, wenn du eine Ringerin, Bodybuilderin oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: &lt;strong&gt;Belesen&lt;/strong&gt; und Stärke: &lt;strong&gt;Raketentechnik&lt;/strong&gt;. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.&lt;/p&gt;
 
 &lt;h3 id=&#34;beschreiber-alternativen&#34;&gt;Beschreiber-Alternativen&lt;/h3&gt;
 
-&lt;p&gt;Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu &amp;ldquo;Tierform&amp;rdquo; werden. In solchen Fällen müssen einige der zuvor erwähnten Ratschläge ebenfalls angepasst werden; Tierform: &lt;strong&gt;Jaguar&lt;/strong&gt; ist umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels einzufangen. Seid kreativ und macht bei Bedarf eigene Änderungen.&lt;/p&gt;
+&lt;p&gt;Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu „Tierform“ werden. In solchen Fällen müssen ein paar der zuvor erwähnten Ratschläge ebenfalls angepasst werden; Tierform: &lt;strong&gt;Jaguar&lt;/strong&gt; ist viel allgemeiner als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;ausrüstung&#34;&gt;Ausrüstung&lt;/h2&gt;
 
 &lt;p&gt;Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.&lt;/p&gt;
 
-&lt;p&gt;Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Ausrüstung kann alles Mögliche sein - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. &lt;em&gt;Anders als Beschreiber&lt;/em&gt; besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.&lt;/p&gt;
+&lt;p&gt;Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. &lt;em&gt;Anders als Beschreiber&lt;/em&gt; besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.&lt;/p&gt;
 
 &lt;p&gt;Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;David entscheidet, dass sein Tollkühner Entdecker eine &lt;strong&gt;Stabile Bullenpeitsche&lt;/strong&gt; dabei hat, da er damit recht geschickt ist, und eine &lt;strong&gt;Abgenutzte Lederjacke&lt;/strong&gt;, mit der er sich vor der Kälte und leichten Kratzern und Stürzen schützen kann.&lt;br /&gt;
+&lt;p&gt;David entscheidet, dass sein Tollkühner Entdecker eine &lt;strong&gt;Stabile Bullenpeitsche&lt;/strong&gt; dabei hat, da er damit recht geschickt ist, und eine &lt;strong&gt;Abgetragene Lederjacke&lt;/strong&gt;, mit der er sich vor der Kälte und leichten Kratzern und Stürzen schützen kann.&lt;br /&gt;
 Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für &lt;strong&gt;Offizielle Dokumente&lt;/strong&gt;, die ihren politischen Status belegen, und für &lt;strong&gt;Exotische Gewänder&lt;/strong&gt;, die Eindruck machen und Ehrfurcht einflößen sollen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -305,19 +430,19 @@ Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheide
 
 &lt;p&gt;Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Kleider&lt;/strong&gt;:
-Designer-Jeans, Hautenges schwarzes Kleid (lassen wir &amp;ldquo;schwarzes Kleid&amp;rdquo; mal als Substantiv gelten), Dreckige Unterhosen, Abgetragene Jacke, Supermoderner Raumanzug, Seidener Hausrock, Verbeulter Filzhut, Hohe Puderperücke.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kleider&lt;/strong&gt;:&lt;br /&gt;
+Designer-Jeans, Hautenges schwarzes Kleid (lassen wir „schwarzes Kleid“ mal als Substantiv gelten), Dreckige Unterhosen, Abgetragene Jacke, Supermoderner Raumanzug, Seidener Hausrock, Verbeulter Filzhut, Hohe Puderperücke.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Waffen&lt;/strong&gt;:
+&lt;p&gt;&lt;strong&gt;Waffen&lt;/strong&gt;:&lt;br /&gt;
 Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Fortbewegung&lt;/strong&gt;:
-Treues Pferd, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fortbewegung&lt;/strong&gt;:&lt;br /&gt;
+Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sonstiges&lt;/strong&gt;:
+&lt;p&gt;&lt;strong&gt;Sonstiges&lt;/strong&gt;:&lt;br /&gt;
 Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenens Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;admonition note&#34;&gt;
+&lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2 id=&#34;anmerkungen-zur-ausrüstung&#34;&gt;Anmerkungen zur Ausrüstung&lt;/h2&gt;
 
@@ -327,112 +452,47 @@ Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbe
 
 &lt;p&gt;Jedes Ausrüstungsteil sollte etwas zur Charakterisierung deiner Figur beitragen, entweder zu ihrem Hintergrund, ihrer Persönlichkeit oder ihren Zielen. Es sollte etwas über deine Figur oder ihre Taten aussagen.&lt;/p&gt;
 
-&lt;!-- Choosing Gear
-Items should be “iconic” to your character.  ink Batman’s Sinister Batsuit, the Ghostbuster’s Unstable Proton-packs, James Bond’s Reliable Berretta, or Zorro’s Flashing Blade.
-Each piece of Gear should add some- thing to your character’s background, personality or goals. It should make a statement about who the character is or what they do.
-
-Les objets doivent être à l&#39;image de votre personnage. Pensez à la Tenue Noire de Batman, les Packs-Protoniques Instables de Ghostbusters, le Berretta Inusable de James Bond, ou la Lame Éclair de Zorro.
-
-Chaque élément du Matériel doit ajouter un détail à l&#39;histoire de votre personnage, sa personnalité, ses objectifs. Il doit être l&#39;affirmation de ce qu&#39;est le personnage, et ce qu&#39;il fait. --&gt;
-
 &lt;h3 id=&#34;ausrüstung-ist-zubehör&#34;&gt;Ausrüstung ist Zubehör&lt;/h3&gt;
 
-&lt;p&gt;Ausrüstung ist nie einer Figur innewohnend - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein Kybernetischer Arm ist keine Ausrüstung, ein &lt;strong&gt;Gepanzerter Roboterhandschuh&lt;/strong&gt; dagegen schon.&lt;/p&gt;
-
-&lt;!-- Gear is equipment
-Gear is never innate - it can be dropped, lost, broken and stolen. A Cy- bernetic Arm is not Gear, but an Ar- moured Power Glove is.
-
-Le Matériel, c&#39;est du Matériel
-
-Le Matériel n&#39;est pas inné - il peut être perdu, cassé ou volé. Un Bras Cybernétique n&#39;est pas du Matériel, alors qu&#39;un Gant de Puissance Blindé l&#39;est. --&gt;
+&lt;p&gt;Ausrüstung gehört nie fest zu einer einer Figur - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein kybernetischer Arm ist keine Ausrüstung, ein &lt;strong&gt;Gepanzerter Roboterhandschuh&lt;/strong&gt; dagegen schon.&lt;/p&gt;
 
 &lt;h3 id=&#34;ausrüstung-beschreiben&#34;&gt;Ausrüstung beschreiben&lt;/h3&gt;
 
 &lt;p&gt;Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein &lt;strong&gt;Langer Dolch&lt;/strong&gt; ist zwar ganz gut, aber ein &lt;strong&gt;Zerbrochener Dolch&lt;/strong&gt; ist noch besser!&lt;/p&gt;
 
-&lt;!-- Describing Gear
-When describing gear make the ad- jective tell us something useful and/or interesting about it. A Long Dagger is okay, a Broken Dagger is better!   --&gt;
-
-&lt;p&gt;Die Beschreibung deiner Ausrüstung sollte, wie Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut sind oder was ihre Haupteigenschaft ist.&lt;/p&gt;
-
-&lt;!-- Like Descriptors, the description of your Gear should be clear - you don’t want to be guessing at the purpose or main feature of an item.
-
-L&#39;utilisation du qualificatif doit nous donner une vraie indication utile concernant l&#39;élément. Une Épée Longue, soit, mais une Épée Brisée, c&#39;est bien mieux !
-
-Comme les Descripteurs, le qualificatif du Matériel doit être clair - il ne peut pas prêter à confusion concernant la qualification de l&#39;objet. --&gt;
+&lt;p&gt;Die Beschreibung deiner Ausrüstung sollte, wie Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.&lt;/p&gt;
 
 &lt;h3 id=&#34;nur-ein-einziges-adjektiv&#34;&gt;Nur ein einziges Adjektiv&lt;/h3&gt;
 
 &lt;p&gt;Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein &lt;strong&gt;Scharfer Säbel&lt;/strong&gt; ist gut, ein &lt;strong&gt;Magisches Schwert&lt;/strong&gt; auch, aber ein &lt;strong&gt;Scharfer Magischer Säbel&lt;/strong&gt; ist nicht erlaubt.&lt;/p&gt;
 
-&lt;!-- One adjective only
- e description of your gear should have a single adjective - no less and no more. A Sharp Sabre is okay, as is a Magic Sword, but a Sharp Magic Sabre is not allowed.
-
-
-Un seul qualificatif
-
-La description de votre objet ne doit avoir qu&#39;un seul qualificatif - ni plus, ni moins. Un Sabre Acéré, c&#39;est bon, tout comme une Épée Magique, mais une Épée Magique Acérée n&#39;est pas autorisée. --&gt;
-
 &lt;h3 id=&#34;konkrete-substantive&#34;&gt;Konkrete Substantive&lt;/h3&gt;
 
 &lt;p&gt;Wähle konkrete, aussagekräftige Substantive. Säbel ist besser als Schwert und Baseballkappe ist besser als Mütze. Du darfst auch mehr als ein Substantiv benutzen, aber beschränke dich auf so wenige Wörter wie möglich.&lt;/p&gt;
 
-&lt;!-- Specific nouns
-Choose speci c, descriptive nouns; Sabre is better than Sword, Baseball Cap is better than Hat. You can use more than one noun, but keep the de- scription to as few words as possible.
-
-Un nom spécifique
-
-Il est mieux d&#39;utiliser un nom spécifique, précis : Sabre est mieux qu&#39;Épée, Casquette de Baseball est mieux que Couvre-chef. Vous pouvez utiliser un nom multiple, mais tâchez de garder la description la plus concise possible. --&gt;
-
 &lt;h3 id=&#34;sprich-über-deine-ausrüstung&#34;&gt;Sprich über deine Ausrüstung&lt;/h3&gt;
 
-&lt;p&gt;Diskutiere mit der Gruppe über deine Ausrüstung. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.&lt;/p&gt;
+&lt;p&gt;Diskutiere deine Ausrüstung mit der Gruppe. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.&lt;/p&gt;
 
-&lt;p&gt;Ausrüstung ist nie von Haus aus &amp;ldquo;gut&amp;rdquo; oder &amp;ldquo;schlecht&amp;rdquo;. Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du bist.&lt;/p&gt;
-
-&lt;!-- Talk about your Gear
-Discuss your Gear. Everyone needs to be clear on what you are describing; what the Gear will be useful for, and when it might be a hindrance.  
-
-Gear is not innately “good” or “bad”. What you do with it and the situations you  nd yourself in will dictate whether having an item is useful or not. --&gt;
-
-&lt;!-- Parlez de votre Matériel
-
-Discutez de votre Matériel. Tout le monde doit avoir une vision claire de ce que vous décrivez, son utilisation et quand l&#39;outil devient un obstacle.
-
-Un Matériel n&#39;est pas &#34;bon&#34; ou &#34;mauvais&#34; en soi. C&#39;est ce que vous en ferez, en fonction des situations, qui vous montrera son (in)utilité. --&gt;
+&lt;p&gt;Ausrüstung ist nie von Haus aus „gut“ oder „schlecht“. Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du bist.&lt;/p&gt;
 
 &lt;h3 id=&#34;gute-ausrüstung-und-schlechte-ausrüstung&#34;&gt;Gute Ausrüstung und schlechte Ausrüstung&lt;/h3&gt;
 
-&lt;p&gt;Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein &amp;ldquo;gutes&amp;rdquo; Adjektiv, und der andere ein &amp;ldquo;schlechtes&amp;rdquo; haben muss. Vielleicht hast du eine &lt;strong&gt;&amp;ldquo;Warme Jacke&amp;rdquo;&lt;/strong&gt; und eine &lt;strong&gt;&amp;ldquo;Alte Kanone&amp;rdquo;&lt;/strong&gt; oder ein &lt;strong&gt;&amp;ldquo;Schnelles Motorrad&amp;rdquo;&lt;/strong&gt; und eine &lt;strong&gt;&amp;ldquo;Überzogene Kreditkarte&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;!-- Good Gear / Bad Gear
-You can, if you want, dictate that one piece of Gear must have a “good” adjective, and the other a “bad” one. You might have a Warm Jacket and an Old Gun; or a Fast Motorcycle and a Maxed-out Credit Card. --&gt;
-
-&lt;!-- Bon Matériel / Mauvais Matériel
-
-Vous pouvez, si vous voulez, imposer qu&#39;un des éléments ait un &#34;bon&#34; qualificatif, tandis que l&#39;autre en aurait un &#34;mauvais&#34;. Vous pouvez avoir un Blouson Chaud et un Pistolet Rouillé ; ou une Moto Rapide et une Carte de Crédit Épuisée. --&gt;
+&lt;p&gt;Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein „gutes“ Adjektiv, und der andere ein „schlechtes“ haben muss. Vielleicht hast du eine „&lt;strong&gt;Warme Jacke&lt;/strong&gt;“ und eine „&lt;strong&gt;Alte Kanone&lt;/strong&gt;“ oder ein „&lt;strong&gt;Schnelles Motorrad&lt;/strong&gt;“ und eine „&lt;strong&gt;Überzogene Kreditkarte&lt;/strong&gt;“.&lt;/p&gt;
 
 &lt;h3 id=&#34;kram-der-keine-ausrüstung-ist&#34;&gt;Kram, der keine Ausrüstung ist&lt;/h3&gt;
 
-&lt;p&gt;Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen.&lt;/p&gt;
-
-&lt;!-- Stuff that isn’t Gear
-Any objects, items or equipment that are not listed as Gear are props. Props have no e ect on a character’s chance of success at an action - they are merely window-dressing. However, you can swap, steal and pick-up another charac- ter’s Gear and use that! --&gt;
-
-&lt;!-- Les choses qui ne sont pas du Matériel
-
-Tous les objets qui ne sont pas listés comme Matériel sont de l&#39;équipement. Les équipements n&#39;ont aucun effet sur les chances de succès ou d&#39;échec dans une action - au mieux ils la permettent. Cependant, rien ne vous empêche d&#39;emprunter, de voler ou d&#39;échanger votre Matériel avec celui d&#39;un autre pour vos actions. --&gt;
-&lt;/p&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;beschreibung&#34;&gt;Beschreibung&lt;/h2&gt;
 
 &lt;p&gt;Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. Jetzt ist es soweit, die restlichen Einzelheiten zu erfinden. Hier beschreibst du Aussehen und Persönlichkeit deiner Figur, ihre Vergangenheit, ihre Ziele, Freunde und Feinde und alle anderen Einzelheiten, die du wichtig oder interessant findest.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;David macht sich ein paar Notizen zu seinem  Tollkühnen Entdecker:&lt;/p&gt;
+&lt;p&gt;David macht sich ein paar Notizen zu seinem Tollkühnen Entdecker:&lt;/p&gt;
 
-&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, aber in seiner Freizeit reist er in die Wildnis, um verlorene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  THP: Meine Übersetzung im Abenteuerkapitel könnte abweichen, entscheide einfach du, welche Übersetzung greifen soll.&lt;/p&gt;
+&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
 
 &lt;p&gt;Ninas Beschreibung ihrer Ausserirdischen Botschafterin ist folgendermaßen:&lt;/p&gt;
 
@@ -445,46 +505,46 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l&#39;équipemen
 
 &lt;p&gt;&lt;strong&gt;Was willst du erreichen?&lt;/strong&gt; Was wünschst du dir, was treibt dich an?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Was hindert dich daran?&lt;/strong&gt; Welches Hindernis, welcher Gegner steht zwischen dir und dem, was du willst?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Was hindert dich daran?&lt;/strong&gt; Welches Hindernis, welche Gegner stehen zwischen dir und dem, was du willst?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Was bist du bereit du tun?&lt;/strong&gt; Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Was bist du bereit zu tun?&lt;/strong&gt; Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Tennessee Smith ist auf der Suche nach dem Götzen des Tot, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.&lt;/p&gt;
+&lt;p&gt;Tennessee Smith ist auf der Suche nach dem Götzen des Toth, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.&lt;/p&gt;
 
 &lt;p&gt;Lumina strebt nach Freiheit für alle Völker des Jupiter. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum zu verwirklichen.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;beziehungen&#34;&gt;Beziehungen&lt;/h2&gt;
 
-&lt;p&gt;Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und der Vergangenheit beider Figuren etwas vertiefen. Zum Beispiel: &lt;strong&gt;Alte Saufkumpane&lt;/strong&gt;, &lt;strong&gt;Mit derselben Frau liiert&lt;/strong&gt;, &lt;strong&gt;Zusammen im Krieg gekämpft&lt;/strong&gt;, &lt;strong&gt;Vom selben Meister ausgebildet&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreibe eine kurze Aussage zu deiner Beziehung mit ihr auf. Sie sollte klar und eindeutig sein und die Vergangenheit beider Figuren etwas vertiefen. Zum Beispiel: &lt;strong&gt;Alte Saufkumpane&lt;/strong&gt;, &lt;strong&gt;Mit derselben Frau liiert&lt;/strong&gt;, &lt;strong&gt;Zusammen im Krieg gekämpft&lt;/strong&gt;, &lt;strong&gt;Vom selben Meister ausgebildet&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die alten Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich zueinander hingezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.&lt;/p&gt;
+&lt;p&gt;David schreibt: Tennessee Smith und Lumina haben sich in Harvard getroffen, wo Lumina gerade eine Vorlesung über die antiken Kulturen des Jupiter hielt. Nina ist damit zufrieden und fügt noch hinzu, dass beide sich zueinander hingezogen fühlten, aber Lumina für romantische Tändeleien zu sehr auf ihre Mission konzentriert ist.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;div class=&#34;admonition note&#34;&gt;
+&lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2 id=&#34;anmerkungen-zu-beschreibung-motiven-und-beziehungen&#34;&gt;Anmerkungen zu Beschreibung, Motiven und Beziehungen&lt;/h2&gt;
 
 &lt;h3 id=&#34;jetzt-dreht-sich-alles-ums-rollenspiel&#34;&gt;Jetzt dreht sich alles ums Rollenspiel&lt;/h3&gt;
 
-&lt;p&gt;Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Bonus auf Würfelwürfe für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.&lt;/p&gt;
+&lt;p&gt;Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.&lt;/p&gt;
 
 &lt;p&gt;Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.&lt;/p&gt;
 
 &lt;h3 id=&#34;langfristige-oder-kurzfristige-ziele&#34;&gt;Langfristige oder kurzfristige Ziele?&lt;/h3&gt;
 
-&lt;p&gt;Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, dessen Erreichen länger braucht.&lt;/p&gt;
+&lt;p&gt;Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, für das sie länger braucht.&lt;/p&gt;
 
 &lt;h3 id=&#34;wie-viele-beziehungen&#34;&gt;Wie viele Beziehungen?&lt;/h3&gt;
 
-&lt;p&gt;Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben - oder sogar &amp;ldquo;gegenläufige&amp;rdquo; Beziehungen (zum Beispiel: &lt;strong&gt;&amp;ldquo;Verliebt in&amp;rdquo;/&amp;ldquo;Angewidert von&amp;rdquo;&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben - oder sogar „gegenläufige“ Beziehungen (zum Beispiel: &lt;strong&gt;„Verliebt in“/„Angewidert von“&lt;/strong&gt;).&lt;/p&gt;
 
-&lt;h3 id=&#34;seid-nicht-eure-eigenen-feinde&#34;&gt;Seid nicht eure eigenen Feinde&lt;/h3&gt;
+&lt;h3 id=&#34;seid-keine-feinde&#34;&gt;Seid keine Feinde&lt;/h3&gt;
 
-&lt;p&gt;Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn Figuren nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.&lt;/p&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;figurenerstellung-kurzgefasst&#34;&gt;Figurenerstellung kurzgefasst&lt;/h2&gt;
 
@@ -494,12 +554,12 @@ Tous les objets qui ne sont pas listés comme Matériel sont de l&#39;équipemen
 
 &lt;h3 id=&#34;2-beschreiber&#34;&gt;2. Beschreiber&lt;/h3&gt;
 
-&lt;p&gt;Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur innewohnend und begrenzt sein.&lt;/p&gt;
+&lt;p&gt;Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur fest zugehörig und begrenzt sein.&lt;/p&gt;
 
 &lt;h3 id=&#34;3-ausrüstung&#34;&gt;3. Ausrüstung&lt;/h3&gt;
 
 &lt;p&gt;Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
-Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad)&lt;/p&gt;
+Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad).&lt;/p&gt;
 
 &lt;h3 id=&#34;4-beschreibung&#34;&gt;4. Beschreibung&lt;/h3&gt;
 
@@ -527,17 +587,17 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h2 id=&#34;szenen-und-runden&#34;&gt;Szenen und Runden&lt;/h2&gt;
 
-&lt;p&gt;Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um eine bestimmte Situation, einen Ort oder eine Gruppe von Figuren geht. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden und bis hin zu vielen Stunden darstellen. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Szenen sollten die Handlung der Geschichte vorantreiben, etwas über eine Figur verraten oder die beschriebenen Ereignisse farbig ausschmücken. Viele Szenen tun das sogar alles gleichzeitig.&lt;/p&gt;
+&lt;p&gt;Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Eine Szene kann die Handlung vorantreiben, etwas über eine Figur verraten oder der Geschichte Stimmung und Atmosphäre verleihen. Viele Szenen tun das sogar alles gleichzeitig.&lt;/p&gt;
 
-&lt;p&gt;Im Laufe der Szene beschreiben die Erzählerin und die Spielerinnen, was die Figuren tun. Spielerinnen &amp;ldquo;spielen&amp;rdquo; ihre Figuren, sprechen für sie und geben an, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.&lt;/p&gt;
+&lt;p&gt;Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und sagen, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.&lt;/p&gt;
 
 &lt;p&gt;Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.&lt;/p&gt;
 
-&lt;p&gt;Wenn es wichtig ist, was genau jede Figur tut und in welcher Reihenfolge das passiert, wird die Szene in Runden unterteilt. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann, sei es ein Angriff, das Halten einer mitreißenden Rede, das Werfen eines Gegenstandes zu einer Mitstreiterin, etwas auf dem Smartphone nachzuschlagen oder irgendeine andere Aufgabe.&lt;/p&gt;
+&lt;p&gt;Wenn es einmal wichtig ist, was die Figuren jeweils genau in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann - einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.&lt;/p&gt;
 
-&lt;p&gt;Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle zusammen, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.&lt;/p&gt;
+&lt;p&gt;Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle gemeinsam, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.&lt;/p&gt;
 
-&lt;p&gt;Es sollte gesagt werden, dass nur die Spielerinnen würfeln. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste aufregende Gefecht vorzubereiten.&lt;/p&gt;
+&lt;p&gt;An dieser Stelle ist zu beachten, dass lediglich die Spielerinnen Würfel werfen. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste spannende Ereignis vorzubereiten.&lt;/p&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
@@ -545,9 +605,9 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h3 id=&#34;wer-plant-szenen&#34;&gt;Wer plant Szenen?&lt;/h3&gt;
 
-&lt;p&gt;Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens entscheidet die Erzählerin, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.&lt;/p&gt;
+&lt;p&gt;Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens legt am Ende die Erzählerin fest, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.&lt;/p&gt;
 
-&lt;p&gt;Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse ausdiskutieren, was passiert, wo es passiert und wer drin vorkommt.&lt;/p&gt;
+&lt;p&gt;Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen - was passiert, wo es passiert und wer dabei ist.&lt;/p&gt;
 
 &lt;p&gt;Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.&lt;/p&gt;
 
@@ -555,26 +615,28 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;p&gt;Die Szene zu planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.&lt;/p&gt;
 
-&lt;p&gt;Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Beachte beim Erstellen der Szene, welches Ziel sie verfolgen soll.&lt;/p&gt;
+&lt;p&gt;Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene außerdem darauf, welche Zielsetzung sie haben soll.&lt;/p&gt;
 
 &lt;h3 id=&#34;was-ist-eine-zielsetzung&#34;&gt;Was ist eine Zielsetzung?&lt;/h3&gt;
 
-&lt;p&gt;Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnen-Ziele könnten sein: die eigene Figur in einem abgefahrenen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.&lt;/p&gt;
+&lt;p&gt;Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnenziele könnten sein: die eigene Figur in einem tollen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.&lt;/p&gt;
 
 &lt;h3 id=&#34;müssen-szenen-in-der-richtigen-zeitlichen-reihenfolge-passieren&#34;&gt;Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?&lt;/h3&gt;
 
-&lt;p&gt;Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - also Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.&lt;/p&gt;
+&lt;p&gt;Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.&lt;/p&gt;
 
-&lt;h3 id=&#34;muss-ich-runden-verwenden&#34;&gt;Muss ich Runden verwenden?&lt;/h3&gt;
+&lt;h3 id=&#34;muss-ich-runden-benutzen&#34;&gt;Muss ich Runden benutzen?&lt;/h3&gt;
 
-&lt;p&gt;Runden sind optional, aber sie können nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und unterteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.&lt;/p&gt;
+&lt;p&gt;Runden sind optional, aber sie können nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;ungerade-zahlen-vermeiden&#34;&gt;Ungerade Zahlen vermeiden&lt;/h2&gt;
 
-&lt;p&gt;Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder völlig offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.&lt;/p&gt;
+&lt;h2 id=&#34;ungerade-zahlen-vermeiden-1&#34;&gt;Ungerade Zahlen vermeiden&lt;/h2&gt;
 
-&lt;p&gt;Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder wie erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.&lt;/p&gt;
+&lt;p&gt;Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.&lt;/p&gt;
+
+&lt;p&gt;Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht so gut wie nötig oder wie erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.&lt;/p&gt;
 
 &lt;p&gt;Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens sind gerade Zahlen gut und ungerade schlecht, aber die tatsächlichen Ergebnisse hängen von der konkreten Situation ab. Es kann zum Beispiel sein, dass der Wurf einer 1 nicht unbedingt ein unerhörter Misserfolg ist, sondern eher der kleinstmögliche, schwächste Erfolg, den man sich vorstellen kann.&lt;/p&gt;
 
@@ -589,39 +651,39 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Wurf&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Wurf&lt;/th&gt;
 &lt;th align=&#34;left&#34;&gt;Bekommst du, was du willst?&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Ja, und &amp;hellip;&lt;/strong&gt; Du bekommst, was du willst, und noch etwas mehr.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Ja &amp;hellip;&lt;/strong&gt; Du bekommst, was du willst.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Ja, aber &amp;hellip;&lt;/strong&gt; Du bekommst, was du willst, aber es hat einen Preis.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Nein, aber &amp;hellip;&lt;/strong&gt; Du bekommst nicht, was du willst, aber es ist kein völliger Verlust.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Nein &amp;hellip;&lt;/strong&gt; Du bekommst nicht, was du willst.&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Nein, und &amp;hellip;&lt;/strong&gt; Du bekommst nicht, was du willst, und es wird noch schlimmer.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -633,50 +695,50 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h3 id=&#34;geschlossene-fragen&#34;&gt;Geschlossene Fragen&lt;/h3&gt;
 
-&lt;p&gt;Bei FU verwendet ihr zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit &amp;ldquo;Ja&amp;rdquo; oder &amp;ldquo;Nein&amp;rdquo; beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: &amp;ldquo;Springe ich über den Abgrund?&amp;rdquo;, &amp;ldquo;Geb ich dem Trottel eins auf die Nase?&amp;rdquo;, &amp;ldquo;Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?&amp;rdquo; Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.&lt;/p&gt;
+&lt;p&gt;Bei FU verwendet ihr zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.&lt;/p&gt;
 
-&lt;p&gt;Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: &amp;ldquo;Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: „Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!“&lt;/p&gt;
 
 &lt;h3 id=&#34;fragen-alternativen&#34;&gt;Fragen-Alternativen&lt;/h3&gt;
 
-&lt;p&gt;Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre &amp;ldquo;Wie gut gelingt es mir?&amp;rdquo; Das könnte zu den folgenden Ereignissen führen:&lt;/p&gt;
+&lt;p&gt;Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Ergebnistabelle ändern. Eine naheliegende Frage wäre „Wie gut gelingt es mir?“ Das könnte zu den folgenden Ereignissen führen:&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Wurf&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Wurf&lt;/th&gt;
 &lt;th align=&#34;left&#34;&gt;Wie gut gelingt es mir?&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Legendärer Erfolg&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Völliger Erfolg&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Gerade so geschafft&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Gerade so daneben&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Völliger Misserfolg&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Sagenhafter Misserfolg, und zwar richtig!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -686,44 +748,44 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h3 id=&#34;würfelergebnis-alternativen&#34;&gt;Würfelergebnis-Alternativen&lt;/h3&gt;
 
-&lt;p&gt;Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele bevorzugen 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:&lt;/p&gt;
+&lt;p&gt;Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele haben lieber 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Wurf&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Wurf&lt;/th&gt;
 &lt;th align=&#34;left&#34;&gt;Bekommst du, was du willst?&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;6&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;6&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Ja, und&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;5&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Ja&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Ja, aber&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Nein, aber&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Nein&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1&lt;/td&gt;
 &lt;td align=&#34;left&#34;&gt;Nein, und&amp;hellip;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -735,22 +797,25 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;p&gt;Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.&lt;/p&gt;
 
-&lt;p&gt;Wenn du eine Handlung versuchst, stellst du die Frage: &amp;ldquo;Erreicht meine Figur was sie will?&amp;rdquo; Darauf gibt es sechs mögliche Antworten:&lt;/p&gt;
+&lt;p&gt;Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;Ja, und&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Ja&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Ja, aber&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Nein, aber&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Nein&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Nein, und&amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Ja, und&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Ja&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Ja, aber&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Nein, aber&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Nein&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Nein, und&amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;em&gt;Ja&lt;/em&gt; und &lt;em&gt;Nein&lt;/em&gt; sind klar - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das &lt;em&gt;und&lt;/em&gt; und das &lt;em&gt;aber&lt;/em&gt; sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, machst du eine zusätzliche Aussage darüber, wie die Handlung erfolgreich ist oder fehlschlägt. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ja&lt;/em&gt; und &lt;em&gt;Nein&lt;/em&gt; sind klar - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das &lt;em&gt;und&lt;/em&gt; und das &lt;em&gt;aber&lt;/em&gt; sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, fügt ihr noch eine Aussage darüber hinzu, wie gut der Erfolg ist oder wie schlimm der Misserfolg. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Zustände&lt;/strong&gt;: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie &lt;em&gt;wütend&lt;/em&gt;, &lt;em&gt;verwirrt&lt;/em&gt;, &lt;em&gt;müde&lt;/em&gt; und &lt;em&gt;bewusstlos&lt;/em&gt;. Einige Zustände stehen schon auf den FU-Figurenbögen und es ist auch genug Platz, damit ihr selbst eigene hinzufügen könnt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zustände&lt;/strong&gt;: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie &lt;em&gt;wütend&lt;/em&gt;, &lt;em&gt;verwirrt&lt;/em&gt;, &lt;em&gt;müde&lt;/em&gt; und &lt;em&gt;bewusstlos&lt;/em&gt;. Einige Zustände stehen schon auf den FU-Figurenbögen und es gibt auch genug Platz für eure eigenen selbstgeschriebenen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Details&lt;/strong&gt;: Dies sind Merkmale der Umgebung oder Szene, die sich durch den Ausgang einer Handlung verändern können. Details können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Details sind immer eng verknüpft mit der Szene und der versuchten Handlung.&lt;/p&gt;
 
@@ -760,30 +825,30 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h3 id=&#34;beispiele-für-erfolg-misserfolg&#34;&gt;Beispiele für Erfolg &amp;amp; Misserfolg&lt;/h3&gt;
 
-&lt;p&gt;Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage &lt;strong&gt;&amp;ldquo;Überspringt Sir Camden die Hecke?&amp;rdquo;&lt;/strong&gt; passieren würde:&lt;/p&gt;
+&lt;p&gt;Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage „&lt;strong&gt;Überspringt Sir Camden die Hecke?&lt;/strong&gt;“ passieren würde:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Ja, und&lt;/strong&gt; er holt Lord Kane ein. Dies ist ein Detail, das die Szene verändert.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ja,&lt;/strong&gt; er springt über die Hecke. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ja,&lt;/strong&gt; er springt über die Hecke. Hier gibt es keine Und-/Aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ja, aber&lt;/strong&gt; Sir Camden verliert die Orientierung und ist vorübergehend &lt;strong&gt;verwirrt&lt;/strong&gt;. Dies ist ein Zustand, der der Figur auferlegt wird.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nein, aber&lt;/strong&gt; er entdeckt weiter hinten eine Lücke in der Hecke. Dieses Detail gibt der Figur eine andere Möglichkeit, die Verfolgung fortzuführen.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Nein,&lt;/strong&gt; das Pferd scheut vor dem Absprung. Hier gibt es keine und/aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nein, aber&lt;/strong&gt; er entdeckt weiter hinten eine Lücke in der Hecke. Dieses Detail gibt der Figur eine neue Möglichkeit, die Verfolgung fortzuführen.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nein,&lt;/strong&gt; das Pferd scheut vor dem Absprung. Hier gibt es keine Und-/Aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Nein, und&lt;/strong&gt; sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden &lt;strong&gt;verletzt&lt;/strong&gt; er sich. Das ist ein Zustand.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;wer-entscheidet-über-zustände-details&#34;&gt;Wer entscheidet über Zustände &amp;amp; Details?&lt;/h3&gt;
 
-&lt;p&gt;Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine angemessen dramatische Auswirkung. Schöner ist es jedoch, wenn alle am Tisch ihre coolen Ideen einbringen.&lt;br /&gt;
-Wenn es darum geht, welcher Zustand oder welches Detail am Ende auf das Ergebnis angewendet wird, hat die Erzählerin aber immer das letzte Wort.&lt;/p&gt;
+&lt;p&gt;Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine angemessen dramatische Auswirkung. Noch schöner ist es, wenn alle am Tisch ihre tollen Ideen einbringen.&lt;br /&gt;
+Wenn es darum geht, welcher Zustand oder welches Detail am Ende auf das Ergebnis angewendet wird, hat die Erzählerin jedoch immer das letzte Wort.&lt;/p&gt;
 
 &lt;h3 id=&#34;wann-soll-ich-zustände-verwenden&#34;&gt;Wann soll ich Zustände verwenden?&lt;/h3&gt;
 
-&lt;p&gt;Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (&lt;strong&gt;Ja, aber/Nein, und&lt;/strong&gt;). Die Zustände machen der Figur nach einem geringen Erfolg oder sogar völligen Misserfolg das Leben etwas schwerer. Du kannst auch einer anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die gut für deine Figur ausging. Wenn du mit einem Beamten diskutierst und ein &lt;strong&gt;Ja, und&lt;/strong&gt;-Ergebnis bekommst, kannst du den Zustand &lt;strong&gt;verwirrt&lt;/strong&gt; auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein &lt;strong&gt;Nein, aber&lt;/strong&gt;-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand &lt;strong&gt;müde&lt;/strong&gt; erhalten. Wenn ihr Zustände so benutzt, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.&lt;/p&gt;
+&lt;p&gt;Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (&lt;strong&gt;Ja, aber/Nein, und&lt;/strong&gt;). Die Zustände machen der Figur nach einem geringen Erfolg oder sogar völligen Misserfolg das Leben etwas schwerer. Du kannst auch einer anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die für deine Figur gut ausging. Wenn du mit einem Beamten diskutierst und ein &lt;strong&gt;Ja, und&lt;/strong&gt;-Ergebnis bekommst, kannst du den Zustand &lt;strong&gt;verwirrt&lt;/strong&gt; auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein &lt;strong&gt;Nein, aber&lt;/strong&gt;-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand &lt;strong&gt;müde&lt;/strong&gt; erhalten. Wenn ihr Zustände so benutzt, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.&lt;/p&gt;
 
 &lt;h3 id=&#34;wann-soll-ich-details-benutzen&#34;&gt;Wann soll ich Details benutzen?&lt;/h3&gt;
 
-&lt;p&gt;Füge Details hinzu, wenn die versuchte Handlung die Szene oder Umgebung irgendwie ändert. Das könnten veränderte Machtverhältnisse in der Szene sein (&amp;rdquo;&lt;strong&gt;Ja,&lt;/strong&gt; er springt über die Hecke &lt;strong&gt;und&lt;/strong&gt; holt Lord Kane ein.&amp;ldquo;), oder eine geänderte Umgebung (&amp;rdquo;&lt;strong&gt;Nein, aber&lt;/strong&gt; er entdeckt eine Lücke in der Hecke.&amp;ldquo;).&lt;br /&gt;
-Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erlangt (&lt;strong&gt;Ja, und/Nein, aber&lt;/strong&gt;). Besonders effektvoll sind sie, wenn ihr damit Situationen unterhaltsamer und/oder gefährlicher macht: &amp;ldquo;Schwingst du dich am Kronleuchter durch den Raum? &lt;strong&gt;Ja, aber&lt;/strong&gt; es lösen sich Kerzen und setzen die Taverne in Brand.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Füge Details hinzu, wenn die versuchte Handlung in irgendeiner Form die Szene oder Umgebung verändert. Das können neue Machtverhältnisse sein („&lt;strong&gt;Ja,&lt;/strong&gt; er springt über die Hecke &lt;strong&gt;und&lt;/strong&gt; holt Lord Kane ein.“), oder eine geänderte Umgebung („&lt;strong&gt;Nein, aber&lt;/strong&gt; er entdeckt eine Lücke in der Hecke.“).&lt;br /&gt;
+Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erlangt (&lt;strong&gt;Ja, und/Nein, aber&lt;/strong&gt;). Besonders effektvoll sind Details aber auch, wenn sie Situationen unterhaltsamer und/oder gefährlicher machen: „Schwingst du dich am Kronleuchter durch den Raum? &lt;strong&gt;Ja, aber&lt;/strong&gt; es lösen sich Kerzen und setzen die Taverne in Brand.“&lt;/p&gt;
 
 &lt;p&gt;Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!&lt;/p&gt;
 &lt;/div&gt;
@@ -801,39 +866,41 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
 &lt;p&gt;&lt;strong&gt;Dinge schwieriger machen&lt;/strong&gt;: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug &lt;strong&gt;keine Deckung&lt;/strong&gt; gibt. &amp;ldquo;Gelangt Vance unverletzt zun Geländewagen?&amp;rdquo; Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens &lt;strong&gt;verletzt&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug &lt;strong&gt;keine Deckung&lt;/strong&gt; gibt. „Gelangt Vance unverletzt zun Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens &lt;strong&gt;verletzt&lt;/strong&gt; &amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;Aufhebung&lt;/strong&gt;: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie &amp;ldquo;negative&amp;rdquo; und &amp;ldquo;positive&amp;rdquo; Würfel gleichzeitig wirfst.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aufhebung&lt;/strong&gt;: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Im weiteren Verlauf seiner Suche muss Sir Camden eine &lt;strong&gt;steile&lt;/strong&gt; (-) Klippe erklimmen. Der Ritter ist &lt;strong&gt;stark&lt;/strong&gt; (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;div class=&#34;admonition note&#34;&gt;
+&lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2 id=&#34;anmerkungen-zum-würfeln&#34;&gt;Anmerkungen zum Würfeln&lt;/h2&gt;
 
 &lt;h3 id=&#34;beispiel-modifikatoren&#34;&gt;Beispiel-Modifikatoren&lt;/h3&gt;
 
-&lt;p&gt;Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. &amp;ldquo;Kann Vance die Wache abschütteln?&amp;rdquo; Es ist &lt;strong&gt;schwer&lt;/strong&gt; (+), Vance durchs Fenster zu ziehen, aber er ist &lt;strong&gt;verwundet&lt;/strong&gt; (-) und &lt;strong&gt;überrascht&lt;/strong&gt; (-), und der Angreifer ist &lt;strong&gt;sehr stark&lt;/strong&gt; (-). Insgesamt musst du 2 Strafwürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.&lt;/p&gt;
+&lt;h3 id=&#34;beispiel-modifikatoren-1&#34;&gt;Beispiel-Modifikatoren&lt;/h3&gt;
 
-&lt;h3 id=&#34;andere-wurf-arten&#34;&gt;Andere Wurf-Arten?&lt;/h3&gt;
+&lt;p&gt;Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. „Kann Vance die Wache abschütteln?“ Es ist &lt;strong&gt;schwer&lt;/strong&gt; (+), Vance durchs Fenster zu ziehen, aber er ist &lt;strong&gt;verwundet&lt;/strong&gt; (-) und &lt;strong&gt;überrascht&lt;/strong&gt; (-), und der Angreifer ist &lt;strong&gt;sehr stark&lt;/strong&gt; (-). Insgesamt musst du 2 Maluswürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.&lt;/p&gt;
 
-&lt;p&gt;Bei FU gibt es keine &amp;ldquo;Gegenwürfe&amp;rdquo; oder &amp;ldquo;Wettstreit-Aktionen&amp;rdquo;, &amp;ldquo;Schadenswürfe&amp;rdquo; oder &amp;ldquo;Trefferwürfe&amp;rdquo;. Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch das Gedränge eines Einkaufszentrums zu fahren, mit einem Riesen zu ringen oder die Verletzung aus einem Querschläger zu ignorieren.&lt;/p&gt;
+&lt;h3 id=&#34;andere-würfe&#34;&gt;Andere Würfe?&lt;/h3&gt;
 
-&lt;h3 id=&#34;wie-funktionieren-gegenaktionen&#34;&gt;Wie funktionieren &amp;ldquo;Gegenaktionen&amp;rdquo;?&lt;/h3&gt;
+&lt;p&gt;Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schadenswürfe“ oder „Trefferwürfe“. Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch ein überfülltes Einkaufszentrum zu fahren, Armdrücken mit einem Riesen zu machen oder die Verletzung aus einem Querschläger zu ignorieren.&lt;/p&gt;
 
-&lt;p&gt;Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Strafwürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Strafwürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist dein Gegner im Vorteil.&lt;/p&gt;
+&lt;h3 id=&#34;wie-funktionieren-gegenaktionen&#34;&gt;Wie funktionieren „Gegenaktionen“?&lt;/h3&gt;
+
+&lt;p&gt;Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Maluswürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Maluswürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist dein Gegner im Vorteil.&lt;/p&gt;
 
 &lt;h3 id=&#34;an-deine-handlungen-näher-herangehen&#34;&gt;An deine Handlungen näher herangehen&lt;/h3&gt;
 
-&lt;p&gt;Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf kannst du einen Schlagabtausch mit mehrmaligem hin und her erreichen, wenn du fragst &amp;ldquo;Treffe ich den Grafen De Montief?&amp;rdquo;. Du könntest aber auch den gesamten Kampf mit einem einzelnen Wurf abhandeln, indem du fragst &amp;ldquo;Besiege ich den Grafen De Montief im Duell?&amp;rdquo;. Oder du verlegst den Kampf auf eine höhere Ebene und fragst &amp;ldquo;Stürmen meine Landsknechte die Burg des Grafen De Montief?&amp;rdquo; Stelle den Fokus ganz nach Bedarf flexibel ein!&lt;/p&gt;
+&lt;p&gt;Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!&lt;/p&gt;
 
 &lt;h3 id=&#34;option-paschwürfe&#34;&gt;Option: Paschwürfe&lt;/h3&gt;
 
-&lt;p&gt;Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer. Du darfst pro gefallenem gleichem Würfel eine &amp;ldquo;und &amp;hellip;&amp;rdquo;-Aussage hinzufügen. Wenn die Handlung fehlschlägt, muss diese Aussage die Situation verschlimmern. Ist die Handlung erfolgreich, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. &amp;ldquo;Besiegt Lord Kane die Schergen?&amp;rdquo; Er ist verletzt und in der Unterzahl, also wirfst du zwei Strafwürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein &lt;strong&gt;&amp;ldquo;Nein &amp;hellip;&amp;rdquo;&lt;/strong&gt;-Ergebnis, doch die doppelte 3 macht es zu einem &lt;strong&gt;&amp;ldquo;Nein, und &amp;hellip;&amp;rdquo;&lt;/strong&gt; Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein &lt;strong&gt;&amp;ldquo;Nein, und &amp;hellip; und &amp;hellip;&amp;rdquo;&lt;/strong&gt; gewesen!&lt;/p&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer: Du fügst pro gefallenem gleichem Würfel eine „Und &amp;hellip;“-Aussage hinzu. Wenn die Handlung schiefgeht, muss diese Aussage die Situation verschlimmern. Klappt die Handlung, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein „&lt;strong&gt;Nein &amp;hellip;&lt;/strong&gt;“-Ergebnis, doch die doppelte 3 macht es zu einem „&lt;strong&gt;Nein, und &amp;hellip;&lt;/strong&gt;“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „&lt;strong&gt;Nein, und &amp;hellip; und &amp;hellip;&lt;/strong&gt;“ gewesen!&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;fu-punkte&#34;&gt;FU-Punkte&lt;/h2&gt;
 
@@ -841,37 +908,37 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
 
 &lt;p&gt;&lt;strong&gt;Bonuswürfel:&lt;/strong&gt; Gib vor dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Bonuswürfel hinzuzubekommen. Dieser wirkt wie jeder andere Bonuswürfel. Du kannst so viele Bonuswürfel hinzunehmen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Neuwurf:&lt;/strong&gt; Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel neu zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Neuwurf:&lt;/strong&gt; Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.&lt;/p&gt;
 
-&lt;p&gt;Du kannst bei einer einzelnen Handlung auch mehrere FU-Punkte für diese zwei Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.&lt;/p&gt;
+&lt;p&gt;Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinen Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut &amp;hellip;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;FU-Punkte verdienen:&lt;/strong&gt; FU-Punkte verdienen sich die Spielerinnen, indem sie coole Dinge machen und ihre Rolle gut spielen. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle &amp;ldquo;Oooh!&amp;rdquo; rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FU-Punkte verdienen:&lt;/strong&gt; FU-Punkte verdienst du dir als Spielerin, indem du coole Dinge machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.&lt;/p&gt;
 
-&lt;p&gt;&lt;div class=&#34;admonition note&#34;&gt;
+&lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2 id=&#34;anmerkungen-zu-fu-punkten&#34;&gt;Anmerkungen zu FU-Punkten&lt;/h2&gt;
 
 &lt;h3 id=&#34;fu-punkte-beim-sitzungsbeginn&#34;&gt;FU-Punkte beim Sitzungsbeginn&lt;/h3&gt;
 
-&lt;p&gt;Bevor ihr losspielt, solltet ihr ausdiskutieren, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, sind 2 FU-Punkte für den Spielbeginn angemessen. Übermächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen könnte jede Spielerin mit nur einem oder sogar gar keinem FU-Punkt beginnen.&lt;/p&gt;
+&lt;p&gt;Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, passt es, wenn sie mit 2 FU-Punkten anfangen. Mächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen kann jede Spielerin mit nur einem oder sogar gar ganz ohne FU-Punkt beginnen.&lt;/p&gt;
 
 &lt;h3 id=&#34;darf-ich-fu-punkte-verschenken-oder-teilen&#34;&gt;Darf ich FU-Punkte verschenken oder teilen?&lt;/h3&gt;
 
-&lt;p&gt;Das könnt ihr selbst entscheiden. Die Standardregel ist &amp;ldquo;nein&amp;rdquo;, aber &amp;hellip;&lt;/p&gt;
+&lt;p&gt;Das könnt ihr selbst entscheiden. Die Standardregel ist „nein“, aber &amp;hellip;&lt;/p&gt;
 
 &lt;h3 id=&#34;bekommt-die-erzählerin-auch-fu-punkte&#34;&gt;Bekommt die Erzählerin auch FU-Punkte?&lt;/h3&gt;
 
-&lt;p&gt;Üblicherweise nicht, aber sie kann einem besonders starken Gegner oder Monster einen, zwei oder drei zugestehen.&lt;/p&gt;
+&lt;p&gt;Normalerweise nicht, aber sie kann einem besonders starken Gegner oder Monster einen, zwei oder drei zugestehen.&lt;/p&gt;
 
 &lt;h3 id=&#34;andere-möglichkeiten-fu-punkte-zu-verdienen&#34;&gt;Andere Möglichkeiten, FU-Punkte zu verdienen&lt;/h3&gt;
 
-&lt;p&gt;Manchmal möchtet ihr vielleicht ändern, wie man FU-Punkte verdient. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.&lt;/p&gt;
+&lt;p&gt;Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.&lt;/p&gt;
 
-&lt;p&gt;So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen &amp;ldquo;die da oben&amp;rdquo; Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen sein soll. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was ihr damit anfangen könnt.&lt;/p&gt;
+&lt;p&gt;So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.&lt;/p&gt;
 
 &lt;h3 id=&#34;andere-möglichkeiten-fu-einzusetzen&#34;&gt;Andere Möglichkeiten, FU einzusetzen&lt;/h3&gt;
 
@@ -879,15 +946,15 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
 
 &lt;h4 id=&#34;fu-als-lebenspunkte&#34;&gt;FU als Lebenspunkte&lt;/h4&gt;
 
-&lt;p&gt;Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben, aber auch verloren werden, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, etc). In diesem Fall kannst du FU wieder auffüllen (zurück auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung zeigt.&lt;/p&gt;
+&lt;p&gt;Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben werden, gehen aber auch verloren, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). In diesem Fall kannst du FU wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung zeigt.&lt;/p&gt;
 
 &lt;h4 id=&#34;alles-neu-würfeln&#34;&gt;Alles neu würfeln&lt;/h4&gt;
 
-&lt;p&gt;Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei &amp;ldquo;alles oder nichts&amp;rdquo;; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Verwendet diese Variante statt der normalen Neuwurfregel.&lt;/p&gt;
+&lt;p&gt;Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante statt der normalen Neuwurfregel ein.&lt;/p&gt;
 
 &lt;h4 id=&#34;ein-auge-verdrehen&#34;&gt;Ein Auge verdrehen&lt;/h4&gt;
 
-&lt;p&gt;Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein &amp;ldquo;Nein&amp;rdquo; zu einem &amp;ldquo;Ja&amp;rdquo; machen kannst. Wenn ihr diese Variante verwendet, solltet ihr die normale Neuwurfregel nicht benutzen.&lt;/p&gt;
+&lt;p&gt;Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante einsetzt, solltet ihr die normale Neuwurfregel nicht benutzen.&lt;/p&gt;
 
 &lt;h4 id=&#34;eine-requisite-benutzen&#34;&gt;Eine Requisite benutzen&lt;/h4&gt;
 
@@ -899,8 +966,8 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
 
 &lt;h4 id=&#34;einen-treffer-einstecken&#34;&gt;Einen Treffer einstecken&lt;/h4&gt;
 
-&lt;p&gt;Anstatt zu würfeln, sage, dass du &amp;ldquo;einen Treffer einsteckst&amp;rdquo;. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.&lt;/p&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;handlungen-kurzgefasst&#34;&gt;Handlungen kurzgefasst&lt;/h2&gt;
 
@@ -910,25 +977,25 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
 
 &lt;h3 id=&#34;2-handeln&#34;&gt;2. Handeln&lt;/h3&gt;
 
-&lt;p&gt;Spiele deine Figur und beschreibe was passiert. Arbeite auf das Ziel hin.&lt;/p&gt;
+&lt;p&gt;Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung hin.&lt;/p&gt;
 
 &lt;h3 id=&#34;3-eine-frage-stellen&#34;&gt;3. Eine Frage stellen&lt;/h3&gt;
 
-&lt;p&gt;Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. &amp;ldquo;Habe ich Erfolg?&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)&lt;/p&gt;
 
 &lt;h3 id=&#34;4-modifikatoren-einrechnen&#34;&gt;4. Modifikatoren einrechnen&lt;/h3&gt;
 
 &lt;p&gt;+1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.&lt;/p&gt;
 
-&lt;p&gt;+1 Strafwürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.&lt;/p&gt;
+&lt;p&gt;+1 Maluswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.&lt;/p&gt;
 
 &lt;h3 id=&#34;5-würfeln&#34;&gt;5. Würfeln&lt;/h3&gt;
 
-&lt;p&gt;Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Strafwürfel wirfst) gefallene Würfel.&lt;/p&gt;
+&lt;p&gt;Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Maluswürfel wirfst) gefallene Würfel.&lt;/p&gt;
 
 &lt;h3 id=&#34;6-ergebnis-beschreiben&#34;&gt;6. Ergebnis beschreiben&lt;/h3&gt;
 
-&lt;p&gt;Benutzt das Würfelergebnis zum Beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.&lt;/p&gt;
+&lt;p&gt;Benutzt das Würfelergebnis, um zu beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.&lt;/p&gt;
 </description>
     </item>
     
@@ -938,7 +1005,100 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
       <pubDate>Sun, 05 Jun 2016 21:47:15 +0200</pubDate>
       
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Hier findest du einfache Ratschläge für Erzählerinnen. Sie sind recht  allgemein gehalten, da die konkreten Details sich auf das gewählte Genre, die Stimmung und den Spielstil beziehen, für die ihr euch als Gruppe entscheidet.&lt;/p&gt;
+
+&lt;h2 id=&#34;reden-ist-gut&#34;&gt;Reden ist gut&lt;/h2&gt;
+
+&lt;p&gt;Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Mitspielerinnen erwarten und an welcher Stelle sich eure Vorstellungen decken. In diesen Bereichen der Überschneidung werdet ihr wahrscheinlich später im Spiel den größten Spaß haben. &lt;em&gt;Zumindest&lt;/em&gt; das Genre und die angestrebte Stimmung eurer gemeinsamen Geschichte solltet ihr zusammen festlegen. Redet ruhig ein bisschen mehr über diese beiden Dinge, damit allen auch die Feinheiten klar sind - es liegen zum Beispiel Welten zwischen Gothic-Horror- und Splatterfilmen.&lt;/p&gt;
+
+&lt;p&gt;Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Mitspielerinnen, Ideen auszutauschen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls du Klärungsbedarf zu Ideen, Themen oder Problemen hast, dann frage nach.&lt;/p&gt;
+
+&lt;h2 id=&#34;zuhören-ist-gut&#34;&gt;Zuhören ist gut&lt;/h2&gt;
+
+&lt;p&gt;Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn deine Spielerinnen dir etwas sagen, sei es direkt im Gespräch oder durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.&lt;/p&gt;
+
+&lt;h2 id=&#34;im-spiel-selbst&#34;&gt;Im Spiel selbst&lt;/h2&gt;
+
+&lt;p&gt;Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und auftretende Lücken füllt ihr durch Zustände und Umgebungsdetails. Hier sind einige Tipps, die dir helfen das Spiel am Laufen zu halten und genau so viel Spaß zu haben wie die Spielerinnen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weniger ist mehr:&lt;/strong&gt; Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird in Richtungen abschweifen, auf die du alleine nie gekommen wärst.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Du bist nicht der Feind:&lt;/strong&gt; Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich betont werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken - nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sag „ja“:&lt;/strong&gt; Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mache alle Würfelwürfen bedeutsam:&lt;/strong&gt; Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2 id=&#34;drei-fragen-zur-orientierung&#34;&gt;Drei Fragen zur Orientierung&lt;/h2&gt;
+
+&lt;p&gt;Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartungen. Versucht die folgenden drei Fragen zu beantworten:&lt;/p&gt;
+
+&lt;h3 id=&#34;was-sollen-die-figuren-tun&#34;&gt;Was sollen die Figuren tun?&lt;/h3&gt;
+
+&lt;p&gt;Wollen die Spielerinnen Türen eintreten, Monster umbringen und bergeweise Schätze nach Hause schleppen? Wollen sie sich wie große Heldinnen fühlen? Oder wie Außenseiterinnen, die gegen unbezwingbar scheinende Widerstände ankämpfen?&lt;/p&gt;
+
+&lt;h3 id=&#34;wie-wollen-die-spielerinnen-sich-fühlen&#34;&gt;Wie wollen die Spielerinnen sich fühlen?&lt;/h3&gt;
+
+&lt;p&gt;Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie mit dem Rücken zur Wand zu stehen und ständig in Lebensgefahr schweben?&lt;/p&gt;
+
+&lt;h3 id=&#34;welche-rolle-übernimmt-die-erzählerin&#34;&gt;Welche Rolle übernimmt die Erzählerin?&lt;/h3&gt;
+
+&lt;p&gt;Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren, um das oben Angesprochene zu erreichen? Sorgst du dafür, dass jede Herausforderung eine großzügigen Belohnung mitbringt? Führst du jeden Kampf hart, aber fair? Verfolgen Gegenspieler ihre Ziele unermüdlich und kompromisslos?&lt;/p&gt;
+
+&lt;p&gt;Beantwortet diese Fragen und alle am Tisch werden sich über ihre Rolle im kommenden Abenteuer im Klaren sein.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;erholung-und-heilung&#34;&gt;Erholung und Heilung&lt;/h2&gt;
+
+&lt;p&gt;Im Spielverlauf können Figuren Verletzungen erleiden, körperlichen oder geistigen Belastungen ausgesetzt sein oder von einer ganzen Reihe anderer Zustände heimgesucht werden. Wann und wie schnell sich die Figuren von diesen Zuständen wieder erholen, sollte immer zur Geschichte passen. Normalerweise geschieht das einfach durch das Verstreichen der Zeit, das muss aber nicht so sein. Eine gute Faustregel ist, dass Figuren sich zwischen zwei Szenen von einem oder mehreren Zuständen erholen können. Das hängt aber natürlich auch davon ab, wie viel Zeit zwischen den Szenen vergeht.&lt;/p&gt;
+
+&lt;h2 id=&#34;belohnungen&#34;&gt;Belohnungen&lt;/h2&gt;
+
+&lt;p&gt;Belohne die Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Dinge belohnen, die die Gruppe untereinander abspricht (siehe dazu die &lt;strong&gt;Anmerkungen/Seitenleiste&lt;/strong&gt; zu FU-Punkten in Kapitel 4).&lt;/p&gt;
+
+&lt;p&gt;FU-Punkten können die Erfolgschancen der Figuren verbessern; daher sind sie eine schöne, direkte und greifbare Belohnungsmöglichkeit. Du musst jedoch nicht die einzige Person am Tisch sein, die Belohnungen verteilt. Alle dürfen sich melden, wenn sie finden, dass jemand etwas cooles, witziges oder beeindruckendes getan hat, und einen FU-Punkt dafür ausloben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wie viel und wie oft?&lt;/strong&gt; Sei großzügig mit deinen Belohnungen. Die positive Verstärkung durch das Verdienen von FU-Punkten soll die Spielerinnen zu weiteren heldenhaften, spektakulären oder verderbten Taten anregen. Berücksichtige auch, ob euer Spiel nur über eine Sitzung gehen soll oder Teil einer längeren Geschichte oder Kampagne wird. In Spielen mit nur einer Sitzung brauchen die Spielerinnen ihre FU-Punkte wahrscheinlich schneller auf, daher sollten sie auch schneller wieder aufgefüllt werden.&lt;/p&gt;
+
+&lt;h2 id=&#34;figuren-und-hindernisse&#34;&gt;Figuren und Hindernisse&lt;/h2&gt;
+
+&lt;p&gt;Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, Wesen und Hindernisse, denen die Spielerinnen begegnen, werden im Großen und Ganzen genau wie Figuren definiert. Es gibt keine Regeln, die dich beim Gestalten von Figuren oder Hindernissen einschränken. Die einzige Voraussetzung ist, dass du sie unterhaltsam und interessant machst.&lt;/p&gt;
+
+&lt;div class=&#34;admonition note&#34;&gt;
+&lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;h2 id=&#34;organisatorische-tipps&#34;&gt;Organisatorische Tipps&lt;/h2&gt;
+
+&lt;h3 id=&#34;die-schale&#34;&gt;Die Schale&lt;/h3&gt;
+
+&lt;p&gt;Die Schale ist eine Methode zum Verteilen von FU-Punkten. Stellt eine Schüssel mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte - jeder Gegenstand darin entspricht einem FU-Punkt. So kann die Erzählerin die Spielerinnen bitten, sich „einen aus der Schale“ zu nehmen, und Mitspielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss „Gibt es dafür einen FU-Punkt?“&lt;/p&gt;
+
+&lt;h3 id=&#34;erfahrung-gewinnen&#34;&gt;Erfahrung gewinnen&lt;/h3&gt;
+
+&lt;p&gt;In FU geht es nicht um das Aufsteigen auf immer höhere „Level“. Die Figuren können zwar allerlei Erfahrungen machen und aus ihnen auch lernen, aber der eigentliche Fortschritt entsteht durch die sich verändernde Welt und Geschichte.&lt;/p&gt;
+
+&lt;p&gt;Gegebenenfalls können die Spielerinnen zwischen den Spielsitzungen einen ihrer Beschreiber ändern. Diese Änderung sollte mit einer gerade in der Geschichte gemachten Erfahrung zusammenhängen. Ob Ausrüstung zwischen den Sitzungen gewechselt werden kann, liegt im Ermessen der Erzählerin.&lt;/p&gt;
+
+&lt;p&gt;Auch Motive können sich von Sitzung zu Sitzung verändern. Lass deinen Spielerinnen zu Beginn jeder Spielsitzung etwas Zeit, über ihre Ziele nachzudenken und sie wenn nötig anzupassen oder neue zu schreiben.&lt;/p&gt;
+
+&lt;h3 id=&#34;den-überblick-über-hindernisse-behalten&#34;&gt;Den Überblick über Hindernisse behalten&lt;/h3&gt;
+
+&lt;p&gt;Einzelheiten über deine Figuren, Monster und Hindernisse kannst du auf Haftnotizen oder Karteikarten festhalten. Notiere Beschreiber, Ausrüstung und andere Daten. Wenn sie Zustände auferlegt bekommen, vermerke auch diese auf ihrer Karte.&lt;/p&gt;
+
+&lt;p&gt;Halte auch wichtige Geländemerkmale auf Karteikarten fest. Notiere alle zugehörigen Beschreiber, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.&lt;/p&gt;
+
+&lt;h3 id=&#34;welche-informationen-teilst-du-mit-deinen-spielerinnen&#34;&gt;Welche Informationen teilst du mit deinen Spielerinnen?&lt;/h3&gt;
+
+&lt;p&gt;Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern keinen Hehl. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.&lt;/p&gt;
+
+&lt;p&gt;Mit „offenen Karten“ zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.&lt;/p&gt;
+
+&lt;p&gt;Dagegen wird das Geheimhalten der Einzelheiten von Bösewichten, Zielen und anderen Hindernissen die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können geschickt taktieren, um sich selbst gut zu positionieren oder die Situation in vorteilhaft erscheinende Richtungen steuern. Es is kann sehr befriedigend sein, wenn man mit Bonuswürfeln belohnt wird, weil man den Beschreiber eines Gegners richtig eingeschätzt hat.&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -947,7 +1107,427 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
       <pubDate>Sun, 05 Jun 2016 21:47:40 +0200</pubDate>
       
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/</guid>
-      <description></description>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;Der berühmte Entdecker Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatuette von Toth führen soll, einem Gegestand, dem übernatürliche Kräfte nachgesagt werden. Unglücklicherweise ist Giles Fishburne, Smiths Erzfeind, dem Götzen ebenfalls auf der Spur und hat sich mit den Nazis zusammengetan!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Dieses kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt beispielhaft, wie du selbst eigene Abenteuer, Gegenspielerinnen und Hindernisse vorbereiten kannst. Am Ende des Abenteuers findet ihr vorgefertigte Figuren, die ihr übernehmen könnt. &lt;em&gt;Das Rennen zum Tempel des Toth&lt;/em&gt; besteht aus einer Reihe von Schlüsselbegegnungen, die du nach Belieben verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfel zu allen möglichen interessanten Wendungen führen werden, und sobald die Figuren erst unterwegs sind, alles möglich ist!&lt;/p&gt;
+
+&lt;h2 id=&#34;vor-dem-spiel&#34;&gt;Vor dem Spiel&lt;/h2&gt;
+
+&lt;p&gt;Sprecht vor dem Spiel kurz über Stimmung und Stil des Spiels. Das Szenario gehört mit seiner haarsträubenden Action, den ruchlosen Schurken und überzeichneten Helden ins Pulpgenre. Vergewissere dich, dass das allen klar ist: redet darüber, was an diesem Genre cool ist und welche Aspekte von Genrefilmen wie &lt;em&gt;Indiana Jones&lt;/em&gt;, &lt;em&gt;Die Mumie&lt;/em&gt; oder &lt;em&gt;Rocketeer&lt;/em&gt; euch gefallen haben.&lt;/p&gt;
+
+&lt;p&gt;Lies den obigen Stimmungstext vor und lasse alle Mitspielerinnen ein paar Ideen für coole Sachen einbringen, die sie während des Abenteuers erleben möchten. Schreibe dir alle Ideen auf; falls das Spiel mal zäh werden sollte oder du nicht weiter weißt, baue eine davon ein!&lt;/p&gt;
+
+&lt;h2 id=&#34;szenen&#34;&gt;Szenen&lt;/h2&gt;
+
+&lt;p&gt;Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handlungsortes und Vorschläge für Beschreiber, die du oder deine Spielerinnen nutzen könnt. Der kursive Teil legt den Grundstein für die Handlung und gibt  das Ziel vor. Umschreibe deinen Spielerinnen die Details in eigenen Worten.&lt;/p&gt;
+
+&lt;h3 id=&#34;herausforderungen&#34;&gt;Herausforderungen&lt;/h3&gt;
+
+&lt;p&gt;Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht, aber du musst sie nicht zwingend benutzen. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!&lt;/p&gt;
+
+&lt;h3 id=&#34;flucht-vom-bulak-markt&#34;&gt;Flucht vom Bulak-Markt&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Überfüllte Straßen, exotische Waren&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Gegenspieler:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Nazischlägertypen&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Zahlreich, Muskulöse Arier, Nicht sehr schlau&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Laute Maschinenpistolen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.&lt;br /&gt;
+&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
+
+&lt;h3 id=&#34;die-übersetzung-der-karte&#34;&gt;Die Übersetzung der Karte&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Ein dunkler Cafésalon, ein Kaffeehaus oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Duft starken Kaffees und exotischer Lebensmittel durchströmt den Raum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Abgeschieden.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Herausforderung:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Die Übersetzung der Karte&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Uralte Schriftzeichen, brüchiges Papier&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Zerrissen, [ ] Zerfallen, [ ] Verschmutzt, [ ] Zu Asche verbrannt&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Karte wird beschädigt; die Figuren missverstehen die Karte; sie können die Karte nicht entziffern und brauchen die Hilfe eines Experten für alte Sprachen.&lt;/p&gt;
+
+&lt;h3 id=&#34;die-gou-zou-schlucht&#34;&gt;Die Gou-Zou-Schlucht&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kan man das Kau-Gebirge erkennen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Weite Ebenen, Unpassierbare Schlucht.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entweder per Automobil oder auf dem Pferd. Giles Fishburne ist ihnen an Bord des deutschen Luftschiffs „Der Vogel“ hart auf den Fersen. Können die Figuren die Brücke unbeschadet überqueren und ihren Vorsprung gegenüber den Deutschen halten?&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Gegenspieler:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Nazi-Flugtruppen&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Sie fliegen!, Beweglich&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Störanfälliges Fluggeschirr, Tödliche Stielhandgranate&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Gestrandet, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Flugtruppen wie Figuren.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Herausforderung:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Gou-Zou-Brücke&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ohne Zug drauf breit, mit Zug ziemlich schmal&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Wacklig, [ ] In die Luft gejagt&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Brücke wird zerstört; die Karte geht verloren; die Figuren werden gefangengenommen.&lt;/p&gt;
+
+&lt;h3 id=&#34;der-tempel&#34;&gt;Der Tempel&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Dunkel, Still&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Herausforderung:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Tükische Fallen&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Verborgen, Tödlich&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Giftpfeile, Rostige Speere&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Entschärft, [ ] Ausgelöst, [ ] Entdeckt&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Gegenspieler:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Steinwächter&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Groß, Schwer, Langsam, Unermüdlich&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Schwere Steinwaffen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Beschädigt, [ ] Aus dem Gleichgewicht, [ ] Verlangsamt, [ ] Außer Gefecht&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Für je zwei Spielerfiguren gibt es einen Steinwächter. Seine großen, schweren Waffen können mehrere Figuren gleichzeitg treffen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren können die Fallen nicht überwinden; die Figuren werden durch die Fallen verletzt.&lt;/p&gt;
+
+&lt;h3 id=&#34;die-kammer-des-götzen&#34;&gt;Die Kammer des Götzen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Große Bronzespiegel.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Gegenspieler:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Giles Fishburne&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Gerissen, Arrogant, Schwertkämpfer&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Polierter Säbel&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Verletzt, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!&lt;/p&gt;
+
+&lt;h2 id=&#34;figuren&#34;&gt;Figuren&lt;/h2&gt;
+
+&lt;p&gt;Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiele für klassische Pulp-Klischees sind. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin ändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Außerdem sollte jede Spielerin ein bis zwei Beziehungen festlegen, die beschreiben, woher die Figuren sich kennen. Am einfachsten geht das, wenn alle sagen, woher sie die Person links von sich kennen.&lt;/p&gt;
+
+&lt;h3 id=&#34;tennessee-smith-tollkühner-entdecker&#34;&gt;Tennessee Smith, Tollkühner Entdecker&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Figur:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Tennessee Smith&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Geschickt, Besonnen, Bullenpeitsche einsetzen, Höhenangst&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Bullenpeitsche, Abgetragene Lederjacke&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Motiv&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Den Götzen von Toth finden&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;jimmy-sweet-beherzter-gassenjunge&#34;&gt;Jimmy Sweet, Beherzter Gassenjunge&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Figur:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Jimmy Sweet&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Flink, Neunmalklug, Unterschätzt, Jung&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Laute Feuerwerkskörper, Schmutzige Baseballmütze&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Motiv&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Die sieben Weltwunder sehen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und seine vorlaute Art bringt ihn regelmäßig in Schwierigkeiten. Jimmy hat sich als blinder Passagier auf einem Frachtdampfer versteckt, um die Welt zu sehen und reich zu werden.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;harvey-reed-boxer-im-ruhestand&#34;&gt;Harvey Reed, Boxer im Ruhestand&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Figur:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Harvey Reed&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Stark, Kann schnell improvisieren, Boxer, Hässlich wie die Nacht&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Münzrolle, Schlecht sitzender Anzug&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Motiv&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Auf Tennessee Smith aufpassen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;october-jones-junge-reporterin&#34;&gt;October Jones, Junge Reporterin&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;right&#34;&gt;Figur:&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;October Jones&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Beschreiber&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Ausrüstung&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Verlässliche Kamera, Dicker Notizblock&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Motiv&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Den Exklusivbericht über den wahren Tennessee Smith kriegen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;October Jones ist Reporterin und Abenteurerin. Der große Reichtum ihres Vaters erlaubt ihr viele Freiheiten. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie will.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -956,7 +1536,148 @@ Details werden oft angewendet, wenn die aktive Figur einen gewissen Vorteil erla
       <pubDate>Sun, 05 Jun 2016 21:47:58 +0200</pubDate>
       
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber vor- oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.&lt;/p&gt;
+
+&lt;h2 id=&#34;körper-beschreiber&#34;&gt;Körper-Beschreiber&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Beweglich:&lt;/strong&gt; hilfreich beim Tanzen, Springen, Balancieren, Turnen, und Kriechen durch enge Stellen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Beidhändig:&lt;/strong&gt; toll beim gleichzeitigen Schießen mit zwei Waffen und bei Taschenspieler- oder Zaubertricks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blondine:&lt;/strong&gt; gut, um von Leuten unterschätzt zu werden, nicht gut, wenn man sich zu lange in der Sonne aufhält.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Selbstbräuner-Orange:&lt;/strong&gt; toll, um als alternde Berühmtheit durchzugehen und um Aufmerksamkeit auf sich zu ziehen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pelzig:&lt;/strong&gt; nützlich, um kalter Witterung zu widerstehen und in der Wildnis zu überleben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gutaussehend:&lt;/strong&gt; nützlich beim Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, und fürs beliebt sein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gewaltig:&lt;/strong&gt; gut, um gefährlich zu wirken, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder an engen Stellen steckenzubleiben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Übergewichtig:&lt;/strong&gt; ein Problem beim Sport und beim Ausleihen von Kleidung.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schwache Konstitution:&lt;/strong&gt; hinderlich bei Langstreckenläufen, dem Aushalten von Schaden, bei Ausdauertätigkeiten und beim Verheilen von Wunden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flink:&lt;/strong&gt; nützlich beim Wegducken und von Deckung zu Deckung rennen, bei Taschenspielertricks, beim Ausweichen und bei anderen Dingen, die schnelles Handeln erfordern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rasiermesserscharfe Klauen:&lt;/strong&gt; großartig, um Gegner aufzuschlitzen, Obst und Gemüse zu schneiden und eventuell auch beim Bäumeklettern.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Klein:&lt;/strong&gt; nervig, weil man nicht an hohe Sachen herankommt, aber praktisch, um unter niedrige Dinge zu kriechen und in der Menge unterzutauchen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Langsam:&lt;/strong&gt; ein Problem beim Rennen, Ausweichen und Reagieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Stark:&lt;/strong&gt; sinnvoll, um Dinge anzuheben, zu tragen, zu zerschlagen und zu werfen; könnte auch beim Ringen helfen und dabei, nicht von Dingen erdrückt zu werden.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hochgewachsen:&lt;/strong&gt; nützlich, um an das oberste Regal heranzukommen, beim Klettern und um über die Köpfe anderer Leute hinwegzuschauen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dünn:&lt;/strong&gt; praktisch, um sich in Kleidung und enge Winkel hineinzuzwängen, sich hinter Pfosten zu verstecken und auf dem Laufsteg eine gute Figur zu machen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hässlich:&lt;/strong&gt; ein Problem bei der Verführung oder wenn man eine Fernsehrolle haben will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lebenskraft:&lt;/strong&gt; großartig, um der Wirkung von Giften zu widerstehen, bei Langstreckenläufen und bei anderen Ausdauertätigkeiten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schwächlich:&lt;/strong&gt; lästig beim Anheben, Tragen, Zerschlagen und Werfen von Dingen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Schwimmfüße:&lt;/strong&gt; toll fürs Schwimmen, aber schrecklich, wenn man Schuhe kaufen will.&lt;/p&gt;
+
+&lt;h2 id=&#34;geist-beschreiber&#34;&gt;Geist-Beschreiber&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Zerstreut:&lt;/strong&gt; gut, um ablenkbar zu sein, aber problematisch, wenn man nicht vergessen will, wo man seine Schlüssel gelassen oder dass man gerade den Sicherheitsstift einer Handgranate gezogen hat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Belesen:&lt;/strong&gt; toll, um Schulprüfungen abzulegen, Matheformeln zu kennen, sich an Geschichtsdaten zu erinnern und um die Zulassung zum Jurastudium zu erlangen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Computerfreak:&lt;/strong&gt; gut beim Programmieren und Laptopreparieren, und um in Internet-Kleinkriege zwischen PC- und Apple-Fans zu geraten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dämlich:&lt;/strong&gt; problematisch, wenn man Witze verstehen, Tricks bemerken oder ganz allgemein in Gesellschaft den Schein wahren will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Einfühlsam:&lt;/strong&gt; gut, um die Gefühle anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und bekümmerte Menschen zu trösten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Konzentriert:&lt;/strong&gt; hilfreich um bei der Sache zu bleiben, sich nicht ablenken zu lassen und um ernst dreinzuschauen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Querdenkerin:&lt;/strong&gt; nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mathematikerin:&lt;/strong&gt; toll, um zu addieren, Gleichungen zu lösen und die Steuererklärung zu machen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aufmerksam:&lt;/strong&gt; prima, um versteckte Hinweise und Details zu erkennen, Wortsuchrätsel zu lösen und beim Lesen von Körpersprache.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rednerin:&lt;/strong&gt; vorteilhaft beim Halten von öffentlichen Reden, führen von Debatten und Klarmachen deines Standpunkts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Langsam:&lt;/strong&gt; nervig, wenn man Pläne verstehen oder neue Dinge lernen will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taktikerin:&lt;/strong&gt; großartig, um Schlachten zu planen, Militärgeschichte zu kennen und Sun-Tsu zu zitieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ungebildet:&lt;/strong&gt; nervig beim Lesen, Lösen von Matheaufgaben, Erinnern an wichtige Geschichtsdaten und wenn man Schulprüfungen bestehen will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Weise:&lt;/strong&gt; nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: „Ich hab&amp;rsquo;s euch ja gesagt“.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geistreich:&lt;/strong&gt; gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen.&lt;/p&gt;
+
+&lt;h2 id=&#34;stärken-beschreiber&#34;&gt;Stärken-Beschreiber&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Akrobatik:&lt;/strong&gt; großartig, um zum Zirkus zu gehen, durch schmale Öffnungen zu springen und beeindruckende Salti zu schlagen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Okkultes Geheimwissen:&lt;/strong&gt; praktisch, um mystische Artefakte zu identifizieren, schwarze Magie zu erkennen und uralte Pergamentrollen zu lesen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mut:&lt;/strong&gt; hilreich, um einen grauenvollen Anblick zu ertragen; deine Frau zu informieren, dass du den Hochzeitsstag vergessen hast und andere gefährliche Aktionen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fahren:&lt;/strong&gt; toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fechten:&lt;/strong&gt; gut für den Schwertkampf und andere zivilisierte Formen des Nahkampfes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gutes Gedächtnis:&lt;/strong&gt; nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jagen:&lt;/strong&gt; vorteilhaft beim Spurenlesen und Anpirschen, um in Tarnkleidung gut auszusehen, und um zu wissen, wie sich ein wütendes Nashorn anhört.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Scharfe Augen:&lt;/strong&gt; super, um weit entfernte Dinge sehen oder sogar im Mondlicht arbeiten zu können.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sprachwissenschaften:&lt;/strong&gt; Vorteile beim Sprechen von Fremdsprachen und allgemein bei der Kommunikation mit anderen Leuten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Magie:&lt;/strong&gt; Vorteile beim Beherrschen mystischer Künste, beim Wirken von Zaubersprüchen oder beim Auftritt als Bühnenmagier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Medizin:&lt;/strong&gt; hilfreich beim Durchführen von Operationen, Diagnostizieren von Krankheiten, und Leisten von Erster Hilfe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fieser Biss:&lt;/strong&gt; super, um Gegnerinnen im Kampf schwer zu verletzen, sich den eigenen Arm abzukauen oder einen Kuchenesswettbewerb zu gewinnen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reich:&lt;/strong&gt; praktisch, um Luxussportwagen zu kaufen, Einladungen zu exklusiven Partys zu bekommen und um städtische Beamte zu bestechen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ringkampf:&lt;/strong&gt; gut beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden.&lt;/p&gt;
+
+&lt;h2 id=&#34;schwächen-beschreiber&#34;&gt;Schwächen-Beschreiber&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Blind:&lt;/strong&gt; nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, sich auf unbekanntem Gelände Zurechtfinden oder Malen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unerschrocken:&lt;/strong&gt; nützlich beim Stürmen in eine tödliche Gefahr, für leichtfertiges Verhalten und um ordentlich in Schwierigkeiten zu geraten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ungeschickt:&lt;/strong&gt; problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gierig:&lt;/strong&gt; ungünstig wenn man dem Impulse widerstehen muss, zu stehlen, lügen oder anderweitig Reichtümer anzuhäufen oder zu behalten.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unmenschliches Aussehen:&lt;/strong&gt; hinderlich, wenn man nicht bemerkt werden möchte, Aufmerksamkeit vermeiden will, oder perfekt sitzende Hosen sucht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fehlendes Bein:&lt;/strong&gt; Problematisch beim Laufen, Klettern oder jeder anderen Aktivität, die mit Bewegung ohne Prothesen oder Rollstuhl zu tun hat.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alt:&lt;/strong&gt; Probleme wenn man cool aussehen, Treppen steigen oder Computer benutzen will oder zuversichtlich zu sein, wenn es um die eigene Gesundheit geht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arm:&lt;/strong&gt; hinderlich, wenn man Essen oder Kleidung kaufen oder an einer exklusiven Party teilnehmen will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sieht schlecht:&lt;/strong&gt; nervig, wenn man jemanden oder etwas wiedererkennen will, im Dunkeln fahren muss oder visuelle Hinweise ausmachen soll.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Primitiv:&lt;/strong&gt; Probleme beim Nutzen von Handys, Autos oder Türklingeln und beim Benehmen auf kultivierten gesellschaftlichen Anlässen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intensiver Geruch:&lt;/strong&gt; hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Verfolgerinnen verstecken will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gesucht:&lt;/strong&gt; nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnung braucht.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jung:&lt;/strong&gt; problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden will, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte.&lt;/p&gt;
+
+&lt;h2 id=&#34;figurenvorlage&#34;&gt;Figurenvorlage&lt;/h2&gt;
+
+&lt;p&gt;Eine ausdruckbare Figurenvorlage zum Ausfüllen ist online unter folgender Adresse zum Herunterladen erhältlich:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf&#34;&gt;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

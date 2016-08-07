@@ -8,16 +8,16 @@
   <head lang="de-de">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1">
-    <title>FU - Frei und universell</title>
+    <title>Search - FU - Frei und universell</title>
     <meta name="generator" content="Hugo 0.16" />
 
     
     <meta name="description" content="Deutsche Übersetzung des Rollenspiels Freeform Universal (FU).">
     
-    <link rel="canonical" href="https://schlawiner.github.io/fu-rpg-frei-und-universell/">
+    <link rel="canonical" href="https://schlawiner.github.io/fu-rpg-frei-und-universell/search/">
     
 
-    <meta property="og:url" content="https://schlawiner.github.io/fu-rpg-frei-und-universell/">
+    <meta property="og:url" content="https://schlawiner.github.io/fu-rpg-frei-und-universell/search/">
     <meta property="og:title" content="FU - Frei und universell">
     <meta property="og:image" content="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/logo.png">
     <meta name="apple-mobile-web-app-title" content="FU - Frei und universell">
@@ -68,9 +68,6 @@
     <script src="https://schlawiner.github.io/fu-rpg-frei-und-universell/javascripts/modernizr.js"></script>
 
     
-    <link href="https://schlawiner.github.io/fu-rpg-frei-und-universell/index.xml" rel="alternate" type="application/rss+xml" title="FU - Frei und universell" />
-    <link href="https://schlawiner.github.io/fu-rpg-frei-und-universell/index.xml" rel="feed" type="application/rss+xml" title="FU - Frei und universell" />
-    
 
   </head>
   <body class="palette-primary-light-blue palette-accent-cyan">
@@ -96,7 +93,7 @@
     </div>
     <div class="stretch">
       <div class="title">
-        FU - Frei und universell
+        Search
       </div>
     </div>
 
@@ -299,80 +296,125 @@
 
 	<article class="article">
 		<div class="wrapper">
-			
-				<h1>FU : Frei und universell </h1>
+			<h1>Search </h1>
 
-				
+			<form method="GET" id="searchForm" action="/search">
+<div class="row">
+    <!-- search form -->
+    <div class="col-md-12">
+            <div id="custom-search-input">
+                <div class="input-group col-md-6 col-md-offset-3">
+                    <input id="page" name="p" value="1" type="hidden"/>
+                    <input id="query" name="q" type="text" class="form-control input-lg" placeholder="Search" />
+                    <span class="input-group-btn">
+                        <button id="searchButton" class="btn btn-info btn-lg" type="submit">
+                            <i class="glyphicon glyphicon-search"></i>
+                        </button>
+                    </span>
+                </div>
+            </div>
+    </div>
+    <!-- search results -->
+    <div id="searchResultsArea" class="col-md-12"></div>
+</div>
+</form>
 
-<p>Dies ist eine Übersetzung von <a href="http://freeformuniversal.com">FU: The Freeform Universal RPG</a> ins Deutsche.</p>
+<script id="searchResultsTmpl" type="text/x-handlebars-template">
 
-<ul class="repo">
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/"  title="Einleitung">Kapitel 1: Einleitung</br>
-            <img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_info_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/"  title="Grundlagen">Kapitel 2: Die Grundlagen</br><img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_description_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/"  title="Figuren">Kapitel 3: Die Figuren</br>
-            <img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_group_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/"  title="Handeln">Kapitel 4: Etwas tun</br><img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_pan_tool_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/"  title="Erzählerin">Kapitel 5: Die Erzählerin</br><img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_face_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/"  title="Beispielabenteuer">Kapitel 6: Beispielabenteuer</br><img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_explore_white_24px.svg"></a>
-          </li>
-          <li class="repo-download">
-            <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/"  title="Anhang">Kapitel 7: Anhang</br><img src="https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_list_white_24px.svg"></a>
-          </li>
-        </ul>
+    <h5>
+        {{#hasMultiplePages}}Page {{page}} of {{/hasMultiplePages}}
+        {{total_hits}} results ({{searchTime}})
+    </h5>
 
-<p>Die Struktur des Dokuments basiert auf der <a href="https://github.com/brunobord/fu-rpg-libre-et-universel">französischen Übersetzung von Bruno Bord</a>.
-Das Originalspiel wurde unter der <a href="http://creativecommons.org/licenses/by/3.0/">Creative-Commons-Lizenz (CC-BY)</a> veröffentlicht. Diese Übersetzung steht  ebenso unter der Creative-Commons-Lizenz.</p>
+    <div class="col-md-8">
+    {{#hits}}
+        <div>
+            <b>
+                <a class="resultLink" href="{{id}}">{{fields.title}}</a>
+            </b>
+                     
+            <span class="badge pull-right">{{roundScore}}</span>
+                    
+            <div class="panel panel-default">
+                <div class="panel-heading">
 
-<h3 id="copyright-notice-fu">Copyright notice FU</h3>
+                    <b>{{fields.author}}</b> on {{fields.date}}
+                </div>
 
-<blockquote>
-<p>This work is based on FU: The Freeform/Universal RPG (found at <a href="http://freeformuniversal.com">http://freeformuniversal.com</a>), by Nathan Russell, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (<a href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</a>).</p>
+                <div class="panel-body">
+                    {{#fragments}}
+                        <div>
+                            {{#content}}
+                                <div>{{{.}}}</div>
+                            {{/content}}
+                        </div>
+                    {{/fragments}}
+                </div>
 
-<p>The Powered By FU logo is &copy; Nathan Russell and is used with permission.</p>
-</blockquote>
+            </div>
+        </div>
+    {{/hits}}
+    </div>
 
-<p>FU RPG ist &copy; 2010 Nathan Russell.</p>
+    <div class="col-md-3 col-md-offset-1">
+        <h3>Refine Results</h3>
+        {{#each facets}}
+            <div class="panel panel-default">
+                <div class="panel-heading"><b>{{@key}}</b></div>
+                <div class="panel-body">
+                    {{#each terms}}
+                    <div class="checkbox">
+                      <label>
+                        <input name="f{{@../key}}" type="checkbox" value="{{term}}" onclick="toggleFilter('{{@../key}}','{{term}}',event);" {{checked isChecked}}>
+                        {{term}} ({{count}})
+                      </label>
+                    </div>
+                    {{/each}}
+                    {{#each date_ranges}}
+                    <div class="checkbox">
+                      <label>
+                        <input name="f{{@../key}}" type="checkbox" value="{{name}}" onclick="toggleFilter('{{@../key}}','{{name}}',event);" {{checked isChecked}}>
+                        {{name}} ({{count}})
+                      </label>
+                    </div>
+                    {{/each}}
+                </div>
+            </div>
+        {{/each}}
+    </div>
 
-<p>Dieses Dokument ist die Version 0.2 der deutschen Übersetzung &copy; 2016 Tina Trillitzsch und Thorsten Panknin</p>
 
-<h3 id="copyright-notice-website-theme-material-docs-for-hugo">Copyright notice website theme (Material docs for Hugo)</h3>
+    {{#hasMultiplePages}}
+        <div class="col-md-4 col-md-offset-4">
+            <ul class="pagination">
+                {{#notOnFirstPage}}
+                    <li>
+                        <a onclick="jumpToPage({{prevPage}})" href="">&laquo;</a>
 
-<blockquote>
-<p>Copyright &copy; 2016 Digitalcraftsman <a href="mailto:digitalcraftsman@protonmail.com">digitalcraftsman@protonmail.com</a><br>
-Copyright &copy; 2016 Martin Donath <a href="mailto:martin.donath@squidfunk.com">martin.donath@squidfunk.com</a></p>
-</blockquote>
+                {{/notOnFirstPage}}
 
-<p>Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the &ldquo;Software&rdquo;), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:</p>
+                {{#validPages}}
+                    <li class="{{clazz}}">
+                        <a href="" onclick="jumpToPage({{index}}, event)">{{index}}</a>
+                    </li>
+                {{/validPages}}
+                
+                {{#notOnLastPage}}
+                    <li>
+                        <a onclick="jumpToPage(nextPage)" href="">&raquo;</a>
+                    </li>
+                {{/notOnLastPage}}
+            </ul>
+        </div>
+    {{/hasMultiplePages}}
+</script>
+<script id="noHitsTmpl" type="text/x-handlebars-template">
+    <h5>Your search - {{userQuery}} - did not match any documents.</h5>
+</script>
+<script id="searchErrorTmpl" type="text/x-handlebars-template">
+    <h5>Error executing search: {{msg}}</h5>
+</script>
 
-<p>The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.</p>
-
-<p>THE SOFTWARE IS PROVIDED &ldquo;AS IS&rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-IN THE SOFTWARE.</p>
-
-			
 
 			<aside class="copyright" role="note">
 				
@@ -383,29 +425,43 @@ IN THE SOFTWARE.</p>
 				und dem
 				<a href="http://github.com/digitalcraftsman/hugo-material-docs" target="_blank">
 					Material
-				</a> -Theme.
+				</a>-Theme.
 			</aside>
 
 			<footer class="footer">
 				
 
-
-
 <nav class="pagination" aria-label="Footer">
   <div class="previous">
+  
+      <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/" title="FU : Frei und universell">
+        <span class="direction">
+          Zurück
+        </span>
+        <div class="page">
+          <div class="button button-previous" role="button" aria-label="Previous">
+            <i class="icon icon-back"></i>
+          </div>
+          <div class="stretch">
+            <div class="title">
+              FU : Frei und universell
+            </div>
+          </div>
+        </div>
+      </a>
+  
   </div>
 
-  
-  
   <div class="next">
-      <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/" title="Die Grundlagen">
+  
+      <a href="https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/" title="Einleitung">
         <span class="direction">
           Weiter
         </span>
         <div class="page">
           <div class="stretch">
             <div class="title">
-              Die Grundlagen
+              Einleitung
             </div>
           </div>
           <div class="button button-next" role="button" aria-label="Next">
@@ -413,8 +469,11 @@ IN THE SOFTWARE.</p>
           </div>
         </div>
       </a>
+  
   </div>
 </nav>
+
+
 
 
 
