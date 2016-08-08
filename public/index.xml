@@ -627,12 +627,10 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 
 &lt;h3 id=&#34;muss-ich-runden-benutzen&#34;&gt;Muss ich Runden benutzen?&lt;/h3&gt;
 
-&lt;p&gt;Runden sind optional, aber sie können nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.&lt;/p&gt;
+&lt;p&gt;Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;h2 id=&#34;ungerade-zahlen-vermeiden&#34;&gt;Ungerade Zahlen vermeiden&lt;/h2&gt;
-
-&lt;h2 id=&#34;ungerade-zahlen-vermeiden-1&#34;&gt;Ungerade Zahlen vermeiden&lt;/h2&gt;
 
 &lt;p&gt;Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.&lt;/p&gt;
 
@@ -1029,7 +1027,7 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 
 &lt;p&gt;&lt;strong&gt;Sag „ja“:&lt;/strong&gt; Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Mache alle Würfelwürfen bedeutsam:&lt;/strong&gt; Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mache alle Würfelwürfe bedeutsam:&lt;/strong&gt; Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.&lt;/p&gt;
 
 &lt;div class=&#34;admonition note&#34;&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
@@ -1158,7 +1156,7 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Eingekreist&#34; value=&#34;Eingekreist&#34;&gt;Eingekreist, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1226,7 +1224,7 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Gestrandet, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Gestrandet&#34; value=&#34;Gestrandet&#34;&gt;Gestrandet, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1353,7 +1351,7 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Verletzt, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Verletzt&#34; value=&#34;Verletzt&#34;&gt;Verletzt, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

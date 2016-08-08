@@ -22,7 +22,7 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 
 **Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
-**Mache alle Würfelwürfen bedeutsam:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.
+**Mache alle Würfelwürfe bedeutsam:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.
 
 {{< note >}}
 ## Drei Fragen zur Orientierung

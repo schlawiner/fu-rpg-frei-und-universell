@@ -40,10 +40,9 @@ Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder F
 Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.
 
 ### Muss ich Runden benutzen?
-Runden sind optional, aber sie können nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
+Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
 {{</note>}}
 
-## Ungerade Zahlen vermeiden
 ## Ungerade Zahlen vermeiden
 Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
 
@@ -103,7 +102,6 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele hab
 {{</note>}}
 
 ## Erfolg & Misserfolg
-
 Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:

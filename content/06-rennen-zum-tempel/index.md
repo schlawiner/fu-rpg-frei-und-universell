@@ -30,7 +30,7 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 |----------------:|:----------------------------------------------------------|
 | **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau             |
 |  **Ausrüstung** | Laute Maschinenpistolen                                   |
-|    **Zustände** | [ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht |
+|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Eingekreist" value="Eingekreist">Eingekreist, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
@@ -61,7 +61,7 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 |----------------:|:---------------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
 |  **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate   |
-|    **Zustände** | [ ] Verwirrt, [ ] Gestrandet, [ ] Aufgehalten, [ ] Außer Gefecht |
+|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Gestrandet" value="Gestrandet">Gestrandet, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
 
 **Bemerkungen:** Es gibt so viele Flugtruppen wie Figuren.
 
@@ -111,7 +111,7 @@ _Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles
 |----------------:|:-------------------------------------------------------|
 | **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                     |
 |  **Ausrüstung** | Polierter Säbel                                        |
-|    **Zustände** | [ ] Verwirrt, [ ] Verletzt, [ ] Aufgehalten, [ ] Außer Gefecht |
+|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Verletzt" value="Verletzt">Verletzt, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
 
 **Bemerkungen:** Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
