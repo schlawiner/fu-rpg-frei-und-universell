@@ -66,7 +66,7 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Eingekreist&#34; value=&#34;Eingekreist&#34;&gt;Eingekreist, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -134,7 +134,7 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Gestrandet, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Gestrandet&#34; value=&#34;Gestrandet&#34;&gt;Gestrandet, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -261,7 +261,7 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Verwirrt, [ ] Verletzt, [ ] Aufgehalten, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Verletzt&#34; value=&#34;Verletzt&#34;&gt;Verletzt, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

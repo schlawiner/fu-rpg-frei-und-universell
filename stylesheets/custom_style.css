@@ -1,15 +1,25 @@
-body {
+body, select, input {
   /*base ratio for modular scale for DESKTOP (min-width: 720px) is 1.067 (15/16 or minor second)*/
   /*for MOBILE, we should use another one*/
   /*font-size: 20px;*/
   /*font-size: 16px;*/
-  font-size: 2rem;
+  font-size: 1.6rem;
+}
+
+.article .wrapper {
+padding: 60px 16px 92px;
+}
+
+input {
+-webkit-appearance:checkbox;
+-moz-appearance: checkbox;
+-ms-appearance: checkbox;
+-o-appearance: checkbox;
+appearance: checkbox;
 }
 
 .article {
   font-size: 100%;
-
-  /*margin-left: 15em;*/
 }
 
 .article h1 {
@@ -40,15 +50,23 @@ body {
 .article p {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
+    padding: 0.5em 0;
     line-height: 1.35em;
     /*text-indent: 1em;*/
     /*font-size: 100%;*/
 }
 
+.article table, .article thead, .article th {font-size: inherit !important;}
+
+
 blockquote {
   margin: 1em 1em 0 0;
   padding: 0 0.5em;
   border-left: 5px solid lightgray;
+}
+
+blockquote p {
+  margin-left: 1em !important;
 }
 
 /*blockquote p {
@@ -81,10 +99,24 @@ font-style: italic;
 
 } */
 
+tbody {
+  background-color: white;
+}
+
+tbody tr:nth-child(odd) {
+  background: #eee;
+}
+
+.admonition {
+  margin: 20px -16px 0;
+  padding: 20px 16px;
+}
+
 /*increase size of the admonition icon in the notes box*/
 .admonition-title:before {
-  font-size: 2em!important;
-  margin-top: 0.3em;
+  font-size: 1.3em!important;
+  color: #03a9f4;
+  margin-top: 0.4em;
   margin-left: -0.2em;
 }
 
@@ -99,8 +131,8 @@ font-style: italic;
 
 /*smaller padding-top for the header in admonition-notes*/
 .note h2 {
-  padding: 2.2em 0 0 0;
-  margin-top: -2.2em;
+  padding: 0 0 0 0;
+  margin-top: -1.3em;
   margin-bottom: 0;
 }
 
@@ -192,27 +224,49 @@ font-style: italic;
         font-size:1.215em;
         }
 
+
 }
 
 copyright {
     /*margin: 1.5em 0;*/
     line-height: 1em;
+    font-size: 0.5em;
 }
 
 @media only screen and (min-width: 720px){
+
+.project .name {
+  /*margin-top: 0;
+  padding-top: 0;
+  padding: 128px 24px 96px;*/
+  font-size:inherit;
+}
+
 .article h2 {
     padding-top: 1em;
-    margin-top: 0;
-    }
+    /*margin-top: 0;*/
+}
 
-.article p, .article h1, .article h2, .article h3, .article h4, blockquote{
+.article .data {
+text-align:left !important;
+}
+
+.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article .data, .article ul {
   /*padding-left: 30px;*/
   margin-left: 40px;
   margin-right: 20px;
   max-width: 37.5em;
     }
 
-  .note h2{
-    margin-top: -1em;
-  }
+.admonition {
+  margin: 20px -16px 0;
+  padding: 20px 16px;
+}
+
+.note h2 {
+  padding: 0 0 0 0;
+  /*margin-top: -2.3em;*/
+  margin-bottom: 0;
+}
+
 }
