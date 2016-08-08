@@ -17,7 +17,7 @@ googleAnalytics = ""
 	#   provider = "GitHub"
 	#  repo_url = "https://github.com/schlawiner/fu-rpg-frei-und-universell"
 
-	version = "0.2"
+	version = "0.9"
 	logo = "images/logo.png"
 	favicon = ""
 
@@ -33,8 +33,10 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "light-blue"
-    	accent  = "cyan"
+	primary = "light-blue"
+	accent  = "cyan"
+  # primary = "light-green"
+  # accent  = "light-green"
 
     [params.font]
     	text = "Ubuntu"
