@@ -101,7 +101,7 @@ Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, E
 Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
 
 **Sonstiges**:  
-Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenens Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.
+Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenes Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.
 
 {{< note >}}
 ## Anmerkungen zur Ausrüstung
@@ -201,3 +201,5 @@ Was will deine Figur? Was hindert sie daran? Was würde sie tun, um es zu erreic
 
 ### 6. Beziehungen
 Woher kennen sich die Figuren? Welche Verbindungen gibt es zwischen ihnen?
+
+---

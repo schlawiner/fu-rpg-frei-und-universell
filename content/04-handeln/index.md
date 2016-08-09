@@ -172,7 +172,6 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 {{<note>}}
 ## Anmerkungen zum Würfeln
 ### Beispiel-Modifikatoren
-### Beispiel-Modifikatoren
 Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. „Kann Vance die Wache abschütteln?“ Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Maluswürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
 
 ### Andere Würfe?
@@ -259,3 +258,5 @@ Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst
 
 ### 6. Ergebnis beschreiben
 Benutzt das Würfelergebnis, um zu beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.
+
+---

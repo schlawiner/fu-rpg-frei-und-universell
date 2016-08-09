@@ -43,3 +43,5 @@ Diese Diskussion macht auch der Erzählerin deutlich, was die Spielerinnen sich 
 ### Der Sofort-Genre-Generator
 Wollt ihr schnell und ohne Umwege direkt loslegen, schreibt alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werft sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium" und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 {{< /note >}}
+
+---

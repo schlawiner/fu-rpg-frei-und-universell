@@ -32,3 +32,5 @@ Außerdem gibt es zu vielen Themen **Anmerkungskästen**. Dort findest du Regele
 {{</note>}}
 
 Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfacheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.
+
+---

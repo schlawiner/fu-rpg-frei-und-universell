@@ -19,6 +19,8 @@ Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handl
 ### Herausforderungen
 Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht, aber du musst sie nicht zwingend benutzen. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!
 
+---
+
 ### Flucht vom Bulak-Markt
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
@@ -35,6 +37,8 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
 
+---
+
 ### Die Übersetzung der Karte
 **Szene:** Ein dunkler Cafésalon, ein Kaffeehaus oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Duft starken Kaffees und exotischer Lebensmittel durchströmt den Raum.
 
@@ -49,9 +53,10 @@ _Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber über
 
 **Was kann schiefgehen?** Die Karte wird beschädigt; die Figuren missverstehen die Karte; sie können die Karte nicht entziffern und brauchen die Hilfe eines Experten für alte Sprachen.
 
+---
 
 ### Die Gou-Zou-Schlucht
-**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kan man das Kau-Gebirge erkennen.
+**Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kann man das Kau-Gebirge erkennen.
 
 **Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
 
@@ -75,6 +80,8 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 
 **Was kann schiefgehen?** Die Brücke wird zerstört; die Karte geht verloren; die Figuren werden gefangengenommen.
 
+---
+
 ### Der Tempel
 **Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
 
@@ -82,7 +89,7 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 
 _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_  
 
-| Herausforderung: | Tükische Fallen                       |
+| Herausforderung: | Tückische Fallen                       |
 |----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
@@ -100,6 +107,8 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 
 **Was kann schiefgehen?** Die Figuren können die Fallen nicht überwinden; die Figuren werden durch die Fallen verletzt.
 
+---
+
 ### Die Kammer des Götzen
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
@@ -115,9 +124,12 @@ _Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles
 
 **Bemerkungen:** Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
+---
+
 ## Figuren
 Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiele für klassische Pulp-Klischees sind. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin ändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Außerdem sollte jede Spielerin ein bis zwei Beziehungen festlegen, die beschreiben, woher die Figuren sich kennen. Am einfachsten geht das, wenn alle sagen, woher sie die Person links von sich kennen.
 
+---
 
 ### Tennessee Smith, Tollkühner Entdecker
 
@@ -136,6 +148,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
+---
 
 ### Jimmy Sweet, Beherzter Gassenjunge
 
@@ -153,6 +166,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
+---
 
 ### Harvey Reed, Boxer im Ruhestand
 
@@ -170,6 +184,8 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
+---
+
 ### October Jones, Junge Reporterin
 
 
@@ -185,3 +201,5 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 **Beziehungen:**  
 
 **Bemerkungen:**
+
+---

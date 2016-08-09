@@ -77,3 +77,5 @@ Mit „offenen Karten“ zu spielen bedeutet, dass alle Bescheid wissen, was pas
 
 Dagegen wird das Geheimhalten der Einzelheiten von Bösewichten, Zielen und anderen Hindernissen die Spielerinnen dazu zwingen, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können geschickt taktieren, um sich selbst gut zu positionieren oder die Situation in vorteilhaft erscheinende Richtungen steuern. Es is kann sehr befriedigend sein, wenn man mit Bonuswürfeln belohnt wird, weil man den Beschreiber eines Gegners richtig eingeschätzt hat.
 {{< /note >}}
+
+---

@@ -28,3 +28,5 @@ Ich weise darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommu
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiberin der Seiten behält sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
 <span style="color: #808080;">Quellenangaben: <a href="http://www.e-recht24.de/muster-disclaimer.htm" target="_blank"><span style="color: #808080;">eRecht24 Disclaimer</span></a></span>
+
+---

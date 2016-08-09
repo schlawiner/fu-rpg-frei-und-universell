@@ -140,3 +140,5 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 Eine ausdruckbare Figurenvorlage zum Ausfüllen ist online unter folgender Adresse zum Herunterladen erhältlich:
 
 [https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf](https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf)
+
+---
