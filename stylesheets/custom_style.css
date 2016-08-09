@@ -7,7 +7,7 @@ body, select, input {
 }
 
 .toc {
-  margin-top: -1em !important;
+  margin-top: 0em !important;
 }
 
 .toc li a {
@@ -19,6 +19,20 @@ body, select, input {
 
 .article .wrapper {
 padding: 60px 16px 92px;
+}
+
+.article .data {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 1.5em 0 0 0 ;
+  text-align:left !important;
+}
+
+.article .data table {
+  margin: 0;
+}
+
+
 }
 
 input {
@@ -240,6 +254,19 @@ tbody tr:nth-child(odd) {
       font-size:1.215em;
 }
 
+.article .data {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 1em 0 0 0 ;
+  text-align:left !important;
+}
+
+.article .data table {
+  margin: 0 0.8em;
+}
+
+.article table td {padding: 0.5em;}
+.article table th {padding: 0.5em;}
 
 }
 
@@ -259,7 +286,9 @@ copyright {
 }
 
 .article .data {
-text-align:left !important;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align:left !important;
 }
 
 .article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article .data, .article ul {
