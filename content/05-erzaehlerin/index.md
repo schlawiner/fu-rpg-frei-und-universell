@@ -26,6 +26,7 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 
 {{< note >}}
 ## Drei Fragen zur Orientierung
+<br>
 Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartungen. Versucht die folgenden drei Fragen zu beantworten:
 
 ### Was sollen die Figuren tun?

@@ -6,8 +6,16 @@ body, select, input {
   font-size: 1.6rem;
 }
 
+/*Fix offset that occurs when clicking anchors in the toc*/
+:target:before {
+content:"";
+display:block;
+height:65px; /* fixed header height*/
+margin:-65px 0 0; /* negative fixed header height */
+}
+
 .toc {
-  margin-top: -1em !important;
+  margin-top: 0em !important;
 }
 
 .toc li a {
@@ -19,6 +27,24 @@ body, select, input {
 
 .article .wrapper {
 padding: 60px 16px 92px;
+}
+
+.article .data {
+  margin: 0;
+  /*margin-top: 0;
+  margin-bottom: 0;*/
+  padding: 1.5em 0 0 0 ;
+  text-align:left !important;
+}
+
+.article .data table {
+  margin: 3px;
+}
+
+
+.zustand{
+  white-space: nowrap;
+  display: inline-block;
 }
 
 input {
@@ -126,7 +152,8 @@ tbody tr:nth-child(odd) {
 /*increase size of the admonition icon in the notes box*/
 .admonition-title:before {
   font-size: 1.3em!important;
-  color: #03a9f4;
+  /*color: #03a9f4;*/
+  color: green;
   margin-top: 0.4em;
   margin-left: -0.2em;
 }
@@ -135,7 +162,8 @@ tbody tr:nth-child(odd) {
 .note {
   margin-top: 0em;
   margin-bottom: 2em;
-  background-color: #ccf5ff;
+  /*background-color: #ccf5ff;*/
+  background-color:#E2F6CF;
   color: #002733;
   padding-top: 10px;
 
@@ -152,7 +180,7 @@ tbody tr:nth-child(odd) {
   border-radius:0%
 }
 
-/*Remove the weird list item arrow before each item för buttons*/
+/*Remove the weird list item arrow before each item for buttons*/
 /*.repo ul>li:before {
     content: "";
 }*/
@@ -214,9 +242,16 @@ tbody tr:nth-child(odd) {
 }
 
 @media screen and (max-width: 375px){
+
+  /*.repo-download {
+    width: 80%;
+    }*/
+
   .repo a {
-    width: 15em;
+    /*width: 15em;*/
+    min-width: 125%;
     height: 5em;
+    /* These are technically the same, but use both */
   }
 
   .repo {
@@ -232,6 +267,9 @@ tbody tr:nth-child(odd) {
       margin-top: 0em !important;
     }
 
+.article p a { overflow-wrap: break-word;
+ word-wrap: break-word;}
+
 .article h4{
       font-size: 1.067em;
 }
@@ -240,6 +278,19 @@ tbody tr:nth-child(odd) {
       font-size:1.215em;
 }
 
+.article .data {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 1em 0 0 0 ;
+  text-align:left !important;
+}
+
+.article .data table {
+  margin: 3px;
+}
+
+.article table td {padding: 0.5em;}
+.article table th {padding: 0.5em;}
 
 }
 
@@ -250,6 +301,13 @@ copyright {
 }
 
 @media only screen and (min-width: 720px){
+  /*Fix offset that occurs when clicking anchors in the toc*/
+  :target:before {
+  content:"";
+  display:block;
+  height:90px; /* fixed header height*/
+  margin:-90px 0 0; /* negative fixed header height */
+  }
 
 .project .name {
   /*margin-top: 0;
@@ -259,7 +317,9 @@ copyright {
 }
 
 .article .data {
-text-align:left !important;
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align:left !important;
 }
 
 .article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article .data, .article ul {

@@ -32,7 +32,7 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 |----------------:|:----------------------------------------------------------|
 | **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau             |
 |  **Ausrüstung** | Laute Maschinenpistolen                                   |
-|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Eingekreist" value="Eingekreist">Eingekreist, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
+|    **Zustände** | <span class="zustand"><input type="checkbox"><label>Verwirrt,</label></span><span class="zustand"><input type="checkbox" name="Eingekreist" value="Eingekreist"><label>Eingekreist,</label></span><span class="zustand"><input type="checkbox" name="Aufgehalten" value="Aufgehalten"><label>Aufgehalten,</label></span><span class="zustand"><input type="checkbox" name="Außer Gefecht" value="Außer Gefecht"><label>Außer Gefecht</label></span>  |
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.

@@ -33,10 +33,12 @@ googleAnalytics = ""
 	highlight_css  = ""
 
 	[params.palette]
-	primary = "light-blue"
-	accent  = "cyan"
+	# primary = "light-blue"
+	# accent  = "cyan"
   # primary = "light-green"
   # accent  = "light-green"
+	primary = "light-green"
+	accent  = "orange"
 
     [params.font]
     	text = "Ubuntu"
