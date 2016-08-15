@@ -28,6 +28,7 @@ FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten S
 
 {{<note>}}
 ## Anmerkungskästen
+<br>
 Außerdem gibt es zu vielen Themen **Anmerkungskästen**. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem farbigen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.
 {{</note>}}
 
