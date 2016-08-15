@@ -32,9 +32,9 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 |----------------:|:----------------------------------------------------------|
 | **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau             |
 |  **Ausrüstung** | Laute Maschinenpistolen                                   |
-|    **Zustände** | <span class="zustand"><input type="checkbox"><label>Verwirrt,</label></span><span class="zustand"><input type="checkbox" name="Eingekreist" value="Eingekreist"><label>Eingekreist,</label></span><span class="zustand"><input type="checkbox" name="Aufgehalten" value="Aufgehalten"><label>Aufgehalten,</label></span><span class="zustand"><input type="checkbox" name="Außer Gefecht" value="Außer Gefecht"><label>Außer Gefecht</label></span>  |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Verwirrt,</label></span><span class="zustand"><label><input type="checkbox" name="Eingekreist" value="Eingekreist">Eingekreist,</label></span><span class="zustand"><label><input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,</label></span><span class="zustand"><label><input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht</label></span>  |
 
-**Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
+**Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
 
 ---
@@ -49,7 +49,7 @@ _Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber über
 | Herausforderung: | Die Übersetzung der Karte                                     |
 |----------------:|:--------------------------------------------------------------|
 | **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                       |
-|    **Zustände** | [ ] Zerrissen, [ ] Zerfallen, [ ] Verschmutzt, [ ] Zu Asche verbrannt |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Zerrissen, </label></span><span class="zustand"><label><input type="checkbox"> Zerfallen, </label></span><span class="zustand"><label><input type="checkbox">Verschmutzt, </label></span><span class="zustand"><label><input type="checkbox">Zu Asche verbrannt</label></span> |
 
 **Was kann schiefgehen?** Die Karte wird beschädigt; die Figuren missverstehen die Karte; sie können die Karte nicht entziffern und brauchen die Hilfe eines Experten für alte Sprachen.
 
@@ -66,7 +66,7 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 |----------------:|:---------------------------------------------------------|
 | **Beschreiber** | Sie fliegen!, Beweglich                                  |
 |  **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate   |
-|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Gestrandet" value="Gestrandet">Gestrandet, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Verwirrt, </label></span>  <span class="zustand"><label><input type="checkbox">Gestrandet, </label></span><span class="zustand"><label><input type="checkbox">Aufgehalten, </label></span><span class="zustand"><label><input type="checkbox">Außer Gefecht</label></span> |
 
 **Bemerkungen:** Es gibt so viele Flugtruppen wie Figuren.
 
@@ -74,7 +74,7 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 | Herausforderung: | Gou-Zou-Brücke                                      |
 |----------------:|:----------------------------------------------------|
 | **Beschreiber** | Ohne Zug drauf breit, mit Zug ziemlich schmal |
-|    **Zustände** | [ ] Wacklig, [ ] In die Luft gejagt                   |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Wacklig, </label></span><span class="zustand"><label><input type="checkbox">In die Luft gejagt</label></span>                   |
 
 **Bemerkungen:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
 
@@ -87,13 +87,13 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 
 **Beschreiber:** Dunkel, Still
 
-_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_  
+_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_
 
 | Herausforderung: | Tückische Fallen                       |
 |----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
-|    **Zustände** | [ ] Entschärft, [ ] Ausgelöst, [ ] Entdeckt |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox"> Entschärft, </label></span><span class="zustand"><label><input type="checkbox">Ausgelöst, </label></span><span class="zustand"><label><input type="checkbox">Entdeckt</label></span> |
 
 **Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!
 
@@ -101,7 +101,7 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 |----------------:|:----------------------------------------------------------------------|
 | **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                                    |
 |  **Ausrüstung** | Schwere Steinwaffen                                                   |
-|    **Zustände** | [ ] Beschädigt, [ ] Aus dem Gleichgewicht, [ ] Verlangsamt, [ ] Außer Gefecht |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Beschädigt, </label></span><span class="zustand"><label><input type="checkbox">Aus dem Gleichgewicht, </label></span><span class="zustand"><label><input type="checkbox">Verlangsamt, </label></span><span class="zustand"><label><input type="checkbox">Außer Gefecht</label></span> |
 
 **Bemerkungen:** Für je zwei Spielerfiguren gibt es einen Steinwächter. Seine großen, schweren Waffen können mehrere Figuren gleichzeitg treffen.
 
@@ -120,7 +120,7 @@ _Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles
 |----------------:|:-------------------------------------------------------|
 | **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                     |
 |  **Ausrüstung** | Polierter Säbel                                        |
-|    **Zustände** | <input type="checkbox" name="verwirrt" value="verwirrt">Verwirrt, <input type="checkbox" name="Verletzt" value="Verletzt">Verletzt, <input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,  <input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Verwirrt, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Aufgehalten, </label></span><span class="zustand"><label><input type="checkbox">Außer Gefecht</label></span> |
 
 **Bemerkungen:** Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
@@ -139,10 +139,10 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 | **Beschreiber** | Geschickt, Besonnen, Bullenpeitsche einsetzen, Höhenangst                                                   |
 |  **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                                      |
 |       **Motiv** | Den Götzen von Toth finden                                                                                  |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+|    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
 
-> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
 
 **Beziehungen:**
 
@@ -158,11 +158,11 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 | **Beschreiber** | Flink, Neunmalklug, Unterschätzt, Jung                                                                      |
 |  **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                            |
 |       **Motiv** | Die sieben Weltwunder sehen                                                                                 |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+|    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
 > Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und seine vorlaute Art bringt ihn regelmäßig in Schwierigkeiten. Jimmy hat sich als blinder Passagier auf einem Frachtdampfer versteckt, um die Welt zu sehen und reich zu werden.
 
-**Beziehungen:**  
+**Beziehungen:**
 
 **Bemerkungen:**
 
@@ -176,11 +176,11 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 | **Beschreiber** | Stark, Kann schnell improvisieren, Boxer, Hässlich wie die Nacht                                            |
 |  **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                                         |
 |       **Motiv** | Auf Tennessee Smith aufpassen                                                                               |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+|    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
 > Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
-**Beziehungen:**  
+**Beziehungen:**
 
 **Bemerkungen:**
 
@@ -194,11 +194,11 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 | **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                      |
 |  **Ausrüstung** | Verlässliche Kamera, Dicker Notizblock                                                                    |
 |       **Motiv** | Den Exklusivbericht über den wahren Tennessee Smith kriegen                                               |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+|    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
 > October Jones ist Reporterin und Abenteurerin. Der große Reichtum ihres Vaters erlaubt ihr viele Freiheiten. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie will.
 
-**Beziehungen:**  
+**Beziehungen:**
 
 **Bemerkungen:**
 
