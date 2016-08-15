@@ -250,7 +250,8 @@ IN THE SOFTWARE.&lt;/p&gt;
 &lt;p class=&#34;admonition-title&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2 id=&#34;anmerkungskästen&#34;&gt;Anmerkungskästen&lt;/h2&gt;
 
-&lt;p&gt;Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem farbigen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Diese Kästen erkennst du leicht an einer kleinen wehenden Flagge und dem farbigen Texthintergrund. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfachheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.&lt;/p&gt;
@@ -1169,12 +1170,12 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;input type=&#34;checkbox&#34;&gt;&lt;label&gt;Verwirrt,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Eingekreist&#34; value=&#34;Eingekreist&#34;&gt;&lt;label&gt;Eingekreist,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;&lt;label&gt;Aufgehalten,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;&lt;label&gt;Außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verwirrt,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Eingekreist&#34; value=&#34;Eingekreist&#34;&gt;Eingekreist,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
 &lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -1203,7 +1204,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Zerrissen, [ ] Zerfallen, [ ] Verschmutzt, [ ] Zu Asche verbrannt&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Zerrissen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; Zerfallen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verschmutzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Zu Asche verbrannt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1241,7 +1242,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Gestrandet&#34; value=&#34;Gestrandet&#34;&gt;Gestrandet, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verwirrt, &lt;/label&gt;&lt;/span&gt;  &lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Gestrandet, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Aufgehalten, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1264,7 +1265,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Wacklig, [ ] In die Luft gejagt&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Wacklig, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;In die Luft gejagt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1304,7 +1305,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Entschärft, [ ] Ausgelöst, [ ] Entdeckt&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; Entschärft, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Ausgelöst, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entdeckt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1332,7 +1333,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Beschädigt, [ ] Aus dem Gleichgewicht, [ ] Verlangsamt, [ ] Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Beschädigt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Aus dem Gleichgewicht, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verlangsamt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1372,7 +1373,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;input type=&#34;checkbox&#34; name=&#34;verwirrt&#34; value=&#34;verwirrt&#34;&gt;Verwirrt, &lt;input type=&#34;checkbox&#34; name=&#34;Verletzt&#34; value=&#34;Verletzt&#34;&gt;Verletzt, &lt;input type=&#34;checkbox&#34; name=&#34;Aufgehalten&#34; value=&#34;Aufgehalten&#34;&gt;Aufgehalten,  &lt;input type=&#34;checkbox&#34; name=&#34;Außer Gefecht&#34; value=&#34;Außer Gefecht&#34;&gt;Außer Gefecht&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verwirrt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verletzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Aufgehalten, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1415,7 +1416,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Wütend, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verängstigt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Müde, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Gefangen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Geblendet, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Hungrig, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Benommen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verletzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Dem Tode nah&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1458,7 +1459,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Wütend, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verängstigt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Müde, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Gefangen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Geblendet, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Hungrig, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Benommen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verletzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Dem Tode nah&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1501,7 +1502,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Wütend, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verängstigt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Müde, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Gefangen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Geblendet, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Hungrig, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Benommen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verletzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Dem Tode nah&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1544,7 +1545,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;[ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, Benommen, [ ] Verletzt, [ ] Dem Tode nah&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Wütend, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verängstigt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Müde, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Gefangen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Geblendet, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Hungrig, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Benommen, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Verletzt, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Dem Tode nah&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
