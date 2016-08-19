@@ -22,7 +22,7 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 ---
 
 ### Flucht vom Bulak-Markt
-**Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
+**Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
@@ -35,6 +35,7 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 |    **Zustände** | <span class="zustand"><label><input type="checkbox">Verwirrt,</label></span><span class="zustand"><label><input type="checkbox" name="Eingekreist" value="Eingekreist">Eingekreist,</label></span><span class="zustand"><label><input type="checkbox" name="Aufgehalten" value="Aufgehalten">Aufgehalten,</label></span><span class="zustand"><label><input type="checkbox" name="Außer Gefecht" value="Außer Gefecht">Außer Gefecht</label></span>  |
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
+
 **Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
 
 ---
@@ -70,6 +71,7 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 
 **Bemerkungen:** Es gibt so viele Flugtruppen wie Figuren.
 
+<br>
 
 | Herausforderung: | Gou-Zou-Brücke                                      |
 |----------------:|:----------------------------------------------------|
@@ -93,9 +95,11 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 |----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
-|    **Zustände** | <span class="zustand"><label><input type="checkbox"> Entschärft, </label></span><span class="zustand"><label><input type="checkbox">Ausgelöst, </label></span><span class="zustand"><label><input type="checkbox">Entdeckt</label></span> |
+|    **Zustände** | <span class="zustand"><label><input type="checkbox">Entschärft, </label></span><span class="zustand"><label><input type="checkbox">Ausgelöst, </label></span><span class="zustand"><label><input type="checkbox">Entdeckt</label></span> |
 
 **Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!
+
+<br>
 
 |    Gegenspieler: | Steinwächter                                                          |
 |----------------:|:----------------------------------------------------------------------|
@@ -112,7 +116,7 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 ### Die Kammer des Götzen
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
-**Beschreiber:** Große Bronzespiegel.
+**Beschreiber:** Große Bronzespiegel
 
 _Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?_
 
@@ -142,7 +146,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 |    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
 
-> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
 
 **Beziehungen:**
 
