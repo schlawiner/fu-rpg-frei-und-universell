@@ -268,7 +268,7 @@ tbody tr:nth-child(odd) {
  .repo li {
       white-space:normal;
       display:inline-block;
-      padding-right: 0.5em;
+      padding-right: 0;
     }
 
     .toc {
@@ -316,9 +316,21 @@ tbody tr:nth-child(odd) {
 
 @media screen and (min-width: 506px){
 
-.repo li:last-child a{
-          width: 31.7em;
-        }
+.repo ul {width:100%}
+.repo li {
+  width: 48%;
+  margin: 0 0.2em;
+}
+
+.repo li:last-child {
+  width: 97.6%;
+}
+
+.repo a {width:100%}
+
+/*.repo li:last-child a{
+          width: 100%;
+        }*/
 }
 
 @media only screen and (min-width: 720px){
