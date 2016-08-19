@@ -209,7 +209,7 @@ tbody tr:nth-child(odd) {
 
 .repo li {
   margin-left:0;
-  padding-right: 5px;
+  padding-right: 0;
 }
 
 .repo img {
@@ -250,7 +250,7 @@ tbody tr:nth-child(odd) {
 }
 
 .repo last-child:li{
-  padding-right: 10px!important;
+  padding-right: 0!important;
   margin-right: 0!important;
 }
 
@@ -259,10 +259,6 @@ tbody tr:nth-child(odd) {
   .zustand{
     display: block;
   }
-
-  /*.repo-download {
-    width: 80%;
-    }*/
 
 
 
@@ -318,6 +314,12 @@ tbody tr:nth-child(odd) {
   }
 }
 
+@media screen and (min-width: 506px){
+
+.repo li:last-child a{
+          width: 31.7em;
+        }
+}
 
 @media only screen and (min-width: 720px){
   /*Fix offset that occurs when clicking anchors in the toc*/
