@@ -29,16 +29,21 @@ margin:-65px 0 0; /* negative fixed header height */
 padding: 60px 16px 92px;
 }
 
+
+
 .article .data {
-  margin: 0;
+  margin: 0 0 0 0;
   /*margin-top: 0;
-  margin-bottom: 0;*/
-  padding: 1.5em 0 0 0 ;
+  margin-bottom: 0.5em;*/
+  padding: 0 0 0 0;
   text-align:left !important;
 }
 
+
+
 .article .data table {
-  margin: 3px;
+  margin: 0 3px 0.5em 3px;
+  /*margin-bottom: 0.5em*/
 }
 
 
@@ -78,6 +83,7 @@ appearance: checkbox;
 
 .article h3 {
   font-size:1.296em;
+  margin-bottom: 0.5em;
 }
 
 .article h4{
@@ -242,6 +248,10 @@ tbody tr:nth-child(odd) {
 }
 
 @media screen and (max-width: 375px){
+
+  .zustand{
+    display: block;
+  }
 
   /*.repo-download {
     width: 80%;

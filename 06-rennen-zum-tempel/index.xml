@@ -41,7 +41,7 @@
 
 &lt;h3 id=&#34;flucht-vom-bulak-markt&#34;&gt;Flucht vom Bulak-Markt&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Überfüllte Straßen, exotische Waren&lt;/p&gt;
 
@@ -73,8 +73,9 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
-&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -147,6 +148,8 @@
 
 &lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Flugtruppen wie Figuren.&lt;/p&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -203,12 +206,14 @@
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; Entschärft, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Ausgelöst, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entdeckt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entschärft, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Ausgelöst, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entdeckt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -246,7 +251,7 @@
 
 &lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Große Bronzespiegel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Große Bronzespiegel&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?&lt;/em&gt;&lt;/p&gt;
 
@@ -320,7 +325,7 @@
 &lt;/table&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
+&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;

@@ -17,7 +17,7 @@
       <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/</guid>
       <description>
 
-&lt;p&gt;Dies ist eine Übersetzung von &lt;a href=&#34;http://freeformuniversal.com&#34;&gt;FU: The Freeform Universal RPG&lt;/a&gt; ins Deutsche.&lt;/p&gt;
+&lt;p&gt;Dies ist eine Übersetzung des regelleichten Universalrollenspiels &lt;a href=&#34;http://freeformuniversal.com&#34;&gt;FU: The Freeform Universal RPG&lt;/a&gt; ins Deutsche.&lt;/p&gt;
 
 &lt;ul class=&#34;repo&#34;&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
@@ -46,7 +46,7 @@
         &lt;/ul&gt;
 
 &lt;p&gt;Die Struktur des Dokuments basiert auf der &lt;a href=&#34;https://github.com/brunobord/fu-rpg-libre-et-universel&#34;&gt;französischen Übersetzung von Bruno Bord&lt;/a&gt;.
-Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative-Commons-Lizenz (CC-BY)&lt;/a&gt; veröffentlicht. Diese Übersetzung steht  ebenso unter der Creative-Commons-Lizenz.&lt;/p&gt;
+Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative-Commons-Lizenz (CC-BY 3.0)&lt;/a&gt; veröffentlicht. Diese Übersetzung steht unter der gleichen &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/deed.de&#34;&gt;Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;copyright-notice-fu&#34;&gt;Copyright notice FU&lt;/h3&gt;
 
@@ -58,7 +58,7 @@ Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/lic
 
 &lt;p&gt;FU RPG ist &amp;copy; 2010 Nathan Russell.&lt;/p&gt;
 
-&lt;p&gt;Dieses Dokument ist die Version 0.2 der deutschen Übersetzung &amp;copy; 2016 Tina Trillitzsch und Thorsten Panknin&lt;/p&gt;
+&lt;p&gt;Dieses Dokument ist die Version 1.0 der deutschen Übersetzung &amp;copy; 2016 Tina Trillitzsch und Thorsten Panknin&lt;/p&gt;
 
 &lt;h3 id=&#34;copyright-notice-website-theme-material-docs-for-hugo&#34;&gt;Copyright notice website theme (Material docs for Hugo)&lt;/h3&gt;
 
@@ -67,22 +67,11 @@ Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/lic
 Copyright &amp;copy; 2016 Martin Donath &lt;a href=&#34;mailto:martin.donath@squidfunk.com&#34;&gt;martin.donath@squidfunk.com&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to
-deal in the Software without restriction, including without limitation the
-rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-sell copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:&lt;/p&gt;
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;
 
-&lt;p&gt;The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.&lt;/p&gt;
+&lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;/p&gt;
 
-&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;ldquo;AS IS&amp;rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+&lt;p&gt;THE SOFTWARE IS PROVIDED &amp;ldquo;AS IS&amp;rdquo;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.&lt;/p&gt;
 </description>
     </item>
@@ -1143,7 +1132,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;h3 id=&#34;flucht-vom-bulak-markt&#34;&gt;Flucht vom Bulak-Markt&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Überfüllte Straßen, exotische Waren&lt;/p&gt;
 
@@ -1175,8 +1164,9 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
-&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Was kann schiefgehen?&lt;/strong&gt; Die Figuren werden gefangen; die Karte geht verloren.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1249,6 +1239,8 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Es gibt so viele Flugtruppen wie Figuren.&lt;/p&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1305,12 +1297,14 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt; Entschärft, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Ausgelöst, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entdeckt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entschärft, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Ausgelöst, &lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;Entdeckt&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 
 &lt;p&gt;&lt;strong&gt;Bemerkungen:&lt;/strong&gt; Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -1348,7 +1342,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;p&gt;&lt;strong&gt;Szene:&lt;/strong&gt; Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Große Bronzespiegel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beschreiber:&lt;/strong&gt; Große Bronzespiegel&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles Fishburne und seine Nazihandlanger schon vor Ort sind! Können sie Giles besiegen und mit dem Götzen entkommen?&lt;/em&gt;&lt;/p&gt;
 
@@ -1422,7 +1416,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 &lt;/table&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
+&lt;p&gt;Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;strong&gt;Beziehungen:&lt;/strong&gt;&lt;/p&gt;
