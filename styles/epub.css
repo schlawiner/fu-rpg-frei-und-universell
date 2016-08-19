@@ -1,4 +1,181 @@
 /* CSS for epub */
-.sidebar {
+/*.sidebar {
     column-count: 3;
+}*/
+
+body { margin: 10%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1, h2, h3, h4, h5, h6 {
+  text-align: left;
+  font-family: "CardenioModernBold", sans-serif;
+  color: green;
+  page-break-after: avoid;
+}
+
+.title { text-align: center;}
+.subtitle { text-align: center;}
+.author, .trl, .pfr, .bkd, .rights {text-align: center;}
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+
+  @font-face {
+    font-family: CardenioModernBold;
+    font-style: normal;
+    font-weight: bold;
+    src: url("CardenioModernBold.ttf");
+  }
+
+  @font-face {
+    font-family: GentiumRegular;
+    font-style: normal;
+    font-weight: normal;
+    src: url("GenBasR.ttf");
+  }
+
+  @font-face {
+    font-family: GentiumBold;
+    font-style: normal;
+    font-weight: bold;
+    src: url("GenBasB.ttf");
+  }
+
+  @font-face {
+    font-family: GentiumItalic;
+    font-style:italic;
+    font-weight: normal;
+    src: url("GenBasI.ttf");
+  }
+
+  body {
+    font-family: "GentiumRegular", serif;
+    font-size: 1rem;
+}
+
+strong, b {
+  font-family: "GentiumBold", serif;
+  font-weight: bold;
+}
+
+p {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+  font-size: 1.0rem;
+}
+
+.author {
+  font-family: "GentiumRegular";
+}
+.rights {
+  font-family: "GentiumBold";
+  font-weight: bold;
+}
+
+.sidebar {
+  /*column-count: 3;*/
+  background-color: #eee;
+  padding: 0.7em;
+  border: 1pt solid #000;
+  border-radius: 5px;
+  page-break-inside: avoid;
+  color: black;
+  margin-bottom: 1em;
+}
+
+h1 { text-align: left; font-size: 2.369em;}
+h2 { text-align: left; font-size: 1.777em;}
+h3 { text-align: left; font-size: 1.333em;}
+h4 { text-align: left; font-size: 1em;}
+h5 { text-align: left; font-size: 1em;}
+h6 { text-align: left; font-size: 1em;}
+
+h1 {
+  page-break-before:always;
+  margin-top: 0;
+  margin-bottom:1em;
+  page-break-after:avoid;
+  color: green;
+}
+
+h2, h3
+{
+  page-break-after: avoid;
+  /*margin-bottom: -0.6em;*/
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+h4, h5, h6
+{
+  /*margin-bottom: -0.8em;*/
+  page-break-after: avoid;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+/* Pandoc with --section-divs option */
+
+blockquote
+    {
+    border-top: 3pt solid green;
+    border-bottom: 3pt solid green;
+    /*font-style: italic;*/
+    background-color: #CEF6CE;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 1.0em;
+    padding-bottom: 0.7em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    page-break-inside: avoid;
+    }
+
+
+.examplePC {
+  page-break-before: always;
+  padding-bottom: 1.0em;
+  margin-bottom: 1.0em;
+}
+
+
+
+table
+    {
+    page-break-inside:avoid;
+    border-collapse: collapse;
+    border-spacing: 0; /* IE 6 */
+
+    border-bottom: 2pt solid green;
+    border-top: 2pt solid green; /* The caption on top will not have a bottom-border */
+
+    /* Center */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    }
+
+thead /* Entire table header */
+    {
+    border-bottom: 1pt solid green;
+    background-color: #eee; /* Does this BG print well? */
+    font-family: "GentiumBold";
+    font-weight: bold;
+    text-transform:uppercase;
+    }
+
+td, th {
+  padding-left: 0.5em;
+  /*padding-right: 0.5em;*/
+}
+
+/* Odd and even rows */
+tr.odd {
+  background-color: lightgreen;
+}
+tr.even {
+  background-color: #CEF6CE;
 }
