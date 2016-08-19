@@ -25,6 +25,13 @@ margin:-65px 0 0; /* negative fixed header height */
   padding-top: 0.2em;
 }
 
+copyright {
+    /*margin: 1.5em 0;*/
+    line-height: 1em;
+    font-size: 0.5em;
+}
+
+
 .article .wrapper {
 padding: 60px 16px 92px;
 }
@@ -257,12 +264,7 @@ tbody tr:nth-child(odd) {
     width: 80%;
     }*/
 
-  .repo a {
-    /*width: 15em;*/
-    min-width: 125%;
-    height: 5em;
-    /* These are technically the same, but use both */
-  }
+
 
   .repo {
     }
@@ -304,11 +306,18 @@ tbody tr:nth-child(odd) {
 
 }
 
-copyright {
-    /*margin: 1.5em 0;*/
-    line-height: 1em;
-    font-size: 0.5em;
+@media screen and (max-width: 505px){
+
+  .repo li {width: 100%}
+  .repo a {
+    width: 100%;
+    font-size: 1em;
+    margin-bottom: 10px;
+    text-transform: none;
+    border-bottom: none;
+  }
 }
+
 
 @media only screen and (min-width: 720px){
   /*Fix offset that occurs when clicking anchors in the toc*/
