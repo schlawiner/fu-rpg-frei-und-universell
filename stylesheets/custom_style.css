@@ -25,6 +25,9 @@ margin:-65px 0 0; /* negative fixed header height */
   padding-top: 0.2em;
 }
 
+/*Make all headers from 1-4 use another font - here Amatica SC - you have to add it to the custom "head.html" partial, thought. It's there, but commented out right now.*/
+/*h1,h2,h3,h4 {font-family: 'Amatica SC', cursive;}*/
+
 copyright {
     /*margin: 1.5em 0;*/
     line-height: 1em;
@@ -223,7 +226,7 @@ tbody tr:nth-child(odd) {
   margin-bottom: 10px;
   text-transform: none;
   border-bottom: none;
-  width: 15em;
+  min-width: 15em;
   height: 5em;
   background-color: #00bcd4;
 }
@@ -273,6 +276,7 @@ tbody tr:nth-child(odd) {
 
     .toc {
       margin-top: 0em !important;
+      /*font-family: 'Amatica SC', cursive;*/
     }
 
 .article p a { overflow-wrap: break-word;
