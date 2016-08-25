@@ -1,4 +1,4 @@
-baseurl = "http://fu-rollenspiel.de"
+baseurl = "https://fu-rollenspiel.de/"
 # baseurl = "https://schlawiner.github.io/fu-rpg-frei-und-universell/"
 languageCode = "de-de"
 title = "FU - Frei und universell"
@@ -19,7 +19,7 @@ googleAnalytics = ""
 	#  repo_url = "https://github.com/schlawiner/fu-rpg-frei-und-universell"
 
 	version = "0.9"
-	logo = "images/logo.png"
+	logo = "/images/logo.png"
 	favicon = "favicon.ico"
 
 	permalink = "#"
