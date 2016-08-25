@@ -1,9 +1,9 @@
 ---
 date: 2016-06-06T16:13:38+02:00
-title: "FU : Frei und universell"
+title: "FU: Das freie und universelle Rollenspiel"
 type: index
 ---
-Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Freeform Universal RPG](http://freeformuniversal.com) ins Deutsche.
+Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Freeform Universal RPG](http://freeformuniversal.com) von Nathan Russell ins Deutsche.
 
 <ul class="repo">
           <li class="repo-download">
@@ -33,6 +33,8 @@ Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Free
 
 Die Struktur des Dokuments basiert auf der [französischen Übersetzung von Bruno Bord](https://github.com/brunobord/fu-rpg-libre-et-universel).
 Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY 3.0)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht unter der gleichen [Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.de).
+
+Das bedeutet: 
 
 ### Copyright notice FU
 

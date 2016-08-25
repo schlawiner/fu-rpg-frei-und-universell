@@ -2,51 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FU - Frei und universell</title>
-    <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/</link>
+    <link>http://fu-rollenspiel.de/</link>
     <description>Recent content on FU - Frei und universell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Mon, 06 Jun 2016 16:13:38 +0200</lastBuildDate>
-    <atom:link href="https://schlawiner.github.io/fu-rpg-frei-und-universell/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://fu-rollenspiel.de/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>FU : Frei und universell</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/</link>
+      <title>FU: Das freie und universelle Rollenspiel</title>
+      <link>http://fu-rollenspiel.de/</link>
       <pubDate>Mon, 06 Jun 2016 16:13:38 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/</guid>
+      <guid>http://fu-rollenspiel.de/</guid>
       <description>
 
-&lt;p&gt;Dies ist eine Übersetzung des regelleichten Universalrollenspiels &lt;a href=&#34;http://freeformuniversal.com&#34;&gt;FU: The Freeform Universal RPG&lt;/a&gt; ins Deutsche.&lt;/p&gt;
+&lt;p&gt;Dies ist eine Übersetzung des regelleichten Universalrollenspiels &lt;a href=&#34;http://freeformuniversal.com&#34;&gt;FU: The Freeform Universal RPG&lt;/a&gt; von Nathan Russell ins Deutsche.&lt;/p&gt;
 
 &lt;ul class=&#34;repo&#34;&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/&#34;  title=&#34;Einleitung&#34;&gt;Kapitel 1: Einleitung&lt;/br&gt;
-            &lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_info_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/01-einleitung/&#34;  title=&#34;Einleitung&#34;&gt;Kapitel 1: Einleitung&lt;/br&gt;
+            &lt;img src=&#34;http://fu-rollenspiel.de/images/ic_info_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/&#34;  title=&#34;Grundlagen&#34;&gt;Kapitel 2: Die Grundlagen&lt;/br&gt;&lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_description_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/02-grundlagen/&#34;  title=&#34;Grundlagen&#34;&gt;Kapitel 2: Die Grundlagen&lt;/br&gt;&lt;img src=&#34;http://fu-rollenspiel.de/images/ic_description_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/&#34;  title=&#34;Figuren&#34;&gt;Kapitel 3: Die Figuren&lt;/br&gt;
-            &lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_group_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/03-figuren/&#34;  title=&#34;Figuren&#34;&gt;Kapitel 3: Die Figuren&lt;/br&gt;
+            &lt;img src=&#34;http://fu-rollenspiel.de/images/ic_group_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/&#34;  title=&#34;Handeln&#34;&gt;Kapitel 4: Etwas tun&lt;/br&gt;&lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_pan_tool_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/04-handeln/&#34;  title=&#34;Handeln&#34;&gt;Kapitel 4: Etwas tun&lt;/br&gt;&lt;img src=&#34;http://fu-rollenspiel.de/images/ic_pan_tool_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/&#34;  title=&#34;Erzählerin&#34;&gt;Kapitel 5: Die Erzählerin&lt;/br&gt;&lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_face_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/05-erzaehlerin/&#34;  title=&#34;Erzählerin&#34;&gt;Kapitel 5: Die Erzählerin&lt;/br&gt;&lt;img src=&#34;http://fu-rollenspiel.de/images/ic_face_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/&#34;  title=&#34;Beispielabenteuer&#34;&gt;Kapitel 6: Beispielabenteuer&lt;/br&gt;&lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_explore_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/06-rennen-zum-tempel/&#34;  title=&#34;Beispielabenteuer&#34;&gt;Kapitel 6: Beispielabenteuer&lt;/br&gt;&lt;img src=&#34;http://fu-rollenspiel.de/images/ic_explore_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/&#34;  title=&#34;Anhang&#34;&gt;Kapitel 7: Anhang&lt;/br&gt;&lt;img src=&#34;https://schlawiner.github.io/fu-rpg-frei-und-universell/images/ic_list_white_24px.svg&#34;&gt;&lt;/a&gt;
+            &lt;a href=&#34;http://fu-rollenspiel.de/07-anhang/&#34;  title=&#34;Anhang&#34;&gt;Kapitel 7: Anhang&lt;/br&gt;&lt;img src=&#34;http://fu-rollenspiel.de/images/ic_list_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
         &lt;/ul&gt;
 
 &lt;p&gt;Die Struktur des Dokuments basiert auf der &lt;a href=&#34;https://github.com/brunobord/fu-rpg-libre-et-universel&#34;&gt;französischen Übersetzung von Bruno Bord&lt;/a&gt;.
 Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative-Commons-Lizenz (CC-BY 3.0)&lt;/a&gt; veröffentlicht. Diese Übersetzung steht unter der gleichen &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/deed.de&#34;&gt;Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Das bedeutet:&lt;/p&gt;
 
 &lt;h3 id=&#34;copyright-notice-fu&#34;&gt;Copyright notice FU&lt;/h3&gt;
 
@@ -78,10 +80,10 @@ IN THE SOFTWARE.&lt;/p&gt;
     
     <item>
       <title>Search</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/search/</link>
+      <link>http://fu-rollenspiel.de/search/</link>
       <pubDate>Thu, 11 Jun 2015 16:03:09 -0400</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/search/</guid>
+      <guid>http://fu-rollenspiel.de/search/</guid>
       <description>&lt;form method=&#34;GET&#34; id=&#34;searchForm&#34; action=&#34;/search&#34;&gt;
 &lt;div class=&#34;row&#34;&gt;
     &lt;!-- search form --&gt;
@@ -203,10 +205,10 @@ IN THE SOFTWARE.&lt;/p&gt;
     
     <item>
       <title>Einleitung</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</link>
+      <link>http://fu-rollenspiel.de/01-einleitung/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:15 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/01-einleitung/</guid>
+      <guid>http://fu-rollenspiel.de/01-einleitung/</guid>
       <description>
 
 &lt;h2 id=&#34;über-fu&#34;&gt;Über FU&lt;/h2&gt;
@@ -251,10 +253,10 @@ Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt
     
     <item>
       <title>Die Grundlagen</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/</link>
+      <link>http://fu-rollenspiel.de/02-grundlagen/</link>
       <pubDate>Sun, 05 Jun 2016 21:45:43 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/02-grundlagen/</guid>
+      <guid>http://fu-rollenspiel.de/02-grundlagen/</guid>
       <description>
 
 &lt;p&gt;Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon einmal von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.&lt;/p&gt;
@@ -311,10 +313,10 @@ Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin o
     
     <item>
       <title>Die Figuren</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/</link>
+      <link>http://fu-rollenspiel.de/03-figuren/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:27 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/03-figuren/</guid>
+      <guid>http://fu-rollenspiel.de/03-figuren/</guid>
       <description>
 
 &lt;p&gt;Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.&lt;/p&gt;
@@ -575,10 +577,10 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
     
     <item>
       <title>Etwas tun</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/</link>
+      <link>http://fu-rollenspiel.de/04-handeln/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:52 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/04-handeln/</guid>
+      <guid>http://fu-rollenspiel.de/04-handeln/</guid>
       <description>
 
 &lt;p&gt;Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern darum, dass alle Freude daran haben, die gemeinsame Geschichte zu entwickeln.&lt;/p&gt;
@@ -997,10 +999,10 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
     
     <item>
       <title>Die Erzählerin</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/</link>
+      <link>http://fu-rollenspiel.de/05-erzaehlerin/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:15 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/05-erzaehlerin/</guid>
+      <guid>http://fu-rollenspiel.de/05-erzaehlerin/</guid>
       <description>
 
 &lt;p&gt;Hier findest du einfache Ratschläge für Erzählerinnen. Sie sind recht  allgemein gehalten, da die konkreten Details sich auf das gewählte Genre, die Stimmung und den Spielstil beziehen, für die ihr euch als Gruppe entscheidet.&lt;/p&gt;
@@ -1102,10 +1104,10 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
     
     <item>
       <title>Beispielabenteuer: Das Rennen zum Tempel des Toth</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/</link>
+      <link>http://fu-rollenspiel.de/06-rennen-zum-tempel/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:40 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/06-rennen-zum-tempel/</guid>
+      <guid>http://fu-rollenspiel.de/06-rennen-zum-tempel/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -1558,10 +1560,10 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
     
     <item>
       <title>Anhang</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/</link>
+      <link>http://fu-rollenspiel.de/07-anhang/</link>
       <pubDate>Sun, 05 Jun 2016 21:47:58 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/07-anhang/</guid>
+      <guid>http://fu-rollenspiel.de/07-anhang/</guid>
       <description>
 
 &lt;p&gt;Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber vor- oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.&lt;/p&gt;
@@ -1710,10 +1712,10 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
     
     <item>
       <title>Impressum</title>
-      <link>https://schlawiner.github.io/fu-rpg-frei-und-universell/impressum/</link>
+      <link>http://fu-rollenspiel.de/impressum/</link>
       <pubDate>Mon, 06 Jun 2016 19:04:21 +0200</pubDate>
       
-      <guid>https://schlawiner.github.io/fu-rpg-frei-und-universell/impressum/</guid>
+      <guid>http://fu-rollenspiel.de/impressum/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Verantwortung:&lt;/strong&gt;&lt;/p&gt;

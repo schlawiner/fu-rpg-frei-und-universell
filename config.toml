@@ -1,4 +1,5 @@
-baseurl = "https://schlawiner.github.io/fu-rpg-frei-und-universell/"
+baseurl = "http://fu-rollenspiel.de"
+# baseurl = "https://schlawiner.github.io/fu-rpg-frei-und-universell/"
 languageCode = "de-de"
 title = "FU - Frei und universell"
 theme = "hugo-material-docs"
@@ -19,7 +20,7 @@ googleAnalytics = ""
 
 	version = "0.9"
 	logo = "images/logo.png"
-	favicon = ""
+	favicon = "favicon.ico"
 
 	permalink = "#"
 
@@ -42,6 +43,7 @@ googleAnalytics = ""
 
     [params.font]
     	text = "Ubuntu"
+			# headers = "Amatica SC"
     	code = "Ubuntu Mono"
 
 
