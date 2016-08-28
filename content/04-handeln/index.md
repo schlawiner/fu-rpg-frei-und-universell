@@ -7,7 +7,7 @@ Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten �
 
 
 ## Szenen und Runden
-Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden bis hin zu vielen Stunden abzubilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Eine Szene kann die Handlung vorantreiben, etwas über eine Figur verraten oder der Geschichte Stimmung und Atmosphäre verleihen. Viele Szenen tun das sogar alles gleichzeitig.
+Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden bis hin zu vielen Stunden abbilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Eine Szene kann die Handlung vorantreiben, etwas über eine Figur verraten oder der Geschichte Stimmung und Atmosphäre verleihen. Viele Szenen tun das sogar alles gleichzeitig.
 
 Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und sagen, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
@@ -198,7 +198,7 @@ Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten au
 
 > Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinen Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
 
-**FU-Punkte verdienen:** FU-Punkte verdienst du dir als Spielerin, indem du coole Dinge machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen, laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
+**FU-Punkte verdienen:** FU-Punkte verdienst du dir als Spielerin, indem du coole Dinge machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen oder laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
 
 {{<note>}}
 ## Anmerkungen zu FU-Punkten
@@ -217,13 +217,13 @@ Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuel
 So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob diese Regel zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
 
 ### Andere Möglichkeiten, FU einzusetzen
-Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe oder eure Geschichte an. Hier ein paar Vorschläge:
+Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe und Geschichte an. Hier ein paar Vorschläge:
 
 #### FU als Lebenspunkte
-Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben werden, gehen aber auch verloren, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). In diesem Fall kannst du FU wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung zeigt.
+Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben werden, gehen aber auch verloren, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). In diesem Fall kannst du FU wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung erzählt.
 
 #### Alles neu würfeln
-Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante statt der normalen Neuwurfregel ein.
+Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante anstatt der normalen Neuwurfregel ein.
 
 #### Ein Auge verdrehen
 Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante einsetzt, solltet ihr die normale Neuwurfregel nicht benutzen.
@@ -232,7 +232,7 @@ Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelaug
 Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
 
 #### Talente und Stärken
-Gib Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein - mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
+Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein - mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
 
 #### Einen Treffer einstecken
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
@@ -243,7 +243,7 @@ Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Wür
 Wo findet die Szene statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
 
 ### 2. Handeln
-Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung hin.
+Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung der Szene hin.
 
 ### 3. Eine Frage stellen
 Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)
@@ -254,7 +254,7 @@ Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung mach
 +1 Maluswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
 
 ### 5. Würfeln
-Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste (wenn du Maluswürfel wirfst) gefallene Würfel.
+Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste gefallene Würfel (wenn du Maluswürfel wirfst).
 
 ### 6. Ergebnis beschreiben
 Benutzt das Würfelergebnis, um zu beschreiben, wie der Konflikt oder die Handlung ausgeht. Wendet bei Bedarf Zustände oder Umgebungsdetails an.

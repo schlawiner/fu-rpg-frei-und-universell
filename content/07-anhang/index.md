@@ -88,7 +88,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Fahren:** toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung.
 
-**Fechten:** gut für den Schwertkampf und andere zivilisierte Formen des Nahkampfes.
+**Fechten:** gut für den Schwertkampf und andere kultivierte Formen des Nahkampfes.
 
 **Gutes Gedächtnis:** nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren.
 
@@ -116,7 +116,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Ungeschickt:** problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes.
 
-**Gierig:** ungünstig wenn man dem Impulse widerstehen muss, zu stehlen, lügen oder anderweitig Reichtümer anzuhäufen oder zu behalten.
+**Gierig:** ungünstig wenn man dem Impuls widerstehen muss, zu stehlen, lügen oder anderweitig Reichtümer anzuhäufen oder zu behalten.
 
 **Unmenschliches Aussehen:** hinderlich, wenn man nicht bemerkt werden möchte, Aufmerksamkeit vermeiden will, oder perfekt sitzende Hosen sucht.
 
@@ -137,8 +137,8 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 **Jung:** problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden will, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte.
 
 ## Figurenvorlage
-Eine ausdruckbare Figurenvorlage zum Ausfüllen ist online unter folgender Adresse zum Herunterladen erhältlich:
+Ein Figurenbogen zum Ausdrucken und Ausfüllen ist unter folgender Adresse zum Herunterladen erhältlich:
 
-[https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf](https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf)
+[https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf] (https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf)
 
 ---
