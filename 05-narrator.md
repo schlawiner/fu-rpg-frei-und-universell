@@ -19,7 +19,7 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 
 **Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
-**Mache alle Würfelwürfen bedeutsam:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.
+**Mache alle Würfelwürfe bedeutsam:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.
 
 <div class="sidebar">
 ## Drei Fragen zur Orientierung
@@ -29,9 +29,9 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 Wollen die Spielerinnen Türen eintreten, Monster umbringen und bergeweise Schätze nach Hause schleppen? Wollen sie sich wie große Heldinnen fühlen? Oder wie Außenseiterinnen, die gegen unbezwingbar scheinende Widerstände ankämpfen?
 
 ### Wie wollen die Spielerinnen sich fühlen?
-Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie das Gefühl haben, mit dem Rücken zur Wand zu stehen und ständig in Lebensgefahr zu schweben?
+Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie mit dem Rücken zur Wand zu stehen und ständig in Lebensgefahr schweben?
 
-### Was ist die Rolle der Erzählerin?
+### Welche Rolle übernimmt die Erzählerin?
 Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren, um das oben Angesprochene zu erreichen? Sorgst du dafür, dass jede Herausforderung eine großzügigen Belohnung mitbringt? Führst du jeden Kampf hart, aber fair? Verfolgen Gegenspieler ihre Ziele unermüdlich und kompromisslos?
 
 Beantwortet diese Fragen und alle am Tisch werden sich über ihre Rolle im kommenden Abenteuer im Klaren sein.

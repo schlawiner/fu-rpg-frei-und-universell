@@ -3,8 +3,8 @@
 Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.
 
 ## Konzept
-Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
-Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder vielleicht gibt es Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
+Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
+Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
 > Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
@@ -45,20 +45,20 @@ Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschre
 Es ist völlig in Ordnung, wenn du dich bei deinem Konzept auf Klischees stützt. Klischees umfassen eine Unzahl von Vorstellungen und Konzepten, mit denen man direkt vertraut ist. Wenn jemand sagt, seine Figur sei ein Barbar, hat man automatisch einen muskelbepackten unzivilisierten Klotz vor Augen. Klischees sind eine Art Abkürzung beim Beschreiben deiner Figur.
 
 ### Beschreiber wählen {.unnumbered}
-Gib dir Mühe, fantasievoll und ehrlich zu sein. Denke an dein Konzept und die Spielwelt. Einer Figur die Schwäche „**kann nicht schwimmen**“ zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
+Gib dir bei den Beschreibern Mühe, gleichzeitig kreativ und trotzdem ehrlich zu sein - vergiss nicht dein Konzept und die Spielwelt. Denn einer Figur die Schwäche „**kann nicht schwimmen**“ zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
 Lass deine Fantasie spielen, behalte dein Konzept im Hinterkopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
 
 ### Beschreiber sind klar und eindeutig {.unnumbered}
-Beschreiber sind gut, wenn alle am Tisch sie verstehen. Wenn du oder eine Mitspielerin einen Beschreiber nicht eindeutig findet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.  
+Beschreiber sind gut, wenn alle am Tisch sie verstehen. Wenn eine von euch einen Beschreiber nicht eindeutig findet, redet darüber. Vielleicht muss er umgeschrieben werden, vielleicht aber auch nicht. Spätestens dann, wenn er schlussendlich zum Einsatz kommt, sollten sich alle über seine Bedeutung einig sein.
 
 ### Beschreiber gehören fest zu einer Figur {.unnumbered}
-Jeder Beschreiber ist ein wesentlicher Teil der Figur, der fest mit ihr verbunden ist. Normalerweise können Beschreiber ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Mach deine Beschreiber also nicht zu Gegenständen oder Geräten.
+Jeder Beschreiber ist ein wesentlicher Teil der Figur, der untrennbar mit ihr verbunden ist. Normalerweise können Beschreiber ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Nimm daher keine Gegenstände oder Geräte als Beschreiber.
 
-### Die Reichweite von Beschreibern ist begrenzt {.unnumbered}
-Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden (*„Als Arzt bin ich gebildet und ziemlich wohlhabend ...“*).
+### Die Reichweite von Beschreibern ist beschränkt {.unnumbered}
+Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist daher beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden und ist zu allgemein (*„Als Arzt bin ich gebildet und ziemlich wohlhabend ...“*).
 
 ### Was für ein Beschreiber ist das? {.unnumbered}
-Manche Beschreiber passen problemlos in mehr als eine Kategorie - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Ob ein Beschreiber für eure Geschichten passt oder nicht, hängt von dir als Erzählerin und von deinen Mitspielerinnen ab. Entscheidet selbst.
+Manche Beschreiber passen problemlos in mehrere Kategorien  - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Entscheidet einfach gemeinsam, ob ein Beschreiber für eure Geschichten passt oder nicht.
 
 ### Was sind gute Stärken und Schwächen? {.unnumbered}
 Dinge, die in anderen Spielen „Fertigkeiten“ oder „Talente“ heißen, eignen sich wunderbar als Stärken. Gute Beispiele sind „**Schwertkampf**“, „**unter Wasser atmen**“ und „**gewinnendes Lächeln**“.  
@@ -69,7 +69,7 @@ Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich 
 Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du eine Ringerin, Bodybuilderin oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 ### Beschreiber-Alternativen {.unnumbered}
-Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, deine Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr Körper und Geist zum Beispiel durch Chassis und Pilot ersetzen. In einem Spiel, in dem jeder unterschiedliche Wer-Wesen spielt, könnte ein Beschreiber zu „Tierform“ werden. In solchen Fällen müssen ein paar der zuvor erwähnten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist viel allgemeiner als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
+Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) nicht die einzige Möglichkeit, eure Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr statt Körper und Geist zum Beispiel Chassis und Pilot verwenden. In einem Spiel, in dem alle unterschiedliche Werwesen spielen, könnte ein Beschreiber durch „Tierform“ ersetzt werden. In solchen Fällen müssen ein paar der oben erwähnten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist viel umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
 </div>
 
 \newpage
@@ -132,7 +132,7 @@ Ausrüstung ist nie von Haus aus „gut“ oder „schlecht“. Ob der Besitz ei
 Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein „gutes“ Adjektiv, und der andere ein „schlechtes“ haben muss. Vielleicht hast du eine „**Warme Jacke**“ und eine „**Alte Kanone**“ oder ein „**Schnelles Motorrad**“ und eine „**Überzogene Kreditkarte**“.
 
 ### Kram, der keine Ausrüstung ist{-}
-Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!
+Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration, und modifizieren deine Würfelwürfe nicht. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!
 </div>
 
 \newpage

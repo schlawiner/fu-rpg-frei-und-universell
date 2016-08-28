@@ -37,7 +37,7 @@ Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder F
 Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.
 
 ### Muss ich Runden benutzen?{-}
-Runden sind optional, aber sie können nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
+Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
 </div>
 
 \newpage
@@ -160,7 +160,7 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 
 **Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
-> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zun Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
+> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
 **Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 
@@ -177,7 +177,7 @@ Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schade
 Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Maluswürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Maluswürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist dein Gegner im Vorteil.
 
 ### An deine Handlungen näher herangehen{-}
-Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die durch das Würfeln beantwortet werden soll. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!
+Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die ihr vor dem Würfeln stellt. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!
 
 ### Option: Paschwürfe{-}
 Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer: Du fügst pro gefallenem gleichem Würfel eine „Und ...“-Aussage hinzu. Wenn die Handlung schiefgeht, muss diese Aussage die Situation verschlimmern. Klappt die Handlung, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
@@ -198,7 +198,7 @@ Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten au
 
 <div class="sidebar">
 ### FU-Punkte beim Sitzungsbeginn{-}
-Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, passt es, wenn sie mit 2 FU-Punkten anfangen. Mächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen kann jede Spielerin mit nur einem oder sogar gar ganz ohne FU-Punkt beginnen.
+Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, passt es, wenn sie mit 2 FU-Punkten anfangen. Mächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen kann jede Spielerin mit nur einem oder sogar ganz ohne FU-Punkt beginnen.
 
 ### Darf ich FU-Punkte verschenken oder teilen?{-}
 Das könnt ihr selbst entscheiden. Die Standardregel ist „nein“, aber ...
@@ -209,7 +209,7 @@ Normalerweise nicht, aber sie kann einem besonders starken Gegner oder Monster e
 ### Andere Möglichkeiten, FU-Punkte zu verdienen{-}
 Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.  
 
-So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob es zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
+So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob diese Regel zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
 
 ### Andere Möglichkeiten, FU einzusetzen{-}
 Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe oder eure Geschichte an. Hier ein paar Vorschläge:

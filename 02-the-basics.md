@@ -29,16 +29,16 @@ Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin o
 
 ### Sprecht vor dem Spielen miteinander! {.unnumbered}
 
-Unterhaltet euch über die Art des Spieles, das ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
+Unterhaltet euch darüber, was für ein Spiel ihr spielen wollt, damit alle von Anfang an wissen, was Sache ist.
 
 Werdet euch einig über die Grundstimmung, das Thema und eure Erwartungen. Es ist zum Beispiel wichtig zu wissen, ob man für leidenschaftliche Schauspieleinlagen und blutige Metzeleien Beifall oder eher Buhrufe ernten wird.  
 
-Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So hat jeder eine klare Vorstellung davon, worum es im Spiel gehen wird.
+Bringt Ideen zur Spielwelt ein, schlagt tolle Bilder, klassische oder abgefahrene Schlüsselszenen und coole Klischees vor und diskutiert darüber. So haben alle eine klare Vorstellung davon, worum es im Spiel gehen wird.
 
-Diese Diskussion wird auch der Erzählerin deutlich machen, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob sie sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
+Diese Diskussion macht auch der Erzählerin deutlich, was die Spielerinnen sich vom Spiel wünschen oder erwarten, zum Beispiel ob sie sich wie sagenhafte Helden, unterdrückte Außenseiter oder tragische Antihelden fühlen wollen.
 
 ### Der Sofort-Genre-Generator {.unnumbered}
 
-Wollt ihr schnell und ohne Umwege direkt loslegen, schreiben alle Mitspielerinnen jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werfen sie in einen Hut. Zieht dann zwei davon und ihr erhaltet „Vorstadt-Weltuntergang“, „Mittelalter-Superhelden“, „Kampfsport-Gymnasium“, und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
+Wollt ihr schnell und ohne Umwege direkt loslegen, schreibt alle jeweils zwei Genres oder Spielweltideen auf kleine Zettel und werft sie in einen Hut. Zieht zwei davon und ihr erhaltet "Vorstadt-Weltuntergang", "Mittelalter-Superhelden", "Kampfsport-Gymnasium" und ähnliches. Diskutiert über Stimmung, Themen, mögliche Geschichten und Figuren und spielt dann los!
 
 </div>
