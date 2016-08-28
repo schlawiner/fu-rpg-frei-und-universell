@@ -18,11 +18,11 @@ Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handl
 Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht, aber du musst sie nicht zwingend benutzen. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!
 
 ### Flucht vom Bulak-Markt
-**Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den innere Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
+**Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
-_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
+_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind ziemlich viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
 
 |    Gegenspieler: | Nazischlägertypen                                         |
 |----------------:|:----------------------------------------------------------|
@@ -31,7 +31,7 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 |    **Zustände** | [ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht |
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
-**Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
+**Was kann schiefgehen?** Die Figuren werden gefangen genommen; die Karte geht verloren.
 
 ### Die Übersetzung der Karte
 **Szene:** Ein dunkler Cafésalon, ein Kaffeehaus oder ein Hinterzimmer irgendwo in der Stadt Bulak. Der Duft starken Kaffees und exotischer Lebensmittel durchströmt den Raum.
@@ -74,19 +74,19 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 **Was kann schiefgehen?** Die Brücke wird zerstört; die Karte geht verloren; die Figuren werden gefangengenommen.
 
 ### Der Tempel
-**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
+**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer dicken Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
 
 **Beschreiber:** Dunkel, Still
 
-_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_  
+_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und furchterregenden Wächtern. Können sie die Hindernisse überwinden?_  
 
-| Herausforderung: | Tükische Fallen                       |
+| Herausforderung: | Tückische Fallen                       |
 |----------------:|:--------------------------------------|
 | **Beschreiber** | Verborgen, Tödlich                    |
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
 |    **Zustände** | [ ] Entschärft, [ ] Ausgelöst, [ ] Entdeckt |
 
-**Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!
+**Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen gespickt ist, aber verrate ihnen nicht, was sie auslöst oder wo sie sind, bis sie zuschnappen!
 
 |    Gegenspieler: | Steinwächter                                                          |
 |----------------:|:----------------------------------------------------------------------|
@@ -129,7 +129,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 |    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
 
 
-> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
+> Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
 
 **Beziehungen:**
 
@@ -165,7 +165,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 |       **Motiv** | Auf Tennessee Smith aufpassen                                                                               |
 |    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
 
-> Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
+> Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
 **Beziehungen:**  
 
