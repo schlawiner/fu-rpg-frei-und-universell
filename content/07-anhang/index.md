@@ -1,6 +1,6 @@
 ---
 date: 2016-06-05T21:47:58+02:00
-title: Anhang
+title: "Anhang: Beschreiberliste"
 weight: 70
 ---
 Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber vor- oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.
@@ -84,7 +84,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Okkultes Geheimwissen:** praktisch, um mystische Artefakte zu identifizieren, schwarze Magie zu erkennen und uralte Pergamentrollen zu lesen.
 
-**Mut:** hilreich, um einen grauenvollen Anblick zu ertragen; deine Frau zu informieren, dass du den Hochzeitsstag vergessen hast und andere gefährliche Aktionen.
+**Mut:** hilfreich, um einen grauenvollen Anblick zu ertragen, deine Frau zu informieren, dass du den Hochzeitstag vergessen hast, und andere gefährliche Aktionen.
 
 **Fahren:** toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung.
 
@@ -112,7 +112,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Blind:** nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, sich auf unbekanntem Gelände Zurechtfinden oder Malen.
 
-**Unerschrocken:** nützlich beim Stürmen in eine tödliche Gefahr, für leichtfertiges Verhalten und um ordentlich in Schwierigkeiten zu geraten.
+**Unerschrocken:** nützlich beim Stürmen in tödliche Gefahren, für leichtfertiges Verhalten und um ordentlich in Schwierigkeiten zu geraten.
 
 **Ungeschickt:** problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes.
 
