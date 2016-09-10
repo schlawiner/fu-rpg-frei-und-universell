@@ -34,7 +34,7 @@ Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Free
 Die Struktur des Dokuments basiert auf der [französischen Übersetzung von Bruno Bord](https://github.com/brunobord/fu-rpg-libre-et-universel).
 Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY 3.0)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht unter der gleichen [Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.de).
 
-Das bedeutet: 
+**Das bedeutet:** Du darfst den Text dieser Übersetzung in beliebiger Form und in jedem Medium weitergeben, kopieren, übersetzen, verändern und darauf aufbauen und neue Sachen daraus machen. Wichtig ist, dass du die Urheber namentlich nennst, das sind Nathan Russell, der Autor der englischen Originalversion, und Tina Trillitzsch und Thorsten Panknin, die Übersetzer und Bearbeiter der vorliegenden deutschen Version. Außerdem sollte ein Link zur Lizenz (siehe oben) beigefügt werden, mit Nennung der Änderungen, die du gemacht hast.
 
 ### Copyright notice FU
 
