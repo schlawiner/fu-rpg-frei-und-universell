@@ -4,7 +4,9 @@ Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Ge
 
 ## Konzept
 Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
+
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
+
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
 > Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
