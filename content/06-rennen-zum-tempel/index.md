@@ -5,6 +5,10 @@ weight: 60
 ---
 > Der berühmte Entdecker Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatuette von Toth führen soll, einem Gegestand, dem übernatürliche Kräfte nachgesagt werden. Unglücklicherweise ist Giles Fishburne, Smiths Erzfeind, dem Götzen ebenfalls auf der Spur und hat sich mit den Nazis zusammengetan!
 
+{{< img-post
+    path="/images/illustrations/ch06" file="Tennessee.png"
+    alt="Tennessee Smith, tollkühner Entdecker" type="right" >}}
+
 Dieses kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt beispielhaft, wie du selbst eigene Abenteuer, Gegenspielerinnen und Hindernisse vorbereiten kannst. Am Ende des Abenteuers findet ihr vorgefertigte Figuren, die ihr übernehmen könnt. *Das Rennen zum Tempel des Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du nach Belieben verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfel zu allen möglichen interessanten Wendungen führen werden, und sobald die Figuren erst unterwegs sind, alles möglich ist!
 
 ## Vor dem Spiel
@@ -22,6 +26,11 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 ---
 
 ### Flucht vom Bulak-Markt
+
+{{< img-post
+    path="/images/illustrations/ch06" file="October.png"
+    alt="October Jones, rasende Reporterin" type="left" >}}
+
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
@@ -57,6 +66,11 @@ _Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber über
 ---
 
 ### Die Gou-Zou-Schlucht
+
+{{< img-post
+    path="/images/illustrations/ch06" file="Harvey.png"
+    alt="Harvey Reed, ehemaliger Boxer mit Abenteuerlust" type="right" >}}
+
 **Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kann man das Kau-Gebirge erkennen.
 
 **Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
@@ -114,6 +128,11 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 ---
 
 ### Die Kammer des Götzen
+
+{{< img-post
+    path="/images/illustrations/ch06" file="Jimmy.png"
+    alt="Jimmy Sweet, gewitzter Gassenjunge, der die Welt sehen will" type="left" >}}
+
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
 **Beschreiber:** Große Bronzespiegel

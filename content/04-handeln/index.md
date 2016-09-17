@@ -5,7 +5,6 @@ weight: 40
 ---
 Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern darum, dass alle Freude daran haben, die gemeinsame Geschichte zu entwickeln.
 
-
 ## Szenen und Runden
 Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden bis hin zu vielen Stunden abbilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Eine Szene kann die Handlung vorantreiben, etwas über eine Figur verraten oder der Geschichte Stimmung und Atmosphäre verleihen. Viele Szenen tun das sogar alles gleichzeitig.
 
@@ -56,6 +55,10 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 >
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
+
+{{< img-post
+    path="/images/illustrations/ch04" file="SirCamden.png"
+    alt="Sir Camden reitet Lord Kane hinterher" type="center" >}}
 
 | Wurf | Bekommst du, was du willst?                                                             |
 |:-------:|:----------------------------------------------------------------------------------------|
@@ -168,6 +171,10 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 **Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 
 > Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
+
+{{< img-post
+    path="/images/illustrations/ch04" file="CaptainVance.png"
+    alt="Captain Vance versucht, von der Mauer zum Jeep zu gelangen" type="center" >}}
 
 {{<note>}}
 ## Anmerkungen zum Würfeln

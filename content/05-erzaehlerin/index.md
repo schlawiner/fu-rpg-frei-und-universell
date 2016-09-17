@@ -16,6 +16,10 @@ Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn dein
 ## Im Spiel selbst
 Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und auftretende Lücken füllt ihr durch Zustände und Umgebungsdetails. Hier sind einige Tipps, die dir helfen das Spiel am Laufen zu halten und genau so viel Spaß zu haben wie die Spielerinnen.
 
+{{< img-post
+    path="/images/illustrations/ch05" file="lotsofnotes.png"
+    alt="Viele kleine Zettel mit Notizen" type="center" >}}
+
 **Weniger ist mehr:** Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird in Richtungen abschweifen, auf die du alleine nie gekommen wärst.
 
 **Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich betont werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken - nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.  
@@ -53,6 +57,10 @@ FU-Punkte können die Erfolgschancen der Figuren verbessern; daher sind sie eine
 
 ## Figuren und Hindernisse
 Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, Wesen und Hindernisse, denen die Spielerinnen begegnen, werden im Großen und Ganzen genau wie Figuren definiert. Es gibt keine Regeln, die dich beim Gestalten von Figuren oder Hindernissen einschränken. Die einzige Voraussetzung ist, dass du sie unterhaltsam und interessant machst.
+
+{{< img-post
+    path="/images/illustrations/ch05" file="schale.png"
+    alt="Schüssel voll FU-Punkte in Form von Glassteinen" type="center" >}}
 
 {{< note >}}
 ## Organisatorische Tipps
