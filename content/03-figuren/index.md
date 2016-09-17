@@ -7,11 +7,16 @@ Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Ge
 
 ## Konzept
 Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfindet, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
+
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
+
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
 > Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
 
+{{< img-post
+    path="/images/illustrations/ch03" file="Lumina.png"
+    alt="Lumina, Ninas außerirdische Botschfterin" type="right" >}}
 
 ## Beschreiber
 Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben leichter oder schwerer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
@@ -73,10 +78,15 @@ Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich 
 Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du eine Ringerin, Bodybuilderin oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 ### Beschreiber-Alternativen
-Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, eure Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr statt Körper und Geist zum Beispiel Chassis und Pilot verwenden. In einem Spiel, in dem alle unterschiedliche Werwesen spielen, könnte ein Beschreiber durch „Tierform“ ersetzt werden. In solchen Fällen müssen ein paar der oben erwähnten Ratschläge ebenfalls angepasst werden; Tierform: **Jaguar** ist viel umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
+Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) sind nicht die einzige Möglichkeit, eure Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr statt Körper und Geist zum Beispiel Chassis und Pilot verwenden. In einem Spiel, in dem alle unterschiedliche Werwesen spielen, könnte ein Beschreiber durch „Tierform“ ersetzt werden. In solchen Fällen müssen die oben erwähnten Ratschläge teilweise angepasst werden; Tierform: **Jaguar** ist viel umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
 {{< /note >}}
 
 ## Ausrüstung
+
+{{< img-post
+    path="/images/illustrations/ch03" file="protonenpack.png"
+    alt="Lumina, Ninas außerirdische Botschfterin" type="left" >}}
+
 Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
 Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.
@@ -88,6 +98,10 @@ Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheide
 
 
 ## Beispiel-Ausrüstung
+{{< img-post
+    path="/images/illustrations/ch03" file="fedora.png"
+    alt="Filzhut" type="right" >}}
+
 Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.
 
 **Kleider**:  
@@ -102,6 +116,10 @@ Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuh
 
 **Sonstiges**:  
 Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenes Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.
+
+{{< img-post
+    path="/images/illustrations/ch03" file="ancienttome.png"
+    alt="Altes Zauberbuch" type="left" >}}
 
 {{< note >}}
 ## Anmerkungen zur Ausrüstung

@@ -5,6 +5,10 @@ weight: 60
 ---
 > Der berühmte Entdecker Tennessee Smith ist auf einer heißen Spur, die ihn zur altertümlichen Götzenstatuette von Toth führen soll, einem Gegestand, dem übernatürliche Kräfte nachgesagt werden. Unglücklicherweise ist Giles Fishburne, Smiths Erzfeind, dem Götzen ebenfalls auf der Spur und hat sich mit den Nazis zusammengetan!
 
+{{< img-post
+    path="/images/illustrations/ch06" file="Tennessee.png"
+    alt="Tennessee Smith, tollkühner Entdecker" type="right" >}}
+
 Dieses kurze Abenteuer bringt euch schnell mitten ins Geschehen. Es zeigt beispielhaft, wie du selbst eigene Abenteuer, Gegenspielerinnen und Hindernisse vorbereiten kannst. Am Ende des Abenteuers findet ihr vorgefertigte Figuren, die ihr übernehmen könnt. *Das Rennen zum Tempel des Toth* besteht aus einer Reihe von Schlüsselbegegnungen, die du nach Belieben verwenden, neu anordnen oder ignorieren kannst. Denke daran, dass die Würfel zu allen möglichen interessanten Wendungen führen werden, und sobald die Figuren erst unterwegs sind, alles möglich ist!
 
 ## Vor dem Spiel
@@ -22,11 +26,16 @@ Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit pas
 ---
 
 ### Flucht vom Bulak-Markt
+
+{{< img-post
+    path="/images/illustrations/ch06" file="October.png"
+    alt="October Jones, rasende Reporterin" type="left" >}}
+
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
-_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
+_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind ziemlich viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
 
 |    Gegenspieler: | Nazischlägertypen                                         |
 |----------------:|:----------------------------------------------------------|
@@ -36,7 +45,7 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.
 
-**Was kann schiefgehen?** Die Figuren werden gefangen; die Karte geht verloren.
+**Was kann schiefgehen?** Die Figuren werden gefangen genommen; die Karte geht verloren.
 
 ---
 
@@ -57,6 +66,11 @@ _Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber über
 ---
 
 ### Die Gou-Zou-Schlucht
+
+{{< img-post
+    path="/images/illustrations/ch06" file="Harvey.png"
+    alt="Harvey Reed, ehemaliger Boxer mit Abenteuerlust" type="right" >}}
+
 **Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kann man das Kau-Gebirge erkennen.
 
 **Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
@@ -85,11 +99,11 @@ _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entwed
 ---
 
 ### Der Tempel
-**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
+**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer dicken Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
 
 **Beschreiber:** Dunkel, Still
 
-_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und schrecklichen Wächtern. Können sie die Hindernisse überwinden?_
+_Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und furchterregenden Wächtern. Können sie die Hindernisse überwinden?_
 
 | Herausforderung: | Tückische Fallen                       |
 |----------------:|:--------------------------------------|
@@ -97,7 +111,7 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 |  **Ausrüstung** | Giftpfeile, Rostige Speere            |
 |    **Zustände** | <span class="zustand"><label><input type="checkbox">Entschärft, </label></span><span class="zustand"><label><input type="checkbox">Ausgelöst, </label></span><span class="zustand"><label><input type="checkbox">Entdeckt</label></span> |
 
-**Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen versehen ist, aber verrate ihnen nicht, wie sie ausgelöst werden oder wo sie sind, bis sie zuschnappen!
+**Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen gespickt ist, aber verrate ihnen nicht, was sie auslöst oder wo sie sind, bis sie zuschnappen!
 
 <br>
 
@@ -114,6 +128,11 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 ---
 
 ### Die Kammer des Götzen
+
+{{< img-post
+    path="/images/illustrations/ch06" file="Jimmy.png"
+    alt="Jimmy Sweet, gewitzter Gassenjunge, der die Welt sehen will" type="left" >}}
+
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
 **Beschreiber:** Große Bronzespiegel
@@ -182,7 +201,7 @@ Auf der nächsten Seite findet ihr vier vorgefertigte Figuren, die alle Beispiel
 |       **Motiv** | Auf Tennessee Smith aufpassen                                                                               |
 |    **Zustände** |<span class="zustand"><label><input type="checkbox">Wütend, </label></span><span class="zustand"><label><input type="checkbox">Verängstigt, </label></span><span class="zustand"><label><input type="checkbox">Müde, </label></span><span class="zustand"><label><input type="checkbox">Gefangen, </label></span><span class="zustand"><label><input type="checkbox">Geblendet, </label></span><span class="zustand"><label><input type="checkbox">Hungrig, </label></span><span class="zustand"><label><input type="checkbox">Benommen, </label></span><span class="zustand"><label><input type="checkbox">Verletzt, </label></span><span class="zustand"><label><input type="checkbox">Dem Tode nah</label></span>|
 
-> Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben ein bisschen zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
+> Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
 **Beziehungen:**
 

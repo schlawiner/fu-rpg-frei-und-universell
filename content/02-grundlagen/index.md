@@ -6,6 +6,11 @@ weight: 20
 Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon einmal von Rollenspielen gehört hat und eine grobe Vorstellung davon hat, wie sie funktionieren. Wenn ihr alle keinen Plan habt, was ein Rollenspiel ist, sucht euch zuerst jemanden, der Bescheid weiß.
 
 ## Was ihr braucht
+
+{{< img-post
+    path="/images/illustrations/ch02" file="pencil.png"
+    alt="Ein Bleistift" type="right" >}}
+
 Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
 **Würfel**: Um auszuwerten, wie eure Handlungen ausgehen, verwendet ihr bei FU normale Würfel mit sechs Seiten. Ihr braucht mindestens einen, aber besser ist es, wenn jede Spielerin etwa drei Stück hat. In diesem Regeltext werden sechsseitige Würfel durchgehend als „W6“ bezeichnet. Wenn davor eine Zahl erscheint (wie bei „2W6“ oder „4W6“), bedeutet das, dass ihr so viele Würfel werfen müsst.
@@ -17,11 +22,20 @@ Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufs
 ## Was ihr macht
 Gemeinsam mit deinen Freundinnen erzählst du eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
+{{< img-post
+    path="/images/illustrations/ch02" file="paper.png"
+    alt="Ein Zettel" type="left" >}}
+
 Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin. Ihre Aufgabe es ist, den anderen dabei zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen - wenn nötig - das letzte Wort zu haben.
 
 Das Spielen selbst besteht aus einer Art Unterhaltung, bei der alle zusammenwirken, um die Figuren in coole und/oder unterhaltsame Situationen zu verwickeln. Dann benutzt ihr die Würfel, um zu sehen, was als nächstes passiert. Manchmal arbeitet ihr alle zusammen, stellt Ideen in den Raum, schlagt Dinge vor und redet alle durcheinander. Was für ein Chaos - aber hoffentlich ein produktives Chaos, das Spaß macht. Manchmal wechselt ihr euch vielleicht auch der Reihe nach ab, beschreibt was eure Figur jeweils macht und schaut, wie es ausgeht.
 
 ## Wie ihr's macht
+
+{{< img-post
+    path="/images/illustrations/ch02" file="dice.png"
+    alt="Würfel" type="right" >}}
+
 Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Dein Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 
 ## Vor dem Losspielen
