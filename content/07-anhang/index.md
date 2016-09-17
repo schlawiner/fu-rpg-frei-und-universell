@@ -52,7 +52,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Belesen:** toll, um Schulprüfungen abzulegen, Matheformeln zu kennen, sich an Geschichtsdaten zu erinnern und um die Zulassung zum Jurastudium zu erlangen.
 
-**Computerfreak:** gut beim Programmieren und Laptopreparieren, und um in Internet-Kleinkriege zwischen PC- und Apple-Fans zu geraten.
+**Computerfreak:** gut beim Programmieren und Laptopreparieren, und um in Internet-Grabenkämpfe zwischen PC- und Apple-Fans zu geraten.
 
 **Dämlich:** problematisch, wenn man Witze verstehen, Tricks bemerken oder ganz allgemein in Gesellschaft den Schein wahren will.
 
