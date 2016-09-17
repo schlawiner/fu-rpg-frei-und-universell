@@ -37,6 +37,7 @@ copyright {
 
 .article .wrapper {
 padding: 60px 16px 92px;
+max-width: 47.5em;
 }
 
 
@@ -257,6 +258,42 @@ tbody tr:nth-child(odd) {
   margin-right: 0!important;
 }
 
+.image {
+    border: 0;
+    display: inline-block
+}
+
+.image img,.image.fit,.image.main {
+    display: block
+}
+
+.image.left,.image.right {
+    max-width: 40%
+}
+
+.image.left {
+    float: left;
+    /*padding: 0 1.5em 1em 0;*/
+    top: .25em
+}
+
+.image.right {
+    float: right;
+    /*padding: 0 0 1em 1.5em;*/
+    top: .25em
+}
+
+.image.fit {
+    margin: 0 0 2em
+}
+
+.image.featured {
+    display: block;
+    margin: 0 0 3em;
+    width: 100%
+}
+
+
 @media screen and (max-width: 375px){
 
   .zustand{
@@ -316,6 +353,12 @@ tbody tr:nth-child(odd) {
     text-transform: none;
     border-bottom: none;
   }
+
+  .image.main {
+    margin: 0 0 3em
+}
+
+ .image.right, .image.left {max-width: 60%}
 }
 
 @media screen and (min-width: 506px){
@@ -363,7 +406,7 @@ tbody tr:nth-child(odd) {
   /*padding-left: 30px;*/
   margin-left: 40px;
   margin-right: 20px;
-  max-width: 37.5em;
+  /*max-width: 37.5em;*/
     }
 
 .admonition {

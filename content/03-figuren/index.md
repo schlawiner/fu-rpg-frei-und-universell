@@ -14,14 +14,15 @@ Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zu
 
 > Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
 
-{{< img-post
-    path="/images/illustrations/ch03" file="Lumina.png"
-    alt="Lumina, Ninas außerirdische Botschfterin" type="right" >}}
 
 ## Beschreiber
 Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und Schwachstellen eurer Figuren kennzeichnnet; Dinge, die ihnen das Leben leichter oder schwerer machen, und die sie letztlich zu dem machen, was sie sind. Sie zeigen, was eine Figur gut kann, was ihre körperlichen und geistigen Eigenschaften sind, und beschreiben ihre Talente und eventuellen Schattenseiten. Einerseits dienen sie zur Orientierung beim Hineinversetzen in deine Rolle und andererseits als Modifikator beim Würfeln.  
 
 Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
+
+{{< img-post
+    path="/images/illustrations/ch03" file="Lumina.png"
+    alt="Lumina, Ninas außerirdische Botschfterin" type="right" >}}
 
 > David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
@@ -111,15 +112,17 @@ Designer-Jeans, Hautenges schwarzes Kleid (lassen wir „schwarzes Kleid“ mal 
 **Waffen**:  
 Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.
 
+{{< img-post
+  path="/images/illustrations/ch03" file="ancienttome.png"
+  alt="Altes Zauberbuch" type="left" >}}
+
 **Fortbewegung**:  
 Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.
+
 
 **Sonstiges**:  
 Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbeulte Bratpfanne, Nassgewordenes Notizbuch, Uraltes Zauberbuch, Mein Lieblingskieselstein.
 
-{{< img-post
-    path="/images/illustrations/ch03" file="ancienttome.png"
-    alt="Altes Zauberbuch" type="left" >}}
 
 {{< note >}}
 ## Anmerkungen zur Ausrüstung

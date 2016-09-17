@@ -131,7 +131,7 @@ _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Kar
 
 {{< img-post
     path="/images/illustrations/ch06" file="Jimmy.png"
-    alt="Jimmy Sweet, gewitzter Gassenjunge, der die Welt sehen will" type="left" >}}
+    alt="Jimmy Sweet, gewitzter Gassenjunge, der die Welt sehen will" type="right" >}}
 
 **Szene:** Eine große Steinkammer, die durch eine geniale Anordnung von Sonnenlicht reflektierenden Spiegeln beleuchtet wird. Der Götze von Toth, die goldene Statuette eines siebenköpfigen Affen, ruht auf einem Steinsockel in der Mitte der Kammer.
 
