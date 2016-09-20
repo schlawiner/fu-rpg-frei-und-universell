@@ -38,37 +38,17 @@
 &lt;p&gt;Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.&lt;/p&gt;
 
 
-
-
-
+&lt;figure class=&#34;image right&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/Lumina.png&#34; /&gt;
     
     
+    &lt;figcaption&gt;
+        &lt;h4&gt;Lumina, Ninas außerirdische Botschfterin&lt;/h4&gt;
         
-        
-        
-        
+    &lt;/figcaption&gt;
     
-
-
-    
-    
-    
-    
-
-    
-    
-        
-    
-    
-
-
-
-    
-        &lt;span class=&#34;image right&#34;&gt;
-            &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/Lumina.png&#34; alt=&#34;Lumina, Ninas außerirdische Botschfterin&#34; /&gt;
-        &lt;/span&gt;
-    
-
+&lt;/figure&gt;
 
 
 &lt;blockquote&gt;
@@ -195,37 +175,12 @@ Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheide
 &lt;h2 id=&#34;beispiel-ausrüstung&#34;&gt;Beispiel-Ausrüstung&lt;/h2&gt;
 
 
-
-
-
+&lt;figure class=&#34;image right&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/fedora.png&#34; alt=&#34;Verbeulter Filzhut&#34; /&gt;
     
     
-        
-        
-        
-        
-    
-
-
-    
-    
-    
-    
-
-    
-    
-        
-    
-    
-
-
-
-    
-        &lt;span class=&#34;image right&#34;&gt;
-            &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/fedora.png&#34; alt=&#34;Filzhut&#34; /&gt;
-        &lt;/span&gt;
-    
-
+&lt;/figure&gt;
 
 
 &lt;p&gt;Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.&lt;/p&gt;
@@ -237,37 +192,12 @@ Designer-Jeans, Hautenges schwarzes Kleid (lassen wir „schwarzes Kleid“ mal 
 Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.&lt;/p&gt;
 
 
-
-
-
+&lt;figure class=&#34;image left&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/ancienttome.png&#34; alt=&#34;Altes Zauberbuch&#34; /&gt;
     
     
-        
-        
-        
-        
-    
-
-
-    
-    
-    
-    
-
-    
-    
-        
-    
-    
-
-
-
-    
-        &lt;span class=&#34;image left&#34;&gt;
-            &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch03/ancienttome.png&#34; alt=&#34;Altes Zauberbuch&#34; /&gt;
-        &lt;/span&gt;
-    
-
+&lt;/figure&gt;
 
 
 &lt;p&gt;&lt;strong&gt;Fortbewegung&lt;/strong&gt;:&lt;br /&gt;

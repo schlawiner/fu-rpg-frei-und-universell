@@ -273,13 +273,13 @@ tbody tr:nth-child(odd) {
 
 .image.left {
     float: left;
-    /*padding: 0 1.5em 1em 0;*/
+    padding: 0 0.5em 0.5em 0;
     top: .25em
 }
 
 .image.right {
     float: right;
-    /*padding: 0 0 1em 1.5em;*/
+    padding: 0 0 0.5em 0.5em;
     top: .25em
 }
 
