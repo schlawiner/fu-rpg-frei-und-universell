@@ -55,10 +55,7 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 >
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
-
-{{< img-post
-    path="/images/illustrations/ch04" file="SirCamden.png"
-    alt="Sir Camden reitet Lord Kane hinterher" type="center" >}}
+{{< figure src="/images/illustrations/ch04/SirCamden.png" title="Sir Camden reitet Lord Kane hinterher" class="image fit">}}
 
 | Wurf | Bekommst du, was du willst?                                                             |
 |:-------:|:----------------------------------------------------------------------------------------|
@@ -172,9 +169,8 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 
 > Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
 
-{{< img-post
-    path="/images/illustrations/ch04" file="CaptainVance.png"
-    alt="Captain Vance versucht, von der Mauer zum Jeep zu gelangen" type="center" >}}
+
+{{< figure src="/images/illustrations/ch04/CaptainVance.png" title="Captain Vance versucht, von der Mauer zum Jeep zu gelangen" class="image fit">}}
 
 {{<note>}}
 ## Anmerkungen zum Würfeln

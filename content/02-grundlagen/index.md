@@ -7,9 +7,7 @@ Der Text von FU geht davon aus, dass wenigstens eine von euch zumindest schon ei
 
 ## Was ihr braucht
 
-{{< img-post
-    path="/images/illustrations/ch02" file="pencil.png"
-    alt="Ein Bleistift" type="right" >}}
+{{< figure src="/images/illustrations/ch02/pencil.png" alt="Ein Bleistift" class="image right">}}
 
 Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufsliste.
 
@@ -22,9 +20,9 @@ Vor dem Spielen müsst ihr ein paar Sachen zusammensuchen. Hier ist die Einkaufs
 ## Was ihr macht
 Gemeinsam mit deinen Freundinnen erzählst du eine dramatische und aufregende Geschichte. Du legst Teile der Spielwelt fest, und alle haben Gelegenheit, diese Welt zu beeinflussen.
 
-{{< img-post
-    path="/images/illustrations/ch02" file="paper.png"
-    alt="Ein Zettel" type="left" >}}
+
+{{< figure src="/images/illustrations/ch02/paper.png" alt="Ein Zettel" class="image left">}}
+
 
 Die meisten Spielerinnen suchen sich wahrscheinlich eine Figur aus, die eine Hauptrolle spielt - coole Leute, die Dinge anpacken und etwas bewegen wollen. Jede Figur hat ihre eigenen Stärken, Schwächen und Ziele, die euch helfen, in ihre Rolle zu schlüpfen. Eine der Spielerinnen ist die Erzählerin. Ihre Aufgabe es ist, den anderen dabei zu helfen, ihre Figuren vor Herausforderungen zu stellen und bei Regelfragen - wenn nötig - das letzte Wort zu haben.
 
@@ -32,9 +30,7 @@ Das Spielen selbst besteht aus einer Art Unterhaltung, bei der alle zusammenwirk
 
 ## Wie ihr's macht
 
-{{< img-post
-    path="/images/illustrations/ch02" file="dice.png"
-    alt="Würfel" type="right" >}}
+{{< figure src="/images/illustrations/ch02/dice.png" alt="Würfel" class="image right">}}
 
 Wenn du etwas tust und das Ergebnis ist nicht eindeutig, wirf einen W6. Dein Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn du eine ungerade Zahl wirfst, schlägt deine Handlung entweder fehl, oder sie war nicht ganz so gut wie nötig oder erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Wenn die Umgebung, Talente, Ausrüstungsgegenstände oder besondere Fähigkeiten eine Handlung erleichtern oder erschweren, wirfst du mehrere Würfel und nimmst das beste oder schlechteste Ergebnis.
 

@@ -20,9 +20,7 @@ Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und
 
 Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
-{{< img-post
-    path="/images/illustrations/ch03" file="Lumina.png"
-    alt="Lumina, Ninas außerirdische Botschfterin" type="right" >}}
+{{< figure src="/images/illustrations/ch03/Lumina.png" title="Lumina, Ninas außerirdische Botschfterin" class="image right">}}
 
 > David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
@@ -99,9 +97,8 @@ Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheide
 
 
 ## Beispiel-Ausrüstung
-{{< img-post
-    path="/images/illustrations/ch03" file="fedora.png"
-    alt="Filzhut" type="right" >}}
+
+{{< figure src="/images/illustrations/ch03/fedora.png" alt="Verbeulter Filzhut" class="image right">}}
 
 Wie bei den Beispielen für Beschreiber gilt auch hier, dass diese Liste auf keinen Fall alles abdeckt, was möglich ist. Sie stellt lediglich die Spitze des Eisbergs dessen dar, was deine Figur besitzen könnte.
 
@@ -112,9 +109,7 @@ Designer-Jeans, Hautenges schwarzes Kleid (lassen wir „schwarzes Kleid“ mal 
 **Waffen**:  
 Rostiger Säbel, Schwere Axt, Meines Vaters Dienstrevolver, Verborgener Dolch, Experimenteller Flammenwerfer, Falscher Revolver, Zuverlässige AK-47, Gummihammer.
 
-{{< img-post
-  path="/images/illustrations/ch03" file="ancienttome.png"
-  alt="Altes Zauberbuch" type="left" >}}
+{{< figure src="/images/illustrations/ch03/ancienttome.png" alt="Altes Zauberbuch" class="image left">}}
 
 **Fortbewegung**:  
 Treues Ross, Verbeulter Buick, Gepanzerte Luxuskarosse, Quietschende Clownsschuhe, Aufgemotzter Straßenrennwagen, Mädchenfahrrad, Unzuverlässiges Sportcoupé, Klappriger Karren, Schnelles Motorrad, Omas Flitzer.

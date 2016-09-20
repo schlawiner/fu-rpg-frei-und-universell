@@ -81,37 +81,17 @@
 &lt;/blockquote&gt;
 
 
-
-
-
+&lt;figure class=&#34;image fit&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch04/SirCamden.png&#34; /&gt;
     
     
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sir Camden reitet Lord Kane hinterher&lt;/h4&gt;
         
-        
-        
-        
+    &lt;/figcaption&gt;
     
-
-
-    
-    
-    
-    
-
-    
-    
-        
-    
-    
-
-
-
-    
-        &lt;p&gt;&lt;span class=&#34;image center-image&#34;&gt;
-            &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch04/SirCamden.png&#34; alt=&#34;Sir Camden reitet Lord Kane hinterher&#34; /&gt;
-        &lt;/span&gt;&lt;/p&gt;
-    
-
+&lt;/figure&gt;
 
 
 &lt;table&gt;
@@ -342,37 +322,17 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 &lt;/blockquote&gt;
 
 
-
-
-
+&lt;figure class=&#34;image fit&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch04/CaptainVance.png&#34; /&gt;
     
     
+    &lt;figcaption&gt;
+        &lt;h4&gt;Captain Vance versucht, von der Mauer zum Jeep zu gelangen&lt;/h4&gt;
         
-        
-        
-        
+    &lt;/figcaption&gt;
     
-
-
-    
-    
-    
-    
-
-    
-    
-        
-    
-    
-
-
-
-    
-        &lt;p&gt;&lt;span class=&#34;image center-image&#34;&gt;
-            &lt;img src=&#34;https://fu-rollenspiel.de/images/illustrations/ch04/CaptainVance.png&#34; alt=&#34;Captain Vance versucht, von der Mauer zum Jeep zu gelangen&#34; /&gt;
-        &lt;/span&gt;&lt;/p&gt;
-    
-
+&lt;/figure&gt;
 
 
 &lt;div class=&#34;admonition note&#34;&gt;

@@ -16,9 +16,8 @@ FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Ger�
 
 FU ist ein Grundsystem, um das herum du deine eigene Spielwelt und deine eigenen Geschichten entwickeln kannst.
 
-{{< img-post
-    path="/images/illustrations/ch01" file="Spielerinnen.png"
-    alt="Spielerinnen sitzen um den Tisch" type="center" >}}
+
+{{< figure src="/images/illustrations/ch01/Spielerinnen.png" title="Spielerinnen sitzen um den Tisch" class="image fit">}}
 
 Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: Es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählerinnen, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielerinnen, die keine Lust mehr darauf haben, dass man ihnen sagt, was alles nicht geht, statt was sie alles tun können.
 
