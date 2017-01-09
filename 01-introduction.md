@@ -30,7 +30,7 @@ Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erl
 
 FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee „Diese Spielwelt könnten wir doch als Rollenspiel spielen!“ zum eigentlichen Spiel zu bringen.
 
-Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst;  das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.
+Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst; das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.
 
 FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern nichts vorwegnimmt oder voraussetzt.
 
@@ -40,7 +40,7 @@ Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: Es eignet sich bes
 
 
 ## Wie man dieses Buch verwendet
-Dieses Buch enthält zwei Informationstypen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.
+Dieses Buch besteht aus zwei verschiedenen Inhaltstypen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.
 
 FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten Spiel nicht mehr oft in diese Regeln schauen. Trotzdem ist alles, was du brauchst, klar und eindeutig formatiert.
 

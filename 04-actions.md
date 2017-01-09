@@ -8,24 +8,24 @@ Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt
 
 Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tun. Spielerinnen „spielen“ ihre Figuren, sprechen für sie und sagen, wie sie handeln. Die Erzählerin tut dasselbe für alle anderen Figuren, Wesen und Monstren, die in der Szene vorkommen.  
 
-Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, aber das ist nicht zwingend notwendig. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
+Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, muss aber nicht. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
 Wenn es einmal wichtig ist, was die Figuren jeweils genau in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann - einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle gemeinsam, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
-An dieser Stelle ist zu beachten, dass lediglich die Spielerinnen Würfel werfen. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste spannende Ereignis vorzubereiten.
+Übrigens: es würfeln immer nur die Spielerinnen. So hat die Erzählerin Hände und Kopf frei, um neue Ränke und Komplotte zu schmieden und sich auf das nächste spannende Ereignis vorzubereiten.
 
 <div class="sidebar">
 ### Wer plant Szenen?{-}
 Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens legt am Ende die Erzählerin fest, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
 
-Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen - was passiert, wo es passiert und wer dabei ist.
+Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen - was passiert, wo passiert es und wer ist dabei?
 
 Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
 
 ### Wie plant man eine Szene?{-}
-Die Szene zu planen bedeutet, du legst fest, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist oder was gleich passieren wird. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
+Die Szene zu planen bedeutet, daß du festlegst, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
 
 Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene außerdem darauf, welche Zielsetzung sie haben soll.
 
@@ -34,7 +34,7 @@ Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante od
 Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnenziele könnten sein: die eigene Figur in einem tollen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
 ### Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?{-}
-Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Obwohl die meisten eurer Szenen wahrscheinlich zeitlich nacheinander stattfinden werden, braucht ihr euch nicht davon einschränken lassen.
+Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Auch wenn die meisten  Szenen wahrscheinlich zeitlich nacheinander stattfinden, braucht ihr euch nicht davon einschränken lassen.
 
 ### Muss ich Runden benutzen?{-}
 Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
@@ -52,7 +52,7 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 >
 > Sir Camden verfolgt den bösen Lord Kane zu Pferd. Er sieht, wie Lord Kane über eine hohe Hecke springt und im dahinter liegenden Wald verschwindet. Sir Camden versucht nun, ebenfall über die Hecke zu springen, also werft ihr einen W6 und es fällt eine 2. Sir Camdens Pferd überspringt die Hecke, aber Sir Camden selbst bekommt einen Stoß versetzt und ist kurzzeitig durcheinander.
 >
-> Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um zu versuchen, beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
+> Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
 
 | Wurf | Bekommst du, was du willst?                                                             |
@@ -160,9 +160,9 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 
 **Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
-> Captain Vance entschliesst sich, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
+> Captain Vance beschliesst, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
-**Aufhebung**: Je ein helfender Würfel hebt einen behindernden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
+**Aufhebung**: Je ein helfender Würfel hebt einen erschwerenden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 
 > Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
 
@@ -229,7 +229,7 @@ Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene al
 #### Talente und Stärken{-}
 Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein - mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
 
-#### Einen Treffer einstecken{-}
+#### Einen Schlag einstecken{-}
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
 </div>
 

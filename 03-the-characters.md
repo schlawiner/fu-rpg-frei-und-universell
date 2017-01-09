@@ -140,7 +140,7 @@ Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen s
 \newpage
 
 ## Beschreibung
-Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. Jetzt ist es soweit, die restlichen Einzelheiten zu erfinden. Hier beschreibst du Aussehen und Persönlichkeit deiner Figur, ihre Vergangenheit, ihre Ziele, Freunde und Feinde und alle anderen Einzelheiten, die du wichtig oder interessant findest.
+Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. Jetzt ist es soweit, die restlichen Einzelheiten zu erfinden. Hier beschreibst du Aussehen und Persönlichkeit deiner Figur, ihre Vergangenheit, ihre Ziele, Freunde und Feinde und alle anderen Einzelheiten, die du wichtig und interessant findest.
 
 > David macht sich ein paar Notizen zu seinem Tollkühnen Entdecker:
 >
@@ -170,7 +170,7 @@ Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreib
 
 <div class="sidebar">
 ### Jetzt dreht sich alles ums Rollenspiel{-}
-Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in eure Geschichten- und Abenteuerwelt einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ergeben, aber das ist keinesfalls ein Muss.
 
 Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.
 
