@@ -3,7 +3,7 @@
 Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.
 
 ## Konzept
-Sobald du weisst, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
+Sobald du weißt, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
 
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
 
@@ -117,7 +117,7 @@ Ausrüstung gehört nie fest zu einer einer Figur - sie kann fallengelassen werd
 ### Ausrüstung beschreiben{-}
 Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein **Langer Dolch** ist zwar ganz gut, aber ein **Zerbrochener Dolch** ist noch besser!
 
-Die Beschreibung deiner Ausrüstung sollte, wie Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
+Die Beschreibung deiner Ausrüstung sollte, genau wie deine Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
 
 ### Nur ein einziges Adjektiv{-}
 Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein **Scharfer Säbel** ist gut, ein **Magisches Schwert** auch, aber ein **Scharfer Magischer Säbel** ist nicht erlaubt.
@@ -178,7 +178,7 @@ Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spi
 Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, für das sie länger braucht.
 
 ### Wie viele Beziehungen?{-}
-Zwei Beziehungen sind ein guter Anfang. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben - oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„Verliebt in“/„Angewidert von“**).
+Am Anfang reichen zwei Beziehungen. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben - oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„Verliebt in“/„Angewidert von“**).
 
 ### Seid keine Feinde{-}
 Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.

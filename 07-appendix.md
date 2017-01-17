@@ -1,7 +1,7 @@
 \newpage
 # Anhang – Beschreiber
 
-Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber vor- oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.
+Diese Liste ist längst nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber vor- oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.
 
 ## Körper-Beschreiber
 
@@ -57,7 +57,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Einfühlsam:** gut, um die Gefühle anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und bekümmerte Menschen zu trösten.
 
-**Konzentriert:** hilfreich um bei der Sache zu bleiben, sich nicht ablenken zu lassen und um ernst dreinzuschauen.
+**Konzentriert:** hilfreich, um bei der Sache zu bleiben, sich nicht ablenken zu lassen und um ernst dreinzuschauen.
 
 **Querdenkerin:** nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen.
 
@@ -65,7 +65,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Aufmerksam:** prima, um versteckte Hinweise und Details zu erkennen, Wortsuchrätsel zu lösen und beim Lesen von Körpersprache.
 
-**Rednerin:** vorteilhaft beim Halten von öffentlichen Reden, führen von Debatten und Klarmachen deines Standpunkts.
+**Rednerin:** vorteilhaft beim Halten von öffentlichen Reden, Führen von Debatten und Klarmachen deines Standpunkts.
 
 **Langsam:** nervig, wenn man Pläne verstehen oder neue Dinge lernen will.
 
@@ -73,7 +73,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Ungebildet:** nervig beim Lesen, Lösen von Matheaufgaben, Erinnern an wichtige Geschichtsdaten und wenn man Schulprüfungen bestehen will.
 
-**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise in Verbindung zu bringen, Reaktionen anderer Menschen zu interpretieren und anzumerken: „Ich hab's euch ja gesagt“.
+**Weise:** nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise zu kombinieren, Reaktionen anderer Menschen zu interpretieren und anzumerken: „Ich hab's euch ja gesagt“.
 
 **Geistreich:** gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen.
 
@@ -93,7 +93,7 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 
 **Jagen:** vorteilhaft beim Spurenlesen und Anpirschen, um in Tarnkleidung gut auszusehen, und um zu wissen, wie sich ein wütendes Nashorn anhört.
 
-**Scharfe Augen:** super, um weit entfernte Dinge sehen oder sogar im Mondlicht arbeiten zu können.
+**Scharfe Augen:** super, um weit entfernte Dinge zu sehen oder sogar im Mondlicht arbeiten zu können.
 
 **Sprachwissenschaften:** Vorteile beim Sprechen von Fremdsprachen und allgemein bei der Kommunikation mit anderen Leuten.
 

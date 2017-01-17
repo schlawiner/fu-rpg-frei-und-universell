@@ -11,7 +11,7 @@ Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Mitspieleri
 Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn deine Spielerinnen dir etwas sagen, sei es direkt im Gespräch oder durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.
 
 ## Im Spiel selbst
-Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und auftretende Lücken füllt ihr durch Zustände und Umgebungsdetails. Hier sind einige Tipps, die dir helfen das Spiel am Laufen zu halten und genau so viel Spaß zu haben wie die Spielerinnen.
+Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und auftretende Lücken füllt ihr durch Zustände und Umgebungsdetails. Hier sind einige Tipps, die dir helfen das Spiel im Gang zu halten und genau so viel Spaß zu haben wie die Spielerinnen.
 
 **Weniger ist mehr:** Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird in Richtungen abschweifen, auf die du alleine nie gekommen wärst.
 
@@ -34,7 +34,8 @@ Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld,
 ### Welche Rolle übernimmt die Erzählerin?
 Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren, um das oben Angesprochene zu erreichen? Sorgst du dafür, dass jede Herausforderung mit einer großzügigen Belohnung verbunden ist? Führst du jeden Kampf hart, aber fair? Verfolgen Gegenspieler ihre Ziele unermüdlich und kompromisslos?
 
-Beantwortet diese Fragen und alle am Tisch werden sich über ihre Rolle im kommenden Abenteuer im Klaren sein.
+Wenn ihr diese Fragen beantwortet habt, können sich alle am Tisch über ihre Rolle im kommenden Abenteuer im Klaren sein.
+
 </div>
 
 ## Erholung und Heilung
@@ -66,8 +67,8 @@ Einzelheiten über deine Figuren, Monster und Hindernisse kannst du auf Haftnoti
 
 Halte auch wichtige Geländemerkmale auf Karteikarten fest. Notiere alle zugehörigen Beschreiber, so dass die Spielerinnen sie in ihre Planungen einbeziehen können.
 
-### Welche Informationen teilst du mit deinen Spielerinnen?{-}
-Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern keinen Hehl. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen erzeugen eine unterschiedliche Spielweise.
+### Welche Daten gibst deinen Spielerinnen?{-}
+Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreiber und Details von Kreaturen und Monstern keinen Hehl. Andere wiederum halten solche Informationen zurück. Beide Herangehensweisen führen zu unterschiedlichen Spielweisen.
 
 Mit „offenen Karten“ zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.
 

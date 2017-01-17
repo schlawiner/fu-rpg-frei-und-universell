@@ -14,7 +14,7 @@ creator:
 - role: pfr
   text: "Korrektur: Florian Grässle"
 - role: bkd
-  text: "Layout: Dimitri Chotin"
+  text: "Layout: Tina Trillitzsch"
 lang: de-DE
 cover-image: cover2.png
 stylesheet: styles/pandoc-epub.css
