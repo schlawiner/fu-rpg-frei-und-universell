@@ -22,7 +22,7 @@ Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in
 
 Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen - was passiert, wo passiert es und wer ist dabei?
 
-Manche Gruppen möchten auch jeder Spielerin reihum einmal die Gelegenheit geben, eine Szene zu planen, und auch das ist völlig in Ordnung.
+Manche Gruppen lassen auch die Spielerinnen reihum jeweils eine Szene planen, und auch das ist völlig in Ordnung.
 
 ### Wie plant man eine Szene?{-}
 Die Szene zu planen bedeutet, daß du festlegst, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
@@ -66,7 +66,7 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 
 <div class="sidebar">
 ### Geschlossene Fragen{-}
-Bei FU verwendet ihr zum Entscheiden, wie eine Handlung ausgeht, Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
+Um zu Entscheiden, wie eine Handlung ausgeht, verwendet ihr bei FU Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
 Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: „Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!“
 
@@ -79,13 +79,13 @@ Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Erge
 | 4    | Völliger Erfolg                           |
 | 2    | Gerade so geschafft                       |
 | 5    | Gerade so daneben                         |
-| 3    | Völliger Misserfolg                       |
-| 1    | Sagenhafter Misserfolg, und zwar richtig! |
+| 3    | Völliger Fehlschlag                       |
+| 1    | Sagenhafter Fehlschlag, und zwar richtig! |
 
 Ihr könnt euch gerne eigene Fragen und Antworten ausdenken, die zu eurer Gruppe, eurem Spiel und eurer Geschichte passen.
 
 ### Würfelergebnis-Alternativen{-}
-Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele haben lieber 1-3 als schlechte und 4-6 als gute Ergebnisse. In diesem Falle würde die Ergebnistabelle so aussehen:
+Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele haben lieber 1-3 als schlechte und 4-6 als gute Ergebnisse. Dann würde die Ergebnistabelle so aussehen:
 
 | Wurf | Bekommst du, was du willst? |
 |:-----:|:----------------------------|
@@ -136,7 +136,7 @@ Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der
 **Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
 
 ### Wer entscheidet über Zustände & Details?{-}
-Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine angemessen dramatische Auswirkung. Noch schöner ist es, wenn alle am Tisch ihre tollen Ideen einbringen.  
+Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine passende dramatische Auswirkung. Noch schöner ist es, wenn alle am Tisch ihre tollen Ideen einbringen.  
 Wenn es darum geht, welcher Zustand oder welches Detail am Ende auf das Ergebnis angewendet wird, hat die Erzählerin jedoch immer das letzte Wort.
 
 ### Wann soll ich Zustände verwenden?{-}
@@ -149,7 +149,7 @@ Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erl
 Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
 </div>
 
-## Modifikatoren
+## Würfe modifizieren
 Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung leichter oder schwerer. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
 
 **Dinge einfacher nachen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
@@ -192,7 +192,7 @@ FU-Punkte sind Hilfsmittel, die du wie eine Währung ausgeben kannst, um die Erf
 
 Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.
 
-> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinen Befehl zu stellen und  auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
+> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinem Befehl auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
 
 **FU-Punkte verdienen:** FU-Punkte verdienst du dir als Spielerin, indem du coole Dinge machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen oder laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
 

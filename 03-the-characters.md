@@ -34,7 +34,7 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 ## Beispiele für Beschreiber
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
-> **Körper**: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Lebenskraft, Schwächlich, Schwimmhäute an den Füßen.
+> **Körper**: Beweglich, Beidhändig, Blondine, Pelzig, Selbstbräuner-Orange, Gutaussehend, Gewaltig, Übergewichtig, Schwache Konstitution, Flink, Rasiermesserscharfe Klauen, Klein, Langsam, Stark, Hochgewachsen, Dünn, Hässlich, Strotzt vor Lebenskraft, Schwächlich, Schwimmhäute an den Füßen.
 >
 > **Geist**: Zerstreut, Belesen, Computerfreak, Dämlich, Einfühlsam, Konzentriert, Querdenkerin, Mathematikerin, Aufmerksam, Rednerin, Langsam, Taktikerin, Ungebildet, Weise, Geistreich.
 >
@@ -157,7 +157,7 @@ Jede Figur hat einen Antrieb - ein Ziel, das sie anstrebt. Das muss nichts Weltb
 
 **Was hindert dich daran?** Welches Hindernis, welche Gegner stehen zwischen dir und dem, was du willst?
 
-**Was bist du bereit zu tun?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Was würdest du tun, um es zu schaffen?
+**Was tust du?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Wie weit würdest du gehen, um es zu erreichen?
 
 > Tennessee Smith ist auf der Suche nach dem Götzen des Toth, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
 >
@@ -192,17 +192,17 @@ Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in de
 Wer ist deine Figur? Was ist ihr Grundkonzept? Klischees und Archetypen sind ausdrücklich erlaubt!
 
 ### 2. Beschreiber {.unnumbered}
-Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder dieser Beschreiber sollte kurz, ausdrucksstark, eindeutig, der Figur fest zugehörig und begrenzt sein.
+Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jeweils eines für Körper, Geist, Stärke und Schwäche. Jeder Beschreiber sollte kurz, ausdrucksstark, eindeutig und begrenzt sein und fest zur Figur gehören.
 
 ### 3. Ausrüstung {.unnumbered}
 Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
 Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. Scharfer Säbel, Schnelles Motorrad).
 
 ### 4. Beschreibung {.unnumbered}
-Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist an ihr interessant und besonders?
+Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das interessante und besondere an ihr?
 
 ### 5. Motive {.unnumbered}
-Was will deine Figur? Was hindert sie daran? Was würde sie tun, um es zu erreichen?
+Was will deine Figur? Was hindert sie daran? Was tut sie, um ihr Ziel zu erreichen?
 
 ### 6. Beziehungen {.unnumbered}
 Woher kennen sich die Figuren? Welche Verbindungen gibt es zwischen ihnen?
