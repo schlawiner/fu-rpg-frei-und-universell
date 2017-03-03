@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>02-grundlagens on FU: Das freie und universelle Rollenspiel</title>
-    <link>https://fu-rollenspiel.de/02-grundlagen/</link>
-    <description>Recent content in 02-grundlagens on FU: Das freie und universelle Rollenspiel</description>
+    <title>02-grundlagen-rsses on FU: Das freie und universelle Rollenspiel</title>
+    <link>https://fu-rollenspiel.de/02-grundlagen/index.xml</link>
+    <description>Recent content in 02-grundlagen-rsses on FU: Das freie und universelle Rollenspiel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <copyright>Creative Commons Attribution 3.0 Unported</copyright>
     <lastBuildDate>Sun, 05 Jun 2016 21:45:43 +0200</lastBuildDate>
     <atom:link href="https://fu-rollenspiel.de/02-grundlagen/index.xml" rel="self" type="application/rss+xml" />
     

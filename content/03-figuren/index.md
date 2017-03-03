@@ -184,7 +184,7 @@ Wähle mindestens eine andere Figur, die in der Geschichte mitspielt und schreib
 {{<note>}}
 ## Anmerkungen zu Beschreibung, Motiven und Beziehungen
 ### Jetzt dreht sich alles ums Rollenspiel
-Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
+Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt eurer Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.
 
 Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.
 

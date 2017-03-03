@@ -12,7 +12,7 @@ googleAnalytics = ""
 	# General information
 	#author = ""
 	 description = "Deutsche Übersetzung des Rollenspiels Freeform Universal (FU)."
-	 copyright = "Creative Commons Attribution 3.0 Unported "
+	 copyright = "Creative Commons Attribution 3.0 Unported"
 
 	# Repository
 	#   provider = "GitHub"
@@ -42,8 +42,9 @@ googleAnalytics = ""
 	accent  = "orange"
 
     [params.font]
-    	text = "Ubuntu"
-			# headers = "Amatica SC"
+    	# text = "Ubuntu"
+			text = "Arvo"
+		 headers = "Love Ya Like A Sister"
     	code = "Ubuntu Mono"
 
 
@@ -58,37 +59,37 @@ googleAnalytics = ""
 # 	weight = 0
 
 [[menu.main]]
-	name   = "Einleitung"
+	name   = "1. Einleitung"
 	url    = "01-einleitung/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Die Grundlagen"
+	name   = "2. Die Grundlagen"
 	url    = "02-grundlagen/"
 	weight = 20
 
 [[menu.main]]
-	name   = "Die Figuren"
+	name   = "3. Die Figuren"
 	url    = "03-figuren/"
 	weight = 30
 
 [[menu.main]]
-	name   = "Etwas tun"
+	name   = "4. Etwas tun"
 	url    = "04-handeln/"
 	weight = 40
 
 [[menu.main]]
-	name   = "Die Erzählerin"
+	name   = "5. Die Erzählerin"
 	url    = "05-erzaehlerin/"
 	weight = 50
 
 [[menu.main]]
-	name   = "Beispielabenteuer: Rennen zum Tempel des Toth"
+	name   = "6. Beispielabenteuer: Rennen zum Tempel des Toth"
 	url    = "06-rennen-zum-tempel/"
 	weight = 60
 
 [[menu.main]]
-	name   = "Anhang"
+	name   = "7. Anhang"
 	url    = "07-anhang/"
 	weight = 70
 

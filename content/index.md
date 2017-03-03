@@ -29,6 +29,9 @@ Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Free
           <li class="repo-download">
             <a href="/07-anhang/"  title="Anhang">Kapitel 7: Anhang</br><img src="/images/ic_list_white_24px.svg"></a>
           </li>
+          <li class="repo-download">
+            <a href="/07-anhang/"  title="Downloads">Downloads</br><img src="/images/ic_download_white_24px.svg"></a>
+          </li>
         </ul>
 
 Die Struktur des Dokuments basiert auf der [französischen Übersetzung von Bruno Bord](https://github.com/brunobord/fu-rpg-libre-et-universel).
