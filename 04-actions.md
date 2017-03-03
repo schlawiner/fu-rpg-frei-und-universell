@@ -10,7 +10,7 @@ Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tu
 
 Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, muss aber nicht. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
-Wenn es einmal wichtig ist, was die Figuren jeweils genau in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann - einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
+Wenn es einmal wichtig ist, was die Figuren jeweils genau in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann – einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle gemeinsam, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
@@ -20,12 +20,12 @@ Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheid
 ### Wer plant Szenen?{-}
 Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens legt am Ende die Erzählerin fest, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
 
-Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen - was passiert, wo passiert es und wer ist dabei?
+Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen – was passiert, wo passiert es und wer ist dabei?
 
 Manche Gruppen lassen auch die Spielerinnen reihum jeweils eine Szene planen, und auch das ist völlig in Ordnung.
 
 ### Wie plant man eine Szene?{-}
-Die Szene zu planen bedeutet, daß du festlegst, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis - oder Wo, Wann, Wer und Was.
+Die Szene zu planen bedeutet, daß du festlegst, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis – oder Wo, Wann, Wer und Was.
 
 Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene außerdem darauf, welche Zielsetzung sie haben soll.
 
@@ -34,7 +34,7 @@ Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante od
 Die Zielsetzung einer Szene kann alles mögliche sein, das eine Spielerin oder Figur erreichen will. Figurenziele könnten unter anderem sein: etwas in Erfahrung bringen, einen Feind bezwingen, mit jemandem reden, eine kurze oder lange Reise unternehmen, sich auf einen Kampf vorbereiten, jemanden hereinlegen oder etwas stehlen. Spielerinnenziele könnten sein: die eigene Figur in einem tollen Kampf sehen, das Rätsel lösen, ein Geheimnis über die eigene Figur preisgeben oder mit einer bestimmten Figur oder Spielerin interagieren. Oft überschneiden sich die Zielsetzungen von Spielerinnen und Figuren auch.
 
 ### Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?{-}
-Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden - Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Auch wenn die meisten  Szenen wahrscheinlich zeitlich nacheinander stattfinden, braucht ihr euch nicht davon einschränken lassen.
+Ihr könnt alle möglichen Erzähltechniken aus Literatur und Film verwenden – Rückblenden, Vorausblenden, parallel laufende Handlungsstränge und sogar Montage-Sequenzen (Zusammenschnitte kürzerer aufeinanderfolgender Szenen zu einer langen). Auch wenn die meisten  Szenen wahrscheinlich zeitlich nacheinander stattfinden, braucht ihr euch nicht davon einschränken lassen.
 
 ### Muss ich Runden benutzen?{-}
 Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn mehrere Figuren gleichzeitig verschiedene Dinge tun wollen. Ihr könnt sie bei Bedarf einsetzen, um Handlungen zu ordnen und einzuteilen. Bei einigen Szenen ergeben sich Runden fast von allein, bei anderen denkt ihr vielleicht gar nicht daran.
@@ -85,7 +85,7 @@ Ihr könnt auch andere Fragen stellen, wenn ihr mögt, müsst dann aber die Erge
 Ihr könnt euch gerne eigene Fragen und Antworten ausdenken, die zu eurer Gruppe, eurem Spiel und eurer Geschichte passen.
 
 ### Würfelergebnis-Alternativen{-}
-Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht - viele haben lieber 1-3 als schlechte und 4-6 als gute Ergebnisse. Dann würde die Ergebnistabelle so aussehen:
+Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele haben lieber 1-3 als schlechte und 4-6 als gute Ergebnisse. Dann würde die Ergebnistabelle so aussehen:
 
 | Wurf | Bekommst du, was du willst? |
 |:-----:|:----------------------------|
@@ -118,7 +118,7 @@ Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur w
 > Nein, und...
 
 
-*Ja* und *Nein* sind klar - sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, fügt ihr noch eine Aussage darüber hinzu, wie gut der Erfolg ist oder wie schlimm der Misserfolg. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.
+*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, fügt ihr noch eine Aussage darüber hinzu, wie gut der Erfolg ist oder wie schlimm der Misserfolg. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.
 
 **Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es gibt auch genug Platz für eure eigenen selbstgeschriebenen.
 
@@ -180,7 +180,7 @@ Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst 
 Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die ihr vor dem Würfeln stellt. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!
 
 ### Option: Paschwürfe{-}
-Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer: Du fügst pro gefallenem gleichem Würfel eine „Und ...“-Aussage hinzu. Wenn die Handlung schiefgeht, muss diese Aussage die Situation verschlimmern. Klappt die Handlung, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen - die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
+Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer: Du fügst pro gefallenem gleichem Würfel eine „Und ...“-Aussage hinzu. Wenn die Handlung schiefgeht, muss diese Aussage die Situation verschlimmern. Klappt die Handlung, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen – die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
 </div>
 
 ## FU-Punkte
@@ -188,7 +188,7 @@ FU-Punkte sind Hilfsmittel, die du wie eine Währung ausgeben kannst, um die Erf
 
 **Bonuswürfel:** Gib vor dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Bonuswürfel hinzuzubekommen. Dieser wirkt wie jeder andere Bonuswürfel. Du kannst so viele Bonuswürfel hinzunehmen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen.
 
-**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber - neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen - bevor der erste Würfel neu geworfen wird.
+**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber – neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen – bevor der erste Würfel neu geworfen wird.
 
 Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.
 
@@ -227,7 +227,7 @@ Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelaug
 Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
 
 #### Talente und Stärken{-}
-Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein - mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
+Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
 
 #### Einen Schlag einstecken{-}
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.

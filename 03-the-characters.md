@@ -3,13 +3,13 @@
 Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Geschichte beschreibst du, was die Figur macht und wie sie auf Situationen und auf andere Personen reagiert.
 
 ## Konzept
-Sobald du weißt, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen - über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
+Sobald du weißt, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen – über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich in wenigen Worten oder einem kurzen Satz zusammenfassen.  
 
 Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „Paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „Edler Wilder“ oder „Verrückter Professor“.  
 
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „Gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „Welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
-> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen - einer Art Groschenromanen - der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
+> Im Verlauf dieses Kapitels folgen wir David und Nina bei der Erstellung ihrer Figuren. Zusammen mit Tim, dem Erzähler, haben sie sich entschlossen, ein Spiel zu spielen, das auf den amerikanischen „Pulp“-Magazinen – einer Art Groschenromanen – der 1930er Jahre basiert. Es soll eine rasante und eher skurrile Geschichte werden. David lässt sich von seinen Lieblingsfilmen inspirieren und nimmt als Konzept für seine Figur „Tollkühner Entdecker“. Nina möchte jemand Ungewöhnlichen spielen, und nachdem sie ihre Ideen mit Tim und David besprochen hat, entscheidet sie sich für eine „Außerirdische Botschafterin“.
 
 
 ## Beschreiber
@@ -47,7 +47,7 @@ Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschre
 Es ist völlig in Ordnung, wenn du dich bei deinem Konzept auf Klischees stützt. Klischees umfassen eine Unzahl von Vorstellungen und Konzepten, mit denen man direkt vertraut ist. Wenn jemand sagt, seine Figur sei ein Barbar, hat man automatisch einen muskelbepackten unzivilisierten Klotz vor Augen. Klischees sind eine Art Abkürzung beim Beschreiben deiner Figur.
 
 ### Beschreiber wählen {.unnumbered}
-Gib dir bei den Beschreibern Mühe, gleichzeitig kreativ und trotzdem ehrlich zu sein - vergiss nicht dein Konzept und die Spielwelt. Denn einer Figur die Schwäche „**kann nicht schwimmen**“ zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
+Gib dir bei den Beschreibern Mühe, gleichzeitig kreativ und trotzdem ehrlich zu sein – vergiss nicht dein Konzept und die Spielwelt. Denn einer Figur die Schwäche „**kann nicht schwimmen**“ zu geben, wenn du weißt, dass alle Geschichten in der Wüste stattfinden, ist eher unsportlich.
 Lass deine Fantasie spielen, behalte dein Konzept im Hinterkopf und besprich deine Ideen mit der Erzählerin. Es gibt endlos viele Möglichkeiten.
 
 ### Beschreiber sind klar und eindeutig {.unnumbered}
@@ -60,14 +60,14 @@ Jeder Beschreiber ist ein wesentlicher Teil der Figur, der untrennbar mit ihr ve
 Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderen, nicht vorhersehbaren Umständen anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist daher beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden und ist zu allgemein (*„Als Arzt bin ich gebildet und ziemlich wohlhabend ...“*).
 
 ### Was für ein Beschreiber ist das? {.unnumbered}
-Manche Beschreiber passen problemlos in mehrere Kategorien  - **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Entscheidet einfach gemeinsam, ob ein Beschreiber für eure Geschichten passt oder nicht.
+Manche Beschreiber passen problemlos in mehrere Kategorien  – **Gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Entscheidet einfach gemeinsam, ob ein Beschreiber für eure Geschichten passt oder nicht.
 
 ### Was sind gute Stärken und Schwächen? {.unnumbered}
 Dinge, die in anderen Spielen „Fertigkeiten“ oder „Talente“ heißen, eignen sich wunderbar als Stärken. Gute Beispiele sind „**Schwertkampf**“, „**unter Wasser atmen**“ und „**gewinnendes Lächeln**“.  
 Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. Sachen wie „**riecht immer schlecht**“ oder „**taub**“ sind bessere Schwächen als „**kann nicht Fahren**“ oder „**kann kein Französisch**“. Es gibt natürlich immer auch Ausnahmen. Wenn die Figuren britische Spione zu Zeiten der Napoleonischen Kriege sind, wäre es ein echter Nachteil, kein Französisch zu sprechen. Genauso kann die Schwäche „**kann nicht schwimmen**“ in einem Spiel mit Piraten und Seekämpfen zu einer echten Attraktion werden. Suche immer nach Möglichkeiten, deine Figur herauszufordern, dem Spiel Würze zu verleihen und Hindernisse einzubringen, die überwunden werden müssen.
 
 ### Soll ich mich spezialisieren? {.unnumbered}
-Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einer richtig furchteinflößenden Kriegerin kannst du Körper: **Stark**, Geist: **Taktikerin**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe - in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen - Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
+Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einer richtig furchteinflößenden Kriegerin kannst du Körper: **Stark**, Geist: **Taktikerin**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe – in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen – Körper: **Zäh**, Geist: **Konzentriert**, Stärke: **Nahkampf** und Schwäche: **Leichtsinnig**.
 Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du eine Ringerin, Bodybuilderin oder wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **Belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Einige Spielerinnen empfinden das als willkommene Herausforderung.
 
 ### Beschreiber-Alternativen {.unnumbered}
@@ -79,7 +79,7 @@ Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) nicht die 
 
 Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
-Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen - von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): Rostiges Schwert, Langes Seil, Schnelles Pferd, Scharfschützengewehr, Papas Camaro, Schwere Rüstung.
 
 Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
 
@@ -112,21 +112,21 @@ Die Gegenstände, die du als Ausrüstung wählst, sollten ein Markenzeichen für
 Jedes Ausrüstungsteil sollte etwas zur Charakterisierung deiner Figur beitragen, entweder zu ihrem Hintergrund, ihrer Persönlichkeit oder ihren Zielen. Es sollte etwas über deine Figur oder ihre Taten aussagen.
 
 ### Ausrüstung ist Zubehör{-}
-Ausrüstung gehört nie fest zu einer einer Figur - sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
+Ausrüstung gehört nie fest zu einer einer Figur – sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein kybernetischer Arm ist keine Ausrüstung, ein **Gepanzerter Roboterhandschuh** dagegen schon.
 
 ### Ausrüstung beschreiben{-}
 Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und/oder Interessantes über den Gegenstand aussagen. Ein **Langer Dolch** ist zwar ganz gut, aber ein **Zerbrochener Dolch** ist noch besser!
 
-Die Beschreibung deiner Ausrüstung sollte, genau wie deine Beschreiber auch, klar und eindeutig sein - es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
+Die Beschreibung deiner Ausrüstung sollte, genau wie deine Beschreiber auch, klar und eindeutig sein – es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
 
 ### Nur ein einziges Adjektiv{-}
-Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken - nicht mehr und nicht weniger. Ein **Scharfer Säbel** ist gut, ein **Magisches Schwert** auch, aber ein **Scharfer Magischer Säbel** ist nicht erlaubt.
+Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken – nicht mehr und nicht weniger. Ein **Scharfer Säbel** ist gut, ein **Magisches Schwert** auch, aber ein **Scharfer Magischer Säbel** ist nicht erlaubt.
 
 ### Konkrete Substantive{-}
 Wähle konkrete, aussagekräftige Substantive. Säbel ist besser als Schwert und Baseballkappe ist besser als Mütze. Du darfst auch mehr als ein Substantiv benutzen, aber beschränke dich auf so wenige Wörter wie möglich.
 
 ### Sprich über deine Ausrüstung{-}
-Diskutiere deine Ausrüstung mit der Gruppe. Allen muss klar sein, was du beschreibst - wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.
+Diskutiere deine Ausrüstung mit der Gruppe. Allen muss klar sein, was du beschreibst – wofür die Ausrüstung nützlich ist und wobei sie eher hinderlich sein kann.
 
 Ausrüstung ist nie von Haus aus „gut“ oder „schlecht“. Ob der Besitz eines Gegenstands nützlich ist oder nicht, hängt davon ab, was du damit machst und in welcher Situation du bist.
 
@@ -134,7 +134,7 @@ Ausrüstung ist nie von Haus aus „gut“ oder „schlecht“. Ob der Besitz ei
 Wenn ihr wollt, könnt ihr festlegen, dass der eine Ausrüstungsgegenstand ein „gutes“ Adjektiv, und der andere ein „schlechtes“ haben muss. Vielleicht hast du eine „**Warme Jacke**“ und eine „**Alte Kanone**“ oder ein „**Schnelles Motorrad**“ und eine „**Überzogene Kreditkarte**“.
 
 ### Kram, der keine Ausrüstung ist{-}
-Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung - sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration, und modifizieren deine Würfelwürfe nicht. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!
+Alle Gegenstände oder Geräte, die nicht als Ausrüstung auf dem Figurenbogen stehen, sind Requisiten. Requisiten haben keine Auswirkung auf die Erfolgsaussichten einer Handlung – sie sind lediglich kosmetischer Natur, quasi Schaufensterdekoration, und modifizieren deine Würfelwürfe nicht. Du kannst aber die Ausrüstung mit anderen Figuren tauschen, sie ihnen stehlen oder vom Boden aufheben und sie dann selbst benutzen!
 </div>
 
 \newpage
@@ -151,7 +151,7 @@ Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. J
 > Lumina ist eine wichtige Diplomatin vom Planeten Jupiter, welcher vom Schreckensfürst Kang regiert wird. Wie alle ihrer Art hat sie lila Haut, einen haarlosen Kopf und feine Gesichtszüge. Lumina arbeitet für die Jupiter-Untergrundbewegung und versucht, Schreckensfürst Kang zu stürzen.
 
 ## Motive
-Jede Figur hat einen Antrieb - ein Ziel, das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
+Jede Figur hat einen Antrieb – ein Ziel, das sie anstrebt. Das muss nichts Weltbewegendes sein (aber es kann!), sollte der Figur aber trotzdem wichtig sein. Stelle deiner Figur die folgenden Fragen:
 
 **Was willst du erreichen?** Was wünschst du dir, was treibt dich an?
 
@@ -159,7 +159,7 @@ Jede Figur hat einen Antrieb - ein Ziel, das sie anstrebt. Das muss nichts Weltb
 
 **Was tust du?** Was ist dein nächster Schritt auf dem Weg zu deinem Ziel? Wie weit würdest du gehen, um es zu erreichen?
 
-> Tennessee Smith ist auf der Suche nach dem Götzen des Toth, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen - doch töten würde er dafür niemals.
+> Tennessee Smith ist auf der Suche nach dem Götzen des Toth, einem Artefakt, das er schon seit Jahrzenten heiß begehrt. Sein Rivale Giles Fishburne ist ebenfalls hinter dem Götzen her und scheint ihm fast immer einen Schritt voraus zu sein. Dieses Mal will Tennessee Smith es unbedingt schaffen und ist zu allem bereit, um an den Götzen zu gelangen – doch töten würde er dafür niemals.
 >
 > Lumina strebt nach Freiheit für alle Völker des Jupiter. Schreckensfürst Kang regiert den Planeten mit eiserner Hand und seine Agenten halten ständig Ausschau nach Abtrünnigen. Lumina ist bereit, ihr eigenes Leben aufs Spiel zu setzen, um ihren Traum zu verwirklichen.
 
@@ -178,7 +178,7 @@ Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spi
 Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, für das sie länger braucht.
 
 ### Wie viele Beziehungen?{-}
-Am Anfang reichen zwei Beziehungen. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben - oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„Verliebt in“/„Angewidert von“**).
+Am Anfang reichen zwei Beziehungen. Such dir zwei verschiedene Figuren aus und entscheide, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben – oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„Verliebt in“/„Angewidert von“**).
 
 ### Seid keine Feinde{-}
 Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.

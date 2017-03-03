@@ -1,7 +1,7 @@
 ---
 title:
 - type: main
-  text: 'FU - frei und universell'
+  text: 'FU – frei und universell'
 - type: subtitle
   text: Ein Rollenspiel von Nathan Russell
 creator:
@@ -24,7 +24,7 @@ tags: [rpg, role-playing, game, Rollenspiel]
 
 
 # Einleitung
-FU ist ein Spiel voller Action, Abenteuer und Spaß - ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
+FU ist ein Spiel voller Action, Abenteuer und Spaß – ein Rollenspiel mit großen Ambitionen und von verblüffender Einfachheit.
 
 Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erleben, und das mit kleinstmöglichem Aufwand und Vorbereitung.
 
@@ -40,12 +40,12 @@ Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: Es eignet sich bes
 
 
 ## Wie man dieses Buch verwendet
-Dieses Buch besteht aus zwei verschiedenen Inhaltstypen. Zuerst kommen die eigentlichen Regeln - sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.
+Dieses Buch besteht aus zwei verschiedenen Inhaltstypen. Zuerst kommen die eigentlichen Regeln – sie erklären, wie das Spiel gespielt wird. Die Regeln sind so gesetzt wie die Texte auf dieser Seite, mit klaren Überschriften und Unterüberschriften.
 
 FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten Spiel nicht mehr oft in diese Regeln schauen. Trotzdem ist alles, was du brauchst, klar und eindeutig formatiert.
 
 > Regelbeispiele sind so formatiert. Überall im Haupttext findest du solche Blöcke, die dir die Regeln in Aktion zeigen. Auch sie wirst du nach dem ersten Spiel wahrscheinlich nicht noch einmal brauchen.
 
-Außerdem gibt es auf vielen Seiten (ganz unten) „Seitenleisten“. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Die Seitenleisten erkennst du leicht an einer Linie, die sie vom Haupttext trennt, und an ihrer zweispaltigen Formatierung. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.
+Außerdem gibt es auf vielen Seiten (ganz unten) „Randnotizen“. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Die Randnotizen erkennst du leicht an einer Linie, die sie vom Haupttext trennt, und an ihrer zweispaltigen Formatierung. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.
 
-Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfachheit halber durchgehend die weibliche Form - Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.
+Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfachheit halber durchgehend die weibliche Form – Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.

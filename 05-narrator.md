@@ -3,7 +3,7 @@
 Hier findest du einfache Ratschläge für Erzählerinnen. Sie sind recht  allgemein gehalten, da die konkreten Details davon abhängen, für welches Genre, welche Stimmung und welchen Spielstil ihr euch als Gruppe entscheidet.
 
 ## Reden ist gut
-Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Mitspielerinnen erwarten und an welchen Stellen sich eure Vorstellungen decken. In diesen Bereichen der Überschneidung werdet ihr wahrscheinlich später im Spiel den größten Spaß haben. *Zumindest* das Genre und die angestrebte Stimmung eurer Geschichte solltet ihr zusammen festlegen. Redet ruhig ein bisschen mehr über diese beiden Dinge, damit allen auch die Feinheiten klar sind - es liegen zum Beispiel Welten zwischen Gothic-Horror-Filmen und Splatterfilmen.
+Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Mitspielerinnen erwarten und an welchen Stellen sich eure Vorstellungen decken. In diesen Bereichen der Überschneidung werdet ihr wahrscheinlich später im Spiel den größten Spaß haben. *Zumindest* das Genre und die angestrebte Stimmung eurer Geschichte solltet ihr zusammen festlegen. Redet ruhig ein bisschen mehr über diese beiden Dinge, damit allen auch die Feinheiten klar sind – es liegen zum Beispiel Welten zwischen Gothic-Horror-Filmen und Splatterfilmen.
 
 Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Mitspielerinnen, Ideen auszutauschen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls du Klärungsbedarf zu Ideen, Themen oder Problemen hast, dann frage nach.
 
@@ -15,7 +15,7 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 
 **Weniger ist mehr:** Verkompliziere deine Aufgabe nicht, indem du allzu viele Handlungsstränge oder verschachtelte Wendungen einführst. Das Durcheinander ergibt sich ganz von selbst und die Geschichte wird in Richtungen abschweifen, auf die du alleine nie gekommen wärst.
 
-**Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich betont werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken - nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.  
+**Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich betont werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken – nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.  
 
 **Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
@@ -42,7 +42,7 @@ Wenn ihr diese Fragen beantwortet habt, können sich alle am Tisch über ihre Ro
 Im Spielverlauf können die Figuren Verletzungen erleiden, körperlichen oder geistigen Belastungen ausgesetzt sein und von einer ganzen Reihe anderer Zustände heimgesucht werden. Wann und wie schnell sich die Figuren von diesen Zuständen wieder erholen, sollte immer zur Geschichte passen. Normalerweise geschieht das einfach durch das Verstreichen der Zeit, das muss aber nicht so sein. Eine gute Faustregel ist, dass Figuren sich zwischen zwei Szenen von mindestens einem Zustand erholen können. Das hängt aber natürlich auch davon ab, wie viel Zeit zwischen den Szenen vergeht.
 
 ## Belohnungen
-Belohne die Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Dinge belohnen, die die Gruppe vorher abspricht (siehe dazu die **Anmerkungen/Seitenleiste** zu FU-Punkten in Kapitel 4).
+Belohne die Spielerinnen mit FU-Punkten für gutes Rollenspiel und das Erreichen von Zielen. Du kannst sie auch für eine Reihe anderer Dinge belohnen, die die Gruppe vorher abspricht (siehe dazu die **Randnotiz** zu FU-Punkten in Kapitel 4).
 
 FU-Punkte können die Erfolgschancen der Figuren verbessern; daher sind sie eine schöne, direkte und greifbare Belohnungsmöglichkeit. Du musst jedoch nicht die einzige Person am Tisch sein, die Belohnungen verteilt. Alle dürfen sich melden, wenn sie finden, dass jemand etwas cooles, witziges oder beeindruckendes getan hat, und einen FU-Punkt dafür ausloben.
 
@@ -53,7 +53,7 @@ Alle Nichtspielerfiguren, Monster, Fallen, Bösewichte, Geländeeigenschaften, W
 
 <div class="sidebar">
 ### Die Schale{-}
-Die Schale ist eine Methode zum Verteilen von FU-Punkten. Stellt eine Schüssel mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte - jeder Gegenstand darin entspricht einem FU-Punkt. So kann die Erzählerin die Spielerinnen bitten, sich „einen aus der Schale“ zu nehmen, und Mitspielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss „Gibt es dafür einen FU-Punkt?“
+Die Schale ist eine Methode zum Verteilen von FU-Punkten. Stellt eine Schüssel mit Glassteinen, Pappplättchen oder Spielmarkern in die Tischmitte – jeder Gegenstand darin entspricht einem FU-Punkt. So kann die Erzählerin die Spielerinnen bitten, sich „einen aus der Schale“ zu nehmen, und Mitspielerinnen können sich daraus bedienen, wenn sie jemanden belohnen möchten. Diese Möglichkeit setzt Vertrauen zwischen Spielerinnen und Erzählerin voraus, erlaubt aber auch einen reibungslosen Spielablauf, da niemand erst nachfragen muss „Gibt es dafür einen FU-Punkt?“
 
 ### Erfahrung gewinnen{-}
 In FU geht es nicht um das Aufsteigen auf immer höhere „Level“. Die Figuren können zwar allerlei Erfahrungen machen und aus ihnen auch lernen, aber der eigentliche Fortschritt entsteht durch die sich verändernde Welt und Geschichte.
