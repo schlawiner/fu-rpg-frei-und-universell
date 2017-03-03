@@ -1,0 +1,114 @@
+Cover/1,Black,notBold,notItalic,closed,TopLeftZoom,0,0,1.0638655
+Impressum/3,Black,notBold,notItalic,closed,TopLeftZoom,0,0,1.0638655
+Mitwirkende/4,Black,notBold,notItalic,closed,TopLeftZoom,0,0,1.0638655
+Inhaltsverzeichnis/5,Black,notBold,notItalic,open,TopLeftZoom,0,0,1.0638655
+1. Einleitung/9,Black,notBold,notItalic,open,TopLeftZoom,0,0,1.0638655
+	Wie man dieses Buch verwendet/10,Black,notBold,notItalic,closed,TopLeftZoom,0,0,1.0638655
+2. Die Grundlagen/12,Black,notBold,notItalic,open,TopLeftZoom,0,0,1.0638655
+	Was ihr braucht/12,Black,notBold,notItalic,closed,TopLeftZoom,0,0,1.0638655
+	Was ihr macht/13,Black,notBold,notItalic,closed,FitHeight,0
+	Wie ihr's macht/14,Black,notBold,notItalic,closed,FitHeight,0
+	Vor dem Losspielen/15,Black,notBold,notItalic,open,FitHeight,0
+		Sprecht vor dem Spielen miteinander/16,Black,notBold,italic,closed,FitHeight,0
+		Der Sofort-Genregenerator/16,Black,notBold,italic,closed,FitHeight,0
+3. Die Figuren/17,Black,notBold,notItalic,open,FitHeight,0
+	Konzept/17,Black,notBold,notItalic,closed,FitHeight,0
+	Beschreiber/19,Black,notBold,notItalic,open,FitHeight,0
+	Beispiele für Beschreiber/20,Black,notBold,notItalic,open,FitHeight,0
+		Klischees sind deine Freunde/21,Black,notBold,italic,open,FitHeight,0
+		Beschreiber wählen/21,Black,notBold,italic,closed,FitHeight,0
+		Beschreiber sind klar und eindeutig/22,Black,notBold,italic,closed,FitHeight,0
+		Beschreiber gehören fest zu einer figur/22,Black,notBold,italic,closed,FitHeight,0
+		Die Reichweite von Beschreibern ist beschränkt/22,Black,notBold,italic,closed,FitHeight,0
+		Was für ein Beschreiber ist das?/23,Black,notBold,italic,closed,FitHeight,0
+		Was sind gute Stärken und Schwächen?/23,Black,notBold,italic,closed,FitHeight,0
+		Soll ich mich spezialisieren?/24,Black,notBold,italic,closed,FitHeight,0
+		Beschreiber-Alternativen/25,Black,notBold,italic,closed,FitHeight,0
+	Ausrüstung/26,Black,notBold,notItalic,closed,FitHeight,0
+	Beispiel-Ausrüstung/27,Black,notBold,notItalic,open,FitHeight,0
+		Ausrüstung auswählen/29,Black,notBold,italic,closed,FitHeight,0
+		Ausrüstung ist Zubehör/29,Black,notBold,italic,closed,FitHeight,0
+		Ausrüstung beschreiben/29,Black,notBold,italic,closed,FitHeight,0
+		Nur ein einziges Adjektiv/29,Black,notBold,italic,closed,FitHeight,0
+		Konkrete Substantive/30,Black,notBold,italic,closed,FitHeight,0
+		Sprich über deine Ausrüs- tung/30,Black,notBold,italic,closed,FitHeight,0
+		Gute Ausrüstung und schlechte Ausrüstung/30,Black,notBold,italic,closed,FitHeight,0
+		Kram, der keine Ausrüstung ist/30,Black,notBold,italic,closed,FitHeight,0
+	Beschreibung/32,Black,notBold,notItalic,closed,FitHeight,0
+	Motive/33,Black,notBold,notItalic,closed,FitHeight,0
+	Beziehungen/34,Black,notBold,notItalic,open,FitHeight,0
+		Jetzt dreht sich alles ums Rollenspiel/35,Black,notBold,italic,closed,FitHeight,0
+		Langfristige oder kurzfristige Ziele?/35,Black,notBold,italic,closed,FitHeight,0
+		Wie viele Beziehungen?/36,Black,notBold,italic,closed,FitHeight,0
+		Seid keine Feinde/36,Black,notBold,italic,closed,FitHeight,0
+	Figurenerstellung kurzgefasst/37,Black,notBold,notItalic,closed,FitHeight,0
+4. Etwas tun/38,Black,notBold,notItalic,open,FitHeight,0
+	Szenen und Runden/38,Black,notBold,notItalic,open,FitHeight,0
+		Wer plant Szenen?/40,Black,notBold,italic,closed,FitHeight,0
+		Wie plant man eine Szene?/40,Black,notBold,italic,closed,FitHeight,0
+		Was ist eine Zielsetzung?/40,Black,notBold,italic,closed,FitHeight,0
+		Müssen Szenen in der richtigen zeitlichen Reihenfolge passieren?/41,Black,notBold,italic,closed,FitHeight,0
+		Muss ich Runden benutzen?/41,Black,notBold,italic,closed,FitHeight,0
+Ungerade Zahlen vermeiden/42,Black,notBold,notItalic,open,FitHeight,0
+	Geschlossene Fragen/44,Black,notBold,italic,closed,FitHeight,0
+	Fragen-Alternativen/45,Black,notBold,italic,closed,FitHeight,0
+	Würfelergebnis-Alternativen/46,Black,notBold,italic,closed,FitHeight,0
+Erfolg & Misserfolg/46,Black,notBold,notItalic,open,FitHeight,0
+	Beispiele für Erfolg & Misserfolg/48,Black,notBold,italic,closed,FitHeight,0
+	Wer entscheidet über Zustände & Details?/48,Black,notBold,italic,closed,FitHeight,0
+	Wann soll ich Zustände verwenden?/49,Black,notBold,italic,closed,FitHeight,0
+	Wann soll ich Details benutzen?/49,Black,notBold,italic,closed,FitHeight,0
+Würfe modifizieren/50,Black,notBold,notItalic,open,FitHeight,0
+	Beispiel-Modifikatoren/52,Black,notBold,italic,closed,FitHeight,0
+	Andere Würfe?/52,Black,notBold,italic,closed,FitHeight,0
+	Wie funktionieren „Gegenaktionen“?/53,Black,notBold,italic,closed,FitHeight,0
+	An deine Handlungen näher herangehen/53,Black,notBold,italic,closed,FitHeight,0
+	Option: Paschwürfe/54,Black,notBold,italic,closed,FitHeight,0
+FU-Punkte/55,Black,notBold,notItalic,open,FitHeight,0
+	FU-Punkte beim Sitzungsbeginn/56,Black,notBold,italic,closed,FitHeight,0
+	Darf ich FU-Punkte verschenken oder teilen?/57,Black,notBold,italic,closed,FitHeight,0
+	Bekommt die Erzählerin auch FU-Punkte?/57,Black,notBold,italic,closed,FitHeight,0
+	Andere Möglichkeiten, FU-Punkte zu verdienen/57,Black,notBold,italic,closed,FitHeight,0
+	Andere Möglichkeiten, FU einzusetzen/58,Black,notBold,italic,closed,FitHeight,0
+		FU als Lebenspunkte/58,Black,notBold,notItalic,closed,FitHeight,0
+		Alles neu würfeln/58,Black,notBold,notItalic,closed,FitHeight,0
+		Ein Auge verdrehen/58,Black,notBold,notItalic,closed,FitHeight,0
+		Eine Requisite benutzen/59,Black,notBold,notItalic,closed,FitHeight,0
+		Talente und Stärken/59,Black,notBold,notItalic,closed,FitHeight,0
+		Einen Schlag einstecken/59,Black,notBold,notItalic,closed,FitHeight,0
+Handlungen kurzgefasst/60,Black,notBold,notItalic,closed,FitHeight,0
+5. Die Erzählerin/61,Black,notBold,notItalic,open,FitHeight,0
+	Reden ist gut/61,Black,notBold,notItalic,closed,FitHeight,0
+	Zuhören ist gut/62,Black,notBold,notItalic,closed,FitHeight,0
+	Im Spiel selbst/62,Black,notBold,notItalic,open,FitHeight,0
+		Drei Fragen zur Orientierung/64,Black,notBold,italic,closed,FitHeight,0
+			Welche Rollen spielen die Figuren?/64,Black,notBold,notItalic,closed,FitHeight,0
+			Wie wollen die Spielerinnen sich fühlen?/64,Black,notBold,notItalic,closed,FitHeight,0
+			Welche Rolle übernimmt die Erzählerin?/64,Black,notBold,notItalic,closed,FitHeight,0
+	Erholung und Heilung/65,Black,notBold,notItalic,closed,FitHeight,0
+	Belohnungen/65,Black,notBold,notItalic,closed,FitHeight,0
+	Figuren und Hindernisse/66,Black,notBold,notItalic,open,FitHeight,0
+		Die Schale/67,Black,notBold,italic,closed,FitHeight,0
+		Erfahrung gewinnen/67,Black,notBold,italic,closed,FitHeight,0
+		Den Überblick über Hindernisse behalten/68,Black,notBold,italic,closed,FitHeight,0
+		Welche Daten gibst du deinen Spielerinnen?/68,Black,notBold,italic,closed,FitHeight,0
+6. Das Rennen zum Tempel des Toth/70,Black,notBold,notItalic,open,FitHeight,0
+	Vor dem Spiel/71,Black,notBold,notItalic,closed,FitHeight,0
+	Szenen/71,Black,notBold,notItalic,closed,FitHeight,0
+	Herausforderungen/72,Black,notBold,notItalic,closed,FitHeight,0
+	Flucht vom Markt in Bulak/73,Black,notBold,notItalic,closed,FitHeight,0
+	Die Übersetzung der Karte/74,Black,notBold,notItalic,closed,FitHeight,0
+	Die Gou-Zou-Schlucht/76,Black,notBold,notItalic,closed,FitHeight,0
+	Der Tempel/78,Black,notBold,notItalic,closed,FitHeight,0
+	Die Kammer des Götzen/80,Black,notBold,notItalic,closed,FitHeight,0
+	Figuren/81,Black,notBold,notItalic,open,FitHeight,0
+		Tennessee Smith, Tollkühner Entdecker/82,Black,notBold,italic,closed,FitHeight,0
+		Jimmy Sweet, Beherzter Gassenjunge/83,Black,notBold,italic,closed,FitHeight,0
+		Harvey Reed, Boxer im Ruhestand/84,Black,notBold,italic,closed,FitHeight,0
+		October Jones, Junge Reporterin/85,Black,notBold,italic,closed,FitHeight,0
+7. Anhang/86,Black,notBold,notItalic,closed,FitHeight,0
+	Körper-Beschreiber/86,Black,notBold,notItalic,closed,FitHeight,0
+	Geist-Beschreiber/88,Black,notBold,notItalic,closed,FitHeight,0
+	Stärken-Beschreiber/90,Black,notBold,notItalic,closed,FitHeight,0
+	Schwächen-Beschreiber/92,Black,notBold,notItalic,closed,FitHeight,0
+	Figurenbögen, Downloads/94,Black,notBold,notItalic,closed,FitHeight,0
