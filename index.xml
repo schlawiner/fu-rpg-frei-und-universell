@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FU: Das freie und universelle Rollenspiel</title>
-    <link>https://fu-rollenspiel.de/</link>
+    <link>https://fu-rollenspiel.de/index.xml</link>
     <description>Recent content on FU: Das freie und universelle Rollenspiel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <copyright>Creative Commons Attribution 3.0 Unported</copyright>
     <lastBuildDate>Mon, 06 Jun 2016 16:13:38 +0200</lastBuildDate>
     <atom:link href="https://fu-rollenspiel.de/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +43,9 @@
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
             &lt;a href=&#34;https://fu-rollenspiel.de/07-anhang/&#34;  title=&#34;Anhang&#34;&gt;Kapitel 7: Anhang&lt;/br&gt;&lt;img src=&#34;https://fu-rollenspiel.de/images/ic_list_white_24px.svg&#34;&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li class=&#34;repo-download&#34;&gt;
+            &lt;a href=&#34;https://fu-rollenspiel.de/07-anhang/&#34;  title=&#34;Downloads&#34;&gt;Downloads&lt;/br&gt;&lt;img src=&#34;https://fu-rollenspiel.de/images/ic_download_white_24px.svg&#34;&gt;&lt;/a&gt;
           &lt;/li&gt;
         &lt;/ul&gt;
 
@@ -636,7 +640,7 @@ Riesiger Rucksack, Kleine Flagge, Schwere Rollenspielbücher, Treuer Hund, Verbe
 
 &lt;h3 id=&#34;jetzt-dreht-sich-alles-ums-rollenspiel&#34;&gt;Jetzt dreht sich alles ums Rollenspiel&lt;/h3&gt;
 
-&lt;p&gt;Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt deiner Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.&lt;/p&gt;
+&lt;p&gt;Deine Beschreibung, Motive und Beziehungen sollen dir dabei helfen, deine Figur zu entwickeln und sie in die Welt eurer Geschichten und Abenteuer einzubinden. Die Erzählerin gibt dir vielleicht gelegentlich einen Würfelbonus für Dinge, die sich aus diesen drei Dingen ableiten lassen, aber das ist keinesfalls ein Muss.&lt;/p&gt;
 
 &lt;p&gt;Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spielst und wie deine Figur auf die der anderen Spielerinnen und auf ihre Umwelt reagiert.&lt;/p&gt;
 
