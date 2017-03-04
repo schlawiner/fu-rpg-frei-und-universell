@@ -14,7 +14,7 @@ creator:
 - role: pfr
   text: "Korrektur: Florian Grässle"
 - role: bkd
-  text: "Layout: Tina Trillitzsch"
+  text: "Satz: Tina Trillitzsch"
 lang: de-DE
 cover-image: cover2.png
 stylesheet: styles/pandoc-epub.css
@@ -28,13 +28,13 @@ FU ist ein Spiel voller Action, Abenteuer und Spaß – ein Rollenspiel mit gro�
 
 Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erleben, und das mit kleinstmöglichem Aufwand und Vorbereitung.
 
-FU ist vor allem ein einfaches Spiel. Dieses Buch soll dir dabei helfen, dich in wenigen Minuten von der Idee „Diese Spielwelt könnten wir doch als Rollenspiel spielen!“ zum eigentlichen Spiel zu bringen.
+FU ist vor allem ein einfaches Spiel. Dieses Buch soll dabei helfen, euch in wenigen Minuten von der Idee „Diese Spielwelt könnten wir doch als Rollenspiel spielen!“ an den Spieltisch zu bringen.
 
 Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst; das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.
 
-FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern nichts vorwegnimmt oder voraussetzt.
+FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern nichts vorwegnimmt und voraussetzt.
 
-FU ist ein Grundsystem, um das herum du deine eigene Spielwelt und deine eigenen Geschichten entwickeln kannst.
+FU ist ein Grundsystem, mit dem ihr eure eigene Spielwelt und eure eigenen Geschichten entwickeln könnt.
 
 Dennoch ist FU auf eine bestimmte Art des Spielens ausgelegt: Es eignet sich besonders für das Improvisieren aus dem Bauch heraus ohne große Vorbereitung oder detaillierte Planung. Erzählerinnen, die gerne spontan und unvorbereitet Abenteuer leiten, wird FU sicher gut gefallen, ebenso Spielerinnen, die keine Lust mehr darauf haben, dass man ihnen sagt, was alles nicht geht, statt was sie alles tun können.
 
