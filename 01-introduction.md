@@ -28,9 +28,7 @@ FU ist ein Spiel voller Action, Abenteuer und Spaß – ein Rollenspiel mit gro�
 
 Mit FU kannst du aufregende Geschichten in jeder nur vorstellbaren Spielwelt erleben, und das mit kleinstmöglichem Aufwand und Vorbereitung.
 
-FU ist vor allem ein einfaches Spiel. Dieses Buch soll dabei helfen, euch in wenigen Minuten von der Idee „Diese Spielwelt könnten wir doch als Rollenspiel spielen!“ an den Spieltisch zu bringen.
-
-Die Figurenerstellung geht schnell und ist so intuitiv, dass du jede beliebige Figur spielen kannst; das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.
+FU ist vor allem ein einfaches Spiel. Dieses Buch soll dabei helfen, euch in wenigen Minuten von der Idee „Diese Spielwelt könnte man doch als Rollenspiel spielen!“ an den Spieltisch zu bringen. Die Figurenerstellung geht schnell und ist so intuitiv, dass ihr jede beliebige Figur spielen könnt; das Spielsystem ist leicht zu erlernen und ganz einfach zu benutzen.
 
 FU ist universell oder auch „generisch“. Das bedeutet, dass sich dieses Gerüst aus Grundregeln nicht auf eine bestimmte Hintergrundgeschichte oder Spielwelt stützt, sondern nichts vorwegnimmt und voraussetzt.
 

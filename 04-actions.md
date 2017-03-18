@@ -1,6 +1,6 @@
 \newpage
 # Etwas tun
-Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern darum, dass alle Freude daran haben, die gemeinsame Geschichte zu entwickeln.
+Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern um die Freude am Entwickeln eurer gemeinsamen Geschichte.
 
 
 ## Szenen und Runden
@@ -10,7 +10,7 @@ Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tu
 
 Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, muss aber nicht. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
-Wenn es einmal wichtig ist, was die Figuren jeweils genau in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der lang genug ist, dass jede Figur genau eine Handlung durchführen kann – einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
+Wenn es einmal wichtig ist, was die Figuren jeweils in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der so lang ist, dass jede Figur genau eine Handlung durchführen kann – einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle gemeinsam, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
@@ -18,16 +18,14 @@ Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheid
 
 <div class="sidebar">
 ### Wer plant Szenen?{-}
-Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen, doch meistens legt am Ende die Erzählerin fest, welche Szenen tatsächlich gespielt werden und in welcher Reihenfolge sie stattfinden.
-
-Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen – was passiert, wo passiert es und wer ist dabei?
+Die Spielerinnen können Szenen vorschlagen, die sie gerne sehen würden oder in denen sie mitspielen wollen. Doch meistens legt am Ende die Erzählerin fest, welche Szenen tatsächlich gespielt werden – und in welcher Reihenfolge. Bevor die Erzählerin die abschließende Entscheidung trifft, könnt ihr noch gemeinsam die Reihenfolge der Ereignisse besprechen – was passiert, wo passiert es und wer ist dabei?
 
 Manche Gruppen lassen auch die Spielerinnen reihum jeweils eine Szene planen, und auch das ist völlig in Ordnung.
 
 ### Wie plant man eine Szene?{-}
-Die Szene zu planen bedeutet, daß du festlegst, wo und wann die Ereignisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis – oder Wo, Wann, Wer und Was.
+Die Szene zu planen bedeutet, dass du festlegst, wo und wann die Geschehnisse stattfinden, wer dabei ist, was kurz vorher passiert ist und was gleich passieren soll. Ort, Figuren, Ereignis – oder Wo, Wann, Wer und Was.
 
-Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante oder wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene außerdem darauf, welche Zielsetzung sie haben soll.
+Beziehe beim Beschreiben der Szene alle Sinne mit ein und stelle interessante und wichtige Details zum Handlungsort und den anwesenden Figuren heraus. Achte beim Entwickeln der Szene außerdem darauf, welche Zielsetzung sie haben soll.
 
 
 ### Was ist eine Zielsetzung?{-}
@@ -42,7 +40,7 @@ Runden sind optional, können aber nützlich sein, um die Zeit einzuteilen, wenn
 
 \newpage
 ## Ungerade Zahlen vermeiden
-Wenn eine Figur eine Handlung versucht, bei der der Ausgang nicht eindeutig oder offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
+Wenn eine Figur eine Handlung versucht, deren Ausgang nicht eindeutig oder offensichtlich ist, macht ihre Spielerin einen Würfelwurf, bei dem sie versucht, die ungeraden Zahlen zu vermeiden.
 
 Um den Ausgang der Handlung zu entscheiden, werft ihr einen W6. Das Ziel ist es, die ungeraden Zahlen zu vermeiden, also möglichst eine gerade Zahl zu werfen. Je höher die gerade Zahl, desto besser das Ergebnis. Wenn ihr eine ungerade Zahl werft, schlägt die Handlung entweder fehl, oder sie war nicht so gut wie nötig oder wie erhofft. Je niedriger die ungerade Zahl, desto schlechter das Ergebnis. Weiter unten folgt eine hilfreiche Tabelle, die das Konzept verdeutlicht.
 
@@ -66,7 +64,7 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 
 <div class="sidebar">
 ### Geschlossene Fragen{-}
-Um zu Entscheiden, wie eine Handlung ausgeht, verwendet ihr bei FU Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
+Um zu entscheiden, wie eine Handlung ausgeht, verwendet ihr bei FU Fragen in geschlossener Form. Eine geschlossene Frage kann man nur mit „Ja“ oder „Nein“ beantworten. Wenn du in eine Situation gerätst, die mit Würfeln geklärt werden muss, schlage eine geschlossene Frage vor: „Springe ich über den Abgrund?“, „Geb ich dem Trottel eins auf die Nase?“, „Fällt die Schankmaid auf meinen ungezwungenen Charme und mein gewinnendes Lächeln herein?“ Der Würfelwurf wird deine Frage beantworten und deine Reaktion leiten.
 
 Oft muss die Frage gar nicht ausdrücklich gestellt werden, sondern ergibt sich aus der Handlung, die du gerade versuchst: „Du nimmst Anlauf und springst am Rande des Abgrunds ab. Würfeln!“
 
@@ -101,7 +99,7 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele h
 \newpage
 ## Erfolg & Misserfolg
 
-Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es können auch andere Dinge passieren.
+Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:
 
@@ -118,7 +116,7 @@ Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur w
 > Nein, und...
 
 
-*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *und* und das *aber* sind einschränkende Bezeichner dafür, wie groß Erfolg oder Misserfolg sind. Wenn du eine solche Einschränkung würfelst, fügt ihr noch eine Aussage darüber hinzu, wie gut der Erfolg ist oder wie schlimm der Misserfolg. Diese Zusatzaussage kann einer Figur einen Zustand auferlegen oder ein Detail zu einer Szene hinzufügen.
+*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein zusätzlicher Satzteil angefügt, der beschreibt, wie gut dein Erfolg und wie schlimm dein Fehlschlag ist. Diese Zusatz kann entweder einer Figur einen Zustand auferlegen oder ein Szenendetail hinzufügen.
 
 **Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es gibt auch genug Platz für eure eigenen selbstgeschriebenen.
 
