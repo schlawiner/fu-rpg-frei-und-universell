@@ -7,30 +7,30 @@ Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Free
 
 <ul class="repo">
           <li class="repo-download">
-            <a href="/01-einleitung/"  title="Einleitung">Kapitel 1: Einleitung</br>
-            <img src="/images/ic_info_white_24px.svg"></a>
+            <a href="/01-einleitung/"  title="Einleitung">
+            <img src="/images/ic_info_white_24px.svg">Kapitel 1: Einleitung</a>
           </li>
           <li class="repo-download">
-            <a href="/02-grundlagen/"  title="Grundlagen">Kapitel 2: Die Grundlagen</br><img src="/images/ic_description_white_24px.svg"></a>
+            <a href="/02-grundlagen/"  title="Grundlagen"><img src="/images/ic_description_white_24px.svg">Kapitel 2: Die Grundlagen</a>
           </li>
           <li class="repo-download">
-            <a href="/03-figuren/"  title="Figuren">Kapitel 3: Die Figuren</br>
-            <img src="/images/ic_group_white_24px.svg"></a>
+            <a href="/03-figuren/"  title="Figuren">
+            <img src="/images/ic_group_white_24px.svg">Kapitel 3: Die Figuren</a>
           </li>
           <li class="repo-download">
-            <a href="/04-handeln/"  title="Handeln">Kapitel 4: Etwas tun</br><img src="/images/ic_pan_tool_white_24px.svg"></a>
+            <a href="/04-handeln/"  title="Handeln"><img src="/images/ic_pan_tool_white_24px.svg">Kapitel 4: Etwas tun</a>
           </li>
           <li class="repo-download">
-            <a href="/05-erzaehlerin/"  title="Erzählerin">Kapitel 5: Die Erzählerin</br><img src="/images/ic_face_white_24px.svg"></a>
+            <a href="/05-erzaehlerin/"  title="Erzählerin"><img src="/images/ic_face_white_24px.svg">Kapitel 5: Die Erzählerin</a>
           </li>
           <li class="repo-download">
-            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer">Kapitel 6: Beispielabenteuer</br><img src="/images/ic_explore_white_24px.svg"></a>
+            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer"><img src="/images/ic_explore_white_24px.svg">Kapitel 6: Beispielabenteuer</a>
           </li>
           <li class="repo-download">
-            <a href="/07-anhang/"  title="Anhang">Kapitel 7: Anhang</br><img src="/images/ic_list_white_24px.svg"></a>
+            <a href="/07-anhang/"  title="Anhang"><img src="/images/ic_list_white_24px.svg">Kapitel 7: Anhang</a>
           </li>
           <li class="repo-download">
-            <a href="/07-anhang/"  title="Downloads">Downloads</br><img src="/images/ic_download_white_24px.svg"></a>
+            <a href="/08-downloads/"  title="Downloads"><img src="/images/ic_download_white_24px.svg">Downloads</a>
           </li>
         </ul>
 

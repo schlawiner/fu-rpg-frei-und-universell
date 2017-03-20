@@ -259,6 +259,23 @@ tbody tr:nth-child(odd) {
     margin-right: 0;
   }
 
+  .repo-download a {
+    /*padding-top: 0.3em;*/
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .repo-download a>img {
+    width: 4em;
+    margin: 0 0.5em;
+    /*align-self:flex-start;*/
+    /*float: left;*/
+    /*float: right;*/
+    /*padding-top: 0.3em;*/
+  }
+
 
 
 .repo li:before{
