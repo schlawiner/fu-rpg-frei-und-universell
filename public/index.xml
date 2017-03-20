@@ -45,7 +45,7 @@
             &lt;a href=&#34;https://fu-rollenspiel.de/07-anhang/&#34;  title=&#34;Anhang&#34;&gt;&lt;img src=&#34;https://fu-rollenspiel.de/images/ic_list_white_24px.svg&#34;&gt;Kapitel 7: Anhang&lt;/a&gt;
           &lt;/li&gt;
           &lt;li class=&#34;repo-download&#34;&gt;
-            &lt;a href=&#34;https://fu-rollenspiel.de/07-anhang/&#34;  title=&#34;Downloads&#34;&gt;&lt;img src=&#34;https://fu-rollenspiel.de/images/ic_download_white_24px.svg&#34; width=&#34;48px&#34;&gt;Downloads&lt;/a&gt;
+            &lt;a href=&#34;https://fu-rollenspiel.de/08-downloads/&#34;  title=&#34;Downloads&#34;&gt;&lt;img src=&#34;https://fu-rollenspiel.de/images/ic_download_white_24px.svg&#34;&gt;Downloads&lt;/a&gt;
           &lt;/li&gt;
         &lt;/ul&gt;
 
@@ -1917,11 +1917,29 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;h2 id=&#34;figurenvorlage&#34;&gt;Figurenvorlage&lt;/h2&gt;
 
-&lt;p&gt;Ein Figurenbogen zum Ausdrucken und Ausfüllen ist unter folgender Adresse zum Herunterladen erhältlich:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf&#34;&gt;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ein Figurenbogen in verschiedenen Varianten zum Ausdrucken und Ausfüllen ist &lt;a href=&#34;https://fu-rollenspiel.de/08-downloads/&#34;&gt;im Downloadbereich dieser Seite&lt;/a&gt; zum Herunterladen erhältlich!&lt;/p&gt;
 
 &lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Downloads und Dateien</title>
+      <link>https://fu-rollenspiel.de/08-downloads/</link>
+      <pubDate>Mon, 20 Mar 2017 17:10:42 +0100</pubDate>
+      
+      <guid>https://fu-rollenspiel.de/08-downloads/</guid>
+      <description>&lt;p&gt;Noch gibt es das deutsche FU nur in Form dieses Web-SRDs. In Kürze folgen hier aber PDF- und E-Pub-Versionen zum Ausdrucken und für E-Bookreader.&lt;/p&gt;
+
+&lt;p&gt;Hier nun schon einmal &lt;strong&gt;Figurenbögen&lt;/strong&gt; in drei Varianten:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-ungerade.pdf&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Ungerade schlagen&amp;rdquo;&lt;/strong&gt; (1, 3, 6 sind Nein, 2, 4, 6 sind Ja)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-hoch-ist-gut.pdf&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Höher ist besser&amp;rdquo;&lt;/strong&gt; (1-3 ist Nein, 4-6 ist Ja)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-leer.pdf&#34;&gt;Mit leeren Feldern für &lt;strong&gt;eigene Beschreibernamen&lt;/strong&gt; und selbstgewähltes Würfelsystem (gewünscht Zahlen in die leeren Würfelfelder eintragen).&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
