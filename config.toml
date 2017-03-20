@@ -25,9 +25,7 @@ googleAnalytics = ""
 	permalink = "#"
 
 	# Custom assets
-	custom_css = [
-		"stylesheets/custom_style.css"
-	]
+	custom_css = ["stylesheets/custom_style.css"]
 	custom_js  = []
 
 	# Syntax highlighting theme
@@ -92,6 +90,11 @@ googleAnalytics = ""
 	name   = "7. Anhang"
 	url    = "07-anhang/"
 	weight = 70
+
+	[[menu.main]]
+		name   = "8. Downloads"
+		url    = "08-downloads/"
+		weight = 70
 
 	[[menu.main]]
 		name   = "[Impressum]"
