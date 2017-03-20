@@ -137,8 +137,6 @@ Diese Liste ist bei weitem nicht vollständig, aber ein guter Startpunkt. Jeder 
 **Jung:** problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden will, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte.
 
 ## Figurenvorlage
-Ein Figurenbogen zum Ausdrucken und Ausfüllen ist unter folgender Adresse zum Herunterladen erhältlich:
-
-[https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf] (https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/fu-figurenbogen.pdf)
+Ein Figurenbogen in verschiedenen Varianten zum Ausdrucken und Ausfüllen ist [im Downloadbereich dieser Seite](/08-downloads/) zum Herunterladen erhältlich!
 
 ---
