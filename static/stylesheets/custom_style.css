@@ -106,7 +106,7 @@ appearance: checkbox;
   padding-top: 0;
   margin-top: 1em;
   padding-left: 0;
-  color: #b9850b;
+  color: #b9850b!important;
   /*margin-top: 10px!important;*/
 }
 
@@ -115,6 +115,7 @@ appearance: checkbox;
   font-size:1.296em;
   margin-bottom: 0.5em;
   color: darkgreen;
+  font-family: Arvo, serif;
 }
 
 .article h4{
@@ -132,7 +133,7 @@ appearance: checkbox;
 
 .article table, .article thead, .article th {font-size: inherit !important;}
 
-.current { color: #b9850b; }
+.anchor .current { color: #b9850b!important; }
 
 figcaption {}
 
