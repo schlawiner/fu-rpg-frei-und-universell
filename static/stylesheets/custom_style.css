@@ -129,6 +129,10 @@ appearance: checkbox;
     line-height: 1.5em;
     /*text-indent: 1em;*/
     /*font-size: 100%;*/
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 .article table, .article thead, .article th {font-size: inherit !important;}
@@ -143,10 +147,15 @@ blockquote {
   border-left: 7px solid rgb(124, 179, 66)!important;
 //  background-color: rgb(195, 216, 173);
   color: #4f712b!important;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 blockquote p {
   margin: 0.7em !important;
+
 }
 
 /*blockquote p {

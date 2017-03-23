@@ -22,13 +22,13 @@
 		{{ partial "drawer" . }}
 	</div>
 
-	<article class="article">
+	<article class="article" lang="de">
 		<div class="wrapper">
 			<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
 
 			{{ .Content }}
 
-			<aside class="copyright" role="note">
+			<aside class="copyright" role="note" lang="de">
 				{{ with .Site.Params.copyright }}
 				&copy; {{ $.Now.Format "2006" }} {{ . }} &ndash;
 				{{ end }}

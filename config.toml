@@ -31,6 +31,9 @@ googleAnalytics = ""
 	# Syntax highlighting theme
 	highlight_css  = ""
 
+	# language
+	defaultContentLanguage =     "de"
+
 	[params.palette]
 	# primary = "light-blue"
 	# accent  = "cyan"
