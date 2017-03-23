@@ -13,3 +13,4 @@ Hier nun schon einmal **Figurenbögen** in drei Varianten:
 - [Für Würfelsystem **"Höher ist besser"** (1-3 ist Nein, 4-6 ist Ja)](https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-hoch-ist-gut.pdf)
 
 - [Mit leeren Feldern für **eigene Beschreibernamen** und selbstgewähltes Würfelsystem (gewünscht Zahlen in die leeren Würfelfelder eintragen).](https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-leer.pdf)
+---

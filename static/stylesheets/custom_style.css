@@ -104,7 +104,7 @@ appearance: checkbox;
   line-height: 1em;
   margin-bottom: 0.5em;
   padding-top: 0;
-  margin-top: 1em;
+  margin-top: 1.5em;
   padding-left: 0;
   color: #b9850b!important;
   /*margin-top: 10px!important;*/
@@ -112,14 +112,14 @@ appearance: checkbox;
 
 
 .article h3 {
-  font-size:1.296em;
+  font-size:1.1em;
   margin-bottom: 0.5em;
   color: darkgreen;
   font-family: Arvo, serif;
 }
 
 .article h4{
-  font-size:1.215em;
+  font-size:1.1em;
 }
 
 .article p {
@@ -143,10 +143,15 @@ appearance: checkbox;
 
 .anchor .current { color: #b9850b!important; }
 
-figcaption {}
+figcaption {
+  font-size: 0.85em;
+  line-height: 1.2;
+  text-align: center;
+  font-style: normal;
+}
 
 blockquote {
-  margin: 1em;
+  margin: 1em 0;
   padding: 0.7em 0.5em;
   border-left: 7px solid rgb(124, 179, 66)!important;
 //  background-color: rgb(195, 216, 173);
@@ -415,6 +420,8 @@ tbody tr:nth-child(odd) {
 }
 
  .image.right, .image.left {max-width: 60%}
+
+ /*blockquote { margin-left: 0; }*/
 }
 
 @media screen and (min-width: 506px){
