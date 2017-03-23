@@ -129,6 +129,10 @@ appearance: checkbox;
     line-height: 1.5em;
     /*text-indent: 1em;*/
     /*font-size: 100%;*/
+    /*-ms-word-break: break-all;*/
+    /*word-break: break-all;*/
+    /*Non standard for webkit*/
+    word-break: break-word;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   -ms-hyphens: auto;
@@ -455,7 +459,7 @@ tbody tr:nth-child(odd) {
   text-align:left !important;
 }
 
-.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article .data, .article ul {
+.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article aside, .article .data, .article ul {
   /*padding-left: 30px;*/
   margin-left: 40px;
   margin-right: 20px;
