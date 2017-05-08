@@ -1,6 +1,6 @@
 \newpage
 # Etwas tun
-Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder um den Wettbewerb miteinander, sondern um die Freude am Entwickeln eurer gemeinsamen Geschichte.
+Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder Wettkampf, sondern um die Freude am Entwickeln eurer gemeinsamen Geschichte.
 
 
 ## Szenen und Runden
@@ -10,7 +10,7 @@ Im Laufe der Szene beschreiben Erzählerin und  Spielerinnen, was die Figuren tu
 
 Der Ausgang von Szenen kann durch Würfelwürfe entschieden werden, muss aber nicht. Es ist durchaus möglich, dass das Ziel einer Szene durch reines Rollenspiel und Interaktion zwischen den Figuren erreicht wird.
 
-Wenn es einmal wichtig ist, was die Figuren jeweils in welcher Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der so lang ist, dass jede Figur genau eine Handlung durchführen kann – einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
+Wenn es einmal wichtig ist, was die Figuren jeweils in welcher genauen Reihenfolge tun, unterteilt ihr die Szene in Runden. Eine Runde ist ein Zeitraum, der so lang ist, dass jede Figur genau eine Handlung durchführen kann – einen Angriff machen, eine mitreißendene Rede halten, einen Gegenstand zu einer Mitstreiterin werfen, etwas auf dem Smartphone nachschlagen oder eine andere Aufgabe.
 
 Die Spielerinnen sagen, was ihre Figuren tun, während die Erzählerin entscheidet, wie die anderen Figuren und Wesen agieren. Nun entscheidet ihr alle gemeinsam, in welcher Reihenfolge das alles passiert. Wenn jede betroffene Figur die Gelegenheit zum Handeln hatte, endet die Runde. Wenn nötig, beginnt danach eine neue.
 
@@ -53,14 +53,14 @@ Der Wurf zur Vermeidung der ungeraden Zahlen ist das Herzstück von FU. Meistens
 > Captain Vance geht in Deckung, als ein erneuter Kugelhagel die Mauer trifft, hinter der er sich versteckt. Er greift nach einem beschädigten Funkgerät und betätigt ein paar Schalter, um beim Hauptquartier Unterstützung anzufordern. Ihr werft einen W6 und es fällt eine 1. Vance findet die richtige Frequenz nicht, und ein Querschläger trifft das Funkgerät. Es ist zerstört.
 
 
-| Wurf | Bekommst du, was du willst?                                                             |
+| Wurf | Schaffst du, was du vorhast?                                                             |
 |:-------:|:----------------------------------------------------------------------------------------|
-| 6    | **Ja, und ...** Du bekommst, was du willst, und noch etwas mehr.                        |
-| 4    | **Ja ...** Du bekommst, was du willst.                                                  |
-| 2    | **Ja, aber ...** Du bekommst, was du willst, aber es hat einen Preis.                   |
-| 5    | **Nein, aber ...** Du bekommst nicht, was du willst, aber es ist kein völliger Verlust. |
-| 3    | **Nein ...** Du bekommst nicht, was du willst.                                          |
-| 1    | **Nein, und ...** Du bekommst nicht, was du willst, und es wird noch schlimmer.         |
+| 6    | **Ja, und ...** Du schaffst es und bekommst sogar noch etwas dazu.                        |
+| 4    | **Ja ...** Du schaffst es.                                                  |
+| 2    | **Ja, aber ...** Du schaffst es, aber es hat einen Preis.                   |
+| 5    | **Nein, aber ...** Du schaffst es nicht, aber es ist kein völliger Verlust. |
+| 3    | **Nein ...** Du schaffst es nicht.                                          |
+| 1    | **Nein, und ...** Du schaffst es nicht und es wird noch schlimmer.         |
 
 <div class="sidebar">
 ### Geschlossene Fragen{-}
@@ -99,7 +99,7 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele h
 \newpage
 ## Erfolg & Misserfolg
 
-Wenn du die Würfel wirfst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
+Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:
 
@@ -116,49 +116,47 @@ Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur w
 > Nein, und...
 
 
-*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein zusätzlicher Satzteil angefügt, der beschreibt, wie gut dein Erfolg und wie schlimm dein Fehlschlag ist. Diese Zusatz kann entweder einer Figur einen Zustand auferlegen oder ein Szenendetail hinzufügen.
+*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein Satzteil angefügt, der beschreibt, wie groß dein Erfolg oder dein Fehlschlag ist. Diese Zusatz kann entweder einer Figur einen *Zustand* auferlegen oder ein *Szenendetail* hinzufügen.
 
-**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige Zustände stehen schon auf den FU-Figurenbögen und es gibt auch genug Platz für eure eigenen selbstgeschriebenen.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbögen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
 
-**Details**: Dies sind Merkmale der Umgebung oder Szene, die sich durch den Ausgang einer Handlung verändern können. Details können z.B. Feuer fangende Vorhänge, zersplitternde Fenster, davonlaufende Tiere oder angehaltene Maschinen sein. Details sind immer eng verknüpft mit der Szene und der versuchten Handlung.
+**Details**: Dies sind Umgebungs- oder Szenenmerkmale, die sich verändern können, wenn eine Figur etwas tut. Details können z.B. Vorhänge sein, die Feuer fangen, Fenster, die zersplittern, Tiere, die davonlaufen oder Maschinen, die angehalten sind. Details sind immer eng verknüpft mit der jeweiligen Szene und dem, was die Figur versucht zu tun.
 
 <div class="sidebar">
 ### Beispiele für Erfolg & Misserfolg{-}
 Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage „**Überspringt Sir Camden die Hecke?**“ passieren würde:
 
-**Ja, und** er holt Lord Kane ein. Dies ist ein Detail, das die Szene verändert.  
-**Ja,** er springt über die Hecke. Hier gibt es keine Und-/Aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
-**Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein Zustand, der der Figur auferlegt wird.  
-**Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses Detail gibt der Figur eine neue Möglichkeit, die Verfolgung fortzuführen.  
-**Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine Und-/Aber-Einschränkung, also werden weder Zustand noch Detail hinzugefügt.  
-**Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein Zustand.
+**Ja, und** er holt Lord Kane ein. Dies ist ein *Detail*, das die Szene verändert.  
+**Ja,** er springt über die Hecke. Hier gibt es keinen Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
+**Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein *Zustand*, der der Figur auferlegt wird.  
+**Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses *Detail* gibt der Figur eine neue Möglichkeit, die Verfolgung fortzuführen.  
+**Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
+**Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein *Zustand*.
 
 ### Wer entscheidet über Zustände & Details?{-}
-Alle können Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Normalerweise überlegt sich die Spielerin, die gewürfelt hat, zusammen mit der Erzählerin eine passende dramatische Auswirkung. Noch schöner ist es, wenn alle am Tisch ihre tollen Ideen einbringen.  
-Wenn es darum geht, welcher Zustand oder welches Detail am Ende auf das Ergebnis angewendet wird, hat die Erzählerin jedoch immer das letzte Wort.
+Alle Spielerinnen dürfen Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Üblicherweise entscheiden sich die würfelnde Spielerin und die Erzählerin gemeinsam für eine passende dramatische Auswirkung. Wenn alle am Tisch gute Ideen einbringen, ist das natürlich noch schöner. Das letzte Wort darüber, welcher Zustand oder welches Detail am Ende benutzt wird, hat jedoch immer die Erzählerin.
 
 ### Wann soll ich Zustände verwenden?{-}
-Wie bei allen Einschränkungen hängt das von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur nach einem geringen Erfolg oder sogar völligen Misserfolg das Leben etwas schwerer. Du kannst auch einer anderen Figur Zustände auferlegen, wenn sie das Ziel einer Handung war, die für deine Figur gut ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, kannst du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, könnte er dich einholen, aber dafür den Zustand **müde** erhalten. Wenn ihr Zustände so benutzt, haben die Figuren der Spielerinnen im weiteren Verlauf der Szene wahrscheinlich einen Vorteil.
+Das hängt von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur nach einem schwachen Erfolg oder einem schweren Misserfolg das Leben etwas schwerer. Du kannst auch anderen Figuren Zustände auferlegen, wenn sie das Ziel einer Handung war, die für deine Figur gut ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, kannst du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, holt er dich vielleicht ein, erhält aber dafür den Zustand **müde**. So eingesetzt können Zustände euch also Vorteile für den späteren Verlauf der Szene verschaffen.
 
 ### Wann soll ich Details benutzen?{-}
-Füge Details hinzu, wenn die versuchte Handlung in irgendeiner Form die Szene oder Umgebung verändert. Das können neue Machtverhältnisse sein („**Ja,** er springt über die Hecke **und** holt Lord Kane ein.“), oder eine geänderte Umgebung („**Nein, aber** er entdeckt eine Lücke in der Hecke.“).  
-Oft kommen Details zum Einsatz, wenn die aktive Figur einen gewissen Vorteil erlangt (**Ja, und/Nein, aber**). Besonders effektvoll sind Details aber auch, wenn sie Situationen unterhaltsamer und/oder gefährlicher machen: „Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand.“  
+Füge Details hinzu, wenn die versuchte Handlung in irgendeiner Form die Szene oder das Drumherum verändert. Das können neue Machtverhältnisse sein („**Ja,** er springt über die Hecke **und** holt Lord Kane ein.“), oder eine geänderte Umgebung („**Nein, aber** er entdeckt eine Lücke in der Hecke.“). Details werden oft eingesetzt, um der aktiven Figur einen gewissen Vorteil zu geben (**Ja, und/Nein, aber**). Sie können aber auch sehr effektiv die Situation unterhaltsamer oder gefährlicher machen: „Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand.“  
 
-Details können, abhängig von den Umständen, sofortige oder dauerhafte Wirkung haben. Eine Lücke in der Hecke kann sofort benutzt werden, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
+Details können, abhängig von den Umständen, unmittelbar oder dauerhaft wirksam sein. Eine Lücke in der Hecke kann hier und jetzt einmalig nutzen, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
 </div>
 
 ## Würfe modifizieren
 Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung leichter oder schwerer. Modifikatoren verändern die Anzahl der Würfel, die du werfen darfst, wenn du etwas tun willst.
 
-**Dinge einfacher nachen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
+**Dinge einfacher nachen**: Wirf je einen zusätzlichen Bonuswürfel pro Beschreiber, Ausrüstungsgegenstand, Zustand und Detail, die einen Vorteil für die gemachte Handlung bringen. Das Ergebnis ist der beste gefallene Würfel (nicht unbedingt der mit dem höchsten Wert), nach Wahl der Spielerin.
 
 
-> Im Wald versucht Sir Camden, Lord Kane aufzuspüren. Du merkst an, dass der Ritter ein **guter Jäger** ist, daher bekommst du einen weiteren W6. Du wirfst 2W6 und es fallen eine 5 und eine 4. Du nimmst die 4 und es wird entschieden, dass Sir Camden nach kurzer Suche die Spuren von Lord Kane findet und ihnen zu einer finsteren Zitadelle folgt ...
+> Im Wald versucht Sir Camden, Lord Kane aufzuspüren. Du merkst an, dass der Ritter ein **guter Jäger** ist, daher bekommst du einen wei­ter­en W6 als Bonus. Du wirfst 2W6 und es fallen eine 5 (Nein, aber) und eine 4 (Ja). Du nimmst das Ja (4) und es wird entschieden, dass Sir Camden nach kurzer Suche den Spuren von Lord Kane  zu einer finsteren Zitadelle folgen kann ...
 
 
-**Dinge schwieriger machen**: Wirf je einen zusätzlichen Würfel für alle Beschreiber, Ausrüstungsgegenstände, Zustände und Details, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
+**Dinge schwieriger machen**: Wirf je einen zusätzlichen Maluswürfel pro Beschreiber, Ausrüstungsgegenstand, Zustand und Detail, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
-> Captain Vance beschliesst, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 und eine 5. Du musst die 3 nehmen und Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
+> Captain Vance beschließt, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 (Nein) und eine 5 (Nein, aber). Du musst das Nein (3) nehmen Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
 **Aufhebung**: Je ein helfender Würfel hebt einen erschwerenden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 

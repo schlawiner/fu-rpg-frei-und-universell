@@ -57,7 +57,7 @@ Beschreiber sind gut, wenn alle am Tisch sie verstehen. Wenn eine von euch einen
 Jeder Beschreiber ist ein wesentlicher Teil der Figur, der untrennbar mit ihr verbunden ist. Normalerweise können Beschreiber ihr also auch nicht weggenommen oder entfernt werden oder verloren gehen (allerdings können sie unter Umständen vergessen oder eingeschränkt sein). Nimm daher keine Gegenstände oder Geräte als Beschreiber.
 
 ### Die Reichweite von Beschreibern ist beschränkt {.unnumbered}
-Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe von anderer, nicht vorhersehbarer Umstände anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist daher beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden und ist zu allgemein (*„Als Arzt bin ich gebildet und ziemlich wohlhabend ...“*).
+Jeder Beschreiber sollte ein oder zwei konkrete, offensichtliche Anwendungsgebiete haben. Er kann natürlich auch in einer ganzen Reihe anderer, nicht vorhersehbarer Umstände anwendbar sein, doch das ergibt sich erst im Laufe des Spiels. **Medizin** ist daher beispielsweise besser als **Arzt**, denn Letzteres kann auch in allerlei nichtmedizinischen Situationen eingesetzt werden und ist zu allgemein (*„Als Arzt bin ich gebildet und ziemlich wohlhabend ...“*).
 
 ### Was für ein Beschreiber ist das? {.unnumbered}
 Manche Beschreiber passen problemlos in mehrere Kategorien  – **gutes Gedächtnis** könnte zum Beispiel entweder ein Geist- oder ein Stärke-Beschreiber sein. **Hässlich** kann ein Schwäche- oder ein Körper-Beschreiber sein. Das macht nichts. Entscheidet einfach gemeinsam, ob ein Beschreiber für eure Geschichten passt oder nicht.
@@ -68,7 +68,7 @@ Die besten Schwächen sind Persönlichkeitsmerkmale oder körperliche Defizite. 
 
 ### Soll ich mich spezialisieren? {.unnumbered}
 Du kannst deine Beschreiber eng auf ein einziges Konzept konzentrieren und dich so „spezialisieren“. Einer richtig furchteinflößenden Kriegerin kannst du Körper: **stark**, Geist: **Taktikerin**, Stärke: **Nahkampf** und Schwäche: **leichtsinnig** geben. Es wäre nicht schwer, fast alle dieser Beschreiber ins Spiel zu bringen, wenn ihr in einem Kampf geratet. Jedoch hat die Figur so kaum Tiefe – in Situationen ohne Kampf wirst du blöd dastehen. Stattdessen könntest du ein paar Beschreiber durch vielseitigere ersetzen – Körper: **zäh**, Geist: **konzentriert**, Stärke: **Nahkampf** und Schwäche: **leichtsinnig**.
-Beschreibe den Körper deiner Figur als **Gewaltig** und ihre Stärke als **Stark**, wenn du eine Ringerin, Bodybuilderin oder einen wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Manche Spielerinnen empfinden das als willkommene Herausforderung.
+Beschreibe den Körper deiner Figur als **gewaltig** und ihre Stärke als **stark**, wenn du eine Ringerin, Bodybuilderin oder einen wütenden grünen Superhelden willst. Gib deiner genialen Wissenschaftlerin Geist: **belesen** und Stärke: **Raketentechnik**. Bedenke aber: Je stärker du dich spezialisierst, desto mehr musst du dich in Szenen anstrengen, die nichts mit deinen Begabungen zu tun haben. Manche Spielerinnen empfinden das als willkommene Herausforderung.
 
 ### Beschreiber-Alternativen {.unnumbered}
 Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) nicht die einzige Möglichkeit, eure Figuren zu definieren. Ändert oder ersetzt sie, um sie an eure Spielwelt und eure Geschichten anzupassen. In einem Spiel über Riesen-Kampfroboter könntet ihr statt Körper und Geist zum Beispiel Chassis und Pilot verwenden. In einem Spiel, in dem alle unterschiedliche Werwesen spielen, könnte ein Beschreiber durch „Tierform“ ersetzt werden. In solchen Fällen müssen die oben erwähnten Ratschläge teilweise angepasst werden; Tierform: **Jaguar** ist viel umfassender als die bisher angesprochenen Beschreiber, kann aber in diesem Fall genau passen, um den Ansatz eures Spiels abzubilden. Seid kreativ und macht bei Bedarf eigene Änderungen.
@@ -79,7 +79,7 @@ Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) nicht die 
 
 Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
-Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzen Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzem Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.
 
 Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
 
@@ -115,9 +115,9 @@ Jedes Ausrüstungsteil sollte etwas zur Charakterisierung deiner Figur beitragen
 Ausrüstung gehört nie fest zu einer einer Figur – sie kann fallengelassen werden, verloren oder kaputt gehen oder gestohlen werden. Ein **kybernetischer Arm** ist keine Ausrüstung, ein **gepanzerter Roboterhandschuh** dagegen schon.
 
 ### Ausrüstung beschreiben{-}
-Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und Interessantes über den Gegenstand aussagen. Ein **langer Dolch** ist zwar ganz gut, aber ein **zerbrochener Dolch** ist noch besser!
+Wenn du deine Ausrüstung beschreibst, lass das dazugehörige Adjektiv etwas Nützliches und Interessantes über den Gegenstand aussagen. Ein **langer Dolch** ist zwar nicht verkehrt, aber ein **zerbrochener Dolch** ist noch besser!
 
-Die Beschreibung deiner Ausrüstung sollte, genau wie deine Beschreiber auch, klar und eindeutig sein – es dürfen keine Zweifel darüber bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
+Die Beschreibung deiner Ausrüstung sollte, genau wie deine Beschreiber auch, klar und eindeutig sein – es darf kein Zweifel bestehen, wofür sie gut ist oder was ihre Haupteigenschaft ist.
 
 ### Nur ein einziges Adjektiv{-}
 Die Beschreibung jedes Ausrüstungsgegenstandes sollte sich auf genau ein Adjektiv beschränken – nicht mehr und nicht weniger. Ein **scharfer Säbel** ist gut, ein **magisches Schwert** auch, aber ein **scharfer magischer Säbel** ist nicht erlaubt.
@@ -146,7 +146,7 @@ Inzwischen hast du bestimmt schon eine ganz gute Vorstellung von deiner Figur. J
 >
 > Tennessee Smith ist ein eigentlich friedfertiger Geschichtsprofessor, der in seiner Freizeit allerdings oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!
 
-> Ninas Beschreibung ihrer ausserirdischen Botschafterin ist folgendermaßen:  
+> Nina beschreibt ihre ausserirdische Botschafterin so:  
 >
 > Lumina ist eine wichtige Diplomatin vom Planeten Jupiter, welcher vom Schreckensfürst Kang regiert wird. Wie alle ihrer Art hat sie lila Haut, einen haarlosen Kopf und feine Gesichtszüge. Lumina arbeitet für die Jupiter-Untergrundbewegung und versucht, Schreckensfürst Kang zu stürzen.
 
@@ -178,10 +178,10 @@ Nutze deine Motive und Beziehungen als Richtlinie dafür, wie du deine Rolle spi
 Wenn du dein Motiv aussuchst, kannst du frei zwischen lang- und kurzfristigen Zielen wählen. Wenn ihr nur ein Spiel mit einer einzigen Sitzung spielt, ist es am besten, etwas zu nehmen, das eine sofortige und direkte Wirkung auf die Geschichte hat. Wenn ihr eine ganze Reihe von Spielen plant, kannst du dir aber für deine Figur durchaus ein Ziel ausdenken, für das sie länger braucht.
 
 ### Wie viele Beziehungen?{-}
-Am Anfang reichen zwei Beziehungen. Such dir zwei verschiedene Figuren aus und entscheide, woher du sie kennst. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben – oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„verliebt in“/„angewidert von“**).
+Am Anfang reichen zwei Beziehungen. Sucht euch zwei verschiedene Figuren aus und entscheidet, woher sie sich kennen. Du kannst gemeinsam mit einer Mitspielerin die Beziehung zwischen euren Figuren festlegen, oder ihr nehmt getrennte Beziehungen, die nichts miteinander zu tun haben – oder sogar „gegenläufige“ Beziehungen (zum Beispiel: **„verliebt in“/„angewidert von“**).
 
-### Seid keine Feinde{-}
-Entwerft keine Motive oder Beziehungen, bei denen sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
+### Spielt keine Feinde{-}
+Entwerft keine Motive oder Beziehungen, durch die sich die Figuren dauernd in den Haaren liegen. Es macht nichts, wenn sie nicht immer einer Meinung sind (das kann sogar Spaß machen!), aber sie sollten sich nicht hassen. Die Figuren müssen schließlich zusammenhalten, um Feinde bezwingen, das Geheimnis lösen oder den Auftrag erfüllen zu können.
 </div>
 
 <!--make a new page for the pdf that is genrated by latex - latex command -->
