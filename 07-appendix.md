@@ -39,7 +39,7 @@ Diese Liste ist längst nicht vollständig, aber ein guter Startpunkt. Jeder Ein
 
 **Hässlich:** ein Problem bei der Verführung oder wenn man eine Fernsehrolle haben will.
 
-**Lebenskraft:** großartig, um der Wirkung von Giften zu widerstehen, bei Langstreckenläufen und bei anderen Ausdauertätigkeiten.
+**Vital:** großartig, um der Wirkung von Giften zu widerstehen, bei Langstreckenläufen und bei anderen Ausdauertätigkeiten.
 
 **Schwächlich:** lästig beim Anheben, Tragen, Zerschlagen und Werfen von Dingen.
 
@@ -136,6 +136,8 @@ Diese Liste ist längst nicht vollständig, aber ein guter Startpunkt. Jeder Ein
 **Jung:** problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden will, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte.
 
 ## Figurenvorlage
-Ein Figurenbogen zum Ausdrucken und Ausfüllen ist unter folgender Adresse zum Herunterladen erhältlich:
+Es folgen leere Figurenbögen zum Ausdrucken oder Kopieren und Ausfüllen in drei verschiedenen Ausführungen: einmal mit Wurfübersicht zum Standard­würfel­sys­tem "Ungerade vermeiden", einmal für das von vielen be­vorzugte System "1-3 ist schlecht, 4-6 ist gut" und zuletzt einmal mit leeren Feldern für eigene Beschreibernamen und das Würfelsystem eurer Wahl (gewünschte Zahlen in die leeren Würfelfelder eintragen).
 
-[https://raw.githubusercontent.com/schlawiner/fu-frei-und-universell/master/fu-figurenbogen.pdf] (https://raw.githubusercontent.com/schlawiner/fu-frei-und-universell/master/fu-figurenbogen.pdf)
+Die Bögen könnt ihr auch unter folgender Adresse im großzügigeren DIN A4-Format herunterladen:
+[www.fu-rollenspiel.de](www.fu-rollenspiel.de)
+Dort finden sich auch eine Online-Referenz dieser Regeln und PDF- und Epub-Versionen zum Download.

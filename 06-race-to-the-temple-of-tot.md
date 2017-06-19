@@ -12,23 +12,23 @@ Lies den obigen Stimmungstext vor und lasse alle Mitspielerinnen ein paar Ideen 
 
 
 ## Szenen
-Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handlungsortes und Vorschläge für Beschreiber, die du und deine Spielerinnen nutzen könnt. Der kursive Teil legt den Grundstein für die Handlung und gibt  das Ziel vor. Umschreibe deinen Spielerinnen die Details in eigenen Worten.
+Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handlungsortes und Vorschläge für Beschreiber, die ihr nutzen könnt. Der kursive Teil legt den Grundstein für die Handlung und gibt  das Ziel vor. Umschreibe deinen Spielerinnen die Details in eigenen Worten.
 
 ## Herausforderungen
-Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellungen gedacht, die du aber nicht zwingend alle benutzen musst. Deine eigenen coolen Ideen sollten immer Vorrang haben vor dem, was hier geschrieben steht!
+Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht. Du musst aber nicht zwingend alle benutzen; deine eigenen coolen Ideen haben immer Vorrang haben vor dem, was hier geschrieben steht!
 
 ## Flucht vom Bulak-Markt
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
 
-_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte haben wollen. Es sind ziemlich viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
+_Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebracht. Dummerweise sind nun Nazihandlanger aufgetaucht, die ebenfalls die Karte wollen. Es sind ziemlich viele, und obwohl die Figuren gegen sie kämpfen könnten, wäre es wohl einfacher zu fliehen. Können sie entkommen?_
 
 |    Gegenspieler: | Nazischlägertypen                                         |
 |----------------:|:----------------------------------------------------------|
-| **Beschreiber** | Zahlreich, Muskulöse Arier, Nicht sehr schlau             |
-|  **Ausrüstung** | Laute Maschinenpistolen                                   |
-|    **Zustände** | [ ] Verwirrt, [ ] Eingekreist, [ ] Aufgehalten, [ ] Außer Gefecht |
+| **Beschreiber** | zahlreich, muskulöse Arier, nicht sehr schlau             |
+|  **Ausrüstung** | laute Maschinenpistolen                                   |
+|    **Zustände** | [ ] verwirrt, [ ] eingekreist, [ ] aufgehalten, [ ] außer Gefecht |
 
 **Bemerkungen:** Es gibt so viele Schlägertrupps wie Spielerinnenfiguren.  
 **Was kann schiefgehen?** Die Figuren werden gefangen genommen; die Karte geht verloren.
@@ -38,12 +38,12 @@ _Die Figuren haben gerade eine Karte zum Tempel von Toth in ihren Besitz gebrach
 
 **Beschreiber:** Abgeschieden.
 
-_Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber übersetzen und die seltsamen Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?_
+_Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber übersetzen und die sonderbaren Symbole und Beschriftungen entziffern. Können sie die Karte entschlüsseln?_
 
 | Herausforderung: | Die Übersetzung der Karte                                     |
 |----------------:|:--------------------------------------------------------------|
-| **Beschreiber** | Uralte Schriftzeichen, brüchiges Papier                       |
-|    **Zustände** | [ ] Zerrissen, [ ] Zerfallen, [ ] Verschmutzt, [ ] Zu Asche verbrannt |
+| **Beschreiber** | uralte Schriftzeichen, brüchiges Papier                       |
+|    **Zustände** | [ ] zerrissen, [ ] zerfallen, [ ] verschmutzt, [ ] zu Asche verbrannt |
 
 **Was kann schiefgehen?** Die Karte wird beschädigt; die Figuren missverstehen die Karte; sie können die Karte nicht entziffern und brauchen die Hilfe eines Experten für alte Sprachen.
 
@@ -51,48 +51,48 @@ _Tennessee Smith und seine Begleiter haben die Karte, müssen sie nun aber über
 ## Die Gou-Zou-Schlucht
 **Szene:** Die majestätische Gou-Zou-Schlucht, 800 Meter tief und von einer einsamen Eisenträger-Bahnbrücke überspannt. Zu beiden Seiten der Schlucht liegt weites, offenes Flachland und in weiter Ferne kann man das Kau-Gebirge erkennen.
 
-**Beschreiber:** Weite Ebenen, Unpassierbare Schlucht.
+**Beschreiber:** weite Ebenen, unpassierbare Schlucht.
 
 _Die Figuren folgen den Hinweisen auf der Karte bis zur Gou-Zou-Schlucht, entweder per Automobil oder auf dem Pferd. Giles Fishburne ist ihnen an Bord des deutschen Luftschiffs „Der Vogel“ hart auf den Fersen. Können die Figuren die Brücke unbeschadet überqueren und ihren Vorsprung gegenüber den Deutschen halten?_
 
 |    Gegenspieler: | Nazi-Flugtruppen                                         |
 |----------------:|:---------------------------------------------------------|
-| **Beschreiber** | Sie fliegen!, Beweglich                                  |
-|  **Ausrüstung** | Störanfälliges Fluggeschirr, Tödliche Stielhandgranate   |
-|    **Zustände** | [ ] Verwirrt, [ ] Gestrandet, [ ] Aufgehalten, [ ] Außer Gefecht |
+| **Beschreiber** | sie fliegen!, beweglich                                  |
+|  **Ausrüstung** | störanfälliges Fluggeschirr, tödliche Stielhandgranate   |
+|    **Zustände** | [ ] verwirrt, [ ] gestrandet, [ ] aufgehalten, [ ] außer Gefecht |
 
 **Bemerkungen:** Es gibt so viele Flugtruppen wie Figuren.
 
 
 | Herausforderung: | Gou-Zou-Brücke                                      |
 |----------------:|:----------------------------------------------------|
-| **Beschreiber** | Ohne Zug drauf breit, mit Zug ziemlich schmal |
-|    **Zustände** | [ ] Wacklig, [ ] In die Luft gejagt                   |
+| **Beschreiber** | ohne Zug drauf breit, mit Zug ziemlich schmal |
+|    **Zustände** | [ ] wacklig, [ ] in die Luft gejagt                   |
 
 **Bemerkungen:** Dir ist klar, dass du einen heranrasenden Zug in die Geschichte einbauen musst, oder?
 
 **Was kann schiefgehen?** Die Brücke wird zerstört; die Karte geht verloren; die Figuren werden gefangengenommen.
 
 ## Der Tempel
-**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen unheilvoll dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer dicken Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
+**Szene:** Ein uralter, in einen Berghang eingelassener Tempel. Gewaltige Statuen düster dreinblickender Götter und Dämonen stehen rundum an den Wänden. Alles ist von einer dicken Staubschicht überzogen. Der Tunnel führt tiefer in den Berg hinein.
 
-**Beschreiber:** Dunkel, Still
+**Beschreiber:** dunkel, still
 
 _Die Figuren müssen ins Innere des Tempels vordringen, allerdings warnt die Karte vor hinterhältigen Fallen und furchterregenden Wächtern. Können sie die Hindernisse überwinden?_  
 
 | Herausforderung: | Tückische Fallen                       |
 |----------------:|:--------------------------------------|
-| **Beschreiber** | Verborgen, Tödlich                    |
-|  **Ausrüstung** | Giftpfeile, Rostige Speere            |
-|    **Zustände** | [ ] Entschärft, [ ] Ausgelöst, [ ] Entdeckt |
+| **Beschreiber** | verborgen, tödlich                    |
+|  **Ausrüstung** | Giftpfeile, rostige Speere            |
+|    **Zustände** | [ ] entschärft, [ ] ausgelöst, [ ] entdeckt |
 
 **Bemerkungen:** Stelle den Figuren ein oder zwei Fallen. Erzähle ihnen, dass der Gang mit Fallen gespickt ist, aber verrate ihnen nicht, was sie auslöst oder wo sie sind, bis sie zuschnappen!
 
 |    Gegenspieler: | Steinwächter                                                          |
 |----------------:|:----------------------------------------------------------------------|
 | **Beschreiber** | Groß, Schwer, Langsam, Unermüdlich                                    |
-|  **Ausrüstung** | Schwere Steinwaffen                                                   |
-|    **Zustände** | [ ] Beschädigt, [ ] Aus dem Gleichgewicht, [ ] Verlangsamt, [ ] Außer Gefecht |
+|  **Ausrüstung** | schwere Steinwaffen                                                   |
+|    **Zustände** | [ ] beschädigt, [ ] aus dem Gleichgewicht, [ ] verlangsamt, [ ] außer Gefecht |
 
 **Bemerkungen:** Für je zwei Spielerfiguren gibt es einen Steinwächter. Seine großen, schweren Waffen können mehrere Figuren gleichzeitg treffen.
 
@@ -107,11 +107,11 @@ _Die Figuren betreten die Kammer des Götzen und müssen feststellen, dass Giles
 
 |    Gegenspieler: | Giles Fishburne                                        |
 |----------------:|:-------------------------------------------------------|
-| **Beschreiber** | Gerissen, Arrogant, Schwertkämpfer                     |
-|  **Ausrüstung** | Polierter Säbel                                        |
-|    **Zustände** | [ ] Verwirrt, [ ] Verletzt, [ ] Aufgehalten, [ ] Außer Gefecht |
+| **Beschreiber** | gerissen, arrogant, Schwertkämpfer                     |
+|  **Ausrüstung** | polierter Säbel                                        |
+|    **Zustände** | [ ] verwirrt, [ ] verletzt, [ ] aufgehalten, [ ] außer Gefecht |
 
-**Bemerkungen:** Giles ist zwar ein gieriger, arroganter Schurke, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
+**Bemerkungen:** Giles ist zwar gierig und arrogant, aber nicht dumm. Wenn es schlecht für ihn aussieht, wird er versuchen zu fliehen, ein Bündnis auszuhandeln und/oder jedem in den Rücken fallen, der ihm im Weg steht. Er ist den Nazis gegenüber nicht loyal!
 
 ## Figuren
 Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiele für klassische Pulp-Klischees sind. Die Spielerinnen können sie vor dem Spiel in Absprache mit der Erzählerin ändern, zum Beispiel durch Abwandlung eines Beschreibers oder indem sie einen Ausrüstungsgegenstand austauschen. Außerdem sollte jede Spielerin ein bis zwei Beziehungen festlegen, die beschreiben, woher die Figuren sich kennen. Am einfachsten geht das, wenn alle sagen, woher sie die Person links von sich kennen.
@@ -123,10 +123,10 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 |           Figur: | Tennessee Smith                                                                                             |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
-| **Beschreiber** | Geschickt, Besonnen, Bullenpeitsche einsetzen, Höhenangst                                                   |
-|  **Ausrüstung** | Bullenpeitsche, Abgetragene Lederjacke                                                                      |
-|       **Motiv** | Den Götzen von Toth finden                                                                                  |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+| **Beschreiber** | beweglich, besonnen, Bullenpeitsche einsetzen, Höhenangst                                                   |
+|  **Ausrüstung** | Bullenpeitsche, abgetragene Lederjacke                                                                      |
+|       **Motiv** | Den Götzen des Toth finden                                                                                  |
+|    **Zustände** | [ ] wütend, [ ] verängstigt, [ ] müde, [ ] gefangen, [ ] geblendet, [ ] hungrig, [ ] benommen, [ ] verletzt, [ ] dem Tode nah |
 
 
 > Tennessee Smith ist ein friedfertiger Geschichtsprofessor, der in seiner Freizeit oft in die Wildnis reist, um verschollene Artefakte und Schätze zu suchen. Er ist ein kerniger, attraktiver Typ und scheint immer die Ruhe zu bewahren, egal in welcher Gefahr er sich auch befindet. Und in Gefahr gerät er ziemlich oft!  
@@ -142,12 +142,12 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 |           Figur: | Jimmy Sweet                                                                                                 |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
-| **Beschreiber** | Flink, Neunmalklug, Unterschätzt, Jung                                                                      |
-|  **Ausrüstung** | Laute Feuerwerkskörper, Schmutzige Baseballmütze                                                            |
-|       **Motiv** | Die sieben Weltwunder sehen                                                                                 |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+| **Beschreiber** | flink, neunmalklug, unterschätzt, jung                                                                      |
+|  **Ausrüstung** | laute Feuerwerkskörper, schmutzige Baseballmütze                                                            |
+|       **Motiv** | Die sieben Weltwunder sehen.                                                                                 |
+|    **Zustände** | [ ] wütend, [ ] verängstigt, [ ] müde, [ ] gefangen, [ ] geblendet, [ ] hungrig, [ ] benommen, [ ] verletzt, [ ] dem Tode nah |
 
-> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und seine vorlaute Art bringt ihn regelmäßig in Schwierigkeiten. Jimmy hat sich als blinder Passagier auf einem Frachtdampfer versteckt, um die Welt zu sehen und reich zu werden.
+> Jimmy Sweet ist ein unbekümmerter Gassenjunge, der schon immer auf sich allein gestellt war. Er ist drahtig, zäh und aufgeweckt, und sein vorlautes Mundwerk bringt ihn regelmäßig in Schwierigkeiten. Jimmy hat sich als blinder Passagier auf einem Frachtdampfer versteckt, um die Welt zu sehen und reich zu werden.
 
 **Beziehungen:**  
 
@@ -160,10 +160,10 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 |           Figur: | Harvey Reed                                                                                                 |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
-| **Beschreiber** | Stark, Kann schnell improvisieren, Boxer, Hässlich wie die Nacht                                            |
-|  **Ausrüstung** | Münzrolle, Schlecht sitzender Anzug                                                                         |
-|       **Motiv** | Auf Tennessee Smith aufpassen                                                                               |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, [ ] Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+| **Beschreiber** | stark, kann schnell improvisieren, Boxer, hässlich wie die Nacht                                            |
+|  **Ausrüstung** | Münzrolle, schlechtsitzender Anzug                                                                         |
+|       **Motiv** | Auf Tennessee Smith aufpassen.                                                                               |
+|    **Zustände** | [ ] wütend, [ ] verängstigt, [ ] müde, [ ] gefangen, [ ] geblendet, [ ] hungrig, [ ] benommen, [ ] verletzt, [ ] dem Tode nah |
 
 > Harvey Reed ist ein frisch pensionierter Boxchampion. Da ihm das sesshafte Leben zu langweilig ist, hat er sich seinem Freund Tennessee Smith angeschlossen, um das Abenteuer zu suchen.
 
@@ -176,10 +176,10 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 |           Figur: | October Jones                                                                                             |
 |----------------:|:----------------------------------------------------------------------------------------------------------|
-| **Beschreiber** | Wunderschön, Geistreich, Gutes Gedächtnis, Neugierig                                                      |
-|  **Ausrüstung** | Verlässliche Kamera, Dicker Notizblock                                                                    |
-|       **Motiv** | Den Exklusivbericht über den wahren Tennessee Smith kriegen                                               |
-|    **Zustände** | [ ] Wütend, [ ] Verängstigt, [ ] Müde, [ ] Gefangen, [ ] Geblendet, [ ] Hungrig, Benommen, [ ] Verletzt, [ ] Dem Tode nah |
+| **Beschreiber** | wunderschön, geistreich, gutes Gedächtnis, neugierig                                                      |
+|  **Ausrüstung** | verlässliche Kamera, dicker Notizblock                                                                    |
+|       **Motiv** | Den Exklusivbericht über den wahren Tennessee Smith kriegen.                                               |
+|    **Zustände** | [ ] wütend, [ ] verängstigt, [ ] müde, [ ] gefangen, [ ] geblendet, [ ] hungrig, [ ] benommen, [ ] verletzt, [ ] dem Tode nah |
 
 > October Jones ist Reporterin und Abenteurerin. Der große Reichtum ihres Vaters erlaubt ihr viele Freiheiten. Als schöne, intelligente und verwöhnte Frau ist sie es gewohnt zu bekommen, was sie will.
 

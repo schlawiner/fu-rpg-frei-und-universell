@@ -17,14 +17,14 @@ Beschreiber sind Adjektive oder kurze Sätze, mit denen ihr die Fähigkeiten und
 
 Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschreibe die markantesten Merkmale deiner Figur mit einem Adjektiv oder einem kurzem Satz.
 
-> David überlegt sich, welche Situationen sein Tollkühner Entdecker schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
+> David überlegt sich, welche Situationen sein _tollkühner Entdecker_ schon so erlebt haben könnte und entscheidet sich für die folgenden Beschreiber:
 >
 > **Körper** : gelenkig  
 > **Geist**: besonnen  
 > **Stärke**: Bullenpeitsche einsetzen  
 > **Schwäche**: Höhenangst
 
-> Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die Außerirdische Botschafterin:
+> Nina lässt sich von klassischen Science-Fiction-Romanheften inspirieren und entscheidet sich für die folgenden Beschreiber für ihre Figur, die _außerirdische Botschafterin_:
 >
 > **Körper**: zerbrechlich  
 > **Geist**: aufmerksam  
@@ -34,7 +34,7 @@ Jede Figur hat vier Beschreiber: Körper, Geist, Stärke und Schwäche. Beschrei
 ## Beispiele für Beschreiber
 Dies soll auf keinen Fall eine vollständige Auflistung aller möglichen Beschreiber sein, sondern euch nur ein paar Ideen an die Hand geben. Jeder Beschreiber ist im Anhang noch einmal genauer erläutert.
 
-> **Körper**: beweglich, beidhändig, Blondine, pelzig, selbstbräuner-orange, gutaussehend, gewaltig, übergewichtig, schwache Konstitution, flink, rasiermesserscharfe Klauen, klein, langsam, stark, hochgewachsen, dünn, hässlich, strotzt vor Lebens­kraft, schwächlich, Schwimm­­häute an den Füßen.
+> **Körper**: beweglich, beidhändig, Blondine, pelzig, selbstbräuner-orange, gutaussehend, gewaltig, übergewichtig, schwache Konstitution, flink, rasiermesserscharfe Klauen, klein, langsam, stark, hochgewachsen, dünn, hässlich, vital, schwächlich, Schwimm­­häute an den Füßen.
 >
 > **Geist**: zerstreut, belesen, Computer­freak, dämlich, einfühlsam, konzentriert, Querdenkerin, Mathematikerin, aufmerksam, Rednerin, lang­sam, Taktikerin, ungebildet, weise, geistreich.
 >

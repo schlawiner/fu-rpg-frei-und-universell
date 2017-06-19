@@ -8,7 +8,7 @@ Beginnt euer Spiel mit einer Unterhaltung. Sprecht darüber, was du und deine Mi
 Sprecht auch während des Spiels weiter miteinander. Ermuntere deine Mitspielerinnen, Ideen auszutauschen und ihre Meinung zu Szenen, Zielen und Herausforderungen beizusteuern. Falls du Klärungsbedarf zu Ideen, Themen oder Problemen hast, dann frage nach.
 
 ## Zuhören ist gut
-Wo miteinander gesprochen wird, sollte auch zugehört werden. Hör zu, wenn deine Spielerinnen dir etwas sagen, sei es direkt im Gespräch oder durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.
+Zum Reden gehört auch das Zuhören. Hör also gut zu, wenn deine Spielerinnen dir etwas sagen, sei es direkt im Gespräch oder indirekt durch die Taten ihrer Figuren. Arbeite Dinge ein, die mit den Beschreibern auf ihren Figurenbögen zu tun haben, denn das sind genau die Dinge, die die Spielerinnen cool finden.
 
 ## Im Spiel selbst
 Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse werden einen Gutteil der Handlung mitbestimmen und auftretende Lücken füllt ihr durch Zustände und Umgebungsdetails. Hier sind einige Tipps, die dir helfen das Spiel im Gang zu halten und genau so viel Spaß zu haben wie die Spielerinnen.
@@ -17,7 +17,7 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 
 **Du bist nicht der Feind:** Das erscheint dir vielleicht offensichtlich, soll hier aber ausdrücklich betont werden. Deine Aufgabe besteht darin, die Geschichte in interessante Richtungen zu lenken – nicht darin, alle umzubringen. Du kannst deinen Spielerinnen Hinweise geben und Vorschläge machen, wenn du glaubst, dass es die Geschichte verbessert. Manchmal stellst du die Gegenspieler dar und solltest dich dabei nicht zurückhalten, aber trotzdem fair bleiben. Manchmal wiederum stellst du eine Verbündete, Begleiterin oder Mitstreiterin dar und auch dabei solltest du fair und im Sinne des Spiels handeln.  
 
-**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das bestimmt, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
+**Sag „ja“:** Wenn Spielerinnen Vorschläge machen oder Fragen stellen, tun sie das meistens, weil sie interessant finden, was gerade passiert. Wahrscheinlich haben sie eine coole Idee für die Geschichte. Ermuntere sie und sag getrost „ja“ zu solchen Einwürfen. Das soll nicht heißen, dass die Spielerinnen alles kriegen, was sie wollen – wenn es passt, solltest du sie aber Elemente hinzufügen lassen.
 
 **Würfeln muss einen Sinn haben:** Immer, wenn du um einen Würfelwurf bittest, sollte danach etwas Interessantes passieren. Und zwar unabhängig vom Würfelergebnis! Zwinge deine Spielerinnen nicht zum Würfeln, wenn das Ergebis für den Fortgang der Geschichte unbedeutend ist oder wenn eine Niederlage den Schwung der Handlung stoppen würde.
 
@@ -26,10 +26,10 @@ Plane vor dem Leiten eines Spiels nicht zu viel voraus. Die Würfelergebnisse we
 Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartungen. Versucht, gemeinsam die folgenden drei Fragen zu beantworten:
 
 ### Welche Rollen spielen die Figuren?
-Wollen die Spielerinnen Türen eintreten, Monster umbringen und bergeweise Schätze nach Hause schleppen? Wollen sie große Heldinnen sein oder Außenseiterinnen, die gegen unbezwingbar scheinende Widerstände ankämpfen?
+Wollen die Spielerinnen Türen eintreten, Monster abschlachten und bergeweise Schätze nach Hause schleppen? Wollen sie große Heldinnen sein oder lieber Außenseiterinnen, die gegen unbezwingbar scheinende Widerstände ankämpfen?
 
 ### Wie wollen die Spielerinnen sich fühlen?
-Wollen sie das Gefühl haben, die Welt zu verändern? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie mit dem Rücken zur Wand zu stehen und ständig in Lebensgefahr schweben?
+Wollen sie das Gefühl haben, dass sie die Welt verändern können? Dass ihre Figuren an Geld, Ruhm oder Macht immer reicher werden? Oder wollen sie mit dem Rücken zur Wand zu stehen und ständig in Lebensgefahr schweben?
 
 ### Welche Rolle übernimmt die Erzählerin?
 Welche Herausforderungen, Begegnungen und Situationen wirst du den Figuren präsentieren, um das oben Angesprochene zu erreichen? Sorgst du dafür, dass jede Herausforderung mit einer großzügigen Belohnung verbunden ist? Führst du jeden Kampf hart, aber fair? Verfolgen Gegenspieler ihre Ziele unermüdlich und kompromisslos?
@@ -72,5 +72,5 @@ Manche Gruppen und Erzählerinnen spielen ganz offen und machen um die Beschreib
 
 Mit „offenen Karten“ zu spielen bedeutet, dass alle Bescheid wissen, was passiert und welche Möglichkeiten für tolle Szenen und Aktionen es gibt. Die Spielerinnen sehen, welche Ausrüstung, Zustände und Beschreiber gerade im Spiel sind und können sie in Szenen einbeziehen.
 
-Dagegen zwingt das Geheimhalten der Einzelheiten von Bösewichten, Zielen und anderen Hindernissen die Spielerinnen dazu, ihre Gegner auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können geschickt taktieren, um sich gut zu positionieren oder die Situation in vorteilhafte Richtungen zu lenken. Es kann äußerst befriedigend sein, wenn man man den Beschreiber eines Gegners richtig eingeschätzt hat und dafür mit Bonuswürfeln belohnt wird.
+Dagegen zwingt das Geheimhalten der Einzelheiten von Bösewichten, Zielen und anderen Hindernissen die Spielerinnen dazu, ihre Gegnerinnen auszuloten, die Umgebung zu erforschen und verschiedene Herangehensweisen auszuprobieren. Sie können geschickt taktieren, um sich gut zu positionieren oder die Situation in vorteilhafte Richtungen zu lenken. Es kann äußerst befriedigend sein, wenn man man den Beschreiber einer Gegnerin richtig eingeschätzt hat und dafür mit Bonuswürfeln belohnt wird.
 </div>

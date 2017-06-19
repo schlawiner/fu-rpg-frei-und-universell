@@ -101,7 +101,7 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele h
 
 Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
 
-Wenn du eine Handlung versuchst, stellst du die Frage: „Erreicht meine Figur was sie will?“ Darauf gibt es sechs mögliche Antworten:
+Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur was sie will?“_ Darauf gibt es sechs mögliche Antworten:
 
 > Ja, und...
 >
@@ -156,74 +156,75 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 
 **Dinge schwieriger machen**: Wirf je einen zusätzlichen Maluswürfel pro Beschreiber, Ausrüstungsgegenstand, Zustand und Detail, die deine Handlung erschweren. Das Ergebnis ist der schlechteste gefallene Würfel.
 
-> Captain Vance beschließt, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. „Gelangt Vance unverletzt zum Geländewagen?“ Du wirfst 2W6 und es fallen eine 3 (Nein) und eine 5 (Nein, aber). Du musst das Nein (3) nehmen Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
+> Captain Vance beschließt, zu einem in der Nähe stehendem Geländewagen zu rennen. Die Erzählerin weist darauf hin, dass es zwischen Vances Versteck und dem Fahrzeug **keine Deckung** gibt. _„Gelangt Vance unverletzt zum Geländewagen?“_ Du wirfst 2W6 und es fallen eine 3 (Nein) und eine 5 (Nein, aber). Du musst das Nein (3) nehmen Captain Vance wird beim Erreichen des Geländewagens **verletzt** ...
 
 **Aufhebung**: Je ein helfender Würfel hebt einen erschwerenden Würfel auf, so dass du nie „negative“ und „positive“ Würfel gleichzeitig wirfst.
 
-> Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 und eine 6.
+> Im weiteren Verlauf seiner Suche muss Sir Camden eine **steile** (-) Klippe erklimmen. Der Ritter ist **stark** (+) und hat ein Seil (+). Insgesamt ergibt das einen einzelnen Bonuswürfel für diese Handlung (die steile Klippe und die Stärke des Ritters heben sich auf und es bleibt nur das Seil übrig). Du wirfst 2W6 und es fallen eine 3 _(Nein)_ und eine 6 _(Ja, und)_.
 
 <div class="sidebar">
 ### Beispiel-Modifikatoren{-}
-Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. „Kann Vance die Wache abschütteln?“ Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du 2 Maluswürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also die 3. Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
+Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. _„Kann Vance die Wache abschütteln?“_ Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du zwei Maluswürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also das _Nein_ (die 3). Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
 
 ### Andere Würfe?{-}
-Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schadenswürfe“ oder „Trefferwürfe“. Der Wurf zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du versuchst, mit dem Auto durch ein überfülltes Einkaufszentrum zu fahren, Armdrücken mit einem Riesen zu machen oder die Verletzung aus einem Querschläger zu ignorieren.
+Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schadenswürfe“ oder „Trefferwürfe“. Das Würfeln zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du mit dem Auto durch ein überfülltes Einkaufszentrum fahren willst, Armdrücken mit einem Riesen machst oder die Verletzung aus einem Querschläger wegzustecken versuchst.
 
-### Wie funktionieren „Gegenaktionen“?{-}
-Zunächst einmal gilt, dass immer nur die Spielerinnen würfeln. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für den Gegner gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist der Gegner schwach? Dann bekommst du einen Bonuswürfel. Ist der Gegner Weltmeister im Armdrücken? Dann rechne einen Maluswürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Maluswürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist dein Gegner im Vorteil.
+### Wie funktionieren Wettbewerbe gegen andere Figuren?{-}
+Zunächst einmal ist zu beachten, dass immer nur die Spielerinnen würfeln, nie die Erzählerin - auch nicht für Nebenfiguren, die sie darstellt. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für die Gegnerin gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist die Gegnerin schwach? Dann bekommst du einen Bonuswürfel. Ist sie Weltmeisterin im Armdrücken? Dann rechne einen Maluswürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Maluswürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist deine Gegnerin im Vorteil.
 
 ### An deine Handlungen näher herangehen{-}
-Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die ihr vor dem Würfeln stellt. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst „Treffe ich den Grafen De Montief?“. Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst „Besiege ich den Grafen De Montief im Duell?“. Oder du verlegst den Kampf auf eine höhere Ebene und fragst „Stürmen meine Landsknechte die Burg des Grafen De Montief?“ Stelle den Fokus ganz nach Bedarf flexibel ein!
+Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die ihr vor dem Würfeln stellt. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst _„Treffe ich den Grafen De Montief?“_ Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst _„Besiege ich den Grafen De Montief im Duell?“_ Oder du verlegst den Kampf auf eine noch höhere Ebene und fragst _„Stürmen meine Landsknechte die Burg des Grafen De Montief?“_ Stellt den Fokus ganz nach Bedarf flexibel ein!
 
 ### Option: Paschwürfe{-}
-Der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl kann den Erfolg viel größer oder Misserfolg viel schlimmer machen. Wenn der Wert deines Erfolgswürfels mehrmals gefallen ist, sind die Auswirkungen viel dramatischer: Du fügst pro gefallenem gleichem Würfel eine „Und ...“-Aussage hinzu. Wenn die Handlung schiefgeht, muss diese Aussage die Situation verschlimmern. Klappt die Handlung, verbessert jede der zusätzlichen Aussagen die Situation. Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. „Besiegt Lord Kane die Schergen?“ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen – die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
+Mit dieser Regel werden durch der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl Erfolge viel süßer und Misserfolge viel bitterer: Denn immer, wenn der Wert deines besten Würfels mehrmals gefallen ist, dramatisiert sich die Lage – pro gleichem Würfel kommt nun ein _„Und ...“_-Zusatz hinzu. Wenn die Handlung schiefgeht, verschlimmert der Zusatz die Situation; klappt die Handlung, verbessert er sie.
+Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. _„Besiegt Lord Kane die Schergen?“_ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen – die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
 </div>
 
 ## FU-Punkte
-FU-Punkte sind Hilfsmittel, die du wie eine Währung ausgeben kannst, um die Erfolgschancen deiner Figur zu erhöhen. Es gibt zwei Möglichkeiten, sie einzusetzen:
+FU-Punkte sind eine Währung, die du ausgeben kannst, um die Erfolgschancen deiner Figur zu erhöhen. Es gibt zwei Möglichkeiten, sie einzusetzen:
 
 **Bonuswürfel:** Gib vor dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Bonuswürfel hinzuzubekommen. Dieser wirkt wie jeder andere Bonuswürfel. Du kannst so viele Bonuswürfel hinzunehmen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen.
 
-**Neuwurf:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber – neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen – bevor der erste Würfel neu geworfen wird.
+**Wurf wiederholen:** Gib nach dem Würfelwurf einen FU-Punkt aus, um einen einzelnen Würfel erneut zu werfen. Der zweite Wurf zählt dann aber – neugewürfelte Würfel dürfen nicht ein weiteres Mal neu geworfen werden. Du kannst so viele Würfel neu werfen, wie du FU-Punkte hast, musst sie aber alle zur gleichen Zeit ansagen – bevor der erste Würfel neu geworfen wird.
 
 Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten ausgeben, entweder für eine allein oder für beide. Es ist also ausdrücklich erlaubt, vor dem Wurf einen FU-Punkt auszugeben, um einen Bonuswürfel hinzuzufügen, und nach dem Wurf einen zu bezahlen, um einen Würfel neu zu werfen.
 
-> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinem Befehl auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du 2 FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
+> Wieder im Hauptquartier angekommen, versucht Captain Vance, General Wallace dazu zu bringen, die Raketentruppen unter seinem Befehl auszusenden. Vance hat in dieser Situation, was Beschreiber angeht, nicht viel zu bieten, also gibst du zwei FU-Punkte für den Wurf aus. Du wirfst den Grundwürfel und die zwei Bonuswürfel und es fallen 1, 1 und 3. Damit bist du nicht zufrieden und gibst deinen letzten FU-Punkt für einen Neuwurf aus. Du nimmst eine der Einsen und wirfst den Würfel erneut ...
 
-**FU-Punkte verdienen:** FU-Punkte verdienst du dir als Spielerin, indem du coole Dinge machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle „Oooh!“ rufen oder laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
+**FU-Punkte verdienen:** FU-Punkte verdienst du dir als Spielerin, indem du coole Sachen machst und deine Rolle gut spielst. Immer wenn du etwas tust, bei dem das Spiel stillsteht und alle _„Oooh!“_ rufen oder laut über deine Eskapaden lachen, oder irgendetwas anderes, das die anderen für belohnenswert halten, bringt dir das einen FU-Punkt ein.  
 
 <div class="sidebar">
 ### FU-Punkte beim Sitzungsbeginn{-}
-Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels bekommt. Je mehr FU-Punkte die Spielerinnen am Anfang des Spiels haben, desto leichter wird es ihnen fallen, Erfolge zu würfeln. Wenn ihr ein Spiel voller riskanter Abenteuer und waghalsiger Actionszenen wollt, passt es, wenn sie mit 2 FU-Punkten anfangen. Mächtige Superheldinnen könnten sogar 3 FU-Punkte bekommen. In schmutzigeren, realistischen Spielen kann jede Spielerin mit nur einem oder sogar ganz ohne FU-Punkt beginnen.
+Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels be­kommt. Je mehr FU-Punk­­­te die Spielerinnen am Anfang des Spiels haben, des­to leichter fallen ihnen Erfolge. Wenn ihr ein Spiel voller Risiko und waghalsiger Actionszenen wollt, passt es, wenn ihr mit zwei FU-Punkten anfangt. Mächtige Superheldinnen bekommen sogar drei. In schmutzigeren, realistischen Spielen beginnt ihr vielleicht mit nur einem oder sogar ganz ohne FU-Punkte.
 
 ### Darf ich FU-Punkte verschenken oder teilen?{-}
 Das könnt ihr selbst entscheiden. Die Standardregel ist „nein“, aber ...
 
 ### Bekommt die Erzählerin auch FU-Punkte?{-}
-Normalerweise nicht, aber sie kann einem besonders starken Gegner oder Monster einen, zwei oder drei zugestehen.
+Normalerweise nicht, aber sie kann besonders starken Gegnerinnen oder Monstern einen, zwei oder drei zugestehen.
 
 ### Andere Möglichkeiten, FU-Punkte zu verdienen{-}
-Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuell verdient man sie, indem man Monstren den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.  
+Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuell verdient man sie, indem man Monstern den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.
 
-So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Entscheidet euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob diese Regel zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
+So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Überlegt euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob diese Regel zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
 
 ### Andere Möglichkeiten, FU einzusetzen{-}
 Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe und Geschichte an. Hier ein paar Vorschläge:
 
 #### FU als Lebenspunkte{-}
-Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit 3 Punkten. Sie können ganz normal ausgegeben werden, gehen aber auch verloren, wenn die Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). In diesem Fall kannst du FU wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung erzählt.
+Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit drei Punkten. Du kannst sie ganz normal ausgeben, sie gehen aber auch verloren, wenn deine Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). Du kannst deine Punkte dann wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung erzählt.
 
 #### Alles neu würfeln{-}
-Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante anstatt der normalen Neuwurfregel ein.
+Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante anstatt der normalen Wurfwiederholungsregel ein.
 
 #### Ein Auge verdrehen{-}
-Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Diese Option ist verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante einsetzt, solltet ihr die normale Neuwurfregel nicht benutzen.
+Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Wenn ihr Gerade-Ungerade-Würfe benutzt, ist diese Option verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante einsetzt, solltet ihr die normale Wurfwiederholungsregel nicht benutzen.
 
 #### Eine Requisite benutzen{-}
 Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
 
 #### Talente und Stärken{-}
-Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – mit ihnen sollte man die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie zum Beispiel Fliegen, Gedankenlesen oder Teleportieren.
+Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie Fliegen, Gedankenlesen oder Teleportieren.
 
 #### Einen Schlag einstecken{-}
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
@@ -235,7 +236,7 @@ Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Wür
 ## Handlungen kurzgefasst {.examplePC}
 
 ### 1. Die Szene planen {.unnumbered}
-Wo findet die Szene statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
+Wo findet sie statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
 
 ### 2. Handeln {.unnumbered}
 Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung der Szene hin.
@@ -244,9 +245,9 @@ Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung der 
 Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)
 
 ### 4. Modifikatoren einrechnen {.unnumbered}
-+1 Bonuswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
+**+1 Bonuswürfel** für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
 
-+1 Maluswürfel für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
+**+1 Maluswürfel** für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erschweren.
 
 ### 5. Würfeln {.unnumbered}
 Wirf alle deine Würfel. Das Ergebnis ist der beste (wenn du Bonuswürfel wirfst) oder der schlechteste gefallene Würfel (wenn du Maluswürfel wirfst).
