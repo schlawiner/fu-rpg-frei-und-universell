@@ -199,7 +199,7 @@ Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
 Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. **scharfer Säbel, schnelles Motorrad**).
 
 ### 4. Beschreibung {.unnumbered}
-Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das interessante und besondere an ihr?
+Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das Interessante und Besondere an ihr?
 
 ### 5. Motive {.unnumbered}
 Was will deine Figur? Was hindert sie daran? Was tut sie, um ihr Ziel zu erreichen?

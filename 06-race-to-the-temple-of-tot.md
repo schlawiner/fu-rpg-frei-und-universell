@@ -17,7 +17,7 @@ Bei den hier vorgestellten Szenen findest du jeweils eine Beschreibung des Handl
 ## Herausforderungen
 Die Herausforderungen und Gegenspieler dieses Abenteuers sind in Kästen mit passenden Beschreibern, Zuständen und Anmerkungen zusammengefasst. Sie sind als Hilfestellung gedacht. Du musst aber nicht zwingend alle benutzen; deine eigenen coolen Ideen haben immer Vorrang haben vor dem, was hier geschrieben steht!
 
-## Flucht vom Bulak-Markt
+## Flucht vom Markt in Bulak
 **Szene:** Zentralasien – ein geschäftiger Markt in der Stadt Bulak zur Mittagszeit. Den inneren Marktbereich umgeben hohen Stein- und Lehmbauten mit schmalen Bogenfenstern. Enge, verwinkelte Gassen voller Stände, Kneipen, Kaffee- und Warenhäuser führen in alle Himmelsrichtungen.
 
 **Beschreiber:** Überfüllte Straßen, exotische Waren
@@ -118,7 +118,7 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 <!-- \newpage -->
 
-### Tennessee Smith, Tollkühner Entdecker {.examplePC}  
+### Tennessee Smith, tollkühner Entdecker {.examplePC}  
 
 
 |           Figur: | Tennessee Smith                                                                                             |
@@ -137,7 +137,7 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 <!-- \newpage -->
 
-### Jimmy Sweet, Beherzter Gassenjunge {.examplePC}  
+### Jimmy Sweet, beherzter Gassenjunge {.examplePC}  
 
 
 |           Figur: | Jimmy Sweet                                                                                                 |
@@ -171,7 +171,7 @@ Auf der nächsten Seite findest du vier vorgefertigte Figuren, die alle Beispiel
 
 **Bemerkungen:**
 
-### October Jones, Junge Reporterin {.examplePC}  
+### October Jones, junge Reporterin {.examplePC}  
 
 
 |           Figur: | October Jones                                                                                             |
