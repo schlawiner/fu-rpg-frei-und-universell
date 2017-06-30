@@ -1343,7 +1343,7 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
 
 &lt;tr&gt;
 &lt;td align=&#34;right&#34;&gt;&lt;strong&gt;Zustände&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;verwirrt,&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;eingekreist&#34; value=&#34;eingekreist&#34;&gt;eingekreist&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;aufgehalten&#34; value=&#34;aufgehalten&#34;&gt;aufgehalten&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;außer Gefecht&#34; value=&#34;außer Gefecht&#34;&gt;außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34;&gt;verwirrt&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;eingekreist&#34; value=&#34;eingekreist&#34;&gt;eingekreist&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;aufgehalten&#34; value=&#34;aufgehalten&#34;&gt;aufgehalten&lt;/label&gt;&lt;/span&gt;&lt;span class=&#34;zustand&#34;&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; name=&#34;außer Gefecht&#34; value=&#34;außer Gefecht&#34;&gt;außer Gefecht&lt;/label&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
