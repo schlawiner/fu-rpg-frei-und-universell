@@ -129,20 +129,20 @@ Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur 
 ### Beispiele für Erfolg & Misserfolg
 Kehren wir zu unserem Beispiel von vorhin zurück und schauen, was für jede der möglichen Antworten auf die Frage „**Überspringt Sir Camden die Hecke?**“ passieren würde:
 
-**Ja, und** er holt Lord Kane ein. Dies ist ein *Detail*, das die Szene verändert.  
-**Ja,** er springt über die Hecke. Hier gibt es keinen Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
-**Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein *Zustand*, der der Figur auferlegt wird.  
-**Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses *Detail* gibt der Figur eine neue Möglichkeit, die Verfolgung fortzuführen.  
-**Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
-**Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein *Zustand*.
+- **Ja, und** er holt Lord Kane ein. Dies ist ein *Detail*, das die Szene verändert.  
+- **Ja,** er springt über die Hecke. Hier gibt es keinen Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
+- **Ja, aber** Sir Camden verliert die Orientierung und ist vorübergehend **verwirrt**. Dies ist ein *Zustand*, der der Figur auferlegt wird.  
+- **Nein, aber** er entdeckt weiter hinten eine Lücke in der Hecke. Dieses *Detail* gibt der Figur eine neue Möglichkeit, die Verfolgung fortzuführen.  
+- **Nein,** das Pferd scheut vor dem Absprung. Hier gibt es keine Und-/Aber-Zusatz, also werden weder Zustand noch Detail hinzugefügt.  
+- **Nein, und** sein Pferd bäumt sich auf und wirft ihn ab. Beim Sturz auf den Boden **verletzt** er sich. Das ist ein *Zustand*.
 
-### Wer entscheidet über Zustände & Details?{-}
+### Wer entscheidet über Zustände & Details?
 Alle Spielerinnen dürfen Zustände oder Details vorschlagen, die ihrer Meinung nach zur versuchten Handlung oder zum Würfelergebnis passen. Üblicherweise entscheiden sich die würfelnde Spielerin und die Erzählerin gemeinsam für eine passende dramatische Auswirkung. Wenn alle am Tisch gute Ideen einbringen, ist das natürlich noch schöner. Das letzte Wort darüber, welcher Zustand oder welches Detail am Ende benutzt wird, hat jedoch immer die Erzählerin.
 
-### Wann soll ich Zustände verwenden?{-}
+### Wann soll ich Zustände verwenden?
 Das hängt von der Situation ab. In den Beispielen weiter oben werden der aktiven Spielerin Zustände auferlegt, wenn es nicht ganz glatt für sie läuft (**Ja, aber/Nein, und**). Die Zustände machen der Figur nach einem schwachen Erfolg oder einem schweren Misserfolg das Leben etwas schwerer. Du kannst auch anderen Figuren Zustände auferlegen, wenn sie das Ziel einer Handung war, die für deine Figur gut ausging. Wenn du mit einem Beamten diskutierst und ein **Ja, und**-Ergebnis bekommst, kannst du den Zustand **verwirrt** auf die Zielperson anwenden. Wenn du versuchst, einem Feind davonzurennen und ein **Nein, aber**-Ergebnis bekommst, holt er dich vielleicht ein, erhält aber dafür den Zustand **müde**. So eingesetzt können Zustände euch also Vorteile für den späteren Verlauf der Szene verschaffen.
 
-### Wann soll ich Details benutzen?{-}
+### Wann soll ich Details benutzen?
 Füge Details hinzu, wenn die versuchte Handlung in irgendeiner Form die Szene oder das Drumherum verändert. Das können neue Machtverhältnisse sein („**Ja,** er springt über die Hecke **und** holt Lord Kane ein.“), oder eine geänderte Umgebung („**Nein, aber** er entdeckt eine Lücke in der Hecke.“). Details werden oft eingesetzt, um der aktiven Figur einen gewissen Vorteil zu geben (**Ja, und/Nein, aber**). Sie können aber auch sehr effektiv die Situation unterhaltsamer oder gefährlicher machen: „Schwingst du dich am Kronleuchter durch den Raum? **Ja, aber** es lösen sich Kerzen und setzen die Taverne in Brand.“  
 
 Details können, abhängig von den Umständen, unmittelbar oder dauerhaft wirksam sein. Eine Lücke in der Hecke kann hier und jetzt einmalig nutzen, um die Verfolgung fortzusetzen; eine brennende Taverne is eine dauerhafte Gefahr, bis jemand das Feuer löscht!
@@ -174,16 +174,16 @@ Manchmal machen äußere Umstände, Ausrüstung oder Fähigkeiten eine Handlung 
 ### Beispiel-Modifikatoren
 Captain Vance rast im Geländewagen dahin, als eine Wache versucht, ihn durch das Fenster hinauszuziehen. _„Kann Vance die Wache abschütteln?“_ Es ist **schwer** (+), Vance durchs Fenster zu ziehen, aber er ist **verwundet** (-) und **überrascht** (-), und der Angreifer ist **sehr stark** (-). Insgesamt musst du zwei Maluswürfel werfen. Du wirfst 3W6 und es fallen 2, 4 und 3. Du musst das schlechteste Ergebnis nehmen, also das _Nein_ (die 3). Der Wache gelingt es, Vance aus dem Geländewagen zu bugsieren.
 
-### Andere Würfe?{-}
+### Andere Würfe?
 Bei FU gibt es keine „Gegenwürfe“ oder „Wettstreit-Aktionen“, „Schadenswürfe“ oder „Trefferwürfe“. Das Würfeln zum Vermeiden der ungeraden Zahlen ist die einzige Wurfart, die du bei FU machst, egal ob du mit dem Auto durch ein überfülltes Einkaufszentrum fahren willst, Armdrücken mit einem Riesen machst oder die Verletzung aus einem Querschläger wegzustecken versuchst.
 
-### Wie funktionieren Wettbewerbe gegen andere Figuren?{-}
+### Wie funktionieren Wettbewerbe gegen andere Figuren?
 Zunächst einmal ist zu beachten, dass immer nur die Spielerinnen würfeln, nie die Erzählerin - auch nicht für Nebenfiguren, die sie darstellt. Zuerst zählst du alle Vorteile (+) und Nachteile (-) zusammen, die für deine Figur gelten. Dann prüfst du alle Faktoren, die für die Gegnerin gelten und fügst sie ebenfalls zu deinem Wurf hinzu. Ist die Gegnerin schwach? Dann bekommst du einen Bonuswürfel. Ist sie Weltmeisterin im Armdrücken? Dann rechne einen Maluswürfel ein. Und so weiter, bis alles eingerechnet ist. Wenn du weißt, wie viele Bonus- oder Maluswürfel du hast, würfle. Ist das Ergebnis eine gerade Zahl, gewinnst du den Wettbewerb; ist es eine ungerade Zahl, ist deine Gegnerin im Vorteil.
 
-### An deine Handlungen näher herangehen{-}
+### An deine Handlungen näher herangehen
 Schwertkämpfe, politische Debatten, Weltraumrennen, internationale Kriege, Streitgespräche oder Feuergefechte werden alle mit dem Gerade-Ungerade-Wurf abgehandelt. Das Entscheidende ist, dass ihr die Handlungen nach Bedarf aus der Nähe oder aus der Ferne betrachtet, und zwar durch die Art der Frage, die ihr vor dem Würfeln stellt. Bei einen dramatischen Schwertkampf erreichst du einen Schlagabtausch mit mehrmaligem Hin und Her, wenn du fragst _„Treffe ich den Grafen De Montief?“_ Du könntest aber auch den gesamten Kampf mit einem einzigen Wurf abhandeln, indem du fragst _„Besiege ich den Grafen De Montief im Duell?“_ Oder du verlegst den Kampf auf eine noch höhere Ebene und fragst _„Stürmen meine Landsknechte die Burg des Grafen De Montief?“_ Stellt den Fokus ganz nach Bedarf flexibel ein!
 
-### Option: Paschwürfe{-}
+### Option: Paschwürfe
 Mit dieser Regel werden durch der Wurf von zweimal, dreimal oder sogar viermal der gleichen Zahl Erfolge viel süßer und Misserfolge viel bitterer: Denn immer, wenn der Wert deines besten Würfels mehrmals gefallen ist, dramatisiert sich die Lage – pro gleichem Würfel kommt nun ein _„Und ...“_-Zusatz hinzu. Wenn die Handlung schiefgeht, verschlimmert der Zusatz die Situation; klappt die Handlung, verbessert er sie.
 Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. _„Besiegt Lord Kane die Schergen?“_ Er ist verletzt und in der Unterzahl, also wirfst du zwei Maluswürfel. Du würfelst und es fallen 3, 3 und 2. Du musst das schlechteste Ergebnis nehmen – die doppelte 3! Normalerweise wäre das ein „**Nein ...**“-Ergebnis, doch die doppelte 3 macht es zu einem „**Nein, und ...**“. Hättest du dreimal die 3 geworfen, wäre das Ergebnis ein „**Nein, und ... und ...**“ gewesen!
 {{</note>}}
@@ -205,36 +205,36 @@ Du kannst bei einer Handlung auch mehrere FU-Punkte für beide Möglichkeiten au
 ## Anmerkungen zu FU-Punkten
 Bevor ihr losspielt, solltet ihr gemeinsam festlegen, wie viele FU-Punkte ihr jeweils zu Beginn des Spiels be­kommt. Je mehr FU-Punk­­­te die Spielerinnen am Anfang des Spiels haben, des­to leichter fallen ihnen Erfolge. Wenn ihr ein Spiel voller Risiko und waghalsiger Actionszenen wollt, passt es, wenn ihr mit zwei FU-Punkten anfangt. Mächtige Superheldinnen bekommen sogar drei. In schmutzigeren, realistischen Spielen beginnt ihr vielleicht mit nur einem oder sogar ganz ohne FU-Punkte.
 
-### Darf ich FU-Punkte verschenken oder teilen?{-}
+### Darf ich FU-Punkte verschenken oder teilen?
 Das könnt ihr selbst entscheiden. Die Standardregel ist „nein“, aber ...
 
-### Bekommt die Erzählerin auch FU-Punkte?{-}
+### Bekommt die Erzählerin auch FU-Punkte?
 Normalerweise nicht, aber sie kann besonders starken Gegnerinnen oder Monstern einen, zwei oder drei zugestehen.
 
-### Andere Möglichkeiten, FU-Punkte zu verdienen{-}
+### Andere Möglichkeiten, FU-Punkte zu verdienen
 Manchmal möchtet ihr vielleicht ändern, wofür ihr FU-Punkte bekommt. Eventuell verdient man sie, indem man Monstern den Todesstoß versetzt, das Ziel seiner Figur erreicht, oder mehrere Einsen oder Sechsen würfelt.
 
 So lassen sich effektiv Stimmung oder Stil des Spiels variieren. Wollt ihr ein düsteres Höhlenlabyrinth voller Monstren und Schätze erkunden? Dann bekommen die Spielerinnen FU für das Töten von Monstren. In einem schmutzigen Endzeitszenario erhalten sie FU, wenn sie im Kampf gegen „die da oben“ Boden verlieren. Überlegt euch, ob das die einzige Möglichkeit sein soll, FU zu verdienen, oder ob diese Regel zusätzlich zur normalen Belohnung für gutes Rollenspielen gilt. Diese Entscheidung wirkt sich auch dramaturgisch auf die Spielstimmung aus. Probiert aus, was euch am besten passt.
 
-### Andere Möglichkeiten, FU einzusetzen{-}
+### Andere Möglichkeiten, FU einzusetzen
 Experimentiert ein wenig mit FU-Punkten und passt ihren Einsatz an eure Spielgruppe und Geschichte an. Hier ein paar Vorschläge:
 
-#### FU als Lebenspunkte{-}
+#### FU als Lebenspunkte
 Statt einen veränderlichen Vorrat von FU-Punkten zu haben, beginnt jede Figur mit drei Punkten. Du kannst sie ganz normal ausgeben, sie gehen aber auch verloren, wenn deine Figur Schaden an Körper oder Geist nimmt (Verletzungen, Erschöpfung, Furcht, usw). Du kannst deine Punkte dann wieder auffüllen (auf 3), indem du gemeinsam mit einer anderen Figur eine Szene (ohne Würfeln) spielst, die etwas über eure Beziehung erzählt.
 
-#### Alles neu würfeln{-}
+#### Alles neu würfeln
 Gib einen FU-Punkt aus, um alle deine Würfel erneut zu werfen. Es gilt dabei das Prinzip „alles oder nichts“; du kannst also nicht ein paar gute Würfelergebnisse behalten und den Rest neu würfeln. Setzt diese Variante anstatt der normalen Wurfwiederholungsregel ein.
 
-#### Ein Auge verdrehen{-}
+#### Ein Auge verdrehen
 Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelauge) herauf- oder herunterzudrehen. Wenn ihr Gerade-Ungerade-Würfe benutzt, ist diese Option verlässlicher als ein Neuwurf, da du damit immer ein „Nein“ zu einem „Ja“ machen kannst. Wenn ihr diese Variante einsetzt, solltet ihr die normale Wurfwiederholungsregel nicht benutzen.
 
-#### Eine Requisite benutzen{-}
+#### Eine Requisite benutzen
 Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
 
-#### Talente und Stärken{-}
+#### Talente und Stärken
 Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie Fliegen, Gedankenlesen oder Teleportieren.
 
-#### Einen Schlag einstecken{-}
+#### Einen Schlag einstecken
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
 {{</note>}}
 
@@ -242,7 +242,7 @@ Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Wür
 ### 1. Die Szene planen
 Wo findet sie statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene in Runden unterteilt werden?
 
-### 2. Handeln 
+### 2. Handeln
 Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung der Szene hin.
 
 ### 3. Eine Frage stellen

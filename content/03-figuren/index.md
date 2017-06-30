@@ -213,7 +213,7 @@ Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjekt
 Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das Interessante und Besondere an ihr?
 
 ### 5. Motive
-Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das Interessante und Besondere an ihr?
+Was will deine Figur? Was hindert sie daran? Was tut sie, um ihr Ziel zu erreichen?
 
 ### 6. Beziehungen
 Woher kennen sich die Figuren? Welche Verbindungen gibt es zwischen ihnen?
