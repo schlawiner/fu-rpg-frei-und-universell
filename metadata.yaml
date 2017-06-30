@@ -1,0 +1,25 @@
+---
+title:
+- type: main
+  text: 'FU - frei und universell'
+- type: subtitle
+  text: Ein Rollenspiel von Nathan Russell
+creator:
+- role: author
+  text: Nathan Russell
+- role: translator
+  text: Tina Trillitzsch
+- role: translator
+  text: Thorsten Panknin
+contributor:
+- role: proofreader
+text: Florian Grässle
+- role: layout
+  text: Dimitri Chotin
+lang: de-DE
+cover-image: cover2.png
+stylesheet: styles/pandoc-epub.css
+
+rights: © 2010, 2016 Nathan Russell, CC BY-NC
+tags: [rpg, role-playing, game, Rollenspiel]
+...
