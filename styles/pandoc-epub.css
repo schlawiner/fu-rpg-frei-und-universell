@@ -1,12 +1,44 @@
 /* This defines styles and classes used in the book */
+
+@font-face {
+  font-family: Arvo-Regular;
+  font-style: normal;
+  font-weight: normal;
+  src: url("Arvo-Regular.ttf");
+}
+
+@font-face {
+  font-family: Arvo-Bold;
+  font-style: normal;
+  font-weight: bold;
+  src: url("Arvo-Bold.ttf");
+}
+
+@font-face {
+  font-family: Arvo-Italic;
+  font-style:italic;
+  font-weight: normal;
+  src: url("Arvo-Italic.ttf");
+}
+
 body { margin: 10%; text-align: justify; font-size: medium; }
 code { font-family: monospace; }
+
+@font-face {
+  font-family: CardenioModernBold;
+  font-style: normal;
+  font-weight: bold;
+  src: url("CardenioModernBold.ttf");
+}
+
 h1, h2, h3, h4, h5, h6 {
   text-align: left;
   font-family: "CardenioModernBold", sans-serif;
   color: green;
   page-break-after: avoid;
 }
+
+
 
 .title { text-align: center;}
 .subtitle { text-align: center;}
@@ -15,42 +47,14 @@ h3.date { }
 ol.toc { padding: 0; margin-left: 1em; }
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
 
-
-  @font-face {
-    font-family: CardenioModernBold;
-    font-style: normal;
-    font-weight: bold;
-    src: url("CardenioModernBold.ttf");
-  }
-
-  @font-face {
-    font-family: GentiumRegular;
-    font-style: normal;
-    font-weight: normal;
-    src: url("GenBasR.ttf");
-  }
-
-  @font-face {
-    font-family: GentiumBold;
-    font-style: normal;
-    font-weight: bold;
-    src: url("GenBasB.ttf");
-  }
-
-  @font-face {
-    font-family: GentiumItalic;
-    font-style:italic;
-    font-weight: normal;
-    src: url("GenBasI.ttf");
-  }
-
   body {
-    font-family: "GentiumRegular", serif;
+    font-family: "Arvo-Regular", serif;
     font-size: 1rem;
+    line-height: 1.5;
 }
 
 strong, b {
-  font-family: "GentiumBold", serif;
+  font-family: "Arvo-Bold", serif;
   font-weight: bold;
 }
 
@@ -62,10 +66,10 @@ p {
 }
 
 .author {
-  font-family: "GentiumRegular";
+  font-family: "Arvo-Regular";
 }
 .rights {
-  font-family: "GentiumBold";
+  font-family: "Arvo-Bold";
   font-weight: bold;
 }
 
@@ -90,7 +94,7 @@ h6 { text-align: left; font-size: 1em;}
 h1 {
   page-break-before:always;
   margin-top: 0;
-  margin-bottom:1em;
+  margin-bottom:0.5em;
   page-break-after:avoid;
   color: green;
 }
