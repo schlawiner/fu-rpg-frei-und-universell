@@ -1,12 +1,7 @@
-@import url(//db.onlinewebfonts.com/c/1931c89e6e263ebc99cb5d32d8455b31?family=Cardenio+Modern);
+/*@import url(//db.onlinewebfonts.com/c/1931c89e6e263ebc99cb5d32d8455b31?family=Cardenio+Modern);*/
 
 @font-face {font-family: "Cardenio Modern";
-    src: url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.eot");
-    src: url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.eot?#iefix") format("embedded-opentype"),
-    url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.woff2") format("woff2"),
-    url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.woff") format("woff"),
-    url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.ttf") format("truetype"),
-    url("//db.onlinewebfonts.com/t/1931c89e6e263ebc99cb5d32d8455b31.svg#Cardenio Modern") format("svg");
+    src:   url(fonts/"CardenioModernBold.ttf") format("truetype");
 }
 
 
@@ -43,8 +38,10 @@ margin:-65px 0 0; /* negative fixed header height */
 }
 
 /*Make all headers from 1-4 use another font - here Amatica SC - you have to add it to the custom "head.html" partial, though. It's there, but commented out right now.*/
-h1,h2,h3,h4 {font-family: "Cardenio Modern", cursive; font-weight: bold;}
+h1,h2,h3 {font-family: "Cardenio Modern", "Arvo",serif; font-weight: bold;}
 /*h1,h2,h3,h4 {font-family: 'Love Ya Like A Sister', cursive;}*/
+
+h4 {font-family: "Arvo",serif; font-weight: bold; color: chocolate;}
 
 copyright {
     /*margin: 1.5em 0;*/

@@ -86,13 +86,13 @@ Die vier Standard-Beschreiber (Körper, Geist, Stärke und Schwäche) nicht die 
     path="/images/illustrations/ch03" file="protonenpack.png"
     alt="Lumina, Ninas außerirdische Botschfterin" type="left" >}}
 
-    Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
+Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
 
-    Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzem Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.
+Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzem Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.
 
-    Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
+Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
 
-    > David entscheidet, dass sein Tollkühner Entdecker eine **stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **abgetragene Lederjacke**, die vor der Kälte und leichten Kratzern und Stürzen schützen kann.  
+> David entscheidet, dass sein Tollkühner Entdecker eine **stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **abgetragene Lederjacke**, die vor der Kälte und leichten Kratzern und Stürzen schützen kann.  
     Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **offizielle Dokumente**, die ihren politischen Status belegen, und für **exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
 
 
