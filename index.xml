@@ -88,131 +88,6 @@ The software is provided &#34;as is&#34;, without warranty of any kind, express 
     </item>
     
     <item>
-      <title>Search</title>
-      <link>https://fu-rollenspiel.de/search/</link>
-      <pubDate>Thu, 11 Jun 2015 16:03:09 -0400</pubDate>
-      
-      <guid>https://fu-rollenspiel.de/search/</guid>
-      <description>&lt;form method=&#34;GET&#34; id=&#34;searchForm&#34; action=&#34;/search&#34;&gt;
-&lt;div class=&#34;row&#34;&gt;
-    &lt;!-- search form --&gt;
-    &lt;div class=&#34;col-md-12&#34;&gt;
-            &lt;div id=&#34;custom-search-input&#34;&gt;
-                &lt;div class=&#34;input-group col-md-6 col-md-offset-3&#34;&gt;
-                    &lt;input id=&#34;page&#34; name=&#34;p&#34; value=&#34;1&#34; type=&#34;hidden&#34;/&gt;
-                    &lt;input id=&#34;query&#34; name=&#34;q&#34; type=&#34;text&#34; class=&#34;form-control input-lg&#34; placeholder=&#34;Search&#34; /&gt;
-                    &lt;span class=&#34;input-group-btn&#34;&gt;
-                        &lt;button id=&#34;searchButton&#34; class=&#34;btn btn-info btn-lg&#34; type=&#34;submit&#34;&gt;
-                            &lt;i class=&#34;glyphicon glyphicon-search&#34;&gt;&lt;/i&gt;
-                        &lt;/button&gt;
-                    &lt;/span&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;!-- search results --&gt;
-    &lt;div id=&#34;searchResultsArea&#34; class=&#34;col-md-12&#34;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/form&gt;
-
-&lt;script id=&#34;searchResultsTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
-
-    &lt;h5&gt;
-        {{#hasMultiplePages}}Page {{page}} of {{/hasMultiplePages}}
-        {{total_hits}} results ({{searchTime}})
-    &lt;/h5&gt;
-
-    &lt;div class=&#34;col-md-8&#34;&gt;
-    {{#hits}}
-        &lt;div&gt;
-            &lt;b&gt;
-                &lt;a class=&#34;resultLink&#34; href=&#34;{{id}}&#34;&gt;{{fields.title}}&lt;/a&gt;
-            &lt;/b&gt;
-                     
-            &lt;span class=&#34;badge pull-right&#34;&gt;{{roundScore}}&lt;/span&gt;
-                    
-            &lt;div class=&#34;panel panel-default&#34;&gt;
-                &lt;div class=&#34;panel-heading&#34;&gt;
-
-                    &lt;b&gt;{{fields.author}}&lt;/b&gt; on {{fields.date}}
-                &lt;/div&gt;
-
-                &lt;div class=&#34;panel-body&#34;&gt;
-                    {{#fragments}}
-                        &lt;div&gt;
-                            {{#content}}
-                                &lt;div&gt;{{{.}}}&lt;/div&gt;
-                            {{/content}}
-                        &lt;/div&gt;
-                    {{/fragments}}
-                &lt;/div&gt;
-
-            &lt;/div&gt;
-        &lt;/div&gt;
-    {{/hits}}
-    &lt;/div&gt;
-
-    &lt;div class=&#34;col-md-3 col-md-offset-1&#34;&gt;
-        &lt;h3&gt;Refine Results&lt;/h3&gt;
-        {{#each facets}}
-            &lt;div class=&#34;panel panel-default&#34;&gt;
-                &lt;div class=&#34;panel-heading&#34;&gt;&lt;b&gt;{{@key}}&lt;/b&gt;&lt;/div&gt;
-                &lt;div class=&#34;panel-body&#34;&gt;
-                    {{#each terms}}
-                    &lt;div class=&#34;checkbox&#34;&gt;
-                      &lt;label&gt;
-                        &lt;input name=&#34;f{{@../key}}&#34; type=&#34;checkbox&#34; value=&#34;{{term}}&#34; onclick=&#34;toggleFilter(&#39;{{@../key}}&#39;,&#39;{{term}}&#39;,event);&#34; {{checked isChecked}}&gt;
-                        {{term}} ({{count}})
-                      &lt;/label&gt;
-                    &lt;/div&gt;
-                    {{/each}}
-                    {{#each date_ranges}}
-                    &lt;div class=&#34;checkbox&#34;&gt;
-                      &lt;label&gt;
-                        &lt;input name=&#34;f{{@../key}}&#34; type=&#34;checkbox&#34; value=&#34;{{name}}&#34; onclick=&#34;toggleFilter(&#39;{{@../key}}&#39;,&#39;{{name}}&#39;,event);&#34; {{checked isChecked}}&gt;
-                        {{name}} ({{count}})
-                      &lt;/label&gt;
-                    &lt;/div&gt;
-                    {{/each}}
-                &lt;/div&gt;
-            &lt;/div&gt;
-        {{/each}}
-    &lt;/div&gt;
-
-
-    {{#hasMultiplePages}}
-        &lt;div class=&#34;col-md-4 col-md-offset-4&#34;&gt;
-            &lt;ul class=&#34;pagination&#34;&gt;
-                {{#notOnFirstPage}}
-                    &lt;li&gt;
-                        &lt;a onclick=&#34;jumpToPage({{prevPage}})&#34; href=&#34;&#34;&gt;&amp;laquo;&lt;/a&gt;
-
-                {{/notOnFirstPage}}
-
-                {{#validPages}}
-                    &lt;li class=&#34;{{clazz}}&#34;&gt;
-                        &lt;a href=&#34;&#34; onclick=&#34;jumpToPage({{index}}, event)&#34;&gt;{{index}}&lt;/a&gt;
-                    &lt;/li&gt;
-                {{/validPages}}
-                
-                {{#notOnLastPage}}
-                    &lt;li&gt;
-                        &lt;a onclick=&#34;jumpToPage(nextPage)&#34; href=&#34;&#34;&gt;&amp;raquo;&lt;/a&gt;
-                    &lt;/li&gt;
-                {{/notOnLastPage}}
-            &lt;/ul&gt;
-        &lt;/div&gt;
-    {{/hasMultiplePages}}
-&lt;/script&gt;
-&lt;script id=&#34;noHitsTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
-    &lt;h5&gt;Your search - {{userQuery}} - did not match any documents.&lt;/h5&gt;
-&lt;/script&gt;
-&lt;script id=&#34;searchErrorTmpl&#34; type=&#34;text/x-handlebars-template&#34;&gt;
-    &lt;h5&gt;Error executing search: {{msg}}&lt;/h5&gt;
-&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Einleitung</title>
       <link>https://fu-rollenspiel.de/01-einleitung/</link>
       <pubDate>Sun, 05 Jun 2016 21:46:15 +0200</pubDate>
@@ -511,15 +386,16 @@ Beschreibe den Körper deiner Figur als &lt;strong&gt;gewaltig&lt;/strong&gt; un
 
 
 
-&lt;pre&gt;&lt;code&gt;Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.  
+&lt;p&gt;Ausrüstung beschreibt das Zubehör, die coolen Geräte und die Waffen, die deine Figur in ihren Abenteuern benutzt. Alle Figuren besitzen die für ihr Konzept üblichen Kleider und Gegenstände. Ausrüstung dagegen umfasst die wirklich wichtigen und coolen Sachen, die sie bei sich tragen.&lt;/p&gt;
 
-Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. *Anders als Beschreiber* besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzem Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.
+&lt;p&gt;Ausrüstung kann, genau wie Beschreiber, Würfelwürfe modifizieren. Sie kann aus allem Möglichen bestehen – von Schusswaffen über Messer bis hin zu ausgefallener Garderobe, Kreditkarten, einem Pferd, einem Mobiltelefon oder sogar einem Raumschiff. Wie bei Beschreibern ist die Ausrüstung deiner Figur abhängig von deinem Konzept, der Spielwelt und den Geschichten, die ihr erzählen wollt. &lt;em&gt;Anders als Beschreiber&lt;/em&gt; besteht ein Ausrüstungsgegenstand immer aus einem Adjektiv und einem Substantiv (oder zusammengesetzem Substantiv): rostiges Schwert, langes Seil, schnelles Pferd, Scharfschützengewehr, Papas Camaro, schwere Rüstung.&lt;/p&gt;
 
-Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.
+&lt;p&gt;Deine Figur hat genau zwei Ausrüstungsgegenstände, such dir also zwei Teile aus.&lt;/p&gt;
 
-&amp;gt; David entscheidet, dass sein Tollkühner Entdecker eine **stabile Bullenpeitsche** dabei hat, da er damit recht geschickt ist, und eine **abgetragene Lederjacke**, die vor der Kälte und leichten Kratzern und Stürzen schützen kann.  
-Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für **offizielle Dokumente**, die ihren politischen Status belegen, und für **exotische Gewänder**, die Eindruck machen und Ehrfurcht einflößen sollen.
-&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;David entscheidet, dass sein Tollkühner Entdecker eine &lt;strong&gt;stabile Bullenpeitsche&lt;/strong&gt; dabei hat, da er damit recht geschickt ist, und eine &lt;strong&gt;abgetragene Lederjacke&lt;/strong&gt;, die vor der Kälte und leichten Kratzern und Stürzen schützen kann.&lt;br /&gt;
+    Nina denkt erst kurz über ihre Ausserirdische Botschafterin nach und entscheidet sich dann für &lt;strong&gt;offizielle Dokumente&lt;/strong&gt;, die ihren politischen Status belegen, und für &lt;strong&gt;exotische Gewänder&lt;/strong&gt;, die Eindruck machen und Ehrfurcht einflößen sollen.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&#34;beispiel-ausrüstung&#34;&gt;Beispiel-Ausrüstung&lt;/h2&gt;
 
