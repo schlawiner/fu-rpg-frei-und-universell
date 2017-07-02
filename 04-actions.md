@@ -120,7 +120,7 @@ Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur 
 
 **Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbögen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
 
-**Details**: Dies sind Umgebungs- oder Szenenmerkmale, die sich verändern können, wenn eine Figur etwas tut. Details können z.B. Vorhänge sein, die Feuer fangen, Fenster, die zersplittern, Tiere, die davonlaufen oder Maschinen, die angehalten sind. Details sind immer eng verknüpft mit der jeweiligen Szene und dem, was die Figur versucht zu tun.
+**Details**: Dies sind Umgebungs- oder Szenenmerkmale, die sich verändern können, wenn eine Figur etwas tut. Details können z.&nbsp;B. Vorhänge sein, die Feuer fangen, Fenster, die zersplittern, Tiere, die davonlaufen oder Maschinen, die angehalten sind. Details sind immer eng verknüpft mit der jeweiligen Szene und dem, was die Figur versucht zu tun.
 
 <div class="sidebar">
 ### Beispiele für Erfolg & Misserfolg{-}
@@ -224,7 +224,7 @@ Gib einen FU-Punkt aus, um einen einzelnen Würfel um einen Wert (ein Würfelaug
 Gib einen FU-Punkt aus, um einen normalen Gegenstand für die Dauer der Szene als Ausrüstungsgegenstand benutzen zu können.
 
 #### Talente und Stärken{-}
-Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie Fliegen, Gedankenlesen oder Teleportieren.
+Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten wie Fliegen, Gedankenlesen oder Teleportieren.
 
 #### Einen Schlag einstecken{-}
 Anstatt zu würfeln, sagst du, dass du „einen Treffer einsteckst“. Alle Würfel, die du geworfen hättest, werden als Einsen behandelt (ja, wenn du fünf Würfel geworfen hättest, zählen sie als fünf Einsen!). Als Lohn für dein Leiden erhältst du einen FU-Punkt.
@@ -242,7 +242,7 @@ Wo findet sie statt? Wer ist vor Ort? Was wollen sie erreichen? Muss die Szene i
 Spiele deine Figur und beschreibe was passiert. Arbeite auf die Zielsetzung der Szene hin.
 
 ### 3. Eine Frage stellen {.unnumbered}
-Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)
+Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.&nbsp;B. „Habe ich Erfolg?“)
 
 ### 4. Modifikatoren einrechnen {.unnumbered}
 **+1 Bonuswürfel** für jeden Beschreiber, jeden Ausrüstungsgegenstand, jedes Detail der Umgebung, jeden Zustand oder andere Merkmale, die die Handlung erleichtern.
