@@ -10,7 +10,9 @@ Das deutsche FU gibt es neben dem vorliegenden Web-SRD auch als
 - [EPUB-Version](https://drive.google.com/open?id=0BykJZJ4xih55dWJ5dWtJeDNhZlU) für E-Book-Reader und Smartphones
 
 ---
+
 ## Print on Demand
+
 In Kürze wird auch eine Möglichkeit hinzukommen, sich die Regeln als gedrucktes Buch bei einem Print-on-demand-Anbieter zu bestellen (zum Selbstkostenpreis, das heißt, wir machen keinen Gewinn damit, ihr bezahlt nur die reinen Druckkosten und den Versand direkt an den Anbieter).
 
 ---
