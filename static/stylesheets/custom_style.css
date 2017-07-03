@@ -345,10 +345,18 @@ tbody tr:nth-child(odd) {
     margin: 0 0 2em
 }
 
+.image.center {
+    margin: auto
+}
+
 .image.featured {
     display: block;
     margin: 0 0 3em;
     width: 100%
+}
+
+.thumbpdf {
+  ::before
 }
 
 

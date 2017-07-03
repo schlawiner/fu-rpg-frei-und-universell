@@ -8,7 +8,7 @@ Bei FU ist deine Figur dein „Alter Ego“, dein zweites Ich. Im Verlauf der Ge
 ## Konzept
 Sobald du weißt, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen – über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich mit wenigen Worten oder einem kurzen Satz zusammenfassen.  
 
-Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „edler Wilder“ oder „verrückter Professor“.  
+Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben wie „paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit wie „edler Wilder“ oder „verrückter Professor“.  
 
 Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!
 
@@ -207,7 +207,7 @@ Lege die vier wichtigsten oder interessantesten Merkmale deiner Figur fest: jewe
 
 ### 3. Ausrüstung
 Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
-Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. **scharfer Säbel, schnelles Motorrad**).
+Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.&nbsp;B. **scharfer Säbel, schnelles Motorrad**).
 
 ### 4. Beschreibung
 Wie sieht deine Figur aus? Wie heißt sie? Wo kommt sie her? Was ist das Interessante und Besondere an ihr?
