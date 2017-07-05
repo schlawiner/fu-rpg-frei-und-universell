@@ -3,7 +3,7 @@ date: 2016-06-06T16:13:38+02:00
 title: "FU: Das freie und universelle Rollenspiel"
 type: index
 ---
-{{< figure src="/images/fu-cover.png" alt="Cover" class="image">}}
+{{< figure src="/images/fu-cover.png" alt="Cover" class="image center">}}
 
 Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Freeform Universal RPG](http://freeformuniversal.com) von Nathan Russell ins Deutsche.
 

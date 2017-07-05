@@ -322,7 +322,8 @@ tbody tr:nth-child(odd) {
 }
 
 .image img,.image.fit,.image.main {
-    display: block
+    display: block;
+    margin: 0 auto;
 }
 
 .image.left,.image.right {
@@ -338,15 +339,16 @@ tbody tr:nth-child(odd) {
 .image.right {
     float: right;
     padding: 0 0 0.5em 0.5em;
-    top: .25em
+    top: .25em;
 }
 
 .image.fit {
-    margin: 0 0 2em
+    margin: 0 0 2em;
 }
 
 .image.center {
-    margin: auto
+    display: block;
+    margin: 0 auto;
 }
 
 .image.featured {
