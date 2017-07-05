@@ -45,7 +45,7 @@ googleAnalytics = ""
     [params.font]
     	# text = "Ubuntu"
 			text = "Arvo"
-		 headers = "Love Ya Like A Sister"
+		 headers = "Cardenio Modern Bold"
     	code = "Ubuntu Mono"
 
 
@@ -96,7 +96,7 @@ googleAnalytics = ""
 
 	[[menu.main]]
 		name   = "8. Downloads"
-		url    = "08-downloads"
+		url    = "08-downloads/"
 		weight = 70
 
 	[[menu.main]]

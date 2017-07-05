@@ -28,7 +28,7 @@ FU ist relativ unkompliziert, daher musst du wahrscheinlich nach deinem ersten S
 {{<note>}}
 ## Anmerkungskästen
 <br>
-Außerdem gibt es zu vielen Themen **Anmerkungskästen**. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Randbemerkungen erkennst du an ihrer zweispaltigen Formatierung. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.
+Außerdem gibt es zu vielen Themen **Anmerkungskästen**. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Anmerkungskästen erkennst du an einem hellgrünen Hintergrund und einer kleinen Fahne in der oberen linken Ecke. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.
 {{</note>}}
 
 Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfachheit halber durchgehend die weibliche Form – Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.
