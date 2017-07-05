@@ -18,6 +18,15 @@
       <guid>https://fu-rollenspiel.de/</guid>
       <description>
 
+
+&lt;figure class=&#34;image&#34;&gt;
+    
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/fu-cover.png&#34; alt=&#34;Cover&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
 &lt;p&gt;Dies ist eine Übersetzung des regelleichten Universalrollenspiels &lt;a href=&#34;http://freeformuniversal.com&#34;&gt;FU: The Freeform Universal RPG&lt;/a&gt; von Nathan Russell ins Deutsche.&lt;/p&gt;
 
 &lt;ul class=&#34;repo&#34;&gt;
@@ -49,8 +58,7 @@
           &lt;/li&gt;
         &lt;/ul&gt;
 
-&lt;p&gt;Die Struktur des Dokuments basiert auf der &lt;a href=&#34;https://github.com/brunobord/fu-rpg-libre-et-universel&#34;&gt;französischen Übersetzung von Bruno Bord&lt;/a&gt;.
-Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative-Commons-Lizenz (CC-BY 3.0)&lt;/a&gt; veröffentlicht. Diese Übersetzung steht unter der gleichen &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/deed.de&#34;&gt;Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Das Originalspiel wurde unter der &lt;a href=&#34;http://creativecommons.org/licenses/by/3.0/&#34;&gt;Creative-Commons-Lizenz (CC-BY 3.0)&lt;/a&gt; veröffentlicht. Diese Übersetzung steht unter der gleichen &lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/deed.de&#34;&gt;Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Das bedeutet:&lt;/strong&gt; Du darfst den Text dieser Übersetzung in beliebiger Form und in jedem Medium weitergeben, kopieren, übersetzen, verändern und darauf aufbauen und neue Sachen daraus machen. Wichtig ist, dass du die Urheber namentlich nennst, das sind &lt;strong&gt;Nathan Russell&lt;/strong&gt;, der Autor der englischen Originalversion, und &lt;strong&gt;Tina Trillitzsch und Thorsten Panknin&lt;/strong&gt;, die Übersetzer und Bearbeiter der vorliegenden deutschen Version. Außerdem sollte ein Link zur Lizenz (siehe oben) beigefügt werden, mit Nennung der Änderungen, die du gemacht hast.&lt;/p&gt;
 
@@ -138,7 +146,7 @@ The software is provided &#34;as is&#34;, without warranty of any kind, express 
 &lt;p&gt;&lt;h2 id=&#34;anmerkungskästen&#34;&gt;Anmerkungskästen&lt;/h2&gt;
 
 &lt;p&gt;&lt;br&gt;
-Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Randbemerkungen erkennst du an ihrer zweispaltigen Formatierung. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.&lt;/p&gt;
+Außerdem gibt es zu vielen Themen &lt;strong&gt;Anmerkungskästen&lt;/strong&gt;. Dort findest du Regelerläuterungen, genauere Beispiele, Anleitungen, wie man die Regeln im Spiel konkret einsetzen kann, und Zusatzregeln, die du bei Bedarf hinzufügen kannst. Anmerkungskästen erkennst du an einem hellgrünen Hintergrund und einer kleinen Fahne in der oberen linken Ecke. Dort kannst du immer dann nachschauen, wenn du Klärung zum „Wie“ und „Wann“ einer bestimmten Regel brauchst.&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Diese deutsche Übersetzung des englischsprachigen Originals verwendet der Einfachheit halber durchgehend die weibliche Form – Spielerin, Erzählerin usw. Es sind aber natürlich immer Spielende aller Geschlechter eingeschlossen.&lt;/p&gt;
@@ -248,7 +256,7 @@ Vielleicht sind diese Dinge ja schon entschieden, sei es durch die Erzählerin o
 
 &lt;p&gt;Sobald du weißt, in welcher Spielwelt und unter welchen Voraussetzungen euer Abenteuer stattfinden soll, kannst du dir langsam Gedanken über deine Figur machen – über ihr „Konzept“. Dies ist der Kern deiner Figur und beschreibt, was sie ausmacht und wer sie ist. Ein Konzept lässt sich mit wenigen Worten oder einem kurzen Satz zusammenfassen.&lt;/p&gt;
 
-&lt;p&gt;Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben, wie „paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit, wie „edler Wilder“ oder „verrückter Professor“.&lt;/p&gt;
+&lt;p&gt;Das Konzept kann den Hintergrund oder den Beruf deiner Figur beschreiben wie „paranormaler Ermittler“ oder „Wunderkind“. Oder es gibt  Aufschluss über ihre Persönlichkeit wie „edler Wilder“ oder „verrückter Professor“.&lt;/p&gt;
 
 &lt;p&gt;Das Konzept deiner Figur sollte natürlich zur Spielwelt, zum Hintergrund und zur Art der Abenteuer passen, die ihr spielt. Ein „gewiefter Bulle“ passt vielleicht nicht ganz ins mittalterliche England, aber ein „welterfahrener Schultheiß“ könnte hier genau das Richtige sein. Lass dich beim Konzept deiner Figur von der Spielwelt inspirieren!&lt;/p&gt;
 
@@ -548,7 +556,7 @@ riesiger Rucksack, kleine Flagge, schwere Rollenspielbücher, treuer Hund, verbe
 &lt;h3 id=&#34;3-ausrüstung&#34;&gt;3. Ausrüstung&lt;/h3&gt;
 
 &lt;p&gt;Welches coole Zeug trägt deine Figur als Markenzeichen bei sich?
-Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.B. &lt;strong&gt;scharfer Säbel, schnelles Motorrad&lt;/strong&gt;).&lt;/p&gt;
+Wähle zwei Ausrüstungsgegenstände und beschreibe sie jeweils mit einem Adjektiv und einem Substantiv (z.&amp;nbsp;B. &lt;strong&gt;scharfer Säbel, schnelles Motorrad&lt;/strong&gt;).&lt;/p&gt;
 
 &lt;h3 id=&#34;4-beschreibung&#34;&gt;4. Beschreibung&lt;/h3&gt;
 
@@ -972,7 +980,7 @@ Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. &lt;em&gt;�
 
 &lt;h4 id=&#34;talente-und-stärken&#34;&gt;Talente und Stärken&lt;/h4&gt;
 
-&lt;p&gt;Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten, wie Fliegen, Gedankenlesen oder Teleportieren.&lt;/p&gt;
+&lt;p&gt;Gebt euren Figuren Sonderfähigkeiten, besondere Fertigkeiten und Stärken, die sie nur benutzen können, wenn sie einen FU-Punkt dafür ausgeben. Sie sollten mächtiger als Beschreiber sein – man sollte damit die normalen Spielregeln brechen können oder eine übermenschliche Gabe erhalten wie Fliegen, Gedankenlesen oder Teleportieren.&lt;/p&gt;
 
 &lt;h4 id=&#34;einen-schlag-einstecken&#34;&gt;Einen Schlag einstecken&lt;/h4&gt;
 
@@ -991,7 +999,7 @@ Zum Beispiel steht Sir Camden den Schergen von Lord Kane gegenüber. &lt;em&gt;�
 
 &lt;h3 id=&#34;3-eine-frage-stellen&#34;&gt;3. Eine Frage stellen&lt;/h3&gt;
 
-&lt;p&gt;Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.B. „Habe ich Erfolg?“)&lt;/p&gt;
+&lt;p&gt;Müsst ihr den Ausgang eines Konflikts klären oder willst du eine Handlung machen, stelle eine geschlossene Frage (z.&amp;nbsp;B. „Habe ich Erfolg?“)&lt;/p&gt;
 
 &lt;h3 id=&#34;4-modifikatoren-einrechnen&#34;&gt;4. Modifikatoren einrechnen&lt;/h3&gt;
 
@@ -1801,17 +1809,58 @@ Wenn ihr ein neues Spiel anfangt, sprich mit den Spielerinnen über ihre Erwartu
       <pubDate>Mon, 20 Mar 2017 17:10:42 +0100</pubDate>
       
       <guid>https://fu-rollenspiel.de/08-downloads/</guid>
-      <description>&lt;p&gt;Noch gibt es das deutsche FU nur in Form dieses Web-SRDs. In Kürze folgen hier aber PDF- und E-Pub-Versionen zum Ausdrucken und für E-Bookreader.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Hier nun schon einmal &lt;strong&gt;Figurenbögen&lt;/strong&gt; in drei Varianten:&lt;/p&gt;
+&lt;h2 id=&#34;regelwerk&#34;&gt;Regelwerk&lt;/h2&gt;
+
+&lt;p&gt;Das deutsche FU gibt es neben dem vorliegenden Web-SRD auch als&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-ungerade.pdf&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Ungerade schlagen&amp;rdquo;&lt;/strong&gt; (1, 3, 6 sind Nein, 2, 4, 6 sind Ja)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-hoch-ist-gut.pdf&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Höher ist besser&amp;rdquo;&lt;/strong&gt; (1-3 ist Nein, 4-6 ist Ja)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-leer.pdf&#34;&gt;Mit leeren Feldern für &lt;strong&gt;eigene Beschreibernamen&lt;/strong&gt; und selbstgewähltes Würfelsystem (gewünscht Zahlen in die leeren Würfelfelder eintragen).&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55dWJ5dWtJeDNhZlU&#34;&gt;&lt;strong&gt;EPUB-Version&lt;/strong&gt;&lt;/a&gt; für E-Book-Reader und Smartphones&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55N1diNk5UN1lmSEk&#34;&gt;&lt;strong&gt;PDF-Version&lt;/strong&gt;&lt;/a&gt; zum Lesen an Computer/Tablet und zum Ausdrucken (&lt;strong&gt;Tipp zum Druck&lt;/strong&gt;: &lt;a href=&#34;https://helpx.adobe.com/de/acrobat/kb/print-booklets-acrobat-reader.html&#34;&gt;&lt;em&gt;&amp;ldquo;Broschürendruck&amp;rdquo;&lt;/em&gt; in Adobe Acrobat Reader verwenden&lt;/a&gt;, &lt;em&gt;beidseitig&lt;/em&gt; drucken und dann mit großem Tacker innen zusammenheften - dabei Tacker aufmachen, dicken Korkuntersetzer oder Radiergummi &lt;a href=&#34;http://de.wikihow.com/Hefte-eine-Brosch%C3%BCre&#34;&gt;drunterlegen und die offengebliebenen Tackerklammern&lt;/a&gt; mit einem Werkzeug zubiegen!)&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;print-on-demand&#34;&gt;Print-on-Demand&lt;/h2&gt;
+
+&lt;p&gt;Es gibt auch die Möglichkeit, sich die Regeln als &lt;strong&gt;richtiges gedrucktes Buch&lt;/strong&gt; bei einem Print-on-demand-Anbieter zu bestellen (zum Selbstkostenpreis, das heißt, &lt;em&gt;wir machen keinen Gewinn damit (und geben auch keine Garantien)&lt;/em&gt;. Ihr ladet lediglich die von uns bereitgestellte PDF-Datei dort hoch (unten eine Anleitung) und bezahlt nur die reinen Druckkosten und den Versand, und zwar direkt an den Anbieter).&lt;/p&gt;
+
+&lt;p&gt;Bei dem Anbieter &lt;a href=&#34;https://www.epubli.de&#34;&gt;epubli&lt;/a&gt;, den ich empfehle (weil am günstigsten), kostet ein Buch (100 Seiten) in Schwarzweiß dann ca. 6 € plus 3 € Porto; in Farbe kommt man schon auf 16 € plus 3 €.&lt;/p&gt;
+
+&lt;p&gt;Hier habe ich eine &lt;a href=&#34;https://dl.dropboxusercontent.com/spa/7kziec3godb75z4/fu-als-echtes-buch--aber-print-on-demand-bei-epubli/index.html&#34;&gt;bebilderte Anleitung geschrieben, wie man vorgehen muss&lt;/a&gt;.
+Und hier sind die beiden Dateien, die man braucht:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;das &lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55N1diNk5UN1lmSEk&#34;&gt;&lt;strong&gt;PDF des Inhalts&lt;/strong&gt;&lt;/a&gt; (die selbe Datei wie oben auch)&lt;/li&gt;
+&lt;li&gt;das separate &lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55cFpFZ1RJSGQ2OG8&#34;&gt;&lt;strong&gt;Cover als PDF&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;figurenbögen&#34;&gt;Figurenbögen&lt;/h2&gt;
+
+&lt;p&gt;Außerdem gibt es natürlich die benötigten &lt;strong&gt;Figurenbögen&lt;/strong&gt; in drei Varianten:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55cDNSQkpZV3djaUk&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Ungerade schlagen&amp;rdquo;&lt;/strong&gt; (1, 3, 6 sind Nein, 2, 4, 6 sind Ja)&lt;/a&gt;
+&lt;!-- (https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-ungerade.pdf) --&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55WjdoczVfODRZZ3c&#34;&gt;Für Würfelsystem &lt;strong&gt;&amp;ldquo;Höher ist besser&amp;rdquo;&lt;/strong&gt; (1-3 ist Nein, 4-6 ist Ja)&lt;/a&gt;
+&lt;!-- (https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-hoch-ist-gut.pdf) --&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=0BykJZJ4xih55ZjlPcHVJbG9tOFk&#34;&gt;Mit leeren Feldern für &lt;strong&gt;eigene Beschreibernamen&lt;/strong&gt; und selbstgewähltes Würfelsystem (gewünscht Zahlen in die leeren Würfelfelder eintragen).&lt;/a&gt;
+&lt;!-- (https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-leer.pdf) --&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- - 
+&lt;figure class=&#34;thumbpdf&#34;&gt;
+    &lt;a href=&#34;https://github.com/schlawiner/fu-rpg-frei-und-universell/raw/master/Scribus/Sheets/fu-figurenbogen-leer.pdf&#34;&gt;
+        &lt;img src=&#34;https://fu-rollenspiel.de/images/thumbnails/cover_thumb.jpg&#34; alt=&#34;PDF&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+ --&gt;
 
 &lt;hr /&gt;
 </description>
