@@ -99,7 +99,7 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele h
 \newpage
 ## Erfolg & Misserfolg
 
-Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
+Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es kann auch noch mehr passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur was sie will?“_ Darauf gibt es sechs mögliche Antworten:
 
@@ -116,9 +116,9 @@ Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur 
 > Nein, und...
 
 
-*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein Satzteil angefügt, der beschreibt, wie groß dein Erfolg oder dein Fehlschlag ist. Diese Zusatz kann entweder einer Figur einen *Zustand* auferlegen oder ein *Szenendetail* hinzufügen.
+*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein Satzteil angefügt, der beschreibt, wie groß dein Erfolg oder dein Fehlschlag ist. Dieser Zusatz kann entweder einer Figur einen *Zustand* auferlegen oder ein *Szenendetail* hinzufügen.
 
-**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbögen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbogen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
 
 **Details**: Dies sind Umgebungs- oder Szenenmerkmale, die sich verändern können, wenn eine Figur etwas tut. Details können z.&nbsp;B. Vorhänge sein, die Feuer fangen, Fenster, die zersplittern, Tiere, die davonlaufen oder Maschinen, die angehalten sind. Details sind immer eng verknüpft mit der jeweiligen Szene und dem, was die Figur versucht zu tun.
 
