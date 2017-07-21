@@ -3,7 +3,7 @@ date: 2016-06-05T21:46:52+02:00
 title: Etwas tun
 weight: 40
 ---
-Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht ums Gewinnen oder Wettkampf, sondern um die Freude am Entwickeln eurer gemeinsamen Geschichte.
+Bei FU erzählst du gemeinsam mit deinen Mitspielerinnen spannende Geschichten über eure Figuren. Es geht nicht um Gewinnen oder Wettkampf, sondern um die Freude am Entwickeln eurer gemeinsamen Geschichte.
 
 ## Szenen und Runden
 Das Spiel unterteilt sich in Szenen und Runden. Eine Szene ist ein Zeitabschnitt innerhalb der Geschichte, in dem es um etwas bestimmtes geht: eine Situation, einen Ort oder eine Gruppe von Figuren. Szenen sind die Grundbausteine der Geschichte und können beliebig lange Zeiträume von wenigen Sekunden bis hin zu vielen Stunden abbilden. Jede Szene sollte eine bestimmte Zielsetzung verfolgen und enden, wenn diese bearbeitet wurde. Eine Szene kann die Handlung vorantreiben, etwas über eine Figur verraten oder der Geschichte Stimmung und Atmosphäre verleihen. Viele Szenen tun das sogar alles gleichzeitig.
@@ -101,7 +101,7 @@ Manchen Spielerinnen gefallen die geraden/ungeraden Ergebnisse nicht – viele h
 {{</note>}}
 
 ## Erfolg & Misserfolg
-Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es doch es kann auch noch mehr passieren.
+Wenn du würfelst, hat deine Figur entweder Erfolg bei dem, was sie versucht, oder es schlägt fehl. Normalerweise genügt das, um die Geschichte voranzutreiben, doch es kann auch noch mehr passieren.
 
 Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur was sie will?“_ Darauf gibt es sechs mögliche Antworten:
 
@@ -118,9 +118,9 @@ Wenn du eine Handlung versuchst, stellst du die Frage: _„Erreicht meine Figur 
 > Nein, und...
 
 
-*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein Satzteil angefügt, der beschreibt, wie groß dein Erfolg oder dein Fehlschlag ist. Diese Zusatz kann entweder einer Figur einen *Zustand* auferlegen oder ein *Szenendetail* hinzufügen.
+*Ja* und *Nein* sind klar – sie sagen euch, ob die Handlung erfolgreich war oder nicht. Das *Und* und das *Aber* legen den Umfang von Erfolg und Misserfolg fest. Wenn du eines davon würfelst, wird ein Satzteil angefügt, der beschreibt, wie groß dein Erfolg oder dein Fehlschlag ist. Dieser Zusatz kann entweder einer Figur einen *Zustand* auferlegen oder ein *Szenendetail* hinzufügen.
 
-**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbögen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
+**Zustände**: Das sind körperliche, geistige oder gesellschaftliche Auswirkungen, die Einfluss darauf haben, wie eine Figur sich verhält oder wie sie Handlungen angeht. Zustände umfassen Dinge wie *wütend*, *verwirrt*, *müde* und *bewusstlos*. Einige stehen schon auf dem FU-Figurenbogen; außerdem findet ihr dort auch noch genug Platz zum Eintragen eigener Zustände.
 
 **Details**: Dies sind Umgebungs- oder Szenenmerkmale, die sich verändern können, wenn eine Figur etwas tut. Details können z.B. Vorhänge sein, die Feuer fangen, Fenster, die zersplittern, Tiere, die davonlaufen oder Maschinen, die angehalten sind. Details sind immer eng verknüpft mit der jeweiligen Szene und dem, was die Figur versucht zu tun.
 
