@@ -7,6 +7,7 @@ metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
+Paginate = 4
 
 [params]
 	# General information
@@ -58,6 +59,11 @@ googleAnalytics = ""
 # 	name   = "FU - Frei und universell"
 # 	url    = "/"
 # 	weight = 0
+
+[[menu.main]]
+	name = "Blog"
+	url = "blog/"
+	weight=9
 
 [[menu.main]]
 	name   = "1. Einleitung"
