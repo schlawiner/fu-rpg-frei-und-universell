@@ -6,7 +6,7 @@
 	{{ $currentMenuEntry.Pre }}
 	{{ $currentMenuEntry.Name }}
 </a>
-{{ if and ($isCurrent) (not (eq .Title "Blog")) }}
+{{ if and ($isCurrent) (ne .Title "Blog") }}
 <ul id="scrollspy">
 </ul>
 {{ end }}
