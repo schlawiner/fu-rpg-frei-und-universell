@@ -15,6 +15,14 @@ Endlich ist es vollbracht! Die deutsche Übersetzung von Nathan Russells leichte
 - [als **PDF**]({{< relref "08-downloads/index.md#regelwerk" >}}) zum Ausdrucken und zum Lesen an Tablet oder Computerbildschirm
 - [und als **EPUB**]({{< relref "08-downloads/index.md#regelwerk" >}}) zum bequemen Lesen auf dem E-Book-Reader und dem Smartphone.
 
+## Wie sieht das denn dann aus?
+Thorsten hat sich das PDF bei Epubli professionell (Print-on-Demand) als Hardcover drucken lassen und [zeigt das auf seinem Blog](http://thorsten-spielt-rollenspiel.de/freeform-universal-fu-auf-deutsch-als-hardcover/). Wie das geht habe ich auf der [Downloadseite](({{< relref "08-downloads/index.md#regelwerk" >}})) nochmal in einem kleinen Tutorial erklärt.
+
+Ein zu Hause als Broschüre gedrucktes und geheftes FU habe ich selber gebastelt. Auch dafür gibt es auf der [Downloadseite eine kurze Anleitung]({{< relref "08-downloads/index.md#regelwerk" >}}). Das Endprodukt sieht in etwa so aus:
+
+{{< figure src="/images/blog/fu-broschuere1.jpg" title="" class="image fit">}}
+
+
 ## Zugänglichkeit
 Wir haben für unsere Übersetzung viel Wert auf eine möglichst leichte **Zugänglichkeit besonders für Kinder und Rollenspielneulinge** gelegt, was sich auch in der Wortwahl mit möglichst wenig Rollenspieljargon niederschlägt. Daher werden alte Hasen bei manchen Entscheidungen vielleicht skeptisch die Stirn runzeln - Figuren statt **Charaktere**? Wieso werden überall **nur Mädchen** und Frauen angesprochen? Und was sollen die freundlichen Farben und übermütigen Schriften und Illustrationen? **Das ist Absicht!** Man gewöhnt sich daran, versprochen.
 
