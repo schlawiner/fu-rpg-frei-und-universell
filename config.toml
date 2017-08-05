@@ -21,7 +21,7 @@ disqusShortname = "fu-rollenspiel"
 	#  repo_url = "https://github.com/schlawiner/fu-rpg-frei-und-universell"
 
 	version = "1.0"
-	logo = "/images/logo.png"
+	logo = "images/logo.png"
 	favicon = "favicon.ico"
 
 	permalink = "#"
