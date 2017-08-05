@@ -507,13 +507,17 @@ tbody tr:nth-child(odd) {
   text-align: left;
 }*/
 
-.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article aside, .article .weiter-link, .article .data, .article ul, .article ol {
+.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article aside, .article .weiter-link, .article .data, .article ul, .article ol .image img,.image.fit,.image.main  {
   /*padding-left: 30px;*/
   margin-left: 40px;
   margin-right: 20px;
   /*max-width: 37.5em;*/
     }
 
+  /*.image img,.image.fit,.image.main {
+        display: block;
+        margin-left: 20px;
+  }*/
 
 .admonition {
   margin: 20px -16px 0;

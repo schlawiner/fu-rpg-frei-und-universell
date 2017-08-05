@@ -1,0 +1,7 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+http://www.fu-rollenspiel.de/* https://fu-rollenspiel.de/:splat 301!
+http://www.fu-rollenspiel.de/* https://fu-rollenspiel.de/:splat 301!
+https://www.fu-rollenspiel.de/* https://fu-rollenspiel.de/:splat 301!
+
+http://fu-rollenspiel.netlify.com/* https://fu-rollenspiel.de/:splat 301!
+https://fu-rollenspiel.netlify.com/* https://fu-rollenspiel.de/:splat 301!
