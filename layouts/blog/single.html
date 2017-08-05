@@ -45,7 +45,7 @@
 
 			<aside class="copyright" role="note" lang="de">
 				{{ with .Site.Params.copyright }}<hr>
-				&copy; {{ $.Now.Format "2006" }} {{ . }} &ndash;
+				&copy; {{ now.Format "2006" }} {{ . }} &ndash;
 				{{ end }}
 				Diese Seite ist erstellt mit
 				<a href="https://www.gohugo.io" target="_blank">Hugo</a>
