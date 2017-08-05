@@ -166,7 +166,7 @@ blockquote p {
 }
 
 article .blogpost-title, article .blogpost-title a {
-  font-family: "Cardenio Modern";
+  font-family: "Cardenio Modern", "Arvo", "serif";
   /*font-size: 1.75em;*/
   line-height: 1.2;
   font-weight: bolder;
