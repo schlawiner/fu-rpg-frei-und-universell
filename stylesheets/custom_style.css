@@ -47,6 +47,7 @@ copyright {
     /*margin: 1.5em 0;*/
     line-height: 1em;
     font-size: 0.5em;
+    /*border-top: 1px solid lightgray;*/
 }
 
 
@@ -162,6 +163,34 @@ blockquote {
 blockquote p {
   margin: 0.7em !important;
 
+}
+
+article .blogpost-title, article .blogpost-title a {
+  font-family: "Cardenio Modern";
+  /*font-size: 1.75em;*/
+  line-height: 1.2;
+  font-weight: bolder;
+  margin: 1em 0 0.25em 0;
+  /*border-top: 1pt solid lightgray;*/
+  padding-top: 1em;
+  padding-bottom: 0;
+}
+
+article .blog-meta {
+  font-size: 95%;
+  font-weight: normal;
+  color: gray;
+  margin: 0.5em 0 0 0;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+
+/*article .weiter-link {
+  margin-left: 2.5em;
+}*/
+
+section {
+  margin-top: 2em;
 }
 
 /*blockquote p {
@@ -473,12 +502,18 @@ tbody tr:nth-child(odd) {
   text-align:left !important;
 }
 
-.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article aside, .article .data, .article ul {
+/*.article aside {
+  border-top: 1px solid lightgray;
+  text-align: left;
+}*/
+
+.article p, .article h1, .article h2, .article h3, .article h4, .article table, .article blockquote, .article aside, .article .weiter-link, .article .data, .article ul, .article ol {
   /*padding-left: 30px;*/
   margin-left: 40px;
   margin-right: 20px;
   /*max-width: 37.5em;*/
     }
+
 
 .admonition {
   margin: 20px -16px 0;
@@ -494,4 +529,29 @@ tbody tr:nth-child(odd) {
     margin-bottom: 1.5em;
 }
 
+.blogpagination {
+  text-align: center;
+}
+
+.blogpagination li {
+  display: inline;
+  list-style: none;
+}
+.blogpagination li a {
+  padding: 4px 8px;
+  margin-right: 4px;
+  color: #666;
+  text-align: center;
+  text-decoration: none;
+  background: #ddd;
+  border: 1px solid #ccc;
+}
+
+.blogpagination li.active a,
+.blogpagination a:hover {
+  color: #fff;
+  background: #5f87ae;
+  border: 1px solid #89adcf;
+  // margin-right: 4px;
+  // padding: 4px 8px;
 }
