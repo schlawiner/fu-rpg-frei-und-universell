@@ -8,6 +8,7 @@ canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
 Paginate = 4
+disqusShortname = "fu-rollenspiel"
 
 [params]
 	# General information

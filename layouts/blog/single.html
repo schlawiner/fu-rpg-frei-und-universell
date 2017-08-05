@@ -24,30 +24,28 @@
 
 	<article class="article" lang="de">
 		<div class="wrapper">
-			<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+			<h1 class="blogpost-title">{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+
+			<h3 class="blog-meta" lang="de">geschrieben am {{ .Date.Format "02.01.2006" }} {{ if (ne ($.Param "displayauthor") false) }} von {{ .Params.author | default .Site.Params.author }}{{ end }}</h3>
+			<!-- {{ if .Params.tags }}
+				{{ partial "tags" .Params.tags }}
+			{{ end }} -->
 
 			{{ .Content }}
 
-      {{ range .Paginator.Pages }}
-         <h2 class="blogpost-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-	 			<h3 class="blog-meta" lang="de">geschrieben am {{ .Date.Format "02.01.2006" }} {{ if (ne ($.Param "displayauthor") false) }} von {{ .Params.author | default .Site.Params.author }}{{ end }}</h3>
+          {{ if (ne ($.Param "sharingicons") false) }}
+          {{ partial "sharing.html" . }}
+          {{ end }}
 
-				{{ .Summary }}
 
-				{{ if .Truncated }}
-			       <!-- This <div> includes a read more link, but only if the summary is truncated... -->
-			       <div>
-			         <a href="{{ .RelPermalink }}" class="weiter-link">Weiterlesen…</a>
-			       </div>
-			     {{ end }}
-         <!-- {{ .Content }} -->
+      <!-- {{ partial "disqus" . }} -->
+			{{ partial "disqus.html" . }}
 
-      {{ end }}
-      {{ template "partials/pagination.html" . }}
+
 
 			<aside class="copyright" role="note" lang="de">
 				{{ with .Site.Params.copyright }}<hr>
-				&copy; {{ now.Format "2006" }} {{ . }} &ndash;
+				&copy; {{ $.Now.Format "2006" }} {{ . }} &ndash;
 				{{ end }}
 				Diese Seite ist erstellt mit
 				<a href="https://www.gohugo.io" target="_blank">Hugo</a>

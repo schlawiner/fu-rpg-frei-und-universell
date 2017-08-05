@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>07-anhang-rsses on FU: Das freie und universelle Rollenspiel</title>
-    <link>https://fu-rollenspiel.de/07-anhang/index.xml</link>
-    <description>Recent content in 07-anhang-rsses on FU: Das freie und universelle Rollenspiel</description>
+    <title>07-anhangs on FU: Das freie und universelle Rollenspiel</title>
+    <link>https://fu-rollenspiel.de/07-anhang/</link>
+    <description>Recent content in 07-anhangs on FU: Das freie und universelle Rollenspiel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Creative Commons Attribution 3.0 Unported</copyright>
     <lastBuildDate>Sun, 05 Jun 2016 21:47:58 +0200</lastBuildDate>
-    <atom:link href="https://fu-rollenspiel.de/07-anhang/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://fu-rollenspiel.de/07-anhang/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Anhang: Beschreiberliste</title>
@@ -16,148 +18,10 @@
       <pubDate>Sun, 05 Jun 2016 21:47:58 +0200</pubDate>
       
       <guid>https://fu-rollenspiel.de/07-anhang/</guid>
-      <description>
-
-&lt;p&gt;Diese Liste ist längst nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber nützlich oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.&lt;/p&gt;
-
-&lt;h2 id=&#34;körper-beschreiber&#34;&gt;Körper-Beschreiber&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Beweglich:&lt;/strong&gt; hilfreich beim Tanzen, Springen, Balancieren, Turnen, und Kriechen durch enge Stellen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Beidhändig:&lt;/strong&gt; toll beim gleichzeitigen Schießen mit zwei Waffen und bei Taschenspieler- oder Zaubertricks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blondine:&lt;/strong&gt; gut, um von Leuten unterschätzt zu werden, nicht gut, wenn man sich zu lange in der Sonne aufhält.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Selbstbräuner-Orange:&lt;/strong&gt; toll, um als alternde Berühmtheit durchzugehen und um Aufmerksamkeit auf sich zu ziehen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pelzig:&lt;/strong&gt; nützlich, um kalter Witterung zu widerstehen und in der Wildnis zu überleben.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gutaussehend:&lt;/strong&gt; nützlich beim Flirten, Dinge verkaufen, Filmrollen bekommen, Modeln, und fürs beliebt sein.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gewaltig:&lt;/strong&gt; gut, um gefährlich zu wirken, an hohe Dinge heranzukommen, eine Bodybuilderin zu spielen oder an engen Stellen steckenzubleiben.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Übergewichtig:&lt;/strong&gt; ein Problem beim Sport und beim Ausleihen von Kleidung.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schwache Konstitution:&lt;/strong&gt; hinderlich bei Langstreckenläufen, dem Aushalten von Schaden, bei Ausdauertätigkeiten und beim Verheilen von Wunden.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Flink:&lt;/strong&gt; nützlich beim Wegducken und von Deckung zu Deckung rennen, bei Taschenspielertricks, beim Ausweichen und bei anderen Dingen, die schnelles Handeln erfordern.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rasiermesserscharfe Klauen:&lt;/strong&gt; großartig, um Gegner aufzuschlitzen, Obst und Gemüse zu schneiden und eventuell auch beim Bäumeklettern.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Klein:&lt;/strong&gt; nervig, weil man nicht an hohe Sachen herankommt, aber praktisch, um unter niedrige Dinge zu kriechen und in der Menge unterzutauchen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Langsam:&lt;/strong&gt; ein Problem beim Rennen, Ausweichen und Reagieren.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Stark:&lt;/strong&gt; sinnvoll, um Dinge anzuheben, zu tragen, zu zerschlagen und zu werfen; könnte auch beim Ringen helfen und dabei, nicht von Dingen erdrückt zu werden.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hochgewachsen:&lt;/strong&gt; nützlich, um an das oberste Regal heranzukommen, beim Klettern und um über die Köpfe anderer Leute hinwegzuschauen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dünn:&lt;/strong&gt; praktisch, um sich in Kleidung und enge Winkel hineinzuzwängen, sich hinter Pfosten zu verstecken und auf dem Laufsteg eine gute Figur zu machen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hässlich:&lt;/strong&gt; ein Problem bei der Verführung oder wenn man eine Fernsehrolle haben will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vital:&lt;/strong&gt; großartig, um der Wirkung von Giften zu widerstehen, bei Langstreckenläufen und bei anderen Ausdauertätigkeiten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schwächlich:&lt;/strong&gt; lästig beim Anheben, Tragen, Zerschlagen und Werfen von Dingen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Schwimmfüße:&lt;/strong&gt; toll fürs Schwimmen, aber schrecklich, wenn man Schuhe kaufen will.&lt;/p&gt;
-
-&lt;h2 id=&#34;geist-beschreiber&#34;&gt;Geist-Beschreiber&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Zerstreut:&lt;/strong&gt; gut, um ablenkbar zu sein, aber problematisch, wenn man nicht vergessen will, wo man seine Schlüssel gelassen oder dass man gerade den Sicherheitsstift einer Handgranate gezogen hat.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Belesen:&lt;/strong&gt; toll, um Schulprüfungen abzulegen, Matheformeln zu kennen, sich an Geschichtsdaten zu erinnern und um die Zulassung zum Jurastudium zu erlangen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Computerfreak:&lt;/strong&gt; gut beim Programmieren und Laptopreparieren, und um in Internet-Grabenkämpfe zwischen PC- und Apple-Fans zu geraten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dämlich:&lt;/strong&gt; problematisch, wenn man Witze verstehen, Tricks bemerken oder ganz allgemein in Gesellschaft den Schein wahren will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Einfühlsam:&lt;/strong&gt; gut, um die Gefühle anderer Menschen zu lesen, um psychologische Diagnosen zu stellen und bekümmerte Menschen zu trösten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Konzentriert:&lt;/strong&gt; hilfreich, um bei der Sache zu bleiben, sich nicht ablenken zu lassen und um ernst dreinzuschauen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Querdenkerin:&lt;/strong&gt; nützlich, um Probleme zu lösen und Schwierigkeiten kreativ anzugehen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mathematikerin:&lt;/strong&gt; toll, um zu addieren, Gleichungen zu lösen und die Steuererklärung zu machen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aufmerksam:&lt;/strong&gt; prima, um versteckte Hinweise und Details zu erkennen, Wortsuchrätsel zu lösen und beim Lesen von Körpersprache.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rednerin:&lt;/strong&gt; vorteilhaft beim Halten von öffentlichen Reden, Führen von Debatten und Klarmachen deines Standpunkts.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Langsam:&lt;/strong&gt; nervig, wenn man Pläne verstehen oder neue Dinge lernen will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Taktikerin:&lt;/strong&gt; großartig, um Schlachten zu planen, Militärgeschichte zu kennen und Sun-Tsu zu zitieren.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ungebildet:&lt;/strong&gt; nervig beim Lesen, Lösen von Matheaufgaben, Erinnern an wichtige Geschichtsdaten und wenn man Schulprüfungen bestehen will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Weise:&lt;/strong&gt; nützlich, um Sprichwörter zu zitieren, ratzugeben, Hinweise zu kombinieren, Reaktionen anderer Menschen zu interpretieren und anzumerken: „Ich hab&amp;rsquo;s euch ja gesagt“.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Geistreich:&lt;/strong&gt; gut, um witzige Kommentare rauszuhauen, charmant/unterhaltsam zu sein, das Richtige zum rechten Zeitpunkt zu sagen.&lt;/p&gt;
-
-&lt;h2 id=&#34;stärken-beschreiber&#34;&gt;Stärken-Beschreiber&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Akrobatik:&lt;/strong&gt; großartig, um zum Zirkus zu gehen, durch schmale Öffnungen zu springen und beeindruckende Salti zu schlagen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Okkultes Geheimwissen:&lt;/strong&gt; praktisch, um mystische Artefakte zu identifizieren, schwarze Magie zu erkennen und uralte Pergamentrollen zu lesen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mut:&lt;/strong&gt; hilreich, um einen grauenvollen Anblick zu ertragen, deine Frau zu informieren, dass du den Hochzeitstag vergessen hast und für andere gefährliche Aktionen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fahren:&lt;/strong&gt; toll bei Autorennen, Verfolgungsjagden und beim Bestehen deiner Fahrprüfung.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fechten:&lt;/strong&gt; gut für den Schwertkampf und andere kultivierte Formen des Nahkampfes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gutes Gedächtnis:&lt;/strong&gt; nützlich, um sich an Namen und Gesichter, wichtige Hinweise und mathematische Formeln zu erinneren.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jagen:&lt;/strong&gt; vorteilhaft beim Spurenlesen und Anpirschen, um in Tarnkleidung gut auszusehen, und um zu wissen, wie sich ein wütendes Nashorn anhört.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Scharfe Augen:&lt;/strong&gt; super, um weit entfernte Dinge zu sehen oder sogar im Mondlicht arbeiten zu können.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sprachwissenschaften:&lt;/strong&gt; Vorteile beim Sprechen von Fremdsprachen und allgemein bei der Kommunikation mit anderen Leuten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Magie:&lt;/strong&gt; Vorteile beim Beherrschen mystischer Künste, beim Wirken von Zaubersprüchen oder beim Auftritt als Bühnenmagier.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Medizin:&lt;/strong&gt; hilfreich beim Durchführen von Operationen, Diagnostizieren von Krankheiten, und Leisten von Erster Hilfe.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fieser Biss:&lt;/strong&gt; super, um Gegnerinnen im Kampf schwer zu verletzen, sich den eigenen Arm abzukauen oder einen Kuchenesswettbewerb zu gewinnen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reich:&lt;/strong&gt; praktisch, um Luxussportwagen zu kaufen, Einladungen zu exklusiven Partys zu bekommen und um städtische Beamte zu bestechen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ringkampf:&lt;/strong&gt; gut beim unbewaffneten Kampf und dem Festsetzen von Gegnern am Boden.&lt;/p&gt;
-
-&lt;h2 id=&#34;schwächen-beschreiber&#34;&gt;Schwächen-Beschreiber&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Blind:&lt;/strong&gt; nervig bei allem, was mit dem Sehvermögen zu tun hat, zum Beispiel Schießen, sich auf unbekanntem Gelände Zurechtfinden oder Malen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Unerschrocken:&lt;/strong&gt; nützlich beim Stürmen in tödliche Gefahren, für leichtfertiges Verhalten und um ordentlich in Schwierigkeiten zu geraten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ungeschickt:&lt;/strong&gt; problematisch beim Tragen einer wertvollen Vase, beim Besuch eines Antiquitätenladens oder dem Durchqueren eines mit Fallen gespickten Raumes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gierig:&lt;/strong&gt; ungünstig wenn man dem Impuls widerstehen muss, zu stehlen, lügen oder anderweitig Reichtümer anzuhäufen oder zu behalten.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Unmenschliches Aussehen:&lt;/strong&gt; hinderlich, wenn man nicht bemerkt werden möchte, Aufmerksamkeit vermeiden will, oder perfekt sitzende Hosen sucht.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fehlendes Bein:&lt;/strong&gt; Problematisch beim Laufen, Klettern oder jeder anderen Aktivität, die mit Bewegung ohne Prothesen oder Rollstuhl zu tun hat.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alt:&lt;/strong&gt; Probleme wenn man cool aussehen, Treppen steigen oder Computer benutzen will oder zuversichtlich zu sein, wenn es um die eigene Gesundheit geht.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Arm:&lt;/strong&gt; hinderlich, wenn man Essen oder Kleidung kaufen oder an einer exklusiven Party teilnehmen will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sieht schlecht:&lt;/strong&gt; nervig, wenn man jemanden oder etwas wiedererkennen will, im Dunkeln fahren muss oder visuelle Hinweise ausmachen soll.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Primitiv:&lt;/strong&gt; Probleme beim Nutzen von Handys, Autos oder Türklingeln und beim Benehmen auf kultivierten gesellschaftlichen Anlässen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intensiver Geruch:&lt;/strong&gt; hinderlich, wenn man Leute beeindrucken oder sich vor wilden Tieren und Verfolgerinnen verstecken will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gesucht:&lt;/strong&gt; nervig, wenn man sich von Schwierigkeiten fernhalten will oder man etwas aus seiner Wohnung braucht.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Jung:&lt;/strong&gt; problematisch, wenn man in Diskos rein möchte, von Erwachsenen ernstgenommen werden will, die Schulpflicht umgehen oder im Auto über das Armaturenbrett hinausblicken möchte.&lt;/p&gt;
-
-&lt;h2 id=&#34;figurenvorlage&#34;&gt;Figurenvorlage&lt;/h2&gt;
-
-&lt;p&gt;Ein Figurenbogen in verschiedenen Varianten zum Ausdrucken und Ausfüllen ist &lt;a href=&#34;https://fu-rollenspiel.de/08-downloads/&#34;&gt;im Downloadbereich dieser Seite&lt;/a&gt; zum Herunterladen erhältlich!&lt;/p&gt;
-
-&lt;hr /&gt;
-</description>
+      <description>Diese Liste ist längst nicht vollständig, aber ein guter Startpunkt. Jeder Eintrag beschreibt Dinge, für die der entsprechende Beschreiber nützlich oder nachteilig sein könnte. Damit ist sie ein praktisches Nachschlagwerk sowohl für Erzählerinnen als auch für Spielerinnen.
+Körper-Beschreiber Beweglich: hilfreich beim Tanzen, Springen, Balancieren, Turnen, und Kriechen durch enge Stellen.
+Beidhändig: toll beim gleichzeitigen Schießen mit zwei Waffen und bei Taschenspieler- oder Zaubertricks.
+Blondine: gut, um von Leuten unterschätzt zu werden, nicht gut, wenn man sich zu lange in der Sonne aufhält.</description>
     </item>
     
   </channel>
