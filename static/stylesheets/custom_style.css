@@ -1,8 +1,20 @@
 /*@import url(//db.onlinewebfonts.com/c/1931c89e6e263ebc99cb5d32d8455b31?family=Cardenio+Modern);*/
 
-@font-face {font-family: "Cardenio Modern";
-    src:   url(fonts/"CardenioModernBold.ttf") format("truetype");
+@font-face {
+  font-family: "Cardenio Modern";
+  src:   url("/fonts/CardenioModernBold.ttf")
+  format("truetype");
 }
+
+/*@font-face {
+	font-family: 'lovelyFont';
+	src: url('fonts/lovely_font.eot');
+	src:
+		local('Lovely Font'),
+		local('Lovely-Font'),
+		url('fonts/lovely_font.otf')
+		format('opentype');
+}*/
 
 
 body, select, input {
