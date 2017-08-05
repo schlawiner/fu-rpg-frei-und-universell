@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Creative Commons Attribution 3.0 Unported</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 13:15:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2016 21:46:15 +0200</lastBuildDate>
     
 	<atom:link href="https://fu-rollenspiel.de/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Blog</title>
-      <link>https://fu-rollenspiel.de/blog/</link>
-      <pubDate>Fri, 21 Jul 2017 13:15:36 +0200</pubDate>
-      
-      <guid>https://fu-rollenspiel.de/blog/</guid>
-      <description>Hallo!</description>
-    </item>
     
     <item>
       <title>Einleitung</title>
@@ -121,12 +112,14 @@ Haftungsausschluss: Haftung für Inhalte Die Inhalte unserer Seiten wurden mit g
     </item>
     
     <item>
-      <title>Erstes</title>
-      <link>https://fu-rollenspiel.de/post/erstes/</link>
-      <pubDate>Fri, 21 Jul 2017 13:15:36 +0200</pubDate>
+      <title>Das deutsche FU ist endlich fertig!</title>
+      <link>https://fu-rollenspiel.de/blog/fertig/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://fu-rollenspiel.de/post/erstes/</guid>
-      <description></description>
+      <guid>https://fu-rollenspiel.de/blog/fertig/</guid>
+      <description>&lt;p&gt;Endlich ist es vollbracht! Die deutsche Übersetzung von Nathan Russells leichtem, erzählfreundlichen Rollenspiel Freeform Universal (FU) ist nun illustriert und gelayoutet in gleich drei verschiedenen Formaten erhältlich:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

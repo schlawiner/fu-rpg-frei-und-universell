@@ -7,28 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Creative Commons Attribution 3.0 Unported</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 13:15:36 +0200</lastBuildDate>
     
 	<atom:link href="https://fu-rollenspiel.de/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tag1</title>
-      <link>https://fu-rollenspiel.de/tags/tag1/</link>
-      <pubDate>Fri, 21 Jul 2017 13:15:36 +0200</pubDate>
-      
-      <guid>https://fu-rollenspiel.de/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>https://fu-rollenspiel.de/tags/tag2/</link>
-      <pubDate>Fri, 21 Jul 2017 13:15:36 +0200</pubDate>
-      
-      <guid>https://fu-rollenspiel.de/tags/tag2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
