@@ -19,7 +19,7 @@ Endlich ist es vollbracht! Die deutsche Übersetzung von Nathan Russells leichte
 Wir haben für unsere Übersetzung viel Wert auf eine möglichst leichte **Zugänglichkeit besonders für Kinder und Rollenspielneulinge** gelegt, was sich auch in der Wortwahl mit möglichst wenig Rollenspieljargon niederschlägt. Daher werden alte Hasen bei manchen Entscheidungen vielleicht skeptisch die Stirn runzeln - Figuren statt **Charaktere**? Wieso werden überall **nur Mädchen** und Frauen angesprochen? Und was sollen die freundlichen Farben und übermütigen Schriften und Illustrationen? **Das ist Absicht!** Man gewöhnt sich daran, versprochen.
 
 ## Gefundene Fehler müsst ihr nicht behalten!
-Niemand ist perfekt, wir schon gar nicht. Wenn ihr Fehler in den Dokumenten findet, meldet sie bitte hier unter dem Beitrag in den Kommentaren oder schickt uns eine E-Mail (siehe Impressum).
+Niemand ist perfekt, wir schon gar nicht. Wenn ihr Fehler in den Dokumenten findet, meldet sie bitte hier unter dem Beitrag in den Kommentaren oder schickt uns eine E-Mail (siehe [Impressum]({{< relref "impressum.md" >}})).
 
 ## Was ist dieses FU überhaupt für ein Spiel?
 
