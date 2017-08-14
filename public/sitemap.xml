@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>https://fu-rollenspiel.de/blog/beispielfigur-merrill/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fu-rollenspiel.de/blog/fertig/</loc>
     <lastmod>2017-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -113,6 +118,12 @@
   <url>
     <loc>https://fu-rollenspiel.de/categories/ank%C3%BCndigungen/</loc>
     <lastmod>2017-08-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fu-rollenspiel.de/categories/beispiele/</loc>
+    <lastmod>2017-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
