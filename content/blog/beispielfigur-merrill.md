@@ -19,14 +19,14 @@ Ich freue mich, falls jemand die Figur verwendet! Schreibt dann gern einen Komme
 |           Figur | Merrill Forgrave                                                                                           |
 |----------------:|:------------------------------------------------------------------------------------------------------------|
 | **Beschreiber** | drahtig, abgebrüht, Experte mit dem DNA-Extraktor, kranke Schwester                                              |
-|  **Ausrüstung** | DNA-Extraktor, Laserblaster, Multiwerkzeug für Ausgrabungen                                                                  |
+|  **Ausrüstung** | Laserblaster, Multiwerkzeug für Ausgrabungen                                                                  |
 |       **Motiv** | Ein Heilmittel für die Krankheit seiner Schwester finden                                                                               |
 |    **Zustände** |<span class="zustand"><label><input type="checkbox">wütend </label></span><span class="zustand"><label><input type="checkbox">verängstigt </label></span><span class="zustand"><label><input type="checkbox">müde </label></span><span class="zustand"><label><input type="checkbox">gefangen </label></span><span class="zustand"><label><input type="checkbox">vergiftet </label></span><span class="zustand"><label><input type="checkbox">hungrig </label></span><span class="zustand"><label><input type="checkbox">benommen </label></span><span class="zustand"><label><input type="checkbox">verletzt </label></span><span class="zustand"><label><input type="checkbox">dem Tode nah</label></span>|
 
 
 {{< figure src="/images/blog/turkish_by_komodopup-d4dr9z9.png" title="Merrill*" alt="Turkish by KomodoPup on DeviantArt; Creative Commons Attribution-No Derivative Works 3.0" class="image center">}}
 
-> Merrill Forgrave ist ein professioneller Genräuber im 23. Jahrhundert. Er beschafft für einen gewissen Preis jede Art von DNA, ob aus lebenden Wesen, aus Artefakten oder Fossilien. Er hat Kenntnisse der Medizin und Archäologie.
+> Merrill Forgrave ist ein professioneller Genräuber im 23. Jahrhundert. Er beschafft für einen gewissen Preis jede Art von DNA, ob aus lebenden Wesen, aus Artefakten oder Fossilien. Er hat Kenntnisse der Medizin und Archäologie und ist Experte mit dem DNA-Extraktor.
 
 **Beziehungen:** Melissa Forgrave (Schwester), Willow Nesheim (Fixerin), Chao Ni-Lau (Ärztin in einer illegalen Klinik)
 
