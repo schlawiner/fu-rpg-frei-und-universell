@@ -6,7 +6,7 @@ theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-77950074-2"
 Paginate = 4
 disqusShortname = "fu-rollenspiel"
 
