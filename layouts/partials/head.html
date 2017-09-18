@@ -86,7 +86,30 @@
     <link href="{{ . }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" /> {{ end }}
 
     <meta name="google-site-verification" content="C2CarwfnIOVAcfFiFlcLmF3StaKHTcQaCoYKK2D6GVQ" />
-
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function() {
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#216942",
+                        "text": "#b2d192"
+                    },
+                    "button": {
+                        "background": "#e3ab1b"
+                    }
+                },
+                "theme": "classic",
+                "content": {
+                    "message": "Diese Webseite verwendet Cookies für Kommentare. Wenn du die Webseite weiter nutzt, stimmst du der Verwendung von Cookies zu.",
+                    "dismiss": "OK",
+                    "link": "Mehr Informationen.",
+                    "href": "/impressum/"
+                }
+            })
+        });
+    </script>
 </head>
 
 <body class="{{ with .Site.Params.palette.primary }}palette-primary-{{ . }}{{end }} {{ with .Site.Params.palette.accent }}palette-accent-{{ .  }}{{ end }}">
