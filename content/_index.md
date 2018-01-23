@@ -8,33 +8,33 @@ type: index
 Dies ist eine Übersetzung des regelleichten Universalrollenspiels [FU: The Freeform Universal RPG](http://freeformuniversal.com) von Nathan Russell ins Deutsche.
 
 <ul class="repo">
-          <li class="repo-download">
-            <a href="/01-einleitung/"  title="Einleitung">
-            <img src="/images/ic_info_white_24px.svg">Kapitel 1: Einleitung</a>
-          </li>
-          <li class="repo-download">
-            <a href="/02-grundlagen/"  title="Grundlagen"><img src="/images/ic_description_white_24px.svg">Kapitel 2: Die Grundlagen</a>
-          </li>
-          <li class="repo-download">
-            <a href="/03-figuren/"  title="Figuren">
-            <img src="/images/ic_group_white_24px.svg">Kapitel 3: Die Figuren</a>
-          </li>
-          <li class="repo-download">
-            <a href="/04-handeln/"  title="Handeln"><img src="/images/ic_pan_tool_white_24px.svg">Kapitel 4: Etwas tun</a>
-          </li>
-          <li class="repo-download">
-            <a href="/05-erzaehlerin/"  title="Erzählerin"><img src="/images/ic_face_white_24px.svg">Kapitel 5: Die Erzählerin</a>
-          </li>
-          <li class="repo-download">
-            <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer"><img src="/images/ic_explore_white_24px.svg">Kapitel 6: Beispielabenteuer</a>
-          </li>
-          <li class="repo-download">
-            <a href="/07-anhang/"  title="Anhang"><img src="/images/ic_list_white_24px.svg">Kapitel 7: Anhang</a>
-          </li>
-          <li class="repo-download">
-            <a href="/08-downloads/"  title="Downloads"><img src="/images/ic_download_white_24px.svg">Downloads</a>
-          </li>
-        </ul>
+  <li class="repo-download">
+    <a href="/01-einleitung/"  title="Einleitung">
+    <img src="/images/ic_info_white_24px.svg">Kapitel 1: Einleitung</a>
+  </li>
+  <li class="repo-download">
+    <a href="/02-grundlagen/"  title="Grundlagen"><img src="/images/ic_description_white_24px.svg">Kapitel 2: Die Grundlagen</a>
+  </li>
+  <li class="repo-download">
+    <a href="/03-figuren/"  title="Figuren">
+    <img src="/images/ic_group_white_24px.svg">Kapitel 3: Die Figuren</a>
+  </li>
+  <li class="repo-download">
+    <a href="/04-handeln/"  title="Handeln"><img src="/images/ic_pan_tool_white_24px.svg">Kapitel 4: Etwas tun</a>
+  </li>
+  <li class="repo-download">
+    <a href="/05-erzaehlerin/"  title="Erzählerin"><img src="/images/ic_face_white_24px.svg">Kapitel 5: Die Erzählerin</a>
+  </li>
+  <li class="repo-download">
+    <a href="/06-rennen-zum-tempel/"  title="Beispielabenteuer"><img src="/images/ic_explore_white_24px.svg">Kapitel 6: Beispielabenteuer</a>
+  </li>
+  <li class="repo-download">
+    <a href="/07-anhang/"  title="Anhang"><img src="/images/ic_list_white_24px.svg">Kapitel 7: Anhang</a>
+  </li>
+  <li class="repo-download">
+    <a href="/08-downloads/"  title="Downloads"><img src="/images/ic_download_white_24px.svg">Downloads</a>
+  </li>
+</ul>
 
 Das Originalspiel wurde unter der [Creative-Commons-Lizenz (CC-BY 3.0)](http://creativecommons.org/licenses/by/3.0/) veröffentlicht. Diese Übersetzung steht unter der gleichen [Lizenz (auf deutsch: Namensnennung 3.0 Unported - CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.de).
 
