@@ -47,8 +47,8 @@ disqusShortname = "fu-rollenspiel"
     [params.font]
     	# text = "Ubuntu"
 			text = "Arvo"
-		 headers = "Cardenio Modern Bold"
-    	code = "Ubuntu Mono"
+			headers = "Cardenio Modern Bold"
+			code = "Ubuntu Mono"
 
 
 [social]

@@ -42,20 +42,14 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/application.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/temporary.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/palettes.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}{{ with .Site.Params.highlight_css }}{{ . }}{{ else }}stylesheets/highlight/highlight.css{{ end }}"> {{/* set default values if no custom ones are defined */}} {{ $text := or .Site.Params.font.text "Roboto" }} {{ $headers := or .Site.Params.font.headers "Roboto" }} {{ $code := or .Site.Params.font.code "Roboto Mono" }}
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ $text }}:400,700|{{ replace  $code " " "+ " }}">
-    <!-- use another font for headers: here Amatica SC
-        <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ $text }}:400,700|Amatica+SC:700|{{ replace  $code " " "+" }}"> -->
-    <!-- <link href="/fonts/CardenioModernBold.ttf" rel="stylesheet" type="text"> -->
-    <!-- <link href="http://db.onlinewebfonts.com/c/1931c89e6e263ebc99cb5d32d8455b31?family=Cardenio+Modern" rel="stylesheet" type="text"> -->
-    <!-- <link href="https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister" rel="stylesheet"> -->
-    <link href="https://fonts.googleapis.com/css?family=Arvo:400,400i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}{{ with .Site.Params.highlight_css }}{{ . }}{{ else }}stylesheets/highlight/highlight.css{{ end }}">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/fonts.css" >
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}stylesheets/cookieconsent.min.css" />
 
     <style>
         body,
         input {
-            font-family: '{{ $text }}',
-            "Arvo",
+            font-family: "Arvo",
             Helvetica,
             Arial,
             sans-serif;
@@ -63,8 +57,7 @@
         
         pre,
         code {
-            font-family: '{{ $code }}',
-            'Courier New',
+            font-family: 'Courier New',
             'Courier',
             monospace;
         }
@@ -86,30 +79,7 @@
     <link href="{{ . }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" /> {{ end }}
 
     <meta name="google-site-verification" content="C2CarwfnIOVAcfFiFlcLmF3StaKHTcQaCoYKK2D6GVQ" />
-    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-    <script>
-        window.addEventListener("load", function() {
-            window.cookieconsent.initialise({
-                "palette": {
-                    "popup": {
-                        "background": "#216942",
-                        "text": "#b2d192"
-                    },
-                    "button": {
-                        "background": "#e3ab1b"
-                    }
-                },
-                "theme": "classic",
-                "content": {
-                    "message": "Diese Webseite verwendet Cookies für Kommentare. Wenn du die Webseite weiter nutzt, stimmst du der Verwendung von Cookies zu.",
-                    "dismiss": "OK",
-                    "link": "Mehr Informationen.",
-                    "href": "/impressum/"
-                }
-            })
-        });
-    </script>
+
 </head>
 
 <body class="{{ with .Site.Params.palette.primary }}palette-primary-{{ . }}{{end }} {{ with .Site.Params.palette.accent }}palette-accent-{{ .  }}{{ end }}">

@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'Arvo';
+	font-style: italic;
+	font-weight: 400;
+	src: url(/webfonts/Arvo-italic-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Arvo';
+	font-style: italic;
+	font-weight: 700;
+	src: url(/webfonts/Arvo-italic-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Arvo';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/webfonts/Arvo-normal-400.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+	font-family: 'Arvo';
+	font-style: normal;
+	font-weight: 700;
+	src: url(/webfonts/Arvo-normal-700.woff) format('woff');
+	unicode-range: U+0-10FFFF;
+}
+

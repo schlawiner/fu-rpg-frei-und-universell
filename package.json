@@ -1,0 +1,25 @@
+{
+  "name": "fu-rollenspiel",
+  "version": "0.1.0",
+  "author": "Tina Trillitzsch <schlawiner@gmail.com",
+  "description": "Website for the german fu-rollenspiel project",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:schlawiner/fu-rpg-frei-und-universell.git"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "fonts":
+      "google-webfonts < fonts.list --out-base-dir static/ --css-dir stylesheets --fonts-dir /webfonts",
+    "copy:assets":
+      "cp -a node_modules/cookieconsent/build/cookieconsent.min.js static/js/ && cp -a node_modules/cookieconsent/build/cookieconsent.min.css static/stylesheets/"
+  },
+  "engines": {
+    "node": ">= 8.9.0"
+  },
+  "dependencies": {
+    "cookieconsent": "^3.0.6",
+    "gulp-google-webfonts": "^1.1.1"
+  }
+}
