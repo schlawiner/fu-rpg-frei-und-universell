@@ -107,7 +107,7 @@ disqusShortname = "fu-rollenspiel"
 		weight = 70
 
 	[[menu.main]]
-		name   = "[Impressum]"
+		name   = "[Impressum & Datenschutz]"
 		url    = "impressum"
 		weight = 100
 
